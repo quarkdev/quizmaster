@@ -8,7 +8,7 @@ body,
 input,
 select,
 textarea {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', Arial, sans-serif;
 }
 
 table {
@@ -16,7 +16,7 @@ table {
 }
 
 table th {
-	font-weight: 600;
+	font-weight: bold;
 }
 
 textarea {
