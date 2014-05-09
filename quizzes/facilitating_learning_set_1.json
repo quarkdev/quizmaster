@@ -1,0 +1,448 @@
+{
+  "name": "Facilitating Learning Set 1",
+  "description": "...",
+  "duration": 50,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "It is a progressive organization of mental process as a result of biological maturation and environmental experience. Children construct an understanding of the world around them, and then experience discrepancies between what they already know and what they discover in their environment.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Behaviorism"
+        },
+        {
+          "correct": false,
+          "text": "Psychoanalysis"
+        },
+        {
+          "correct": true,
+          "text": "Cognitive Development"
+        },
+        {
+          "correct": false,
+          "text": "Humanistic Approach"
+        }
+      ]
+    },
+    {
+      "question": "It is the understanding that quantity, length or number of items is unrelated to the arrangement or appearance of the object or items.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Recognition"
+        },
+        {
+          "correct": false,
+          "text": "Reversibility"
+        },
+        {
+          "correct": false,
+          "text": "Assimilation"
+        },
+        {
+          "correct": true,
+          "text": "Conservation"
+        }
+      ]
+    },
+    {
+      "question": "Equilibrium, as Piaget uses the term, is the search for",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "A higher cognitive stage"
+        },
+        {
+          "correct": false,
+          "text": "A balance between the child’s independent and instructional levels of learning"
+        },
+        {
+          "correct": true,
+          "text": "A balance between new evidence and existing understanding"
+        },
+        {
+          "correct": false,
+          "text": "A balance between the child’s feelings and the child’s cognition"
+        }
+      ]
+    },
+    {
+      "question": "To make sense of our world, we organize our experiences. We also change our thinking to include new ideas and additional information. This process of changing our thinking as a result of new ideas is termed by Piaget as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Schema"
+        },
+        {
+          "correct": false,
+          "text": "Assimilation"
+        },
+        {
+          "correct": false,
+          "text": "Equilibration"
+        },
+        {
+          "correct": true,
+          "text": "Accommodation"
+        }
+      ]
+    },
+    {
+      "question": "Piaget used the term egocentrism to refer to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Young children’s belief that the volume of an object changes when its shape is altered"
+        },
+        {
+          "correct": true,
+          "text": "The inability of children to take the perspective of others"
+        },
+        {
+          "correct": false,
+          "text": "Young children’s tendency to believe that objects that are unseen cease to exist"
+        },
+        {
+          "correct": false,
+          "text": "Young children’s inability to understand that A=B and B=C, then A must be equal to C"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a valid criticism of Piaget’s Theory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "He used extensive studies of large samples of children and did not examine children as individuals"
+        },
+        {
+          "correct": false,
+          "text": "Children in preoperations have been found to engage in formal operational thinking"
+        },
+        {
+          "correct": false,
+          "text": "The theory is based on the study of animals, not humans"
+        },
+        {
+          "correct": true,
+          "text": "Piaget did not explain individual differences among humans that cause them to develop at different rates."
+        }
+      ]
+    },
+    {
+      "question": "A child aged one year old realizes that things continue to exist even when it is no longer present to the senses. According to Piaget, the child has achieved ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Object movement"
+        },
+        {
+          "correct": true,
+          "text": "Object permanence"
+        },
+        {
+          "correct": false,
+          "text": "Concrete movement"
+        },
+        {
+          "correct": false,
+          "text": "Concrete performance"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements refers to students aged eleven years and beyond in Piaget’s Theory of cognitive development?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Able to solve abstract problems in logical fashion"
+        },
+        {
+          "correct": false,
+          "text": "Able to solve concrete problems in logical fashion"
+        },
+        {
+          "correct": false,
+          "text": "They have only innate reflexes with which to engage the world"
+        },
+        {
+          "correct": false,
+          "text": "They use symbolism to represent and understand various aspects of the environment"
+        }
+      ]
+    },
+    {
+      "question": "Two identical balls of clay are shown to the child. The child agrees that they are equal. The teacher change the shape of one ball and asked the child whether they still contain the equal amount of clay. The child answers, “no longer, the other one has more.” What skill does the child lack?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Centration"
+        },
+        {
+          "correct": false,
+          "text": "Object permanence"
+        },
+        {
+          "correct": false,
+          "text": "Reasoning"
+        },
+        {
+          "correct": true,
+          "text": "Conservation"
+        }
+      ]
+    },
+    {
+      "question": "A pre-school child said, “The tree pushed the leaf off and it fell down.” This shows that the pre-school child thought that objects have like-like qualities and are capable of action. This is called ____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Symbolism"
+        },
+        {
+          "correct": false,
+          "text": "Animation"
+        },
+        {
+          "correct": false,
+          "text": "Realism"
+        },
+        {
+          "correct": true,
+          "text": "Animism"
+        }
+      ]
+    },
+    {
+      "question": "The child in the pre-operation stage",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Can seriate"
+        },
+        {
+          "correct": false,
+          "text": "Does not have object permanence"
+        },
+        {
+          "correct": true,
+          "text": "Exhibits centration"
+        },
+        {
+          "correct": false,
+          "text": "Applies logic to the here-and-now, but not to hypothetical situations"
+        }
+      ]
+    },
+    {
+      "question": "Caroline thinks that all people who speak French live in France; all people who speak English live in the United States. When an English-speaking person tells her that they live in Canada, she concludes that Canada must be in the United States. Caroline is&nbsp;",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Assimilating"
+        },
+        {
+          "correct": false,
+          "text": "Accommodation"
+        },
+        {
+          "correct": false,
+          "text": "Disequilibrating&nbsp;"
+        },
+        {
+          "correct": false,
+          "text": "Egocentric"
+        }
+      ]
+    },
+    {
+      "question": "Frederick tells his class what he thinks the painting Starry Starry Night by Vincent Van Gogh symbolizes. The stage when Frederick can first engage in this activity is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Sensorimotor"
+        },
+        {
+          "correct": false,
+          "text": "Preoperations"
+        },
+        {
+          "correct": true,
+          "text": "Formal operations"
+        },
+        {
+          "correct": false,
+          "text": "Concrete operational"
+        }
+      ]
+    },
+    {
+      "question": "Zarif believes that everybody lives in an apartment because everyone he knows live in an apartment. When he meets Angela, she says that she lives in a house. He decides that she’s wrong and that she really lives in an apartment. After two other children say they live in houses, and after visiting Angela’s house, Zarif realizes that some children live in apartments and some live in houses. Zarif’s realization is an example of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Assimilation"
+        },
+        {
+          "correct": true,
+          "text": "Accommodation"
+        },
+        {
+          "correct": false,
+          "text": "Hypothesis-testing"
+        },
+        {
+          "correct": false,
+          "text": "Abstract thinking"
+        }
+      ]
+    },
+    {
+      "question": "Ma. Castro is teaching juniors, which of the following will she do in line with the theory of cognitive development?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Use timelines in history and three dimensional models in science."
+        },
+        {
+          "correct": false,
+          "text": "Let them add or subtract with sticks, rocks, and colored chips."
+        },
+        {
+          "correct": true,
+          "text": "Set up group discussions in which students design experiments to answer questions."
+        },
+        {
+          "correct": false,
+          "text": "Give students words to describe what they are doing, seeing, hearing, touching, tasting, and smelling."
+        }
+      ]
+    },
+    {
+      "question": "The following are strategies for teaching the concrete operational child. Which is the exception?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Opportunities to manipulate and test objects."
+        },
+        {
+          "correct": false,
+          "text": "Using familiar examples to explain more complex ideas."
+        },
+        {
+          "correct": false,
+          "text": "Opportunities to classify and group objects and ideas on increasingly complex level"
+        },
+        {
+          "correct": true,
+          "text": "Opportunities to solve problems and reason scientifically."
+        }
+      ]
+    },
+    {
+      "question": "The following conversation occurs between three-year olds<br>&nbsp; &nbsp; &nbsp; Cindy: My mommy and daddy and I went to the park.<br>&nbsp; &nbsp; &nbsp; Alberto: I got a new toy.<br>&nbsp; &nbsp; &nbsp; Cindy: We went on the swings and the seesaw.<br>&nbsp; &nbsp; &nbsp; Alberto: I’m going to play with my new toy.<br>&nbsp; &nbsp; &nbsp; This conversation exemplifies",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Conservation"
+        },
+        {
+          "correct": false,
+          "text": "Animism"
+        },
+        {
+          "correct": true,
+          "text": "Egocentricism"
+        },
+        {
+          "correct": false,
+          "text": "Object permanence"
+        }
+      ]
+    },
+    {
+      "question": "Vygotsky and Piaget differed in their views about the relationship of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Words and sentences"
+        },
+        {
+          "correct": true,
+          "text": "Language and thoughts"
+        },
+        {
+          "correct": false,
+          "text": "Language and communication"
+        },
+        {
+          "correct": false,
+          "text": "Verbal and non-verbal behavior"
+        }
+      ]
+    },
+    {
+      "question": "Vygotsky believed that language learning resulted from",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Students’ imitating the adults in their environment"
+        },
+        {
+          "correct": false,
+          "text": "Student’s attempts to make sense of their environment"
+        },
+        {
+          "correct": true,
+          "text": "Interaction between adults and children"
+        },
+        {
+          "correct": false,
+          "text": "Repetition and reinforcement of adult ideas"
+        }
+      ]
+    },
+    {
+      "question": "The difference between elementary and higher mental functions in Vygotsky’s theory is that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Elementary mental functions are involuntary while higher mental functions involves use of our own will"
+        },
+        {
+          "correct": false,
+          "text": "Elementary mental functions do not involve the use of symbolic thought, while higher mental functions do"
+        },
+        {
+          "correct": false,
+          "text": "Elementary mental functions have no logic to them while higher mental functions involve logical mental operations"
+        },
+        {
+          "correct": false,
+          "text": "Elementary mental functions are due to imitation while higher mental functions require thought"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "General Science",
+  "description": "...",
+  "duration": 0.5,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "How much is that doge in the window? aw aw!",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "piso"
+        },
+        {
+          "correct": false,
+          "text": "dos"
+        },
+        {
+          "correct": false,
+          "text": "tre"
+        },
+        {
+          "correct": true,
+          "text": "quatro"
+        }
+      ]
+    },
+    {
+      "question": "The hardest material known to man.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "diamond"
+        },
+        {
+          "correct": false,
+          "text": "carbon nanotubes"
+        },
+        {
+          "correct": true,
+          "text": "graphene"
+        },
+        {
+          "correct": false,
+          "text": "graphite"
+        }
+      ]
+    }
+  ]
+}

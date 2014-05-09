@@ -1,0 +1,208 @@
+{
+	"name": "LET REVIEWER - SOCIOLOGY",
+	"description": "...",
+	"instruction": "Select the best answer out of the choices provided.",
+	"duration": 12,
+	"items": [
+		{
+			"question": "The adoption of scientific techniques to control and manipulate environment such as modem methods for farming and fishing is called",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "social change" },
+				{ "correct": false, "text": "cultural change" },
+				{ "correct": true, "text": "technological change" },
+				{ "correct": false, "text": "discovery change" }
+			]
+		},
+		{
+			"question": "Heavily sanctioned folkway which no one dares to question because they embody moral laws are called",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "beliefs" },
+				{ "correct": true, "text": "mores" },
+				{ "correct": false, "text": "customs" },
+				{ "correct": false, "text": "tradition" }
+			]
+		},
+		{
+			"question": "What is that inevitable force in history which takes place from time to time?",
+			"answers": 1,
+			"choices": [
+				{ "correct": true, "text": "change" },
+				{ "correct": false, "text": "progress" },
+				{ "correct": false, "text": "development" },
+				{ "correct": false, "text": "evolution" }
+			]
+		},
+		{
+			"question": "Nora Aunor became a legend in the showbusiness because of her talent, determination and hard work. What role does this illustrate?",
+			"answers": 1,
+			"choices": [
+				{ "correct": true, "text": "achieved role" },
+				{ "correct": false, "text": "ascribed role" },
+				{ "correct": false, "text": "hereditary role" },
+				{ "correct": false, "text": "temporary role" }
+			]
+		},
+		{
+			"question": "Pinning veil around the bride and the groom / exchange of rings, releasing of doves, etc. during wedding ceremony show that culture",
+			"answers": 1,
+			"choices": [
+				{ "correct": true, "text": "symbolic" },
+				{ "correct": false, "text": "historical" },
+				{ "correct": false, "text": "continuous" },
+				{ "correct": false, "text": "changeless" }
+			]
+		},
+		{
+			"question": "Aling Maria has taught her daughter how to prepare good and delicious desserts from local fruits and vegetables. What cultural transmission process is this?",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "observation" },
+				{ "correct": false, "text": "acculturation" },
+				{ "correct": true, "text": "enculturation" },
+				{ "correct": false, "text": "indoctrination" }
+			]
+		},
+		{
+			"question": "Mr. Francisco was teaching something on mores, folkways, customs and beliefs in his Social Studies class. What was his lesson about?",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "material culture" },
+				{ "correct": false, "text": "tangible culture" },
+				{ "correct": true, "text": "non-material culture" },
+				{ "correct": false, "text": "hereditary culture" }
+			]
+		},
+		{
+			"question": "It was the first day of school . Miss Dale Rosa prepared activities which will make her Grade III children sing, play, talk, learn and introduce themselves to the class. What process did the teacher emphasize?",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "enculturation" },
+				{ "correct": false, "text": "indoctrination" },
+				{ "correct": true, "text": "socialization" },
+				{ "correct": false, "text": "acculturation" }
+			]
+		},
+		{
+			"question": "Mildred, an accountant, who now lives with a married man was disowned by her family and friends. This punishment is a form of _____________.",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "isolation" },
+				{ "correct": true, "text": "ostracism" },
+				{ "correct": false, "text": "deportation" },
+				{ "correct": false, "text": "character assassination" }
+			]
+		},
+		{
+			"question": "When a certain culture is acceptable to one group and questionable to others, it shows that:",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "culture is borrowed" },
+				{ "correct": false, "text": "culture is varied" },
+				{ "correct": false, "text": "culture is a shared product" },
+				{ "correct": true, "text": "culture is relative" }
+			]
+		},
+		{
+			"question": "The teaching and learning of religion and values mostly make use of",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "enculturation" },
+				{ "correct": false, "text": "culturation" },
+				{ "correct": true, "text": "indoctrination" },
+				{ "correct": false, "text": "acculturation" }
+			]
+		},
+		{
+			"question": "Which of the following situations presents a value conflict?",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "The teacher pressures the student to get higher grades." },
+				{ "correct": false, "text": "The teacher and his students have better class standing as their priorities." },
+				{ "correct": false, "text": "The teacher and the administrator follow a set of criteria in giving grades" },
+				{ "correct": true, "text": "The teacher has students whose parents want their children to obtain higher grades than what they are capable of getting." }
+			]
+		},
+		{
+			"question": "Miss Santiago is a stickler for cleanliness and orderliness in the classroom. For this, she asks her students to",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "do the same even when they're at home" },
+				{ "correct": false, "text": "remove their shoes in entering the classroom." },
+				{ "correct": true, "text": "formulate norms and remind them often to follow these norms." },
+				{ "correct": false, "text": "bring cleaning materials and clean the room before, during, and after classes" }
+			]
+		},
+		{
+			"question": "Which situation shows that a sense of nationhood is exemplified?",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "When Miss Aguas asked her Grade II students in what country they wish to live, most of them chose Australia." },
+				{ "correct": false, "text": "The class was asked which brand of chocolate they would rather have, no one chose chocnut." },
+				{ "correct": true, "text": "There is a class program. The girls volunteered to do a balagtasan" },
+				{ "correct": false, "text": "The boys opted to make a choral rendition of the theme song of the movie Titanic." }
+			]
+		},
+		{
+			"question": "Which statement best indicates a balance between responsibility and authority? Miss Soriano has just provided a group activity to her class. While the class is at it, she says...",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "You can talk as much as you want." },
+				{ "correct": false, "text": "You are forbidden to talk with each other." },
+				{ "correct": false, "text": "I'll send you out of the room if you so much create noise." },
+				{ "correct": true, "text": "You can talk provided you finish the work on time and do not disturb the other group" }
+			]
+		},
+		{
+			"question": "Which of the following behaviors bespeaks of a professional teacher?",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "Speaks ill of the Filipino ways" },
+				{ "correct": true, "text": "Advocates the theme of nationhood" },
+				{ "correct": false, "text": "Imparts his personal beliefs and ideology" },
+				{ "correct": false, "text": "Seeks the cooperation of the parents for her own interests" }
+			]
+		},
+		{
+			"question": "Which situation shows a desirable relationship between teachers and other groups of people?",
+			"answers": 1,
+			"choices": [
+				{ "correct": true, "text": "Mrs. Magsino, a newly-assigned principal to Barangay San Andres, calls on the barangay chairman." },
+				{ "correct": false, "text": "The new teacher was requested to help the barangay council in a case involving one of his students. He declined." },
+				{ "correct": false, "text": "Mr. Tiglao feels that the barangay council is against his plans; so, he does not consult the council even if there is a need for it." },
+				{ "correct": false, "text": "The principal does her own way of campaigning for cleanliness in and outside the school; she never gets involved with the same campaign of the barangay officials." }
+			]
+		},
+		{
+			"question": "If you were Mrs. Norman, which action would you take to show a balance between balance and accountability?",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "Give them more free time during the camping period." },
+				{ "correct": false, "text": "See to it that the older boy scouts take charge of the safety of the group" },
+				{ "correct": false, "text": "Let the boy scouts do the scheduled activities during the camping while he had a drinking spree with the other scout masters." },
+				{ "correct": true, "text": "Prepare structured activities that allow independent work among the boy scout      groups and rate them according to the agreed criteria." }
+			]
+		},
+		{
+			"question": "Which situation shows that action is legal but not moral? Public official, entitled to specific privileges from the government",
+			"answers": 1,
+			"choices": [
+				{ "correct": false, "text": "Takes the most economical fare in going about his duties." },
+				{ "correct": false, "text": "Reverts back to the public coffers the 10% commission due him." },
+				{ "correct": true, "text": "Buys the latest and the most expensive car model for his department." },
+				{ "correct": false, "text": "Does his job without getting favors from the client he serves." }
+			]
+		},
+		{
+			"question": "Which two characteristics of eastern philosophies might have influenced Philippine education?",
+			"answers": 2,
+			"choices": [
+				{"correct": false, "text": "Focus on the individual."},
+				{"correct": false, "text": "The group is above self."},
+				{"correct": true, "text": "Knowledge comes about through meditation."},
+				{"correct": true, "text": "Man's way of life must be characterized by harmony."}
+			]
+		}
+	]
+}

@@ -1,0 +1,258 @@
+{
+	"name": "LET REVIEWER - PROFESSIONAL EDUCATION Part 1",
+	"description": "...",
+	"instruction": "Select the best answer out of the choices provided.",
+	"duration": 15,
+	"items": [
+		{
+			"question": "Which assumption underlies the teacher's use of performance objectives?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Not every form of learning is observable."},
+				{"correct": false, "text": "Performance objectives assure the learrier of learning."},
+				{"correct": true, "text": "Learning is defined as a change in the learner's observable performance."},
+				{"correct": false, "text": "The success of learner is based on teacher performance."}
+			]
+		},
+		{
+			"question": "In the parlance of test construction what does TOS mean?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Table of Specifics"},
+				{"correct": true, "text": "Table of Specifications"},
+				{"correct": false, "text": "Table of Specific Test Items"},
+				{"correct": false, "text": "Team of Specifications"}
+			]
+		},
+		{
+			"question": "A student passes a research report poorly written but ornately presented in a folder to make up for the poor quality of the book report content. Which Filipino trait does this practice prove? Emphasis on __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "art over academics"},
+				{"correct": false, "text": "substance overporma"},
+				{"correct": false, "text": "art over science"},
+				{"correct": true, "text": "pormaover substance"}
+			]
+		},
+		{
+			"question": "In a criterion-referenced testing, what must you do to ensure that your test is fair?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Make all of the questions true or false."},
+				{"correct": false, "text": "Ask each student to contribute one question."},
+				{"correct": false, "text": "Make twenty questions but ask the students to answer only ten of their choice."},
+				{"correct": true, "text": "Use the objectives for the units as guide in your test construction."}
+			]
+		},
+		{
+			"question": "Which does Noam Chomsky, assert about language learning for children?<br>I. Young children learn and apply grammatical rules and vocabulary as they are exposed to them.<br>II. Begin formal teaching of grammatical rules to children as early as possible.<br>III. Do not require initial formal language teaching for children.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "I and III"},
+				{"correct": false, "text": " II only"},
+				{"correct": false, "text": "I only"},
+				{"correct": true, "text": "I and II"}
+			]
+		},
+		{
+			"question": "Which Filipino trait works against the shift in teacher's role from teacher as a fountain of information to teacher as facilitator?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Authoritativeness"},
+				{"correct": false, "text": "Authoritarianism"},
+				{"correct": true, "text": "Hiya"},
+				{"correct": false, "text": "Pakikisama"}
+			]
+		},
+		{
+			"question": "If a teacher plans a constructivist lesson, what will he most likely do? Plan how he can",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "do evaluate his students' work"},
+				{"correct": false, "text": "do reciprocal teaching"},
+				{"correct": false, "text": "lecture to his students"},
+				{"correct": true, "text": "engage his students in convergent thinking"}
+			]
+		},
+		{
+			"question": "Who among the following needs less verbal counseling but needs more concrete and operational forms of assistance? The child who __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "has mental retardation"},
+				{"correct": true, "text": "has attention-deficit disorder"},
+				{"correct": false, "text": "has learning disability"},
+				{"correct": false, "text": "has conduct disorder"}
+			]
+		},
+		{
+			"question": "How would you select the most fit in government positions? Applying Confucius teachings, which would be the answer?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "By course accreditation of an accrediting body"},
+				{"correct": false, "text": "By merit system and course accreditation"},
+				{"correct": true, "text": "By merit system"},
+				{"correct": false, "text": "By government examinations"}
+			]
+		},
+		{
+			"question": "Which types of play is most characteristic of a four to six-year old child?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Solitary and onlooker plays"},
+				{"correct": true, "text": "Associative and coooperative plays"},
+				{"correct": false, "text": "Associative and onlooker plays"},
+				{"correct": false, "text": "Cooperative and solitary plays"}
+			]
+		},
+		{
+			"question": "A teacher's summary of a lesson serves the following functions, EXCEPT",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "it links the parts of the lesson"},
+				{"correct": true, "text": "lt brings together the information that has been discussed"},
+				{"correct": false, "text": "it makes provisions for full participation of students."},
+				{"correct": false, "text": "it clinches the basic ideas or concepts of the lesson."}
+			]
+		},
+		{
+			"question": "All of the following describe the development of children aged eleven to thirteen EXCEPT __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "they shift from impulsivity to adaptive ability"},
+				{"correct": false, "text": "sex differences in IQ becomes more evident"},
+				{"correct": false, "text": "they exhibit increase objectivity in thinking"},
+				{"correct": false, "text": "they show abstract thinking and judgement"}
+			]
+		},
+		{
+			"question": "Teacher T taught a lesson denoting ownership by means of possessives. He first introduced the rule, then gave examples, followed by class exercises, then back to the rule before he moved into the second rule. Which presenting technique did he use?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Combinatorial"},
+				{"correct": false, "text": "Comparative"},
+				{"correct": true, "text": "Part-whole"},
+				{"correct": false, "text": "Sequence"}
+			]
+		},
+		{
+			"question": "\"In the light of the facts presented, what is most likely to happen when ... ?\" is a sample thought question on",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "inferring"},
+				{"correct": false, "text": "generalizing"},
+				{"correct": false, "text": "synthesizing"},
+				{"correct": false, "text": "justifying"}
+			]
+		},
+		{
+			"question": "Teacher E discussed how electricity flows through wires and what generates the electric charge. Then she gave the students wires, bulbs, switches, and dry cells and told the class to create a circuit that will increase the brightness of each bulb. Which one best describes the approach used?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "It used a taxonomy of basic thinking skills"},
+				{"correct": false, "text": "It was contructivist"},
+				{"correct": true, "text": "It helped students understand scientific methodolgy"},
+				{"correct": false, "text": "It used cooperative learning"}
+			]
+		},
+		{
+			"question": "Teacher B uses the direct instruction strategy. Which sequence of steps will she follow?<br>II. Feedback and correctiveness<br>III. Guided student practice<br>IV. Presenting and structuring<br>V. Reviewing the previous day's work",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "V-II-IV-III-I"},
+				{"correct": false, "text": "III-II-IV-I-V"},
+				{"correct": true, "text": "V-lV-III-II-I"},
+				{"correct": false, "text": "I-V-II-III-IV"}
+			]
+		},
+		{
+			"question": "Which are direct measures of competence?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Personality tests"},
+				{"correct": false, "text": "Performance tests"},
+				{"correct": false, "text": "Paper-and-pencil tests"},
+				{"correct": true, "text": "Standardized test"}
+			]
+		},
+		{
+			"question": "Under which program were students who were not accommodated in public elementary and secondary schools because of lack of classroom, teachers, and instructional materials, were enrolled in private schools in their respective communities at the government's expense?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Government Assistance Program"},
+				{"correct": false, "text": "Study Now-Pay Later"},
+				{"correct": false, "text": "Educational Service Contract System"},
+				{"correct": true, "text": "National Scholarship Program"}
+			]
+		},
+		{
+			"question": "Which activity should a teacher have more for his students if he wants them to develop logical-mathematical thinking?",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "Problem solving"},
+				{"correct": false, "text": "Choral reading"},
+				{"correct": false, "text": "Drama"},
+				{"correct": false, "text": "Storytelling"}
+			]
+		},
+		{
+			"question": "An effective classroom manager uses low-profile classroom control. Which is a low-profile classroom technique?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Note to parents"},
+				{"correct": false, "text": "After-school detention"},
+				{"correct": false, "text": "Withdrawal of privileges"},
+				{"correct": true, "text": "Raising the pitch of the voice"}
+			]
+		},
+		{
+			"question": "Your teacher is of the opinion that the world and everything in it are ever changing and so teaches you the skill to cope with change. What is his governing philosophy?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Idealism"},
+				{"correct": true, "text": "Existentalism"},
+				{"correct": false, "text": "Experimentalism"},
+				{"correct": false, "text": "Realism"}
+			]
+		},
+		{
+			"question": "To come closer to the truth we need togo back to the things themselves.This is the advice of the",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "behaviorists"},
+				{"correct": true, "text": "phenomenologists"},
+				{"correct": false, "text": "idealists"},
+				{"correct": false, "text": "pragmatists"}
+			]
+		},
+		{
+			"question": "Test norms are established in order to have a basis for __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "establishing learning goals"},
+				{"correct": true, "text": "interpreting test results"},
+				{"correct": false, "text": "computing grades"},
+				{"correct": false, "text": "identifying pupils' difficulties"}
+			]
+		},
+		{
+			"question": "A stitch on time saves nine, so goes the adage.. Applied to classroom management, this means that we __________",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "may not occupy ourselves with disruptions which are worth ignoring because they are minor"},
+				{"correct": false, "text": "must be reactive in our approach to discipline"},
+				{"correct": true, "text": "have to Jesolve minor disruptions before they are out of control"},
+				{"correct": false, "text": "may apply 9 rules out of 10 consistently"}
+			]
+		},
+		{
+			"question": "Which criterion should guide a teacher in the choice of instructional devices?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Attractiveness"},
+				{"correct": false, "text": "Cost"},
+				{"correct": false, "text": "Novelty"},
+				{"correct": true, "text": "Appropriateness"}
+			]
+		}
+	]
+}

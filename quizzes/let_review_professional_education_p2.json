@@ -1,0 +1,258 @@
+{
+	"name": "LET REVIEWER - PROFESSIONAL EDUCATION Part 2",
+	"description": "...",
+	"instruction": "Select the best answer out of the choices provided.",
+	"duration": 15,
+	"items": [
+{
+			"question": "Based on Piaget's theory, what should a teacher provide for children in the sensimotor stage?",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "Games and other physical activities to develop motor skill."},
+				{"correct": false, "text": "Learning activities that involve problems of classification and ordering."},
+				{"correct": false, "text": "Activities for hypothesis formulation."},
+				{"correct": false, "text": "Stimulating environment with ample objects to play with."}
+			]
+		},
+		{
+			"question": "Who among the following puts more emphasis on core requirements, longer school day, longer academic year and more challenging textbooks?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Perennialist"},
+				{"correct": true, "text": "Essentialist"},
+				{"correct": false, "text": "Progressivist"},
+				{"correct": false, "text": " Existentialist"}
+			]
+		},
+		{
+			"question": "The search for related literature by accessing several databases by the use of a telephone line to connect a computer library with other computers that have database is termed __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "compact disc search"},
+				{"correct": false, "text": "manual search"},
+				{"correct": true, "text": "on-line search"},
+				{"correct": false, "text": "computer search"}
+			]
+		},
+		{
+			"question": "With synthesizing skills in mind, which has the highest diagnostic value?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Essay test"},
+				{"correct": true, "text": "Performance test"},
+				{"correct": false, "text": "Completion test"},
+				{"correct": false, "text": "Multiple choice test"}
+			]
+		},
+		{
+			"question": "Based on Piaget's theory, what should a teacher provide for children in the concrete operational stage?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Activities for hypothesis formulation."},
+				{"correct": true, "text": "Learning activities that involve problems of classification and ordering."},
+				{"correct": false, "text": "Games and other physical activities to develop motor skills."},
+				{"correct": false, "text": "Stimulating environment with ample objects to play with."}
+			]
+		},
+		{
+			"question": "Read the following then answer the question:<br>TEACHER: IN WHAT WAYS OTHER THAN THE PERIODIC TABLE MIGHT WE PREDICT THE UNDISCOVERED ELEMENTS?<br>BOBBY: WE COULD GO TOTHE MOON AND SEE IF THERE ARE SOME ELEMENTS THERE WE DON'T HAVE.<br>BETTY: WE COULD DIG DOWN TO THE CENTER OF THE EARTH AND SEE IF WE FIND ANY OF THE MISSING ELEMENTS.<br>RICKY: WE COULD STUDY DEBRIS FROM THE METEORITES IF WE CAN FIND ANY.<br>TEACHER: THOSE ARE ALL GOOD ANSWERS BUT WHAT IF THOSE, EXCURSIONS TO THE MOON, TO THE <br>CENTER OF THE EARTH, OR TO FIND METEORITES WERE TOO COSTLY AND TIME CONSUMING? HOW MIGHT WE USE THE ELEMENTS WE ALREADY HAVE HERE ON EARTH TO FIND SOME NEW ONES?<br>Question: Which questioning strategy/ies does/do the exchange of thoughts above illustrate?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Funneling"},
+				{"correct": false, "text": "Sowing and reaping"},
+				{"correct": false, "text": "Nose-dive"},
+				{"correct": true, "text": "Extending and lifting"}
+			]
+		},
+		{
+			"question": "Which is NOT a sound purpose for asking questions?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "To probe deeper after an answer is given."},
+				{"correct": true, "text": "To discipline a bully in class."},
+				{"correct": false, "text": "To remind students of a procedure."},
+				{"correct": false, "text": "To encourage self-reflection."}
+			]
+		},
+		{
+			"question": "The main purpose of compulsory study of the Constitution is to __________",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "develop students into responsible, thinking citizens"},
+				{"correct": false, "text": "acquaint students with the historical development of the Philippine Constitution"},
+				{"correct": false, "text": "make constitutional experts of the students"},
+				{"correct": false, "text": "prepare students for law-making"}
+			]
+		},
+		{
+			"question": "A child who gets punished for stealing candy may not steal again immediately. But this does not mean that the child may not steal again. Based on Thorndike's theory on punishment and learning, this shows that __________",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "punishment strengthens a response"},
+				{"correct": false, "text": "punishment removes a response"},
+				{"correct": true, "text": "punishment does not remove a response"},
+				{"correct": false, "text": "punishment weakens a response"}
+			]
+		},
+		{
+			"question": "As a teacher, you are a reconstructionist. Which among these will be your guiding principle?",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "I must teach the child every knowledge, skill, and value that he needs for a better future."},
+				{"correct": false, "text": "I must teach the child to develop his mental powers to the full."},
+				{"correct": false, "text": "I must teach the child so he is assured of heaven."},
+				{"correct": false, "text": "I must teach the child that we can never have real knowledge of anything."}
+			]
+		},
+		{
+			"question": "How can you exhibit expert power on the first day of school?",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "By making them feel you know what you are talking about."},
+				{"correct": false, "text": "By making them realize the importance of good grades."},
+				{"correct": false, "text": "By reminding them your students your authority over them again and again."},
+				{"correct": false, "text": "By giving your students a sense of belonging and acceptance."}
+			]
+		},
+		{
+			"question": "A sixth grade twelve-year old boy comes from a dysfunctional family and has been abused and neglected. He has been to two orphanages and three different elementary schools. The student can decode on the second grade level, but he can comprehend orally material at the fourth or fifth grade level. The most probable cause/s of this student's reading problem is/are __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "emotional factors"},
+				{"correct": false, "text": "poor teaching"},
+				{"correct": true, "text": "neurological factors"},
+				{"correct": false, "text": "immaturity"}
+			]
+		},
+		{
+			"question": "Teacher Q does not want Teacher B to be promoted and so writes an anonymous letter against Teacher B accusing her of fabricated lies Teacher Q mails this anonymous letter to the Schools Division Superintendent. What should Teacher Q do if she has to act professionally?",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "Submit a signed justifiable criticism against Teacher B, if there is any."},
+				{"correct": false, "text": "Go straight to the Schools Division Superintendent and gives criticism verbally."},
+				{"correct": false, "text": "Hire a group to distribute poison letters against Teacher B for information dissemination."},
+				{"correct": false, "text": "Instigate student activists to read poison letters over the microphone."}
+			]
+		},
+		{
+			"question": "In self-directed learning, to what extent should a teacher's scaffolding be?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "To a degree the student needs it."},
+				{"correct": false, "text": "None, to force the student to learn by himself."},
+				{"correct": true, "text": "To the minimum, to speed up development of student's sense of independence."},
+				{"correct": false, "text": "To the maximum, in order to extend to the student all the help he needs."}
+			]
+		},
+		{
+			"question": "If your Licensure Examination Test (LET) items sample adequately the competencies listed in the syllabi, it can be said that the LET possesses __________ validity.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "concurrent"},
+				{"correct": false, "text": "construct"},
+				{"correct": true, "text": "content"},
+				{"correct": false, "text": "predictive"}
+			]
+		},
+		{
+			"question": "Which guideline must be observed in the use of prompting to shape the correct performance of your students?",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "Use the least intrusive prompt first."},
+				{"correct": false, "text": "Use all prompts available."},
+				{"correct": false, "text": "Use the most intrusive prompt first."},
+				{"correct": false, "text": "Refrain from using prompts."}
+			]
+		},
+		{
+			"question": "It is not wise to laugh at a two-year old child when he utters bad word because in his stage he is learning to __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": true, "text": "consider other's views"},
+				{"correct": false, "text": "distinguish sex differences"},
+				{"correct": false, "text": "socialize"},
+				{"correct": false, "text": "distinguish right from wrong"}
+			]
+		},
+		{
+			"question": "In a treatment for alcoholism, Ramil was made to drink an alcoholic beverage and then made to ingest a drug that produces nausea. Eventually, he was nauseated at the sight and smell of alcohol and stopped drinking alcohoL Which theory explains this?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Operant conditioning"},
+				{"correct": false, "text": "Social Learning Theory"},
+				{"correct": true, "text": "Associative Learning"},
+				{"correct": false, "text": "Attribution Theory"}
+			]
+		},
+		{
+			"question": "Which is a true foundation of the social order?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Obedient citizenry"},
+				{"correct": true, "text": "The reciprocation of rights and duties"},
+				{"correct": false, "text": "Strong political leadership"},
+				{"correct": false, "text": "Equitable distribution of wealth"}
+			]
+		},
+		{
+			"question": "As a teacher, what do you do when you engage yourself in major task analysis?",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "Test if learning reached higher level thinking skills."},
+				{"correct": true, "text": "Breakdown a complex task into sub-skills."},
+				{"correct": false, "text": "Determine the level of thinking involved."},
+				{"correct": false, "text": "Revise lesson objectives."}
+			]
+		},
+		{
+			"question": "In instructional planning it is necessary that the parts of the plan from the first to the last have __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "clarity"},
+				{"correct": true, "text": "symmetry"},
+				{"correct": false, "text": "coherence"},
+				{"correct": false, "text": "conciseness"}
+			]
+		},
+		{
+			"question": "In a study conducted, the pupils were asked which nationality they preferred, if given a choice. Majority of the pupils wanted to be Americans. In this case, in which obligation relative to the state, do schools seem to be failing? In their obligation to __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "respect for all duly constituted authorities"},
+				{"correct": true, "text": "promote national pride"},
+				{"correct": false, "text": "promote obedience to the laws of the state"},
+				{"correct": false, "text": "instill allegiance to the Constitution"}
+			]
+		},
+		{
+			"question": "The best way for a guidance counselor to begin to develop study skills and habits in underachieving student would be to __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "have these underachieving students observe the study habits of excelling students"},
+				{"correct": true, "text": "encourage students to talk about study habits from their own experiences"},
+				{"correct": false, "text": "have them view film strips about various study approaches"},
+				{"correct": false, "text": "give out a list of effective study approaches"}
+			]
+		},
+		{
+			"question": "What is most likely to happen to our economy when export continuously surpasses importis a thought question on __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "creating"},
+				{"correct": true, "text": "relating cause-and-effect"},
+				{"correct": false, "text": "synthesizing"},
+				{"correct": false, "text": "predicting"}
+			]
+		},
+		{
+			"question": "Direct instruction is for facts, rules, and actions as indirect instruction is for __________, __________, __________.",
+			"answers": 1,
+			"choices": [
+				{"correct": false, "text": "hypotheses, verified data and conclusions"},
+				{"correct": false, "text": "concepts, patterns and abstractions"},
+				{"correct": true, "text": "concepts, processes and generalizations"},
+				{"correct": false, "text": "guesses, data and conclusions"}
+			]
+		}
+	]
+}
