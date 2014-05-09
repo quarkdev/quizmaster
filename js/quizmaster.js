@@ -517,6 +517,13 @@ var QuizMaster = (function () {
     	// export as JSON
         var quizJSON = ml.convertToJSON();
         var quizName = $('#details').find('tbody > tr > th').html();
+
+        // check if quiz name has been set, if not tell user that name must be set
+        if (quizName === '') {
+        	ml.postNotice('Export Failed! Name Required.');
+        	return;
+        }
+
         var filename = quizName.split(' ').join('_').toLowerCase() + '.json';
         $('#dl-area').html('Download: <a id="export-link" download="' + filename + '" href="data:application/json,' + encodeURIComponent(quizJSON) + '">' + filename + '</a>');
         $('#export-link')[0].click();
