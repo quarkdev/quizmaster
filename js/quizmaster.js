@@ -222,20 +222,21 @@ var QuizMaster = (function () {
 		quizActive = true;
 
 		// start timer
+		var initTime = ml.toCountDownFormat(currentQuiz.duration * 60);
+		$('#hud-timer').html('<span style="color: #fff">' + initTime.hh + ':' + initTime.mm + ':' + initTime.ss + '</span>').finish().show();
+
 		timer.interval = setInterval(function () {
 			timer.ticks++;
 
 			var timeLeft = (currentQuiz.duration * 60) - timer.ticks;
-			var minPortion = padDigits(parseInt(timeLeft / 60, 10), 2);
-			var secPortion = padDigits(timeLeft % 60, 2);
+			var time = ml.toCountDownFormat(timeLeft);
 			var timeColor = timeLeft / (currentQuiz.duration * 60) < 0.25 ? 'red' : 'white';
 
-			$('#hud-timer').html('<span style="color: ' + timeColor + '">' + minPortion + ':' + secPortion + '</span>');
+			$('#hud-timer').html('<span style="color: ' + timeColor + '">' + time.hh + ':' + time.mm + ':' + time.ss + '</span>');
 
 			// check if time's up
 			if (timeLeft / 60 === 0) {
-				$('#hud-timer').html('<strong>Time is Up!</strong>');
-				ml.endQuiz();
+				ml.endQuiz(true);
 			}
 		}, 1000);
 
@@ -244,10 +245,29 @@ var QuizMaster = (function () {
 		return paper;
 	};
 
-	ml.endQuiz = function () {
+	ml.toCountDownFormat = function (seconds) {
+		// converts seconds to hh:mm:ss format | {hh: hh, mm: mm, ss: ss}
+		var hours   = padDigits(parseInt(seconds / 3600), 2) ;
+		var minutes = padDigits(parseInt((seconds % 3600) / 60, 10), 2);
+		var seconds = padDigits((seconds % 3600) % 60, 2);
+
+		return {hh: hours, mm: minutes, ss: seconds};
+	};
+
+	ml.endQuiz = function (timedOut) {
 		clearInterval(timer.interval);
 		timer.ticks = 0;
 		quizActive = false;
+
+		timedOut = timedOut || false;
+
+		if (timedOut) {
+			ml.postNotice('#hud-timer', '<strong>Time is Up!</strong>');
+		}
+		else {
+			ml.postNotice('#hud-timer', '<strong>Quiz Ended Manually.</strong>');
+		}
+
 		$('#start-quiz-btn').html('Start Quiz');
 		ml.checkPaper();
 	};
@@ -393,7 +413,7 @@ var QuizMaster = (function () {
 		                                <tr>\
 		                                    <th class="num-col">1.</th>\
 		                                    <th class="qtext" colspan="2" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoiceQ($(this))} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></th>\
-		                                    <td class="rem-q"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'.item\').remove()} else {QuizMaster.postNotice(\'Use: [Ctrl + LeftClick] to Remove.\')}; QuizMaster.reNumber();">x</button></td>\
+		                                    <td class="rem-q"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'.item\').remove()} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove.\')}; QuizMaster.reNumber();">x</button></td>\
 		                                </tr>\
 		                            </table>\
 		                        </td>\
@@ -401,7 +421,7 @@ var QuizMaster = (function () {
 		                    <tr class="choices">\
 		                        <td>\
 		                            <table>\
-		                                <tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1"></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this))} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>\
+		                                <tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1"></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this))} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>\
 		                            </table>\
 		                        </td>\
 		                    </tr>\
@@ -413,12 +433,12 @@ var QuizMaster = (function () {
 		';
 
 		$('#quiz-area').html(initTable); // clear quiz area
-		ml.postNotice('New Quiz Created!');
+		ml.postNotice('#editor-notifications', 'New Quiz Created!');
 	};
 
     ml.addChoice = function (field) {         
         // add new field
-        field.closest('table').append('<tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1"></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this));} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>');
+        field.closest('table').append('<tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1"></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this));} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>');
     
         // focus new field
         field.closest('table').children().children().last().children(':nth-child(3)').focus();
@@ -426,7 +446,7 @@ var QuizMaster = (function () {
     
     ml.addChoiceQ = function (field) {
         // add new field
-        field.closest('.question').parent().children(':nth-child(2)').children().children().append('<tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1"></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this));} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>');
+        field.closest('.question').parent().children(':nth-child(2)').children().children().append('<tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1"></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this));} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>');
     
         // focus new field
         field.closest('.question').parent().children(':nth-child(2)').children().children().children().children().last().children(':nth-child(3)').focus();
@@ -445,7 +465,7 @@ var QuizMaster = (function () {
                                     <tr>\
                                         <th class="num-col">' + number + '.</th>\
                                         <th class="qtext" colspan="2" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoiceQ($(this))} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></th>\
-                                        <td class="rem-q"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'.item\').remove()} else {QuizMaster.postNotice(\'Use: [Ctrl + LeftClick] to Remove.\')}; QuizMaster.reNumber();">x</button></td>\
+                                        <td class="rem-q"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'.item\').remove()} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove.\')}; QuizMaster.reNumber();">x</button></td>\
                                     </tr>\
                                 </table>\
                             </td>\
@@ -453,7 +473,7 @@ var QuizMaster = (function () {
                         <tr class="choices">\
                             <td>\
                                 <table>\
-                                    <tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1"></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this));} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>\
+                                    <tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1"></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this));} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}"></td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>\
                                 </table>\
                             </td>\
                         </tr>\
@@ -529,29 +549,29 @@ var QuizMaster = (function () {
 
         // check if quiz name has been set, if not tell user that name must be set
         if (quizName === '') {
-        	ml.postNotice('Export Failed! Name Required.');
+        	ml.postNotice('#editor-notifications', 'Export Failed! Name Required.');
         	return;
         }
 
         var filename = quizName.split(' ').join('_').toLowerCase() + '.json';
         $('#dl-area').html('Download: <a id="export-link" download="' + filename + '" href="data:application/json,' + encodeURIComponent(quizJSON) + '">' + filename + '</a>');
         $('#export-link')[0].click();
-		ml.postNotice('Quiz Exported as JSON!');
+		ml.postNotice('#editor-notifications', 'Quiz Exported as JSON!');
     };
 
 	ml.saveQuiz = function () {
 		// check if quiz-name is empty
 		var quizName = $('#details').find('tbody > tr > th').html();
 		if (quizName === '') {
-			ml.postNotice('Save Failed! Name Required.');
+			ml.postNotice('#editor-notifications', 'Save Failed! Name Required.');
 			return;
 		}
 		else if (ml.isReserved(quizName)) {
-			ml.postNotice('Save Failed! Name is Reserved.');
+			ml.postNotice('#editor-notifications', 'Save Failed! Name is Reserved.');
 			return;
 		}
 
-		ml.postNotice('Quiz Saved!');
+		ml.postNotice('#editor-notifications', 'Quiz Saved!');
 
 		// save quiz to cookie
 		localStorage.setItem(quizName, ml.convertToJSON());
@@ -561,7 +581,7 @@ var QuizMaster = (function () {
 		// load quiz from cookie
 
 		if (localStorage.length === 0) {
-			ml.postNotice('Nothing to Load.');
+			ml.postNotice('#editor-notifications', 'Nothing to Load.');
 			return;
 		}
 
@@ -569,7 +589,7 @@ var QuizMaster = (function () {
 		var list = '';
 		for (var i = 0; i < localStorage.length; i++) {
 			if (ml.isReserved(localStorage.key(i))) continue; // don't show special storage
-			list += '<div class="local-storage-item"><span class="savefile" onclick="QuizMaster.loadToEditor(QuizMaster.getFromLocalStorage(\'' + localStorage.key(i) + '\')); $(\'#overlay\').hide()">' + localStorage.key(i) + '.json</span><span class="remove-savefile-btn" onclick="if (event.ctrlKey) {localStorage.removeItem(\'' + localStorage.key(i) + '\'); QuizMaster.postNotice(\'SaveFile Removed.\')} else {QuizMaster.postNotice(\'Use: [Ctrl + LeftClick] to Remove SaveFile.\')}">[x]</span></div>'
+			list += '<div class="local-storage-item"><span class="savefile" onclick="QuizMaster.loadToEditor(QuizMaster.getFromLocalStorage(\'' + localStorage.key(i) + '\')); $(\'#overlay\').hide()">' + localStorage.key(i) + '.json</span><span class="remove-savefile-btn" onclick="if (event.ctrlKey) {localStorage.removeItem(\'' + localStorage.key(i) + '\'); QuizMaster.postNotice(\'#editor-notifications\', \'SaveFile Removed.\')} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove SaveFile.\')}">[x]</span></div>'
 		}
 
 		$('#result').html('<span>Select SaveFile.</span>' + list);
@@ -611,7 +631,7 @@ var QuizMaster = (function () {
                             <tr>\
                                 <th class="num-col">' + (i+1) + '.</th>\
                                 <th class="qtext" colspan="2" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoiceQ($(this))} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}">' + quiz.items[i].question + '</th>\
-                                <td class="rem-q"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'.item\').remove()} else {QuizMaster.postNotice(\'Use: [Ctrl + LeftClick] to Remove.\')}; QuizMaster.reNumber();">x</button></td>\
+                                <td class="rem-q"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'.item\').remove()} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove.\')}; QuizMaster.reNumber();">x</button></td>\
                             </tr>\
                         </table>\
                     </td>\
@@ -622,7 +642,7 @@ var QuizMaster = (function () {
                 // loop through choices
                 for (var n = 0; n < quiz.items[i].choices.length; n++) {
                 	var checkValue = quiz.items[i].choices[n].correct ? 'checked' : '';
-                	str += '<tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1" ' + checkValue + '></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this));} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}">' + quiz.items[i].choices[n].text + '</td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>';
+                	str += '<tr class="choice"><td class="num-col"></td><td class="qcheck"><input type="checkbox" value="" tabindex="-1" ' + checkValue + '></td><td class="choice-text" contenteditable="true" onkeyup="if (event.keyCode === 39 && event.shiftKey) {QuizMaster.addChoice($(this));} else if ((event.keyCode === 40 || event.keyCode === 38) && event.shiftKey) {QuizMaster.addItem(event.keyCode)}; if ($(this).html() === \'<br>\') {$(this).html(\'\')}">' + quiz.items[i].choices[n].text + '</td><td class="rem-ch"><button tabindex="-1" onclick="if (event.ctrlKey) {$(this).closest(\'tr\').remove()} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove.\')}">x</button></td></tr>';
                 }
             str += '\
                         </table>\
@@ -637,12 +657,12 @@ var QuizMaster = (function () {
 		// load string to quiz-area
 		$('#quiz-area').html(str);
 
-		ml.postNotice('Quiz Loaded!');
+		ml.postNotice('#editor-notifications', 'Quiz Loaded!');
 	};
 
-	ml.postNotice = function (text) {
-		$('#editor-notifications').html(text);
-		$('#editor-notifications').finish().show().delay(3000).fadeOut();
+	ml.postNotice = function (containerId, text) {
+		$(containerId).html(text);
+		$(containerId).finish().show().delay(3000).fadeOut();
 	};
 
 	return ml;
