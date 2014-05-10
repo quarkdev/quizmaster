@@ -443,6 +443,1546 @@
           "text": "Elementary mental functions are due to imitation while higher mental functions require thought"
         }
       ]
+    },
+    {
+      "question": "According to Vygotsky's theory, the zone of proximal development is the area between",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "An individual's performance on an achievement test and his performance on an intelligence test"
+        },
+        {
+          "correct": true,
+          "text": "The level at which an individual can function independently and the level at which the individual can function with assistance"
+        },
+        {
+          "correct": false,
+          "text": "An individual's actual performance and his expected performance"
+        },
+        {
+          "correct": false,
+          "text": "The child's performance on preoperational tasks and his performance on concrete operational tasks"
+        }
+      ]
+    },
+    {
+      "question": "Cooperative learning will be most likely used by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Piaget"
+        },
+        {
+          "correct": true,
+          "text": "Vygotsky"
+        },
+        {
+          "correct": false,
+          "text": "Bandura"
+        },
+        {
+          "correct": false,
+          "text": "Thorndike"
+        }
+      ]
+    },
+    {
+      "question": "Vygotsky believed that language was particularly important in children's development because",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Children use language as a tool to mediate between a task and himself or herself, the performer of the task"
+        },
+        {
+          "correct": false,
+          "text": "It demonstrated that children had achieved higher cognitive stages, such as concrete and formal operations"
+        },
+        {
+          "correct": false,
+          "text": "Children can engage in elementary mental functions through the use of language"
+        },
+        {
+          "correct": false,
+          "text": "Many aspects of language are universal"
+        }
+      ]
+    },
+    {
+      "question": "Vygotsky would strongly agree to which the following?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Margaret got a perfect score in the test. The teacher posts her name on the bulletin board."
+        },
+        {
+          "correct": true,
+          "text": "When the pupils are beginning a new task, the teacher provides models, coaching and feedback.As the pupils grow in competence, the teacher give less support and more opportunities for independent work."
+        },
+        {
+          "correct": false,
+          "text": "The teacher assigned in the hinterland observed that children do not know proper hygiene, She taught them hygiene by exhibiting the behavior herself."
+        },
+        {
+          "correct": false,
+          "text": "The teacher taught the pupils to set reasonable goals and allow them to keep track of their progress."
+        }
+      ]
+    },
+    {
+      "question": "Which is essential in the cognitive development of persons according to Vygotsky?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Independent thinking"
+        },
+        {
+          "correct": true,
+          "text": "Social Interaction"
+        },
+        {
+          "correct": false,
+          "text": "individual mental work"
+        },
+        {
+          "correct": false,
+          "text": "scientific thinking"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Felipe believes that teaching involves providing support to his students through prompts, explanations, and questions, and gradually removing those supports until the student is solving problems independently. Teacher Felipe believes in the practice of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Enactive learning"
+        },
+        {
+          "correct": false,
+          "text": "Guided discovery"
+        },
+        {
+          "correct": false,
+          "text": "Elementary mental functions"
+        },
+        {
+          "correct": true,
+          "text": "scaffolding"
+        }
+      ]
+    },
+    {
+      "question": "A significant difference between the theories of Piaget and Vigotsky is that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Piaget was only interested only in development, while Vygotsky was interested only in learning"
+        },
+        {
+          "correct": true,
+          "text": "Piaget places greater emphasis in maturation and experience, while Vygotsky emphasized the role of society"
+        },
+        {
+          "correct": false,
+          "text": "Piaget provided greater insight on the role of the teacher than did Vygotsky"
+        },
+        {
+          "correct": false,
+          "text": "Piaget argued that children use language to regulate themselves, while Vygotsky viewed children's self-talk as a form of egocentric behavior"
+        }
+      ]
+    },
+    {
+      "question": "For many people, the most productive years according to Erikson are",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "middle adulthood"
+        },
+        {
+          "correct": false,
+          "text": "early adulthood"
+        },
+        {
+          "correct": false,
+          "text": "late adulthood"
+        },
+        {
+          "correct": false,
+          "text": "adolescence"
+        }
+      ]
+    },
+    {
+      "question": "According to Erikson's theory in which is the individual in if he learns to create or nurture things that will outlast them, often by having children or creating a postive change that benefits other people. Success leads to feelings of usefulness and accomplishment, while failure results in shallow involvement of the world.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "intimacy vs isolation"
+        },
+        {
+          "correct": false,
+          "text": "industry vs inferiority"
+        },
+        {
+          "correct": false,
+          "text": "identity vs role confusion"
+        },
+        {
+          "correct": true,
+          "text": "generativity vs stagnation"
+        }
+      ]
+    },
+    {
+      "question": "John is an average young man who seems to be experimenting with different roles. At home, he is obedient and quiet but with his friends he is relaxed and easily suggests trying out new things. According to Erikson, what stage of development is John experiencing?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Intimacy vs isolation"
+        },
+        {
+          "correct": false,
+          "text": "Identity vs isolation"
+        },
+        {
+          "correct": true,
+          "text": "Identity vs role confusion"
+        },
+        {
+          "correct": false,
+          "text": "Intimacy vs role confusion"
+        }
+      ]
+    },
+    {
+      "question": "If you are a secondary school teacher, which of the following will you do support identity formation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Give students many models for career choices and other adult roles."
+        },
+        {
+          "correct": false,
+          "text": "Have costumes and props that go along with stories the children enjoy."
+        },
+        {
+          "correct": false,
+          "text": "Delegate to students such tasks as collecting and distributing materials, watering class plants and keeping records."
+        },
+        {
+          "correct": false,
+          "text": "Keep samples of earlier work so students can see their improvements."
+        }
+      ]
+    },
+    {
+      "question": "When the individual is said to be in the integrity rather than despair stage, what does this mean?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "He/she is sure of his/her own identity"
+        },
+        {
+          "correct": false,
+          "text": "The individual is able to work positively and creatively"
+        },
+        {
+          "correct": false,
+          "text": "Satisfied with his status among his/her peers in work skills"
+        },
+        {
+          "correct": true,
+          "text": "Developed a self-concept that he can accept and is pleased with his/ her role in life and what he produces."
+        }
+      ]
+    },
+    {
+      "question": "Mr. Revalle is a garde 6 adviser. How can he promote moral development in his classroom?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Accept misbehavior/ wrong doings of pupils because they are still immature"
+        },
+        {
+          "correct": false,
+          "text": "Disregard the powerful influence as a role model as he interacts with the students"
+        },
+        {
+          "correct": false,
+          "text": "Discourage discussions of topics like honesty and respect for to others in the classroom"
+        },
+        {
+          "correct": true,
+          "text": "Emphasize individual responsibility and the practical nature of rules designed to protect the rights of others"
+        }
+      ]
+    },
+    {
+      "question": "Which can effectively measure student's awareness of values?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "anecdotal records"
+        },
+        {
+          "correct": false,
+          "text": "projective techniques"
+        },
+        {
+          "correct": false,
+          "text": "Likert scale"
+        },
+        {
+          "correct": true,
+          "text": "moral dilemma"
+        }
+      ]
+    },
+    {
+      "question": "Children's ability to make judgments about moral issues is related to their",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Physical development"
+        },
+        {
+          "correct": false,
+          "text": "Cognitive development"
+        },
+        {
+          "correct": true,
+          "text": "Moral development"
+        },
+        {
+          "correct": false,
+          "text": "Phychosocial development"
+        }
+      ]
+    },
+    {
+      "question": "What stage of moral development is illustrated by interpreting fairness, reciprocity, and equal sharing in a physical, pragmatic way such as in you scratch my back and I scratch yours?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Instrumental relativist orientation"
+        },
+        {
+          "correct": false,
+          "text": "Law and Order orientation"
+        },
+        {
+          "correct": false,
+          "text": "Good boy/girl orientation"
+        },
+        {
+          "correct": false,
+          "text": "Social-contract orientation"
+        }
+      ]
+    },
+    {
+      "question": "BJ, a first year high school student, noticed that during their final examination, many of his classmates cheated. In what stage of Kohlberg's theory was BJ's action?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Law and Order Orientation"
+        },
+        {
+          "correct": false,
+          "text": "Social-contract orientation"
+        },
+        {
+          "correct": true,
+          "text": "Good boy, nice girl orientation"
+        },
+        {
+          "correct": false,
+          "text": "Universal ethical principle"
+        }
+      ]
+    },
+    {
+      "question": "Katrina comes to school on time because it is one of the school's rules and regulation. Besides, she does not like to disrupt their class by coming late. In this situation, which level of Kohlberg's morality does Katrina belong?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Universal"
+        },
+        {
+          "correct": true,
+          "text": "Conventional"
+        },
+        {
+          "correct": false,
+          "text": "Preconventional"
+        },
+        {
+          "correct": false,
+          "text": "Postconventional"
+        }
+      ]
+    },
+    {
+      "question": "The concept of right and wrong as defined by the conscience and self-chosen principles occurs during the _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "pre-conventional level"
+        },
+        {
+          "correct": false,
+          "text": "conventional level"
+        },
+        {
+          "correct": false,
+          "text": "mid-conventional level"
+        },
+        {
+          "correct": true,
+          "text": "post-conventional level"
+        }
+      ]
+    },
+    {
+      "question": "Which is the ideal stage of moral development?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Social contract"
+        },
+        {
+          "correct": true,
+          "text": "Universal ethical principle"
+        },
+        {
+          "correct": false,
+          "text": "law and order"
+        },
+        {
+          "correct": false,
+          "text": "good boy/girl"
+        }
+      ]
+    },
+    {
+      "question": "Ramil helps his classmate carry heavy books if their teacher sees him and so praise him. In which level of moral development according to Kohlberg Ramil is?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Conventional"
+        },
+        {
+          "correct": true,
+          "text": "pre-conventional"
+        },
+        {
+          "correct": false,
+          "text": "non-conventional"
+        },
+        {
+          "correct": false,
+          "text": "post conventional"
+        }
+      ]
+    },
+    {
+      "question": "According to Kohlberg, a person's moral development is due to maturational factors and cognitive growth. Which of the following statements best supports his claim?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The older the person is, the higher is the level of morality"
+        },
+        {
+          "correct": false,
+          "text": "As the person develops, his morality becomes conventional"
+        },
+        {
+          "correct": true,
+          "text": "As the person grows, his moral reasoning also gets defined"
+        },
+        {
+          "correct": false,
+          "text": "The younger the person is, the higher is his level of morality"
+        }
+      ]
+    },
+    {
+      "question": "At the high school level, Kohlberg's advice to teachers is for them to begin discussing with students about abstract principles such as justice and human rights. On the average,on which moral development stage are high school students supposed to be?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Post conventional stage"
+        },
+        {
+          "correct": false,
+          "text": "Conventional stage"
+        },
+        {
+          "correct": false,
+          "text": "in between conventional and post conventional stage"
+        },
+        {
+          "correct": false,
+          "text": "That depends on the school culture"
+        }
+      ]
+    },
+    {
+      "question": "There is a distinction between true learning and false learning. Which may be an indication of false learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Acquisition of knowledge and skills in response to need"
+        },
+        {
+          "correct": false,
+          "text": "Memorizing part of a poem much appreciated"
+        },
+        {
+          "correct": true,
+          "text": "Acquisition of facts for the purpose of getting high marks"
+        },
+        {
+          "correct": false,
+          "text": "Acquisition of attitudes that will change one's way of growth"
+        }
+      ]
+    },
+    {
+      "question": "What theory of learning involves thinking about learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "metacognitive"
+        },
+        {
+          "correct": false,
+          "text": "constructivism"
+        },
+        {
+          "correct": false,
+          "text": "discovery"
+        },
+        {
+          "correct": false,
+          "text": "behaviorists"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following changes is an indication of learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Growing taller"
+        },
+        {
+          "correct": true,
+          "text": "Associating the green light with crossing the street"
+        },
+        {
+          "correct": false,
+          "text": "Learning to talk"
+        },
+        {
+          "correct": false,
+          "text": "Feeling drowsy after taking a drug"
+        }
+      ]
+    },
+    {
+      "question": "All of these are outcomes of learning except:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Maturation and development"
+        },
+        {
+          "correct": false,
+          "text": "Knowledge and understanding"
+        },
+        {
+          "correct": false,
+          "text": "Habits and attitudes"
+        },
+        {
+          "correct": false,
+          "text": "Abilities and skills"
+        }
+      ]
+    },
+    {
+      "question": "If a teacher believes that a child's mind is Tabula Rasa, then the teacher will most likely engage the students in _____ process for them to learn.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "sensory impressions"
+        },
+        {
+          "correct": false,
+          "text": "reasoning"
+        },
+        {
+          "correct": false,
+          "text": "reflections"
+        },
+        {
+          "correct": false,
+          "text": "metacognition"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Isabel asked her students to describe how their families celebrate holidays. Students can discover that families celebrate holidays differently. Which principle in cognitive development governs Teacher Isabel's teaching activity?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Social interaction is essential for cognitive development."
+        },
+        {
+          "correct": false,
+          "text": "Children often think in different ways at different stages."
+        },
+        {
+          "correct": true,
+          "text": "Cognitive development involves relating new information to prior knowledge."
+        },
+        {
+          "correct": false,
+          "text": "Children actively construct knowledge."
+        }
+      ]
+    },
+    {
+      "question": "One of the basic principles of cognitivists is that students",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learn important facts and score them in memory."
+        },
+        {
+          "correct": false,
+          "text": "Learn the necessary steps that are required for a task."
+        },
+        {
+          "correct": true,
+          "text": "Construct knowledge from the information they receive."
+        },
+        {
+          "correct": false,
+          "text": "Learn that different bodies of knowledge require different procedures."
+        }
+      ]
+    },
+    {
+      "question": "Which is NOT an application of the cognitive approach to motivation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Begin lesson with challenging questions/conflicting events."
+        },
+        {
+          "correct": false,
+          "text": "Explain reasons for studying the topic."
+        },
+        {
+          "correct": true,
+          "text": "Create a supportive classroom climate."
+        },
+        {
+          "correct": false,
+          "text": "Provide clear and prompt feedback on assignments."
+        }
+      ]
+    },
+    {
+      "question": "Social exposure to various cultures expands a child's pool of knowledge. Which statements go/es with this sentence?<br>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\">I. &nbsp; &nbsp; The less experience the child has, the more disciplined he becomes.</span><br><span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; II. &nbsp; &nbsp; The more experience the child has, the richer his world becomes.<br>&nbsp; &nbsp; &nbsp;III. &nbsp; &nbsp; The more selective parents in the exposure of their child, the more challenged the child becomes.</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I only"
+        },
+        {
+          "correct": true,
+          "text": "II only"
+        },
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "III only"
+        }
+      ]
+    },
+    {
+      "question": "As young people mature, society expects them to develop competencies and assume social roles in a conventional manner.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "expectation of parents"
+        },
+        {
+          "correct": false,
+          "text": "influence of peer groups"
+        },
+        {
+          "correct": false,
+          "text": "influence of formal education"
+        },
+        {
+          "correct": true,
+          "text": "cultural demands"
+        }
+      ]
+    },
+    {
+      "question": "In guiding the development of attitudes and values, a teacher should try to _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Shape students attitudes all the time"
+        },
+        {
+          "correct": true,
+          "text": "Provide exemplary models"
+        },
+        {
+          "correct": false,
+          "text": "Be the sole authority"
+        },
+        {
+          "correct": false,
+          "text": "Simply discuss moral values with students"
+        }
+      ]
+    },
+    {
+      "question": "The environment, in order to facilitate learning, must be interactive. Which of the following best typifies this kind of environment?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The child copies a list of facts concerning fossils on the blackboard"
+        },
+        {
+          "correct": true,
+          "text": "The child goes out and discovers for himself some rocks and fossils"
+        },
+        {
+          "correct": false,
+          "text": "The child summarizes the section on fossils in his science textbook"
+        },
+        {
+          "correct": false,
+          "text": "The child listens to a lecture on fossils given by the teacher"
+        }
+      ]
+    },
+    {
+      "question": "Ms. Delgado provides her pupils varies activities hat enable them to classify objects according to one variable, rank and order items in logical series and understanding hat amount of mass and liquid do not change even their shape does. These developmental tasks can be expected to be performed by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "grade school pupils"
+        },
+        {
+          "correct": false,
+          "text": "high school students"
+        },
+        {
+          "correct": false,
+          "text": "college students"
+        },
+        {
+          "correct": false,
+          "text": "preschoolers"
+        }
+      ]
+    },
+    {
+      "question": "If we want students to treat each other with courtesy and dignity then we must do the same to them. If we yell at them, they will soon be shouting at each other. This behavior is likely demonstrated by the students because",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "they are afraid of their teacher if they fail to follow"
+        },
+        {
+          "correct": true,
+          "text": "they learn best by observing a model"
+        },
+        {
+          "correct": false,
+          "text": "they are helpless and entirely dependent on adults"
+        },
+        {
+          "correct": false,
+          "text": "they should be taught to decide for themselves"
+        }
+      ]
+    },
+    {
+      "question": "Which should be the ultimate aim of teaching?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Acquire more facts, concepts and attitudes"
+        },
+        {
+          "correct": false,
+          "text": "Develop desirable habits and attitudes among students"
+        },
+        {
+          "correct": false,
+          "text": "Promote acquisition of skills"
+        },
+        {
+          "correct": true,
+          "text": "All of these"
+        }
+      ]
+    },
+    {
+      "question": "The best way for a teacher to do when the class has become restless and less attentive is _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Institute some changes"
+        },
+        {
+          "correct": false,
+          "text": "Give more incentives such as high grades"
+        },
+        {
+          "correct": false,
+          "text": "Talk more nicely with the inattentive ones"
+        },
+        {
+          "correct": false,
+          "text": "Stop the lesson and wait till the class becomes attentive"
+        }
+      ]
+    },
+    {
+      "question": "The role that the teacher play when he sets desirable learning activites for the individual leaner and takes responsibility of matching available resources with the needs of each learner",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Initiator of the teaching-learning process"
+        },
+        {
+          "correct": false,
+          "text": "Scholar and master of learner"
+        },
+        {
+          "correct": true,
+          "text": "Manager of the teaching-learning process"
+        },
+        {
+          "correct": false,
+          "text": "Abstractor and supervisor of learning"
+        }
+      ]
+    },
+    {
+      "question": "Clare, a junior high school student, has been reported by her teacher to be a habitual absentee and consequently a poor achiever in the class. What initial step should the teacher take?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Call her parents to a case conference"
+        },
+        {
+          "correct": false,
+          "text": "Recommend her to transfer to another school"
+        },
+        {
+          "correct": true,
+          "text": "Talk with her and encourage her to unload her problems"
+        },
+        {
+          "correct": false,
+          "text": "Report her to the discipline officer for appropriate action"
+        }
+      ]
+    },
+    {
+      "question": "Mario keeps on standing and moving around the room while the class is going on. Disruptive behavior in the classroom is a problem that all teachers faced with an would want very much to eliminate. If you were Mario's teacher, which of the following would be most appropriate to help Mario?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ask him to do things to make him busy"
+        },
+        {
+          "correct": false,
+          "text": "Call hist attention and ask questions about the lesson"
+        },
+        {
+          "correct": true,
+          "text": "Talk to him privately to know why he keeps on moving"
+        },
+        {
+          "correct": false,
+          "text": "Scold him in front of the class so he will be ashamed of what he does"
+        }
+      ]
+    },
+    {
+      "question": "For a teacher to grasp clearly the learner's situation, he needs to feel what the learner feels; to see things as he sees it. This role of the teacher is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Understanding each student"
+        },
+        {
+          "correct": false,
+          "text": "Being warm to each student"
+        },
+        {
+          "correct": true,
+          "text": "Empathizing with each student"
+        },
+        {
+          "correct": false,
+          "text": "All of the above"
+        }
+      ]
+    },
+    {
+      "question": "Most students will cheat if the pressure to perform well is great and the chance of being caught is slim. How can teachers prevent cheating?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Giving difficult and tricky questions"
+        },
+        {
+          "correct": false,
+          "text": "Putting students in high-pressure situations"
+        },
+        {
+          "correct": false,
+          "text": "Being consistent in enforcing policies regarding cheating"
+        },
+        {
+          "correct": true,
+          "text": "Preparing the students for tests, projects and assignments"
+        }
+      ]
+    },
+    {
+      "question": "Those who support critical thinking as an important skill to acquire believe it _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Is teachable"
+        },
+        {
+          "correct": false,
+          "text": "Is an innate quality"
+        },
+        {
+          "correct": false,
+          "text": "Is best addressed outside the classroom"
+        },
+        {
+          "correct": false,
+          "text": "Occurs naturally in an educational environment"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following would help develop the habit of critical thinking among learners?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Asking questions from specific to complex"
+        },
+        {
+          "correct": false,
+          "text": "Reading answers to a variety of questions"
+        },
+        {
+          "correct": true,
+          "text": "Asking and answering high level questions"
+        },
+        {
+          "correct": false,
+          "text": "Gather evidence to support the answers"
+        }
+      ]
+    },
+    {
+      "question": "Benny, a sophomore student is actively involved in various co-curricular activities. Hi attention, however, was called regarding his deteriorating grades in various subjects. If you were his teacher, what should you advise him to do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Prioritize his concerns with focus on academics"
+        },
+        {
+          "correct": false,
+          "text": "Temporarily go on leave from all school organizations"
+        },
+        {
+          "correct": false,
+          "text": "Terminate his membership in all school organizations"
+        },
+        {
+          "correct": false,
+          "text": "Request his teacher to give him special consideration"
+        }
+      ]
+    },
+    {
+      "question": "Mr. Rodriguez, a classroom teacher, is aware that he is also expected to perform guidance functions. He has been helping his pupils in their personal and academic problems. What must he do if there are cases which he finds difficult to handle?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Make referrals to outside agencies."
+        },
+        {
+          "correct": false,
+          "text": "Bring to the attention of the school principal."
+        },
+        {
+          "correct": false,
+          "text": "Try to solve them. There are practical solutions to every problem."
+        },
+        {
+          "correct": true,
+          "text": "Refer them to the guidance counselor who has professional competence to handle such cases."
+        }
+      ]
+    },
+    {
+      "question": "JB Watson relates that a particular behavior is determined by environmental factors. Which of the following situations can help the students develop a positive attitude towards Mathematics?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Tell students that Math is a difficult subject"
+        },
+        {
+          "correct": false,
+          "text": "Give difficult problems to challenge the students"
+        },
+        {
+          "correct": false,
+          "text": "Present lessons from the easiest to the most complex"
+        },
+        {
+          "correct": true,
+          "text": "Have favorable learning atmosphere in the classroom"
+        }
+      ]
+    },
+    {
+      "question": "Mr. Soro a &nbsp;very good teacher, once humiliated a naughty boy named Roy. When asked to evaluate Mr. Soro, Roy gave him a very poor rating. What behavior is illustrated?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Generalism"
+        },
+        {
+          "correct": false,
+          "text": "Rationalism"
+        },
+        {
+          "correct": false,
+          "text": "Impersonalism"
+        },
+        {
+          "correct": true,
+          "text": "Personalism"
+        }
+      ]
+    },
+    {
+      "question": "When a student displays aggressive behavior in the class, what should the teacher do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ignore the student"
+        },
+        {
+          "correct": false,
+          "text": "Send the student out of the classroom"
+        },
+        {
+          "correct": false,
+          "text": "Threaten the student to win the confidence"
+        },
+        {
+          "correct": true,
+          "text": "Model non-violent conflict-resolution strategies"
+        }
+      ]
+    },
+    {
+      "question": "A teacher who has \"with-it-ness\" will",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Consistently address disruptive behavior"
+        },
+        {
+          "correct": false,
+          "text": "Ignore disruptive behavior"
+        },
+        {
+          "correct": false,
+          "text": "Ask the principal to discipline her class"
+        },
+        {
+          "correct": false,
+          "text": "Apply discipline inconsistently with students"
+        }
+      ]
+    },
+    {
+      "question": "Which teacher's activity best develops creativity in the child?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Promoting security among children trying out new ideas"
+        },
+        {
+          "correct": false,
+          "text": "Requiring conformity to adult standards and perfection"
+        },
+        {
+          "correct": false,
+          "text": "Encouraging the use of mechanical methods of work"
+        },
+        {
+          "correct": false,
+          "text": "Criticizing the child's work when standards are not met"
+        }
+      ]
+    },
+    {
+      "question": "The practice of promoting pupils on the basis of age rather achievement or ability most likely results in _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "A wide range of differences among these pupils in the classroom"
+        },
+        {
+          "correct": false,
+          "text": "A restricted range in personality, interest and attitudes among these pupils in the classroom"
+        },
+        {
+          "correct": false,
+          "text": "The development of a healthy, well-adjusted individual"
+        },
+        {
+          "correct": false,
+          "text": "Establishment of rapport between teacher and pupil"
+        }
+      ]
+    },
+    {
+      "question": "Paulo, a preschool boy, remembers that letter S looks like a snake; letter O as an orangel T like a cross is learning through",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Association"
+        },
+        {
+          "correct": false,
+          "text": "Imitation"
+        },
+        {
+          "correct": false,
+          "text": "Comparison"
+        },
+        {
+          "correct": false,
+          "text": "Analogy"
+        }
+      ]
+    },
+    {
+      "question": "Student misbehavior is viewed by many educators as a result of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The failure of schools to meet the needs of the students"
+        },
+        {
+          "correct": false,
+          "text": "The failure of parents to teach students rules"
+        },
+        {
+          "correct": false,
+          "text": "Hyperactivity and attention deficit"
+        },
+        {
+          "correct": false,
+          "text": "Attention-getting devises used by students"
+        }
+      ]
+    },
+    {
+      "question": "Research on teacher-effectiveness practices has shown that _________",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Directions should be few and best delivered in a casual manner."
+        },
+        {
+          "correct": false,
+          "text": "Planning has little impact on student learning."
+        },
+        {
+          "correct": false,
+          "text": "Questioning strategies are ineffective monitoring techniques."
+        },
+        {
+          "correct": true,
+          "text": "Teaching procedures on classroom routines early in the school year are essential."
+        }
+      ]
+    },
+    {
+      "question": "Which is/are evidence/s of a conducive learning environment?<br>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\">I. &nbsp; &nbsp; &nbsp;Students make mistakes and ask for assistance<br>&nbsp; &nbsp; &nbsp; II. &nbsp; &nbsp; &nbsp;Students participate fully in the learning process<br>&nbsp; &nbsp; &nbsp;III. &nbsp; &nbsp; &nbsp;Students are encouraged to ask and answer questions<br>&nbsp; &nbsp; &nbsp;IV. &nbsp; &nbsp; Students attempt new approaches</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "II and III"
+        },
+        {
+          "correct": true,
+          "text": "I, II, III and IV"
+        },
+        {
+          "correct": false,
+          "text": "II and IV"
+        },
+        {
+          "correct": false,
+          "text": "III and IV"
+        }
+      ]
+    },
+    {
+      "question": "Which program of the Department of Education is an offshoot of the Filipino Bayanihan spirit?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Every Child a Reader Program"
+        },
+        {
+          "correct": true,
+          "text": "Brigada Eskwela"
+        },
+        {
+          "correct": false,
+          "text": "Child-Friendly School System"
+        },
+        {
+          "correct": false,
+          "text": "The Basic Education Curriculum"
+        }
+      ]
+    },
+    {
+      "question": "Between pursuing a college course where there is no demand and a vocational course which is highly in demand, the students usually opt for the college course. Which Filipino trait is demonstrated?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Importance of education"
+        },
+        {
+          "correct": true,
+          "text": "Penchant for a college diploma"
+        },
+        {
+          "correct": false,
+          "text": "Desire for entrepreneurship"
+        },
+        {
+          "correct": false,
+          "text": "Interest to obtain a skill"
+        }
+      ]
+    },
+    {
+      "question": "What happens to the child when pushed and pressured by parents to perform more than he is capable of?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "He tends to be more analytical"
+        },
+        {
+          "correct": false,
+          "text": "He attains mental maturity at an early age"
+        },
+        {
+          "correct": false,
+          "text": "He develops the ability to think fast"
+        },
+        {
+          "correct": true,
+          "text": "He fails to show his real intellectual level"
+        }
+      ]
+    },
+    {
+      "question": "Teachers are reminded to avoid labeling pupils negatively as they may live up to these images. The tendency to manifest these negative labels into actual behavior describes the ________ concept of attitude formation.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Reflected self-appraisal"
+        },
+        {
+          "correct": false,
+          "text": "psychoanalytic theory"
+        },
+        {
+          "correct": false,
+          "text": "Pygmalion Effect"
+        },
+        {
+          "correct": false,
+          "text": "self-fulfilling prophecy"
+        }
+      ]
+    },
+    {
+      "question": "On her first week in school, Ms. Gennie observed pupils who come to school as if they just got out of bed. They are also inattentive and seem to be pathetic and uninterested in their studies. The best step the teacher can do is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Send the pupils home so that they can change their clothes"
+        },
+        {
+          "correct": true,
+          "text": "Visit the homes of these pupils so that their parents can be informed of the problem"
+        },
+        {
+          "correct": false,
+          "text": "Separate them from the others who are well-clothed, neat and clean"
+        },
+        {
+          "correct": false,
+          "text": "Leave the pupils alone for they are still too young to keep themselves tidy"
+        }
+      ]
+    },
+    {
+      "question": "Earl appears to have the charisma of a leader. His classmates follow him readily even in mischief. How would you deal with him?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Give him extra assignments"
+        },
+        {
+          "correct": false,
+          "text": "Ignore his behavior for this is part of growing up"
+        },
+        {
+          "correct": false,
+          "text": "Punish him when he leads his classmates to mischief"
+        },
+        {
+          "correct": true,
+          "text": "Organize a group activity to be headed by Earl"
+        }
+      ]
+    },
+    {
+      "question": "Lino is a boy who thinks he is a good-for-nothing person. Evidently, he does his schoolwork poorly and his parents affirmed this at home. How can you effectively change this \"Pygmalion Effect\"?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "assign Lino to be the leader during important activities"
+        },
+        {
+          "correct": false,
+          "text": "let Lino do something easy so that he will experience success"
+        },
+        {
+          "correct": true,
+          "text": "assess Lino's strengths and tap them naturally in class"
+        },
+        {
+          "correct": false,
+          "text": "tell Lino's parents that their son needs help in school"
+        }
+      ]
+    },
+    {
+      "question": "Which one will most likely increase student participation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "feelings or emotions are not permitted in the discussion"
+        },
+        {
+          "correct": false,
+          "text": "the group teacher allows quiet members to remain quiet"
+        },
+        {
+          "correct": true,
+          "text": "the teacher models good listening habits"
+        },
+        {
+          "correct": false,
+          "text": "repeat directions over and over until everyone listens"
+        }
+      ]
+    },
+    {
+      "question": "Which may not help develop attentive listening in the students?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Conducting oral tests frequently"
+        },
+        {
+          "correct": false,
+          "text": "Assigning students to give a summary of a lesson"
+        },
+        {
+          "correct": true,
+          "text": "Repeating directions, comments, and questions"
+        },
+        {
+          "correct": false,
+          "text": "Asking a student to paraphrase &nbsp;previous student's response"
+        }
+      ]
+    },
+    {
+      "question": "Cooperative learning approach makes use of a classroom organization where students work in teams to help each other learn. What mode of grouping can facilitate the skill and values desired?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Competitive"
+        },
+        {
+          "correct": true,
+          "text": "Heterogeneous"
+        },
+        {
+          "correct": false,
+          "text": "Homogeneous"
+        },
+        {
+          "correct": false,
+          "text": "whole class"
+        }
+      ]
+    },
+    {
+      "question": "When plateau is reached in a student's learning curve, it is advisable for the learner to _______",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "continue reviewing"
+        },
+        {
+          "correct": false,
+          "text": "give up learning"
+        },
+        {
+          "correct": true,
+          "text": "rest"
+        },
+        {
+          "correct": false,
+          "text": "force himself to get interested"
+        }
+      ]
+    },
+    {
+      "question": "Marvin plays with his friends but cannot accept defeat. based on Piaget's theory of cognitive development, in what developmental stage is Marvin?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "concrete operation"
+        },
+        {
+          "correct": false,
+          "text": "sensorimotor"
+        },
+        {
+          "correct": false,
+          "text": "formal operation"
+        },
+        {
+          "correct": true,
+          "text": "pre-operation"
+        }
+      ]
     }
   ]
 }
