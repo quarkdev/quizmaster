@@ -1,0 +1,1878 @@
+{
+  "name": "Facilitating Learning Set 2",
+  "description": "...",
+  "duration": 40,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "Which of the following best describes behaviorism?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "stimulus - response"
+        },
+        {
+          "correct": false,
+          "text": "conscious - unconcious"
+        },
+        {
+          "correct": false,
+          "text": "action - reaction"
+        },
+        {
+          "correct": false,
+          "text": "nature - nurture"
+        }
+      ]
+    },
+    {
+      "question": "You are convinced that whenever a student performs a desired behavior, provide reinforcement and soon the student learns to perform the behavior on her own. On which principle is your conviction based?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cognitivism"
+        },
+        {
+          "correct": true,
+          "text": "behaviorism"
+        },
+        {
+          "correct": false,
+          "text": "constructivism"
+        },
+        {
+          "correct": false,
+          "text": "environmentalism"
+        }
+      ]
+    },
+    {
+      "question": "The reinforcement of a person's responses by presentation or removal of rewards and punishment.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "operant conditioning"
+        },
+        {
+          "correct": false,
+          "text": "feedback principle"
+        },
+        {
+          "correct": false,
+          "text": "transfer of learning"
+        },
+        {
+          "correct": false,
+          "text": "discipline"
+        }
+      ]
+    },
+    {
+      "question": "Which type of learning takes place when an originally neutral stimulus comes to elicit a response that was originally given to another stimulus?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "operant conditioning"
+        },
+        {
+          "correct": true,
+          "text": "classical conditioning"
+        },
+        {
+          "correct": false,
+          "text": "observational learning"
+        },
+        {
+          "correct": false,
+          "text": "discovery learning"
+        }
+      ]
+    },
+    {
+      "question": "The application of behavioral principles to change an individual's behavior is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "shaping"
+        },
+        {
+          "correct": false,
+          "text": "extinction"
+        },
+        {
+          "correct": true,
+          "text": "behavior modification"
+        },
+        {
+          "correct": false,
+          "text": "stimulus generalization"
+        }
+      ]
+    },
+    {
+      "question": "Psychologists refer to classical conditioning as the process",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Systematically rewarding small sub-steps that are part of a more complex, multi-step behavior until the complex behavior is learned"
+        },
+        {
+          "correct": true,
+          "text": "By which a new stimulus elicits a response formerly elicited by another stimulus"
+        },
+        {
+          "correct": false,
+          "text": "In which a response is followed by a stimulus that leads to an increase or decrease in the frequency of the response"
+        },
+        {
+          "correct": false,
+          "text": "Producing identical responses similar to stimuli"
+        }
+      ]
+    },
+    {
+      "question": "Psychologists refer to operant conditioning as the process",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Systematically rewarding small sub-steps that are part of a more complex, multi-step behavior until the complex behavior is learned"
+        },
+        {
+          "correct": false,
+          "text": "By which a new stimulus elicits a response formerly elicited by another stimulus"
+        },
+        {
+          "correct": false,
+          "text": "In which a response is followed by a stimulus that leads to an increase or decrease in the frequency of the response"
+        },
+        {
+          "correct": false,
+          "text": "Producing identical responses similar to stimuli"
+        }
+      ]
+    },
+    {
+      "question": "A person who has had painful experiences at the dentist's office may become fearful at the mere sight of the dentist's office. Which theory can explain this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "generalization"
+        },
+        {
+          "correct": true,
+          "text": "classical conditioning"
+        },
+        {
+          "correct": false,
+          "text": "operant conditioning"
+        },
+        {
+          "correct": false,
+          "text": "attribution theory"
+        }
+      ]
+    },
+    {
+      "question": "In a treatment for alcoholism, Ramil was made to drink an alcoholic beverage then made to ingest a drug that produces nausea. Eventually, he was nauseated at the sight and smell of alcohol and stopped drinking alcohol. Which theory explains this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "operant conditioning"
+        },
+        {
+          "correct": false,
+          "text": "social learning theory"
+        },
+        {
+          "correct": true,
+          "text": "associative learning"
+        },
+        {
+          "correct": false,
+          "text": "attribution theory"
+        }
+      ]
+    },
+    {
+      "question": "When does punishment facilitate learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "When punishment ensures emotional reaction on the learner"
+        },
+        {
+          "correct": true,
+          "text": "When punishment follows the error immediately"
+        },
+        {
+          "correct": false,
+          "text": "When punishment is severe and is linked to the deed"
+        },
+        {
+          "correct": false,
+          "text": "When punishment has been effective in the past"
+        }
+      ]
+    },
+    {
+      "question": "Following the behaviorist theory of learning, which situation shows that learning has occured?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "When a pupil can write his name in class, a behavior he can also do at home"
+        },
+        {
+          "correct": true,
+          "text": "When a pupil can write his name, an act he couldn't do before"
+        },
+        {
+          "correct": false,
+          "text": "When the pupil learns to write his name in class"
+        },
+        {
+          "correct": false,
+          "text": "When the pupil can read and write his name simultaneously"
+        }
+      ]
+    },
+    {
+      "question": "When should reinforcement be used by a teacher to be effective?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "When applied to all behavior"
+        },
+        {
+          "correct": false,
+          "text": "When applied to good behavior"
+        },
+        {
+          "correct": true,
+          "text": "When applied to specific behavior"
+        },
+        {
+          "correct": false,
+          "text": "When applied to either good or bad behavior"
+        }
+      ]
+    },
+    {
+      "question": "Operant conditioning increases the likelihood of a response by following the behavior with a",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Response"
+        },
+        {
+          "correct": false,
+          "text": "Punishment"
+        },
+        {
+          "correct": false,
+          "text": "Deprivation"
+        },
+        {
+          "correct": true,
+          "text": "Reinforcer"
+        }
+      ]
+    },
+    {
+      "question": "A teacher who gives students 15 minutes of class time to spend on activities they enjoy for every hour they spend engaging in on-task behavior is using",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "positive reinforcement"
+        },
+        {
+          "correct": false,
+          "text": "negative reinforcement"
+        },
+        {
+          "correct": false,
+          "text": "shaping"
+        },
+        {
+          "correct": false,
+          "text": "extinction"
+        }
+      ]
+    },
+    {
+      "question": "A teacher who reduces by 5 minutes the amount of class time students can spend on activities they enjoy each time they engaged in disruptive behavior is using",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "negative reinforcement"
+        },
+        {
+          "correct": true,
+          "text": "punishment"
+        },
+        {
+          "correct": false,
+          "text": "extinction"
+        },
+        {
+          "correct": false,
+          "text": "shaping"
+        }
+      ]
+    },
+    {
+      "question": "A teacher who attempts to reduce the frequency of disruptive behavior in the classroom by ignoring the students when they engage in disruptive behavior is using",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "extinction"
+        },
+        {
+          "correct": false,
+          "text": "negative reinforcement"
+        },
+        {
+          "correct": false,
+          "text": "shaping"
+        },
+        {
+          "correct": false,
+          "text": "punishment"
+        }
+      ]
+    },
+    {
+      "question": "A teacher who reduces by 10 minutes the amount of time students must spend in detention for every hour they spend engaging in on-task behavior is using",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "extinction"
+        },
+        {
+          "correct": false,
+          "text": "positive reinforcement"
+        },
+        {
+          "correct": true,
+          "text": "negative reinforcement"
+        },
+        {
+          "correct": false,
+          "text": "shaping"
+        }
+      ]
+    },
+    {
+      "question": "Which is the consensus of psychologists about the emphasis of external rewards and punishment in the classroom?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It tends to overwork the law of effect so that it becomes ineffective"
+        },
+        {
+          "correct": true,
+          "text": "The pupils soon learn to work for the incentives rather than for the desirable learning"
+        },
+        {
+          "correct": false,
+          "text": "Its emphasis leads to effective learning"
+        },
+        {
+          "correct": false,
+          "text": "It will soon lead to excessive use of rewards and punishment"
+        }
+      ]
+    },
+    {
+      "question": "Which is a classroom application of the theory of operant conditioning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Reinforce a good behavior to increase the likelihood that the learner will repeat the response"
+        },
+        {
+          "correct": false,
+          "text": "Create a classroom atmosphere that elicits relaxation"
+        },
+        {
+          "correct": false,
+          "text": "Helps students see the connectedness of facts, concepts and principles"
+        },
+        {
+          "correct": false,
+          "text": "Make students learn by operating manipulatives"
+        }
+      ]
+    },
+    {
+      "question": "Watson applied classical conditioning in his experiments and the result showed that behavior is learned through stimulus-response associations, specifically the development of emotional responses to certain stimuli. This helps us in ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Interpreting reflexes as emotions"
+        },
+        {
+          "correct": true,
+          "text": "Understanding fear, phobias, and love"
+        },
+        {
+          "correct": false,
+          "text": "Connecting observable behavior to stimulus"
+        },
+        {
+          "correct": false,
+          "text": "Understanding the role of overt behavior"
+        }
+      ]
+    },
+    {
+      "question": "This cognitive learning theory emphasizes the need for students to be given opportunities to find relationship among concepts or search for solutions to a problem on their own. What theory is this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "meaningful learning theory"
+        },
+        {
+          "correct": true,
+          "text": "discovery theory"
+        },
+        {
+          "correct": false,
+          "text": "information processing theory"
+        },
+        {
+          "correct": false,
+          "text": "cumulative learning theory"
+        }
+      ]
+    },
+    {
+      "question": "In contrast to behaviorists' approach to learning, cognitivists emphasizes the important role of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "extrinsic motivation"
+        },
+        {
+          "correct": false,
+          "text": "maturation"
+        },
+        {
+          "correct": false,
+          "text": "environmental stimuli"
+        },
+        {
+          "correct": true,
+          "text": "thinking"
+        }
+      ]
+    },
+    {
+      "question": "According to cognitive psychologists, presenting new concepts to students should be done as a sequence. Which of the following responses represents the correct order for presenting new concepts?<br>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\">I. &nbsp; A prototype example<br>&nbsp; &nbsp; &nbsp; II. &nbsp; A non-example<br>&nbsp; &nbsp; &nbsp;III. &nbsp;The less obvious example<br>&nbsp; &nbsp; &nbsp;IV. &nbsp;The name and definition of the concept<br>&nbsp; &nbsp; &nbsp; V. &nbsp;Relevant and irrelevant attribute</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I, III, II, IV, V"
+        },
+        {
+          "correct": false,
+          "text": "II, IV, V, II, I"
+        },
+        {
+          "correct": true,
+          "text": "IV, V, I, III, II"
+        },
+        {
+          "correct": false,
+          "text": "IV, I, II, III, V"
+        }
+      ]
+    },
+    {
+      "question": "Transfer of learning easily takes place if the activities involved",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "are different"
+        },
+        {
+          "correct": true,
+          "text": "have identical elements"
+        },
+        {
+          "correct": false,
+          "text": "occur in the same place"
+        },
+        {
+          "correct": false,
+          "text": "vary in difficulty"
+        }
+      ]
+    },
+    {
+      "question": "Learning has taken place when a strong bond between stimulus and response is formed. This is based on the theory of ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "constructivism"
+        },
+        {
+          "correct": false,
+          "text": "categorization"
+        },
+        {
+          "correct": false,
+          "text": "predisposition"
+        },
+        {
+          "correct": true,
+          "text": "connectionism"
+        }
+      ]
+    },
+    {
+      "question": "A six-year-old child who has a mental age of eight years has an IQ of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "120"
+        },
+        {
+          "correct": false,
+          "text": "130"
+        },
+        {
+          "correct": false,
+          "text": "132"
+        },
+        {
+          "correct": true,
+          "text": "133"
+        }
+      ]
+    },
+    {
+      "question": "The ration obtained by dividing mental age by chronological age times 100 is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "derived quotient"
+        },
+        {
+          "correct": true,
+          "text": "intelligence quotient or IQ"
+        },
+        {
+          "correct": false,
+          "text": "deviation"
+        },
+        {
+          "correct": false,
+          "text": "intelligence ratio"
+        }
+      ]
+    },
+    {
+      "question": "What process involves the storing, preserving, and retrieving of learning accurately when a need tor such arises?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "teaching"
+        },
+        {
+          "correct": false,
+          "text": "transfer"
+        },
+        {
+          "correct": false,
+          "text": "learning"
+        },
+        {
+          "correct": true,
+          "text": "retention"
+        }
+      ]
+    },
+    {
+      "question": "One of the following is an effective means of ensuring transfer of learning",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Use of pictures and different aids"
+        },
+        {
+          "correct": false,
+          "text": "Use of study guides"
+        },
+        {
+          "correct": true,
+          "text": "Use of true to life, in and out of school situations"
+        },
+        {
+          "correct": false,
+          "text": "Use of varied examples"
+        }
+      ]
+    },
+    {
+      "question": "In a rehearsal process, the individual",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Actively process information that is currently in the short-term memory"
+        },
+        {
+          "correct": false,
+          "text": "Attends to incoming information"
+        },
+        {
+          "correct": false,
+          "text": "Tries to retrieve information from long-term memory"
+        },
+        {
+          "correct": false,
+          "text": "Retains information for up to approximately 20 to 30 seconds"
+        }
+      ]
+    },
+    {
+      "question": "Increasing short term memory duration and capacity would involve",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "retrieval and reconstruction"
+        },
+        {
+          "correct": false,
+          "text": "interference and decay"
+        },
+        {
+          "correct": true,
+          "text": "rehearsal and chunking"
+        },
+        {
+          "correct": false,
+          "text": "productions"
+        }
+      ]
+    },
+    {
+      "question": "Which one does NOT directly affect retention of learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "student's learning style"
+        },
+        {
+          "correct": false,
+          "text": "sense and meaning"
+        },
+        {
+          "correct": false,
+          "text": "practice provided"
+        },
+        {
+          "correct": true,
+          "text": "learner's physical characteristics"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is true about attention?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Humans can attend to unlimited number of incoming stimuli"
+        },
+        {
+          "correct": false,
+          "text": "Humans can attend to seven plus or minus two incoming stimuli"
+        },
+        {
+          "correct": false,
+          "text": "Humans can attend to two different stimuli simultaneously"
+        },
+        {
+          "correct": true,
+          "text": "Humans can attend to only one stimulus at a time"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements concerning long-term memory is false?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It has seemingly unlimited capacity"
+        },
+        {
+          "correct": false,
+          "text": "Retrieval from it depends on organization"
+        },
+        {
+          "correct": true,
+          "text": "Information enters it without any effort of intention"
+        },
+        {
+          "correct": false,
+          "text": "Information can be stored in it for a lifetime"
+        }
+      ]
+    },
+    {
+      "question": "One important distinction of memory concerns the three stages of memory. These stages are",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "chunking, encoding, storage"
+        },
+        {
+          "correct": false,
+          "text": "encoding, chunking, retrieval"
+        },
+        {
+          "correct": true,
+          "text": "encoding, storage, retrieval"
+        },
+        {
+          "correct": false,
+          "text": "storage, chunking, retrieval"
+        }
+      ]
+    },
+    {
+      "question": "It is sound to encourage students to define terms in their own words because _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Defining terms in their own words helps them memorize the definition faster"
+        },
+        {
+          "correct": true,
+          "text": "Students remember information better when they mentally process it in some way"
+        },
+        {
+          "correct": false,
+          "text": "This is one opportunity to brush up with their English"
+        },
+        {
+          "correct": false,
+          "text": "They ought to connect the terms that they learn with other terms"
+        }
+      ]
+    },
+    {
+      "question": "Who first formalized and explored systematically the observational learning theory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ausubel"
+        },
+        {
+          "correct": false,
+          "text": "Gane"
+        },
+        {
+          "correct": true,
+          "text": "Bandura"
+        },
+        {
+          "correct": false,
+          "text": "Kohler"
+        }
+      ]
+    },
+    {
+      "question": "Guia and Bea often see their teacher brush her teeth, fix her hair, and powder her face after lunch. After some time, the two girls were observed doing the same things, what theory of learning is involved in this situation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "classical conditioning"
+        },
+        {
+          "correct": false,
+          "text": "information processing"
+        },
+        {
+          "correct": true,
+          "text": "social learning"
+        },
+        {
+          "correct": false,
+          "text": "discovery learning"
+        }
+      ]
+    },
+    {
+      "question": "Social learning involves four processes. One of these is done by acting out the behavior learned from other people. Which is this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "attention"
+        },
+        {
+          "correct": false,
+          "text": "retention"
+        },
+        {
+          "correct": true,
+          "text": "production"
+        },
+        {
+          "correct": false,
+          "text": "motivation"
+        }
+      ]
+    },
+    {
+      "question": "Ms. Aleta an English teacher pointed out to the students the specific elements in amking well-written paragraphs. What element of observational learning is demonstrated?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "attentiion"
+        },
+        {
+          "correct": false,
+          "text": "retention"
+        },
+        {
+          "correct": false,
+          "text": "motivation"
+        },
+        {
+          "correct": false,
+          "text": "production"
+        }
+      ]
+    },
+    {
+      "question": "Which is an underlying assumption of the social cognitive theory? People _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "are social by nature"
+        },
+        {
+          "correct": true,
+          "text": "learn by observing others"
+        },
+        {
+          "correct": false,
+          "text": "learn by trial-and-error"
+        },
+        {
+          "correct": false,
+          "text": "learn by association"
+        }
+      ]
+    },
+    {
+      "question": "Based on Bandura's theory, which conditions must be present for a student to learn from a <br>model?<br>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\">I. &nbsp; &nbsp; Attention<br>&nbsp; &nbsp; &nbsp; II. &nbsp; &nbsp; Retention<br>&nbsp; &nbsp; &nbsp;III. &nbsp; &nbsp; Motor Reproduction<br>&nbsp; &nbsp; &nbsp;IV. &nbsp; &nbsp; Motivation</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "I, II, III, and IV"
+        },
+        {
+          "correct": false,
+          "text": "II and IV"
+        },
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "I, II, and III"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Stef, a science teacher, makes sure all eyes are on her as she demonstrates the proper way to light the Bunsen Burner. Whose theory supports Teacher Stef's practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Vygotsky's"
+        },
+        {
+          "correct": false,
+          "text": "Thorndike"
+        },
+        {
+          "correct": false,
+          "text": "Piaget's"
+        },
+        {
+          "correct": true,
+          "text": "Bandura's"
+        }
+      ]
+    },
+    {
+      "question": "Which BEST describes the attitudes and personal views that people hold and which greatly influence their behavior?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Attitudes are formed primarily through maturation"
+        },
+        {
+          "correct": true,
+          "text": "They are learned through observation, imitation, and development of moral concepts"
+        },
+        {
+          "correct": false,
+          "text": "They are best developed through discussions of social and moral theories"
+        },
+        {
+          "correct": false,
+          "text": "They can best be imbibed through a study of the country's heroes"
+        }
+      ]
+    },
+    {
+      "question": "Every time Ms. Bautista presents a new unit, she does so with the use of an advance organizer. Which principle does she apply?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Provide the correct response on the first trial"
+        },
+        {
+          "correct": false,
+          "text": "Arrange for appropriate practice"
+        },
+        {
+          "correct": false,
+          "text": "Arrange materials into appropriate learning units"
+        },
+        {
+          "correct": true,
+          "text": "Assists students to identify meaningful relationships"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following best describes what meaningful learning is?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "When what is to be learned is new and easy for the students"
+        },
+        {
+          "correct": false,
+          "text": "Materials presented are difficult and challenging to the students"
+        },
+        {
+          "correct": true,
+          "text": "When the materials to be learned are related to what the students already know"
+        },
+        {
+          "correct": false,
+          "text": "Students find the lessons easy and relevant to what was assigned to them"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Z always checks on entry knowledge and skills before she proceeds to her new lesson. On which principle is teacher Z's practice grounded?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Effective teaching from the concrete to the abstract"
+        },
+        {
+          "correct": false,
+          "text": "Attention is essential to learning"
+        },
+        {
+          "correct": false,
+          "text": "Learning increases when the lesson is relevant"
+        },
+        {
+          "correct": true,
+          "text": "New learning builds on previous learning"
+        }
+      ]
+    },
+    {
+      "question": "According to Ausubel, one of the ways to strengthen the students' cognitive structure is by using an instructional tool called _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cross-referencing"
+        },
+        {
+          "correct": false,
+          "text": "spiral approach"
+        },
+        {
+          "correct": true,
+          "text": "advance organizer"
+        },
+        {
+          "correct": false,
+          "text": "narrative"
+        }
+      ]
+    },
+    {
+      "question": "According to Gagne. educational programs have the ultimate purpose of teaching students to ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "define concepts"
+        },
+        {
+          "correct": true,
+          "text": "solve problems"
+        },
+        {
+          "correct": false,
+          "text": "identify relationships"
+        },
+        {
+          "correct": false,
+          "text": "memorize critical facts"
+        }
+      ]
+    },
+    {
+      "question": "According to Robert Gagne, all types of learning outcomes can be categorized into which of the following taxonomies?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Awareness, knowledge, and application"
+        },
+        {
+          "correct": false,
+          "text": "Cognitive, affective, psychomotor"
+        },
+        {
+          "correct": true,
+          "text": "Verbal informational, intellectual skills, cognitive strategies, motor skills and attitudes"
+        },
+        {
+          "correct": false,
+          "text": "Knowledge, comprehension, application, analysis, synthesis evalutation"
+        }
+      ]
+    },
+    {
+      "question": "Which of the theories of learning presents or states that learning skills are hierarchically arranged?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "theory of instruction"
+        },
+        {
+          "correct": true,
+          "text": "cumulative learning"
+        },
+        {
+          "correct": false,
+          "text": "meaningful learning"
+        },
+        {
+          "correct": false,
+          "text": "social cognitive learning"
+        }
+      ]
+    },
+    {
+      "question": "What does Gagne's hierarchical theory propose for effective instruction?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Sequence instruction"
+        },
+        {
+          "correct": false,
+          "text": "Reward good behavior"
+        },
+        {
+          "correct": false,
+          "text": "Be concerned with the socio-emotional climate in the classroom"
+        },
+        {
+          "correct": false,
+          "text": "Teach beginning with the concrete"
+        }
+      ]
+    },
+    {
+      "question": "Who proposed the concept that all possess several intelligences but varying degrees of strength and skill?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Thorndike"
+        },
+        {
+          "correct": false,
+          "text": "Ausubel"
+        },
+        {
+          "correct": true,
+          "text": "Gardner"
+        },
+        {
+          "correct": false,
+          "text": "Dewey"
+        }
+      ]
+    },
+    {
+      "question": "Which behavior is exhibited by a student who is string in interpersonal intelligence?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Work on his own"
+        },
+        {
+          "correct": false,
+          "text": "Spends time meditating"
+        },
+        {
+          "correct": false,
+          "text": "Keeps interest to himself"
+        },
+        {
+          "correct": true,
+          "text": "Seeks out a classmate for help when problem occurs"
+        }
+      ]
+    },
+    {
+      "question": "Which learning principle marks the highlight of Multiple Intelligence?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learning is static and permanent"
+        },
+        {
+          "correct": true,
+          "text": "Intelligence is not measured in one form"
+        },
+        {
+          "correct": false,
+          "text": "Cognitive theory is stressed in learning"
+        },
+        {
+          "correct": false,
+          "text": "People have different IQ level"
+        }
+      ]
+    },
+    {
+      "question": "Identify the ninth intelligence which is described as the ability to seek connection involving one's place in the family, school, community, and \"role in the world\". They seek \"why are we here?\" This intelligence is termed _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Naturalist"
+        },
+        {
+          "correct": false,
+          "text": "Interpersonal"
+        },
+        {
+          "correct": false,
+          "text": "Intrapersonal"
+        },
+        {
+          "correct": true,
+          "text": "Existensialist"
+        }
+      ]
+    },
+    {
+      "question": "Which can enhance the development of visual intelligence?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hands-on demonstration"
+        },
+        {
+          "correct": false,
+          "text": "environmental study"
+        },
+        {
+          "correct": false,
+          "text": "concept miming"
+        },
+        {
+          "correct": true,
+          "text": "concept mapping"
+        }
+      ]
+    },
+    {
+      "question": "Which of these activities is NOT appealing to the bodily-kinesthetic learners?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "making Math problems"
+        },
+        {
+          "correct": false,
+          "text": "doing simple calisthenics"
+        },
+        {
+          "correct": false,
+          "text": "sketching"
+        },
+        {
+          "correct": false,
+          "text": "joining intramural events"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following basis for learning is related to the individual's desire and interest to learn?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "motivation"
+        },
+        {
+          "correct": false,
+          "text": "values"
+        },
+        {
+          "correct": false,
+          "text": "self-concept"
+        },
+        {
+          "correct": false,
+          "text": "talents"
+        }
+      ]
+    },
+    {
+      "question": "Increased student interest and motivation can be provided by ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Making students active partners in the teaching/learning acts"
+        },
+        {
+          "correct": false,
+          "text": "Asking students to help set realistic goals and providing information to both teacher and students to see if the goals are achieved"
+        },
+        {
+          "correct": false,
+          "text": "Showing students that they &nbsp;have progressed to give them satisfaction and desire to continue to learn"
+        },
+        {
+          "correct": true,
+          "text": "All of the above"
+        }
+      ]
+    },
+    {
+      "question": "The following EXCEPT ONE are important considerations for learners to be motivated to learn. Which is the exception?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "If learners are ready"
+        },
+        {
+          "correct": false,
+          "text": "If the goals are clear"
+        },
+        {
+          "correct": true,
+          "text": "If learnings are beyond their ability levels"
+        },
+        {
+          "correct": false,
+          "text": "If they are given regular, positive reinforcement"
+        }
+      ]
+    },
+    {
+      "question": "Which exemplifies intrinsic motivation? \"I want to learn to perform mathematical operations fast...\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "So I will get higher grades in Math"
+        },
+        {
+          "correct": false,
+          "text": "So I will win the Quiz Bee Contest"
+        },
+        {
+          "correct": true,
+          "text": "So I can solve more difficult mathematical problems"
+        },
+        {
+          "correct": false,
+          "text": "So Dad can give me the watch he promised"
+        }
+      ]
+    },
+    {
+      "question": "When does an individual learn more readily?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "When under the control of school standard"
+        },
+        {
+          "correct": false,
+          "text": "When activities are individualized"
+        },
+        {
+          "correct": false,
+          "text": "When tasks are easy"
+        },
+        {
+          "correct": true,
+          "text": "When motivated intrinsically"
+        }
+      ]
+    },
+    {
+      "question": "Which educational issue can be clarified by understanding Maslow's Needs Theory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Sex education issues in school"
+        },
+        {
+          "correct": false,
+          "text": "Delinquency in the public schools"
+        },
+        {
+          "correct": false,
+          "text": "The effects of different classroom structures"
+        },
+        {
+          "correct": true,
+          "text": "The effects of poverty on academic achievement"
+        }
+      ]
+    },
+    {
+      "question": "If a teacher accepts Maslow's theory on the hierarchy of needs, he or she will probably structure objectives to:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "meet both the physiological and intellectual needs of students"
+        },
+        {
+          "correct": false,
+          "text": "eliminate testing"
+        },
+        {
+          "correct": false,
+          "text": "eliminate extrinsic motivations"
+        },
+        {
+          "correct": false,
+          "text": "maintain a certain anxiety level for increased competition"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following theories led its proponent, Wolfgang Kohler, based on is studies on apes, to conclude that learning was a result of insightful solution bot blind trial and error?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Field theory"
+        },
+        {
+          "correct": true,
+          "text": "Problem solving"
+        },
+        {
+          "correct": false,
+          "text": "Theory of instruction"
+        },
+        {
+          "correct": false,
+          "text": "Observational learning"
+        }
+      ]
+    },
+    {
+      "question": "After reading and paraphrasing Robert Frost's <i>Stopping by the Woods on a Snowy Evening, </i>Mr. Marquez asks the class to share insight derived from the poem (Answer #67-68)<br><br>On which assumption about the learner is Mr. Marquez's act of asking the class to share their insight based?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Learners are producers of knowledge not only passive recipients of information"
+        },
+        {
+          "correct": false,
+          "text": "Learners are meant to interact with one another"
+        },
+        {
+          "correct": false,
+          "text": "Learners are like empty receptacles waiting to be filled up"
+        },
+        {
+          "correct": false,
+          "text": "Learners have multiple intelligences and varied learning styles"
+        }
+      ]
+    },
+    {
+      "question": "The class was asked to share their insights about the poem. The ability to come up with an insight stems from the ability to ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Comprehend the subject that is being studied"
+        },
+        {
+          "correct": false,
+          "text": "Analyze the parts of the whole"
+        },
+        {
+          "correct": false,
+          "text": "Evaluate the worthiness of a thing"
+        },
+        {
+          "correct": true,
+          "text": "Relate and organize things and ideas"
+        }
+      ]
+    },
+    {
+      "question": "Which psychological theory states that the mind insists on finding patterns in things that contribute to the development of insight?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Piaget's"
+        },
+        {
+          "correct": false,
+          "text": "Kohlberg's"
+        },
+        {
+          "correct": true,
+          "text": "Gestalt's"
+        },
+        {
+          "correct": false,
+          "text": "Bruner's"
+        }
+      ]
+    },
+    {
+      "question": "What is more likely to happen if teachers foster conformity?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Students would become affective learners"
+        },
+        {
+          "correct": false,
+          "text": "Discipline problems would be minimized"
+        },
+        {
+          "correct": true,
+          "text": "Full development of each individual personality is prevented"
+        },
+        {
+          "correct": false,
+          "text": "All of the above"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements will not support the concept of individual differences?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Use varied activities for a difficult lesson"
+        },
+        {
+          "correct": false,
+          "text": "Consider the uniqueness of each student"
+        },
+        {
+          "correct": true,
+          "text": "Involve all students regardless of what the activity is"
+        },
+        {
+          "correct": false,
+          "text": "Help should be extended to both gifted and retarded"
+        }
+      ]
+    },
+    {
+      "question": "An effective way for teachers to deal with student's individual differences is to use",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Vicarious reinforcement"
+        },
+        {
+          "correct": false,
+          "text": "The principles of shaping and extinction"
+        },
+        {
+          "correct": true,
+          "text": "A variety of instructional materials"
+        },
+        {
+          "correct": false,
+          "text": "Rewards rather than punishment"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Vicky asked her pupils to check their own drawn map using geography book; that gives children experience in",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "peer evaluation"
+        },
+        {
+          "correct": false,
+          "text": "rubric evaluation"
+        },
+        {
+          "correct": true,
+          "text": "independent evaluation"
+        },
+        {
+          "correct": false,
+          "text": "portfolio evaluation"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following principles of learning applies considering students' age and in presenting certain content and cognitive processes?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Principle of readiness"
+        },
+        {
+          "correct": false,
+          "text": "Principle of learning by doing"
+        },
+        {
+          "correct": false,
+          "text": "Principle of presenting challenging tasks"
+        },
+        {
+          "correct": false,
+          "text": "Principles of learning aided by formulating and asking question"
+        }
+      ]
+    },
+    {
+      "question": "Which statement best explains the Law of Effect?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learning involves repetition of learned activity"
+        },
+        {
+          "correct": false,
+          "text": "The law effect is best applied in Math learning"
+        },
+        {
+          "correct": true,
+          "text": "Learning is affected by the satisfaction it provides"
+        },
+        {
+          "correct": false,
+          "text": "The law of effect implies automatic response learning"
+        }
+      ]
+    },
+    {
+      "question": "Jordan loves to read. To encourage him to do Math, his teacher rewards him with fifteen minute free reading time for every thirty minutes he works on his math. Which type of reward does the teacher's strategy represent?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "extrinsic reward"
+        },
+        {
+          "correct": false,
+          "text": "intrinsic reward"
+        },
+        {
+          "correct": false,
+          "text": "achievement motivation reward"
+        },
+        {
+          "correct": false,
+          "text": "attribution reward"
+        }
+      ]
+    },
+    {
+      "question": "Guadalupe loves o do Math, but hates reading. To encourage her to spend time reading, her teacher introduces books on topics she thinks Guadalupe will enjoy. She starts by gicing her a book about a girl who loves to do Math. What type of reward does the teacher's strategy represent?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "extrinsic reward"
+        },
+        {
+          "correct": true,
+          "text": "intrinsic reward"
+        },
+        {
+          "correct": false,
+          "text": "achievement motivation reward"
+        },
+        {
+          "correct": false,
+          "text": "attribution reward"
+        }
+      ]
+    },
+    {
+      "question": "A basic premise of attribution theory is that human motivation is a product of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Two competing needs: the need to achieve success and the need to avoid failure"
+        },
+        {
+          "correct": true,
+          "text": "Our belief about the cause of our successes and failures"
+        },
+        {
+          "correct": false,
+          "text": "A hierarchical organization of needs from basic to higher needs"
+        },
+        {
+          "correct": false,
+          "text": "Our belief that we can produce behavior that lead to specific outcomes"
+        }
+      ]
+    },
+    {
+      "question": "Maribel doesn't enjoy writing but can't escape from it. She has to finish it in order to graduate. Mara has always liked to write. She really likes to become a better writer because she wants to be a journalist someday. Who is likely to be more focused on the writing activity and why?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Mara, because she is intrinsically motivated."
+        },
+        {
+          "correct": false,
+          "text": "Maribel, because she is extrinsically motivated."
+        },
+        {
+          "correct": false,
+          "text": "Both, because they are both motivated anyway."
+        },
+        {
+          "correct": false,
+          "text": "It cannot be determined. Motivation fluctuates."
+        }
+      ]
+    },
+    {
+      "question": "The following are ways by which activities may be learned. One of these should not be included. Which one is this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Conditioning"
+        },
+        {
+          "correct": false,
+          "text": "Personal intention"
+        },
+        {
+          "correct": false,
+          "text": "Observing / imitating"
+        },
+        {
+          "correct": true,
+          "text": "Performance"
+        }
+      ]
+    },
+    {
+      "question": "What is more likely to happen when a student gets intrinsically motivated?<br>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\">I. &nbsp; &nbsp; Tackles assigned task willingly<br>&nbsp; &nbsp; &nbsp; II. &nbsp; &nbsp; Eager to learn classroom material<br>&nbsp; &nbsp; &nbsp;III. &nbsp; &nbsp; Engaged in meaningful learning<br></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "I, II, and III"
+        },
+        {
+          "correct": false,
+          "text": "I and III"
+        },
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "II and III"
+        }
+      ]
+    },
+    {
+      "question": "Which apply / applies to extrinsically motivated learners?<br>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\">I. &nbsp; &nbsp; Tend to process information superficially<br>&nbsp; &nbsp; &nbsp; II. &nbsp; &nbsp; Tend to be content with meeting minimum requirements<br>&nbsp; &nbsp; &nbsp;III. &nbsp; &nbsp; Achieve at high level</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "II only"
+        },
+        {
+          "correct": false,
+          "text": "I and III"
+        },
+        {
+          "correct": false,
+          "text": "I only"
+        }
+      ]
+    },
+    {
+      "question": "Asked to do a learning task, Gino hesitates and says, \"Mahirap ayaw ko. Di ko kaya!\"<br>Which statement about Gino is correct?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Gino has a low sense of self-efficacy"
+        },
+        {
+          "correct": false,
+          "text": "Gino has a high sense of self-efficacy"
+        },
+        {
+          "correct": false,
+          "text": "Gino has no sense of self-efficacy"
+        },
+        {
+          "correct": false,
+          "text": "Gino wants to be sure of his self-efficacy"
+        }
+      ]
+    },
+    {
+      "question": "To which factor can you attribute Gino's perceived inability to perform the task? To a factor ____<br>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\">I. &nbsp; &nbsp; Within him<br>&nbsp; &nbsp; &nbsp; II. &nbsp; &nbsp; Outside his control<br>&nbsp; &nbsp; &nbsp;III. &nbsp; &nbsp; Which is stable<br>&nbsp; &nbsp; &nbsp;IV. &nbsp; &nbsp; Within his control</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "I and IV"
+        },
+        {
+          "correct": false,
+          "text": "II and III"
+        },
+        {
+          "correct": false,
+          "text": "I only"
+        },
+        {
+          "correct": false,
+          "text": "IV only"
+        }
+      ]
+    },
+    {
+      "question": "To which problem does the case of the student allude?<br>&nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\">I. &nbsp; &nbsp; Unmotivated students<br>&nbsp; &nbsp; &nbsp; II. &nbsp; &nbsp; Incompetent teachers<br>&nbsp; &nbsp; &nbsp;III. &nbsp; &nbsp; Extremely difficult learning tasks<br>&nbsp; &nbsp; &nbsp;IV. &nbsp; &nbsp; Uncaring teachers</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": true,
+          "text": "I and III"
+        },
+        {
+          "correct": false,
+          "text": "II and III"
+        },
+        {
+          "correct": false,
+          "text": "I, II, and III"
+        }
+      ]
+    }
+  ]
+}
