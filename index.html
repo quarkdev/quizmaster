@@ -114,6 +114,13 @@
 					$('#save-quiz').trigger('click');
 				}
 			}
+
+			if (event.ctrlKey && event.keyCode === 188) {
+				QuizMaster.toggleSub();
+			}
+			else if (event.ctrlKey && event.keyCode === 190) {
+				QuizMaster.toggleSup();
+			}
 		};
 
 		document.body.onkeyup = function(event) {

@@ -1,0 +1,3154 @@
+{
+  "name": "English - Intensive (Set 1)",
+  "description": "...",
+  "duration": 45,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "He did the job <u>poorly</u>. The underlined word is an adverb of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "place"
+        },
+        {
+          "correct": false,
+          "text": "frequency"
+        },
+        {
+          "correct": false,
+          "text": "certainty"
+        },
+        {
+          "correct": true,
+          "text": "manner"
+        }
+      ]
+    },
+    {
+      "question": "Marites is _____ than Maricar.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tall"
+        },
+        {
+          "correct": true,
+          "text": "taller"
+        },
+        {
+          "correct": false,
+          "text": "more taller"
+        },
+        {
+          "correct": false,
+          "text": "tallest"
+        }
+      ]
+    },
+    {
+      "question": "The crowd was cheering _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "beautifully"
+        },
+        {
+          "correct": false,
+          "text": "quietly"
+        },
+        {
+          "correct": false,
+          "text": "quickly"
+        },
+        {
+          "correct": true,
+          "text": "wildly"
+        }
+      ]
+    },
+    {
+      "question": "The contestants spoke _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "surely"
+        },
+        {
+          "correct": false,
+          "text": "totally"
+        },
+        {
+          "correct": true,
+          "text": "nervously"
+        },
+        {
+          "correct": false,
+          "text": "mercifully"
+        }
+      ]
+    },
+    {
+      "question": "Let's do our work _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "promptly"
+        },
+        {
+          "correct": false,
+          "text": "entirely"
+        },
+        {
+          "correct": false,
+          "text": "deeply"
+        },
+        {
+          "correct": false,
+          "text": "shyly"
+        }
+      ]
+    },
+    {
+      "question": "Everyone clapped _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "calmly"
+        },
+        {
+          "correct": false,
+          "text": "clearly"
+        },
+        {
+          "correct": true,
+          "text": "enthusiastically"
+        },
+        {
+          "correct": false,
+          "text": "slowly"
+        }
+      ]
+    },
+    {
+      "question": "The announcement came _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "heavily"
+        },
+        {
+          "correct": false,
+          "text": "rapidly"
+        },
+        {
+          "correct": false,
+          "text": "badly"
+        },
+        {
+          "correct": true,
+          "text": "suddenly"
+        }
+      ]
+    },
+    {
+      "question": "They key turned _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "proudly"
+        },
+        {
+          "correct": false,
+          "text": "entirely"
+        },
+        {
+          "correct": true,
+          "text": "easily"
+        },
+        {
+          "correct": false,
+          "text": "softly"
+        }
+      ]
+    },
+    {
+      "question": "They treated the applications _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "strongly"
+        },
+        {
+          "correct": true,
+          "text": "confidentially"
+        },
+        {
+          "correct": false,
+          "text": "quietly"
+        },
+        {
+          "correct": false,
+          "text": "softly"
+        }
+      ]
+    },
+    {
+      "question": "Read the letter _____ please.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "confidentially"
+        },
+        {
+          "correct": true,
+          "text": "orally"
+        },
+        {
+          "correct": false,
+          "text": "bravely"
+        },
+        {
+          "correct": false,
+          "text": "easily"
+        }
+      ]
+    },
+    {
+      "question": "The verb that fits the sentence: \"Vincent _____ the concert wholesome\" is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "found"
+        },
+        {
+          "correct": false,
+          "text": "attended"
+        },
+        {
+          "correct": false,
+          "text": "directed"
+        },
+        {
+          "correct": false,
+          "text": "listened"
+        }
+      ]
+    },
+    {
+      "question": "We are _____ going to have to face reality that the resources of the earth are _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "finally - limitless"
+        },
+        {
+          "correct": true,
+          "text": "eventually - finite"
+        },
+        {
+          "correct": false,
+          "text": "quickly - available"
+        },
+        {
+          "correct": false,
+          "text": "seldom - vanished"
+        }
+      ]
+    },
+    {
+      "question": "From her _____ manner, we could tell she was of _____ birth.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "regal - royal"
+        },
+        {
+          "correct": false,
+          "text": "courteous - illegitimate"
+        },
+        {
+          "correct": false,
+          "text": "refined - common"
+        },
+        {
+          "correct": false,
+          "text": "boorish - noble"
+        }
+      ]
+    },
+    {
+      "question": "As she _____ retirement, Jose became more thoughtful and withdrawn.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "derived"
+        },
+        {
+          "correct": true,
+          "text": "neared"
+        },
+        {
+          "correct": false,
+          "text": "sighted"
+        },
+        {
+          "correct": false,
+          "text": "circled"
+        }
+      ]
+    },
+    {
+      "question": "After such _____ dinner, we were all quick to _____ Fe for her delicious cooking.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "a sumptuous - avoid"
+        },
+        {
+          "correct": true,
+          "text": "a wonderful - thank"
+        },
+        {
+          "correct": false,
+          "text": "a heavy - applaud"
+        },
+        {
+          "correct": false,
+          "text": "a delightful - console"
+        }
+      ]
+    },
+    {
+      "question": "The presence of uniformed and armed guards _____ us from doing anything disruptive.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "encouraged"
+        },
+        {
+          "correct": true,
+          "text": "prevented"
+        },
+        {
+          "correct": false,
+          "text": "defeated"
+        },
+        {
+          "correct": false,
+          "text": "irritated"
+        }
+      ]
+    },
+    {
+      "question": "Because of her _____ sense of her own importance, Katrina often tried to _____ our activities.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "egoistic - diffuse"
+        },
+        {
+          "correct": false,
+          "text": "modest - dominate"
+        },
+        {
+          "correct": false,
+          "text": "insecure - violate"
+        },
+        {
+          "correct": true,
+          "text": "exaggerated - monopolize"
+        }
+      ]
+    },
+    {
+      "question": "The indirect object in the sentence: Vince sent her a beautiful card from Rome is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "her"
+        },
+        {
+          "correct": false,
+          "text": "Rome"
+        },
+        {
+          "correct": false,
+          "text": "card"
+        },
+        {
+          "correct": false,
+          "text": "Vince"
+        }
+      ]
+    },
+    {
+      "question": "The direct object in sentence no. 18 is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "her"
+        },
+        {
+          "correct": false,
+          "text": "Rom"
+        },
+        {
+          "correct": true,
+          "text": "card"
+        },
+        {
+          "correct": false,
+          "text": "Vince"
+        }
+      ]
+    },
+    {
+      "question": "Theresa should be _____ to complain, since her salary is _____ with her productivity.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "entitled - alleviated"
+        },
+        {
+          "correct": false,
+          "text": "brought - balance"
+        },
+        {
+          "correct": false,
+          "text": "right - proportionate"
+        },
+        {
+          "correct": false,
+          "text": "loath - commensurate"
+        }
+      ]
+    },
+    {
+      "question": "Jenny _____ a new pair of shoes yesterday.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "buys"
+        },
+        {
+          "correct": false,
+          "text": "buyed"
+        },
+        {
+          "correct": false,
+          "text": "bring"
+        },
+        {
+          "correct": true,
+          "text": "bought"
+        }
+      ]
+    },
+    {
+      "question": "Stealing of property both intellectual or physical is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "prescribed"
+        },
+        {
+          "correct": true,
+          "text": "proscribed"
+        },
+        {
+          "correct": false,
+          "text": "forgotten"
+        },
+        {
+          "correct": false,
+          "text": "eliminated"
+        }
+      ]
+    },
+    {
+      "question": "Andres Bonifacio and Gregorio del Pilar are epitomes of _____ gentlemen who could never be intimidated.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "timid"
+        },
+        {
+          "correct": true,
+          "text": "optimistic"
+        },
+        {
+          "correct": false,
+          "text": "careful"
+        },
+        {
+          "correct": false,
+          "text": "daughty"
+        }
+      ]
+    },
+    {
+      "question": "The courier brought a/an _____ from the University stating that she passed the scholarship exams.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "package"
+        },
+        {
+          "correct": false,
+          "text": "gift"
+        },
+        {
+          "correct": false,
+          "text": "express"
+        },
+        {
+          "correct": true,
+          "text": "epistle"
+        }
+      ]
+    },
+    {
+      "question": "An acrobat should be strong and _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sure"
+        },
+        {
+          "correct": true,
+          "text": "lithe"
+        },
+        {
+          "correct": false,
+          "text": "formal"
+        },
+        {
+          "correct": false,
+          "text": "tired"
+        }
+      ]
+    },
+    {
+      "question": "More money should be _____ for educational purposes.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "purchased"
+        },
+        {
+          "correct": true,
+          "text": "earmarked"
+        },
+        {
+          "correct": false,
+          "text": "squandered"
+        },
+        {
+          "correct": false,
+          "text": "doubled"
+        }
+      ]
+    },
+    {
+      "question": "A sentence with a compound subject and without a dependent clause can _____ be called a _____ sentence.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "always - compound"
+        },
+        {
+          "correct": false,
+          "text": "sometimes - compound"
+        },
+        {
+          "correct": false,
+          "text": "never - simple"
+        },
+        {
+          "correct": true,
+          "text": "always - simple"
+        }
+      ]
+    },
+    {
+      "question": "To tremble during a major earthquake is to _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "glower"
+        },
+        {
+          "correct": true,
+          "text": "cower"
+        },
+        {
+          "correct": false,
+          "text": "shower"
+        },
+        {
+          "correct": false,
+          "text": "tower"
+        }
+      ]
+    },
+    {
+      "question": "When one is restive one doesn't have much _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "restlessness"
+        },
+        {
+          "correct": false,
+          "text": "animosity"
+        },
+        {
+          "correct": true,
+          "text": "equilibrium"
+        },
+        {
+          "correct": false,
+          "text": "equanimity"
+        }
+      ]
+    },
+    {
+      "question": "The strap of Lisa's bag is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "changeable"
+        },
+        {
+          "correct": false,
+          "text": "changable"
+        },
+        {
+          "correct": false,
+          "text": "changeble"
+        },
+        {
+          "correct": false,
+          "text": "chaengable"
+        }
+      ]
+    },
+    {
+      "question": "Fill out the tag question for \"There are three mugs of coffee on the table _____?\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "aren't there"
+        },
+        {
+          "correct": false,
+          "text": "ain't it"
+        },
+        {
+          "correct": false,
+          "text": "are there"
+        },
+        {
+          "correct": false,
+          "text": "isn't there"
+        }
+      ]
+    },
+    {
+      "question": "A lot of _____ goods are sold in their store.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "foregn"
+        },
+        {
+          "correct": true,
+          "text": "foreign"
+        },
+        {
+          "correct": false,
+          "text": "foriegn"
+        },
+        {
+          "correct": false,
+          "text": "foreighn"
+        }
+      ]
+    },
+    {
+      "question": "The New Year celebration of the _____ was grandiose.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "millenium"
+        },
+        {
+          "correct": false,
+          "text": "millenniumm"
+        },
+        {
+          "correct": false,
+          "text": "milennium"
+        },
+        {
+          "correct": true,
+          "text": "millennium"
+        }
+      ]
+    },
+    {
+      "question": "The gypsy's _____ smile revealed her motive.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "mistchievous"
+        },
+        {
+          "correct": false,
+          "text": "mischeivous"
+        },
+        {
+          "correct": true,
+          "text": "mischievous"
+        },
+        {
+          "correct": false,
+          "text": "mischiivous"
+        }
+      ]
+    },
+    {
+      "question": "Which phrase would best complete the sentence, \"Give the award to _____\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "whoever finishes the task first"
+        },
+        {
+          "correct": false,
+          "text": "whomever finishes the task first"
+        },
+        {
+          "correct": false,
+          "text": "who finishes the task first"
+        },
+        {
+          "correct": false,
+          "text": "which finishes the task first"
+        }
+      ]
+    },
+    {
+      "question": "The _____ is perfect for a picnic.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "weather"
+        },
+        {
+          "correct": false,
+          "text": "wether"
+        },
+        {
+          "correct": false,
+          "text": "wheather"
+        },
+        {
+          "correct": false,
+          "text": "wether"
+        }
+      ]
+    },
+    {
+      "question": "The past participle form of the verb BEAR is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "bore"
+        },
+        {
+          "correct": true,
+          "text": "borne"
+        },
+        {
+          "correct": false,
+          "text": "beared"
+        },
+        {
+          "correct": false,
+          "text": "born"
+        }
+      ]
+    },
+    {
+      "question": "\"The school building needs _____\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "maintainance"
+        },
+        {
+          "correct": true,
+          "text": "maintenance"
+        },
+        {
+          "correct": false,
+          "text": "maintaiinance"
+        },
+        {
+          "correct": false,
+          "text": "mentainance"
+        }
+      ]
+    },
+    {
+      "question": "The dying soldier screamed from the _____ pain.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "painful"
+        },
+        {
+          "correct": true,
+          "text": "excruciating"
+        },
+        {
+          "correct": false,
+          "text": "hurting"
+        },
+        {
+          "correct": false,
+          "text": "malignant"
+        }
+      ]
+    },
+    {
+      "question": "\"The girls wanted some nice _____\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "accommodation"
+        },
+        {
+          "correct": false,
+          "text": "acommodation"
+        },
+        {
+          "correct": false,
+          "text": "accomodation"
+        },
+        {
+          "correct": false,
+          "text": "acccomodation"
+        }
+      ]
+    },
+    {
+      "question": "Cathy _____ the word embarrass twice in a row.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "mispelled"
+        },
+        {
+          "correct": false,
+          "text": "misspeled"
+        },
+        {
+          "correct": true,
+          "text": "misspelled"
+        },
+        {
+          "correct": false,
+          "text": "mispeled"
+        }
+      ]
+    },
+    {
+      "question": "\"When she arrived late in the meeting, Maan felt extremely _____\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "embarrassed"
+        },
+        {
+          "correct": false,
+          "text": "embbarassed"
+        },
+        {
+          "correct": false,
+          "text": "embarassed"
+        },
+        {
+          "correct": false,
+          "text": "embrarrased"
+        }
+      ]
+    },
+    {
+      "question": "After living in Floria, Nelia can now _____ to cold weather.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "adapt"
+        },
+        {
+          "correct": false,
+          "text": "adopt"
+        },
+        {
+          "correct": false,
+          "text": "adept"
+        },
+        {
+          "correct": false,
+          "text": "adipt"
+        }
+      ]
+    },
+    {
+      "question": "In the book \"Moby Dick\", many _____ are made to the Bible.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "illusions"
+        },
+        {
+          "correct": false,
+          "text": "allussions"
+        },
+        {
+          "correct": true,
+          "text": "allusions"
+        },
+        {
+          "correct": false,
+          "text": "illusive"
+        }
+      ]
+    },
+    {
+      "question": "A large _____ of toxic waste was found buried under the empty lot.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "number"
+        },
+        {
+          "correct": false,
+          "text": "group"
+        },
+        {
+          "correct": true,
+          "text": "amount"
+        },
+        {
+          "correct": false,
+          "text": "score"
+        }
+      ]
+    },
+    {
+      "question": "Did the student council _____ any charges in the cafeteria rules?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "effect"
+        },
+        {
+          "correct": true,
+          "text": "affect"
+        },
+        {
+          "correct": false,
+          "text": "in effect"
+        },
+        {
+          "correct": false,
+          "text": "affected"
+        }
+      ]
+    },
+    {
+      "question": "Please stay for _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "a while"
+        },
+        {
+          "correct": false,
+          "text": "awhile"
+        },
+        {
+          "correct": false,
+          "text": "a little more"
+        },
+        {
+          "correct": false,
+          "text": "a little bit"
+        }
+      ]
+    },
+    {
+      "question": "I sing so _____ that I don't even hum in public.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "bad"
+        },
+        {
+          "correct": true,
+          "text": "badly"
+        },
+        {
+          "correct": false,
+          "text": "different"
+        },
+        {
+          "correct": false,
+          "text": "very badly"
+        }
+      ]
+    },
+    {
+      "question": "This is _____ we can go.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "all the farther"
+        },
+        {
+          "correct": false,
+          "text": "farther"
+        },
+        {
+          "correct": true,
+          "text": "as far as"
+        },
+        {
+          "correct": false,
+          "text": "as far"
+        }
+      ]
+    },
+    {
+      "question": "The _____ hammering, for over an hour, gave me a headache.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "continuous"
+        },
+        {
+          "correct": false,
+          "text": "continuing"
+        },
+        {
+          "correct": false,
+          "text": "continous"
+        },
+        {
+          "correct": false,
+          "text": "continueous"
+        }
+      ]
+    },
+    {
+      "question": "From the confident manner, I _____ that he had succeeded.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "implied"
+        },
+        {
+          "correct": true,
+          "text": "inferred"
+        },
+        {
+          "correct": false,
+          "text": "think"
+        },
+        {
+          "correct": false,
+          "text": "doubt"
+        }
+      ]
+    },
+    {
+      "question": "We have _____ money in our account now than we have ever had before.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "fewer"
+        },
+        {
+          "correct": false,
+          "text": "less"
+        },
+        {
+          "correct": false,
+          "text": "few"
+        },
+        {
+          "correct": false,
+          "text": "a little"
+        }
+      ]
+    },
+    {
+      "question": "Did Cory _____ Ramos as president?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "precede"
+        },
+        {
+          "correct": false,
+          "text": "precedes"
+        },
+        {
+          "correct": false,
+          "text": "preceded"
+        },
+        {
+          "correct": false,
+          "text": "proceeded"
+        }
+      ]
+    },
+    {
+      "question": "Put your _____ change in a jar beside the coffee table.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lose"
+        },
+        {
+          "correct": true,
+          "text": "loose"
+        },
+        {
+          "correct": false,
+          "text": "extra"
+        },
+        {
+          "correct": false,
+          "text": "loosen"
+        }
+      ]
+    },
+    {
+      "question": "Balloons filled with Helium always _____ to the ceiling.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "rise"
+        },
+        {
+          "correct": false,
+          "text": "has risen"
+        },
+        {
+          "correct": false,
+          "text": "rose"
+        },
+        {
+          "correct": false,
+          "text": "risen"
+        }
+      ]
+    },
+    {
+      "question": "Have you _____ here very long?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "sat"
+        },
+        {
+          "correct": false,
+          "text": "sit"
+        },
+        {
+          "correct": false,
+          "text": "sitted"
+        },
+        {
+          "correct": false,
+          "text": "set"
+        }
+      ]
+    },
+    {
+      "question": "Did you _____ the carton of juice on the counter?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "set"
+        },
+        {
+          "correct": false,
+          "text": "sit"
+        },
+        {
+          "correct": false,
+          "text": "sat"
+        },
+        {
+          "correct": false,
+          "text": "sitten"
+        }
+      ]
+    },
+    {
+      "question": "This test was _____ than the one we took last week.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hard"
+        },
+        {
+          "correct": false,
+          "text": "more harder"
+        },
+        {
+          "correct": false,
+          "text": "hardest"
+        },
+        {
+          "correct": true,
+          "text": "harder"
+        }
+      ]
+    },
+    {
+      "question": "Blue eyes are the _____ sensitive to light.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "most"
+        },
+        {
+          "correct": false,
+          "text": "more"
+        },
+        {
+          "correct": false,
+          "text": "best"
+        },
+        {
+          "correct": false,
+          "text": "better"
+        }
+      ]
+    },
+    {
+      "question": "The weather is _____ this year than it was last year.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "worse"
+        },
+        {
+          "correct": false,
+          "text": "worst"
+        },
+        {
+          "correct": false,
+          "text": "more worse"
+        },
+        {
+          "correct": false,
+          "text": "worser"
+        }
+      ]
+    },
+    {
+      "question": "Of all the meats I have eaten, I like pork _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "more least"
+        },
+        {
+          "correct": false,
+          "text": "lesser"
+        },
+        {
+          "correct": false,
+          "text": "less"
+        },
+        {
+          "correct": true,
+          "text": "least"
+        }
+      ]
+    },
+    {
+      "question": "Being too _____ will undoubtedly make other men hate you.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "vane"
+        },
+        {
+          "correct": false,
+          "text": "vein"
+        },
+        {
+          "correct": true,
+          "text": "vain"
+        },
+        {
+          "correct": false,
+          "text": "vanity"
+        }
+      ]
+    },
+    {
+      "question": "Due to the bad weather, the airline company decided ____ postpone the flight.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "two"
+        },
+        {
+          "correct": false,
+          "text": "too"
+        },
+        {
+          "correct": true,
+          "text": "to"
+        },
+        {
+          "correct": false,
+          "text": "vainty"
+        }
+      ]
+    },
+    {
+      "question": "Exposure to air pollution will _____ your asthma.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cure"
+        },
+        {
+          "correct": false,
+          "text": "deteriorate"
+        },
+        {
+          "correct": true,
+          "text": "aggravate"
+        },
+        {
+          "correct": false,
+          "text": "annoy"
+        }
+      ]
+    },
+    {
+      "question": "His _____ to Mount Apo was carefully documented.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "assent"
+        },
+        {
+          "correct": false,
+          "text": "ascent"
+        },
+        {
+          "correct": true,
+          "text": "descent"
+        },
+        {
+          "correct": false,
+          "text": "decrease"
+        }
+      ]
+    },
+    {
+      "question": "The children _____ the ill effects of war.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "have borne"
+        },
+        {
+          "correct": false,
+          "text": "have born"
+        },
+        {
+          "correct": false,
+          "text": "has borne"
+        },
+        {
+          "correct": false,
+          "text": "had born"
+        }
+      ]
+    },
+    {
+      "question": "The teachers distributed different _____ outlines for the students to follow.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "coarse"
+        },
+        {
+          "correct": false,
+          "text": "corps"
+        },
+        {
+          "correct": true,
+          "text": "course"
+        },
+        {
+          "correct": false,
+          "text": "corpse"
+        }
+      ]
+    },
+    {
+      "question": "Carl juggles oranges, _____ you?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "why"
+        },
+        {
+          "correct": false,
+          "text": "may"
+        },
+        {
+          "correct": false,
+          "text": "should"
+        },
+        {
+          "correct": true,
+          "text": "can"
+        }
+      ]
+    },
+    {
+      "question": "We used _____ sauce for the spaghetti.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "less"
+        },
+        {
+          "correct": false,
+          "text": "few"
+        },
+        {
+          "correct": false,
+          "text": "a number of"
+        },
+        {
+          "correct": false,
+          "text": "pieces of"
+        }
+      ]
+    },
+    {
+      "question": "When the <i>Apartheid Policy</i> was still in effect, the Blacks were _____ by the White.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "praised"
+        },
+        {
+          "correct": false,
+          "text": "hailed"
+        },
+        {
+          "correct": true,
+          "text": "persecuted"
+        },
+        {
+          "correct": false,
+          "text": "prosecuted"
+        }
+      ]
+    },
+    {
+      "question": "The DPWH crew worked _____ the nigh to repair the damaged bridge.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "threw"
+        },
+        {
+          "correct": true,
+          "text": "through"
+        },
+        {
+          "correct": false,
+          "text": "trough"
+        },
+        {
+          "correct": false,
+          "text": "true"
+        }
+      ]
+    },
+    {
+      "question": "Marty _____ Evelyn _____ to dinner.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "asked - out"
+        },
+        {
+          "correct": false,
+          "text": "asked - after"
+        },
+        {
+          "correct": false,
+          "text": "called - out"
+        },
+        {
+          "correct": false,
+          "text": "called - up"
+        }
+      ]
+    },
+    {
+      "question": "The secretary _____ due to stress.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "broke even"
+        },
+        {
+          "correct": false,
+          "text": "broke out"
+        },
+        {
+          "correct": false,
+          "text": "broke in"
+        },
+        {
+          "correct": true,
+          "text": "broke down"
+        }
+      ]
+    },
+    {
+      "question": "The EDSA People's Revolution _____ the Marcos Regime.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "brought in"
+        },
+        {
+          "correct": false,
+          "text": "brought on"
+        },
+        {
+          "correct": false,
+          "text": "brought forth"
+        },
+        {
+          "correct": true,
+          "text": "brought down"
+        }
+      ]
+    },
+    {
+      "question": "The unexpected _____ of vehicles along Marcos Highway caused heavy traffic.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "build up"
+        },
+        {
+          "correct": false,
+          "text": "build on"
+        },
+        {
+          "correct": false,
+          "text": "build over"
+        },
+        {
+          "correct": false,
+          "text": "build out"
+        }
+      ]
+    },
+    {
+      "question": "After cleaning the entire house, I felt _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "burned in"
+        },
+        {
+          "correct": true,
+          "text": "burned out"
+        },
+        {
+          "correct": false,
+          "text": "burned up"
+        },
+        {
+          "correct": false,
+          "text": "burned down"
+        }
+      ]
+    },
+    {
+      "question": "The drug pushers tried to _____ the arresting cops.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "buy in"
+        },
+        {
+          "correct": true,
+          "text": "buy off"
+        },
+        {
+          "correct": false,
+          "text": "buy up"
+        },
+        {
+          "correct": false,
+          "text": "buy out"
+        }
+      ]
+    },
+    {
+      "question": "The Cabinet meeting was _____ on account of the President's ill health.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "called in"
+        },
+        {
+          "correct": false,
+          "text": "called up"
+        },
+        {
+          "correct": true,
+          "text": "called off"
+        },
+        {
+          "correct": false,
+          "text": "called down"
+        }
+      ]
+    },
+    {
+      "question": "The telenovela viewers cried helplessly when they got _____ by the tragedy that befell the main character.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "carried out"
+        },
+        {
+          "correct": true,
+          "text": "carried away"
+        },
+        {
+          "correct": false,
+          "text": "carried over"
+        },
+        {
+          "correct": false,
+          "text": "carried down"
+        }
+      ]
+    },
+    {
+      "question": "We should _____ on our expenditures and spend only on our needs.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cut short"
+        },
+        {
+          "correct": true,
+          "text": "cut back"
+        },
+        {
+          "correct": false,
+          "text": "cut up"
+        },
+        {
+          "correct": false,
+          "text": "cut out"
+        }
+      ]
+    },
+    {
+      "question": "People of all races should try to _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "get around"
+        },
+        {
+          "correct": true,
+          "text": "get along"
+        },
+        {
+          "correct": false,
+          "text": "get over"
+        },
+        {
+          "correct": false,
+          "text": "get down"
+        }
+      ]
+    },
+    {
+      "question": "The partying teens were told to _____ the noise.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "hold down"
+        },
+        {
+          "correct": false,
+          "text": "hold forth"
+        },
+        {
+          "correct": false,
+          "text": "hold with"
+        },
+        {
+          "correct": false,
+          "text": "hold up"
+        }
+      ]
+    },
+    {
+      "question": "We should grow wiser as time _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "goes along"
+        },
+        {
+          "correct": true,
+          "text": "goes by"
+        },
+        {
+          "correct": false,
+          "text": "goes through"
+        },
+        {
+          "correct": false,
+          "text": "goes out"
+        }
+      ]
+    },
+    {
+      "question": "A gust of strong wind _____ the old wooden swing.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "knocked around"
+        },
+        {
+          "correct": false,
+          "text": "knocked back"
+        },
+        {
+          "correct": true,
+          "text": "knocked down"
+        },
+        {
+          "correct": false,
+          "text": "knocked out"
+        }
+      ]
+    },
+    {
+      "question": "A number of factory workers were _____ due to retrenchment.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "laid aside"
+        },
+        {
+          "correct": true,
+          "text": "laid off"
+        },
+        {
+          "correct": false,
+          "text": "laid out"
+        },
+        {
+          "correct": false,
+          "text": "laid down"
+        }
+      ]
+    },
+    {
+      "question": "Stop _____ your younger brother so he will stop crying.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "picking at"
+        },
+        {
+          "correct": true,
+          "text": "picking on"
+        },
+        {
+          "correct": false,
+          "text": "picking out"
+        },
+        {
+          "correct": false,
+          "text": "picking down"
+        }
+      ]
+    },
+    {
+      "question": "My father's _____ is sound.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "advice"
+        },
+        {
+          "correct": false,
+          "text": "advise"
+        },
+        {
+          "correct": false,
+          "text": "advices"
+        },
+        {
+          "correct": false,
+          "text": "advises"
+        }
+      ]
+    },
+    {
+      "question": "The latest _____ from Europe are encouraging.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "advice"
+        },
+        {
+          "correct": false,
+          "text": "advise"
+        },
+        {
+          "correct": true,
+          "text": "advices"
+        },
+        {
+          "correct": false,
+          "text": "advises"
+        }
+      ]
+    },
+    {
+      "question": "Her _____ are expensive.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cloth"
+        },
+        {
+          "correct": true,
+          "text": "clothes"
+        },
+        {
+          "correct": false,
+          "text": "cloths"
+        },
+        {
+          "correct": false,
+          "text": "all of the above"
+        }
+      ]
+    },
+    {
+      "question": "_____ is sold in translucent sheets.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Glass"
+        },
+        {
+          "correct": false,
+          "text": "Glasses"
+        },
+        {
+          "correct": false,
+          "text": "Sunglasses"
+        },
+        {
+          "correct": false,
+          "text": "Sunglass"
+        }
+      ]
+    },
+    {
+      "question": "The _____ for the exercise were very clear.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "instruction"
+        },
+        {
+          "correct": true,
+          "text": "instructions"
+        },
+        {
+          "correct": false,
+          "text": "directions"
+        },
+        {
+          "correct": false,
+          "text": "direction"
+        }
+      ]
+    },
+    {
+      "question": "Theme _____ are due at the end of the month.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "paper"
+        },
+        {
+          "correct": true,
+          "text": "papers"
+        },
+        {
+          "correct": false,
+          "text": "works"
+        },
+        {
+          "correct": false,
+          "text": "work"
+        }
+      ]
+    },
+    {
+      "question": "His _____ of the fairness of the decision was well received.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "remark"
+        },
+        {
+          "correct": false,
+          "text": "remarks"
+        },
+        {
+          "correct": false,
+          "text": "comments"
+        },
+        {
+          "correct": false,
+          "text": "comment"
+        }
+      ]
+    },
+    {
+      "question": "I want a TV that will work _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "good"
+        },
+        {
+          "correct": true,
+          "text": "well"
+        },
+        {
+          "correct": false,
+          "text": "a lot"
+        },
+        {
+          "correct": false,
+          "text": "more"
+        }
+      ]
+    },
+    {
+      "question": "Grace was embarrassed when she fell _____ her horse.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "of"
+        },
+        {
+          "correct": true,
+          "text": "off"
+        },
+        {
+          "correct": false,
+          "text": "off of"
+        },
+        {
+          "correct": false,
+          "text": "out of"
+        }
+      ]
+    },
+    {
+      "question": "We were _____ to leave when he came.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "all ready"
+        },
+        {
+          "correct": false,
+          "text": "already"
+        },
+        {
+          "correct": false,
+          "text": "all"
+        },
+        {
+          "correct": false,
+          "text": "allright"
+        }
+      ]
+    },
+    {
+      "question": "Which of the two automobiles is _____?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "faster"
+        },
+        {
+          "correct": false,
+          "text": "fast"
+        },
+        {
+          "correct": false,
+          "text": "more faster"
+        },
+        {
+          "correct": false,
+          "text": "fastest"
+        }
+      ]
+    },
+    {
+      "question": "Mario doesn't appear _____ anymore.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "angrily"
+        },
+        {
+          "correct": false,
+          "text": "more angry"
+        },
+        {
+          "correct": true,
+          "text": "angry"
+        },
+        {
+          "correct": false,
+          "text": "more angrily"
+        }
+      ]
+    },
+    {
+      "question": "Chocolate mousse with wafer stick is my favorite _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "dessert"
+        },
+        {
+          "correct": false,
+          "text": "desert"
+        },
+        {
+          "correct": false,
+          "text": "desserts"
+        },
+        {
+          "correct": false,
+          "text": "deserts"
+        }
+      ]
+    },
+    {
+      "question": "I want you to sit _____ me.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "below"
+        },
+        {
+          "correct": true,
+          "text": "beside"
+        },
+        {
+          "correct": false,
+          "text": "besides"
+        },
+        {
+          "correct": false,
+          "text": "above"
+        }
+      ]
+    },
+    {
+      "question": "He doesn't study his lesson well, _____?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "does he"
+        },
+        {
+          "correct": false,
+          "text": "doesn't he"
+        },
+        {
+          "correct": false,
+          "text": "didn't he"
+        },
+        {
+          "correct": false,
+          "text": "did he"
+        }
+      ]
+    },
+    {
+      "question": "Windy and _____ finished their thesis on time.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "him"
+        },
+        {
+          "correct": true,
+          "text": "he"
+        },
+        {
+          "correct": false,
+          "text": "me"
+        },
+        {
+          "correct": false,
+          "text": "I"
+        }
+      ]
+    },
+    {
+      "question": "The real victim of that horrible story was _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "she"
+        },
+        {
+          "correct": false,
+          "text": "her"
+        },
+        {
+          "correct": false,
+          "text": "they"
+        },
+        {
+          "correct": false,
+          "text": "them"
+        }
+      ]
+    },
+    {
+      "question": "To bear the deadline, let's divide the work _____ us.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "to"
+        },
+        {
+          "correct": false,
+          "text": "with"
+        },
+        {
+          "correct": true,
+          "text": "among"
+        },
+        {
+          "correct": false,
+          "text": "between"
+        }
+      ]
+    },
+    {
+      "question": "Self-confidence _____ a positive outlook intensifies one's strong desire to succeed.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "or"
+        },
+        {
+          "correct": false,
+          "text": "nor"
+        },
+        {
+          "correct": false,
+          "text": "as"
+        },
+        {
+          "correct": false,
+          "text": "and"
+        }
+      ]
+    },
+    {
+      "question": "Gin was a sight to behold. Indeed, she was the _____ of all the contestants.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lovely"
+        },
+        {
+          "correct": false,
+          "text": "more lovely"
+        },
+        {
+          "correct": true,
+          "text": "loveliest"
+        },
+        {
+          "correct": false,
+          "text": "most loveliest"
+        }
+      ]
+    },
+    {
+      "question": "The students _____ their lunch at the canteen yesterday.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "had eaten"
+        },
+        {
+          "correct": false,
+          "text": "had ate"
+        },
+        {
+          "correct": false,
+          "text": "eat"
+        },
+        {
+          "correct": false,
+          "text": "eated"
+        }
+      ]
+    },
+    {
+      "question": "Julius didn't invite _____ friends to join him.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "any"
+        },
+        {
+          "correct": false,
+          "text": "some"
+        },
+        {
+          "correct": false,
+          "text": "few"
+        },
+        {
+          "correct": false,
+          "text": "many"
+        }
+      ]
+    },
+    {
+      "question": "The dry leaves have been _____ by the wind.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "blew"
+        },
+        {
+          "correct": false,
+          "text": "blow"
+        },
+        {
+          "correct": false,
+          "text": "blowed"
+        },
+        {
+          "correct": true,
+          "text": "blown"
+        }
+      ]
+    },
+    {
+      "question": "The _____ of the victim was already decomposing.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "corp"
+        },
+        {
+          "correct": false,
+          "text": "corps"
+        },
+        {
+          "correct": true,
+          "text": "corpse"
+        },
+        {
+          "correct": false,
+          "text": "corpses"
+        }
+      ]
+    },
+    {
+      "question": "Jona and _____ were very good friends.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "I"
+        },
+        {
+          "correct": false,
+          "text": "me"
+        },
+        {
+          "correct": false,
+          "text": "myself"
+        },
+        {
+          "correct": false,
+          "text": "herself"
+        }
+      ]
+    },
+    {
+      "question": "_____ supposed to go on a vacation this month.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Their"
+        },
+        {
+          "correct": true,
+          "text": "They're"
+        },
+        {
+          "correct": false,
+          "text": "There"
+        },
+        {
+          "correct": false,
+          "text": "Them"
+        }
+      ]
+    },
+    {
+      "question": "I am scared to pass by the dark _____ especially at night.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "ally"
+        },
+        {
+          "correct": false,
+          "text": "allew"
+        },
+        {
+          "correct": false,
+          "text": "allies"
+        },
+        {
+          "correct": true,
+          "text": "alleys"
+        }
+      ]
+    },
+    {
+      "question": "The foreigner _____ hardly speak Italian.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "can"
+        },
+        {
+          "correct": false,
+          "text": "can't"
+        },
+        {
+          "correct": false,
+          "text": "didn't"
+        },
+        {
+          "correct": false,
+          "text": "did"
+        }
+      ]
+    },
+    {
+      "question": "_____ did you ask for that special favor?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Whom"
+        },
+        {
+          "correct": false,
+          "text": "Who"
+        },
+        {
+          "correct": false,
+          "text": "Whoever"
+        },
+        {
+          "correct": false,
+          "text": "Where"
+        }
+      ]
+    },
+    {
+      "question": "Sophia knows someone _____ has written a short story.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "whom"
+        },
+        {
+          "correct": false,
+          "text": "whose"
+        },
+        {
+          "correct": false,
+          "text": "which"
+        },
+        {
+          "correct": true,
+          "text": "who"
+        }
+      ]
+    },
+    {
+      "question": "They stayed at the hotel _____ three weeks.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "during"
+        },
+        {
+          "correct": false,
+          "text": "until"
+        },
+        {
+          "correct": true,
+          "text": "for"
+        },
+        {
+          "correct": false,
+          "text": "at"
+        }
+      ]
+    },
+    {
+      "question": "_____ Ric is a working student, he still manages to get high grades in all his subjects.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Despite"
+        },
+        {
+          "correct": true,
+          "text": "Although"
+        },
+        {
+          "correct": false,
+          "text": "While"
+        },
+        {
+          "correct": false,
+          "text": "Since"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "priviledge"
+        },
+        {
+          "correct": false,
+          "text": "anoint"
+        },
+        {
+          "correct": false,
+          "text": "effervescent"
+        },
+        {
+          "correct": true,
+          "text": "annalyze"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "separate"
+        },
+        {
+          "correct": true,
+          "text": "tyrrany"
+        },
+        {
+          "correct": false,
+          "text": "hypocrisy"
+        },
+        {
+          "correct": false,
+          "text": "dissipate"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "oppulence"
+        },
+        {
+          "correct": false,
+          "text": "opaque"
+        },
+        {
+          "correct": false,
+          "text": "onslaught"
+        },
+        {
+          "correct": false,
+          "text": "odoriferous"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "rife"
+        },
+        {
+          "correct": true,
+          "text": "roboust"
+        },
+        {
+          "correct": false,
+          "text": "revile"
+        },
+        {
+          "correct": false,
+          "text": "rescind"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "reprove"
+        },
+        {
+          "correct": false,
+          "text": "requite"
+        },
+        {
+          "correct": true,
+          "text": "requeim"
+        },
+        {
+          "correct": false,
+          "text": "rescind"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "villify"
+        },
+        {
+          "correct": false,
+          "text": "vignette"
+        },
+        {
+          "correct": false,
+          "text": "vitreous"
+        },
+        {
+          "correct": false,
+          "text": "viscous"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "wry"
+        },
+        {
+          "correct": false,
+          "text": "yoke"
+        },
+        {
+          "correct": false,
+          "text": "wraith"
+        },
+        {
+          "correct": true,
+          "text": "defference"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "zepher"
+        },
+        {
+          "correct": false,
+          "text": "waif"
+        },
+        {
+          "correct": false,
+          "text": "vying"
+        },
+        {
+          "correct": true,
+          "text": "zeallot"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "hecler"
+        },
+        {
+          "correct": false,
+          "text": "husbandry"
+        },
+        {
+          "correct": false,
+          "text": "hew"
+        },
+        {
+          "correct": false,
+          "text": "heinous"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "farce"
+        },
+        {
+          "correct": true,
+          "text": "flacid"
+        },
+        {
+          "correct": false,
+          "text": "fledging"
+        },
+        {
+          "correct": false,
+          "text": "flicks"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "deft"
+        },
+        {
+          "correct": false,
+          "text": "delve"
+        },
+        {
+          "correct": true,
+          "text": "deshearten"
+        },
+        {
+          "correct": false,
+          "text": "disclaim"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "parallel"
+        },
+        {
+          "correct": false,
+          "text": "professor"
+        },
+        {
+          "correct": true,
+          "text": "questionaire"
+        },
+        {
+          "correct": false,
+          "text": "beneficent"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "anoint"
+        },
+        {
+          "correct": true,
+          "text": "seperate"
+        },
+        {
+          "correct": false,
+          "text": "attitude"
+        },
+        {
+          "correct": false,
+          "text": "feminine"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "prominent"
+        },
+        {
+          "correct": false,
+          "text": "discriminate"
+        },
+        {
+          "correct": true,
+          "text": "dissiminate"
+        },
+        {
+          "correct": false,
+          "text": "ecstasy"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "gasseous"
+        },
+        {
+          "correct": false,
+          "text": "moccasin"
+        },
+        {
+          "correct": false,
+          "text": "liquefy"
+        },
+        {
+          "correct": false,
+          "text": "pharaoh"
+        }
+      ]
+    },
+    {
+      "question": "Choose the misspelled word.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "chauffeur"
+        },
+        {
+          "correct": true,
+          "text": "occassion"
+        },
+        {
+          "correct": false,
+          "text": "ghoti"
+        },
+        {
+          "correct": false,
+          "text": "epitome"
+        }
+      ]
+    },
+    {
+      "question": "\"Mai wants some cake.\" Transforming this into a yes-no question would yield:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Did Mai wanted some cake?"
+        },
+        {
+          "correct": true,
+          "text": "Does Mai want some cake?"
+        },
+        {
+          "correct": false,
+          "text": "Does Mai wants some cake?"
+        },
+        {
+          "correct": false,
+          "text": "Do Mai wants some cake?"
+        }
+      ]
+    },
+    {
+      "question": "\"Cristina went <u>to the mall</u>\" Which of the following questions asks for the underlined information?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Where did Cristina went?"
+        },
+        {
+          "correct": false,
+          "text": "Where is Cristina?"
+        },
+        {
+          "correct": true,
+          "text": "Where did Cristina go?"
+        },
+        {
+          "correct": false,
+          "text": "Where does Cristina go?"
+        }
+      ]
+    },
+    {
+      "question": "What is the VP in the sentence, \"The mailman who lost my letter apologized to me\"?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the mailman"
+        },
+        {
+          "correct": false,
+          "text": "apologized"
+        },
+        {
+          "correct": false,
+          "text": "lost my letter"
+        },
+        {
+          "correct": true,
+          "text": "apologized to me"
+        }
+      ]
+    },
+    {
+      "question": "In the sentence, \"Cara baked her <i>sister</i> some muffins\", the word <i>sister </i>functions as:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "indirect object"
+        },
+        {
+          "correct": false,
+          "text": "direct object"
+        },
+        {
+          "correct": false,
+          "text": "object of the preposition"
+        },
+        {
+          "correct": false,
+          "text": "subject"
+        }
+      ]
+    },
+    {
+      "question": "What is the thematic role of the word RAIN in the sentence, \"The rain stopped the rally\"?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "possessor"
+        },
+        {
+          "correct": true,
+          "text": "causative"
+        },
+        {
+          "correct": false,
+          "text": "agent"
+        },
+        {
+          "correct": false,
+          "text": "instrument"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following sentences has parallel structures?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Love will tear down the walls of suspicion and hating."
+        },
+        {
+          "correct": false,
+          "text": "I love the goodness and the bad in you."
+        },
+        {
+          "correct": false,
+          "text": "He took the bike, and drives so fast."
+        },
+        {
+          "correct": true,
+          "text": "Jose likes walking and biking."
+        }
+      ]
+    },
+    {
+      "question": "The equivalent passive construction of the active sentence, \"A thief stole the painting\" is:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The painting is stolen by a thief."
+        },
+        {
+          "correct": false,
+          "text": "It was the thief who stole the painting."
+        },
+        {
+          "correct": true,
+          "text": "The painting was stolen by a thief."
+        },
+        {
+          "correct": false,
+          "text": "It was a painting that the thief stole."
+        }
+      ]
+    },
+    {
+      "question": "Which sentence has a gerund?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The swimming boy looks happy."
+        },
+        {
+          "correct": true,
+          "text": "Swimming makes the boy happy."
+        },
+        {
+          "correct": false,
+          "text": "The happy boy is swimming."
+        },
+        {
+          "correct": false,
+          "text": "The boy is happily swimming."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following sentences illustrates faulty use of preposition?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "She came just ON time for the party."
+        },
+        {
+          "correct": false,
+          "text": "Tanya suffered FROM osteoporosis."
+        },
+        {
+          "correct": true,
+          "text": "She shares her problems TO her friends."
+        },
+        {
+          "correct": false,
+          "text": "Mira lives IN Manila."
+        }
+      ]
+    }
+  ]
+}

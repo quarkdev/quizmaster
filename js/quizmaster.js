@@ -46,6 +46,38 @@ var QuizMaster = (function () {
 		return Array(Math.max(digits - String(number).length + 1, 0)).join(0) + number;
 	};
 
+	ml.toggleSub = function () {
+		var range = getSelection().getRangeAt(0);
+		var node = $(range.commonAncestorContainer);
+		if (node.parent().is('sub')) {
+			node.unwrap();
+		}
+		else {
+			if (node.parent().is('sup')) {
+				node.unwrap(); // remove the other tag first
+				return;
+			}
+			var tags = document.createElement('sub');
+			range.surroundContents(tags);
+		}
+	};
+
+	ml.toggleSup = function () {
+		var range = getSelection().getRangeAt(0);
+		var node = $(range.commonAncestorContainer);
+		if (node.parent().is('sup')) {
+			node.unwrap();
+		}
+		else {
+			if (node.parent().is('sub')) {
+				node.unwrap(); // remove the other tag first
+				return;
+			}
+			var tags = document.createElement('sup');
+			range.surroundContents(tags);
+		}
+	};
+
 	ml.isReserved = function (word) {
 		for (var i = 0; i < reservedWords.length; i++) {
 			if (reservedWords[i] === word) return true;

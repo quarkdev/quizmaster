@@ -1,0 +1,1768 @@
+{
+  "name": "Child Adolescent Development Set 1",
+  "description": "...",
+  "duration": 40,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "The two most important factors that account for changes in the student's behavior are",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Maturation and learning"
+        },
+        {
+          "correct": false,
+          "text": "Maturation and development"
+        },
+        {
+          "correct": false,
+          "text": "Learning and conditioning"
+        },
+        {
+          "correct": false,
+          "text": "Conditioning and development"
+        }
+      ]
+    },
+    {
+      "question": "Maturation connotes a process of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Uniform progress"
+        },
+        {
+          "correct": false,
+          "text": "Uneven progress"
+        },
+        {
+          "correct": true,
+          "text": "Ripening of behavior"
+        },
+        {
+          "correct": false,
+          "text": "none of these"
+        }
+      ]
+    },
+    {
+      "question": "Development indicates",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cessation of activities"
+        },
+        {
+          "correct": true,
+          "text": "start of life"
+        },
+        {
+          "correct": false,
+          "text": "ripening of behavior"
+        },
+        {
+          "correct": false,
+          "text": "none of these"
+        }
+      ]
+    },
+    {
+      "question": "It refers to the progressive series of changes of an orderly and coherent type leading to the individual's maturation.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learning"
+        },
+        {
+          "correct": true,
+          "text": "Development"
+        },
+        {
+          "correct": false,
+          "text": "Growth"
+        },
+        {
+          "correct": false,
+          "text": "Assimilation"
+        }
+      ]
+    },
+    {
+      "question": "Educators are aware that no amount of practice and instruction can make a four-month old infant walk and talk because the muscular and neutral structures are not yet ready for those skills. This point to the process called ___.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "development"
+        },
+        {
+          "correct": false,
+          "text": "growth"
+        },
+        {
+          "correct": true,
+          "text": "maturation"
+        },
+        {
+          "correct": false,
+          "text": "assimilation"
+        }
+      ]
+    },
+    {
+      "question": "The term which essentially refers to quantitative changes in the individual as he progresses in chronological age is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "learning"
+        },
+        {
+          "correct": false,
+          "text": "development"
+        },
+        {
+          "correct": false,
+          "text": "maturaion"
+        },
+        {
+          "correct": true,
+          "text": "growth"
+        }
+      ]
+    },
+    {
+      "question": "A coordinated set of muscular actions that are guided by conscious mental activitiy and use in performing a task is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "motor ability"
+        },
+        {
+          "correct": true,
+          "text": "psychomotor ability"
+        },
+        {
+          "correct": false,
+          "text": "skill development"
+        },
+        {
+          "correct": false,
+          "text": "performance ability"
+        }
+      ]
+    },
+    {
+      "question": "The head-to-foot direction in body movement is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "cephalocaudal trend"
+        },
+        {
+          "correct": false,
+          "text": "proximodistal trend"
+        },
+        {
+          "correct": false,
+          "text": "sequential trend"
+        },
+        {
+          "correct": false,
+          "text": "progressive trend"
+        }
+      ]
+    },
+    {
+      "question": "The skills which are universally true of human race regardless of culture, sex, family background, etc. is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ontogenic skills"
+        },
+        {
+          "correct": true,
+          "text": "Phylogenic skills"
+        },
+        {
+          "correct": false,
+          "text": "automatic skills"
+        },
+        {
+          "correct": false,
+          "text": "genetic skills"
+        }
+      ]
+    },
+    {
+      "question": "A child using his arms and chest for catching a ball before he could use his hands and fingers demonstrates",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cephalocaudal direction"
+        },
+        {
+          "correct": true,
+          "text": "Proximodistal direction"
+        },
+        {
+          "correct": false,
+          "text": "Sequential direction"
+        },
+        {
+          "correct": false,
+          "text": "Skill development"
+        }
+      ]
+    },
+    {
+      "question": "Zeny is wondering why at age 14 she has not menstruated yet while her friend Remy experience menarche at age 12. Which of the following principle is applied in this situation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Development rates vary"
+        },
+        {
+          "correct": false,
+          "text": "Development is continuous"
+        },
+        {
+          "correct": false,
+          "text": "Development is patterned"
+        },
+        {
+          "correct": false,
+          "text": "Development is predictable"
+        }
+      ]
+    },
+    {
+      "question": "Below are principles of development. Which one is questionable?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Development is a continuous process"
+        },
+        {
+          "correct": false,
+          "text": "The sequence of development is the same for all children"
+        },
+        {
+          "correct": true,
+          "text": "Maturation is independent from development"
+        },
+        {
+          "correct": false,
+          "text": "Certain reflexes present at birth anticipate involuntary movement"
+        }
+      ]
+    },
+    {
+      "question": "The second principle of development states that the rate of development is unique to each individual. Educators aptly termed this as the principle of ______",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "variation"
+        },
+        {
+          "correct": false,
+          "text": "dynamic change"
+        },
+        {
+          "correct": true,
+          "text": "individual differences"
+        },
+        {
+          "correct": false,
+          "text": "uniqueness"
+        }
+      ]
+    },
+    {
+      "question": "On what does the child's physical development depend?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Upon environment and heredity in almost equal proportion"
+        },
+        {
+          "correct": false,
+          "text": "Primarily upon the influence limitations"
+        },
+        {
+          "correct": true,
+          "text": "Primarily by inheritance modified by the environment"
+        },
+        {
+          "correct": false,
+          "text": "Upon environment fashioned depending upon the individual"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following principles of human growth refers to the situation that girls mature earlier than boys?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Growth is patterened"
+        },
+        {
+          "correct": true,
+          "text": "Development rates vary"
+        },
+        {
+          "correct": false,
+          "text": "Each stage of development has characteristic traits"
+        },
+        {
+          "correct": false,
+          "text": "Maturation should precede certain types of learning"
+        }
+      ]
+    },
+    {
+      "question": "Maturation precedes learning. How is this applied in the classroom?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Follow the interest in assigning tasks"
+        },
+        {
+          "correct": false,
+          "text": "Concepts should be taught from simple to complex"
+        },
+        {
+          "correct": false,
+          "text": "Give the same task to all students in a particular level"
+        },
+        {
+          "correct": true,
+          "text": "Consider the age of the students in teaching certain concepts"
+        }
+      ]
+    },
+    {
+      "question": "Infants first crawl, then stand then walk. Children draw circles before square. What development pattern is applied?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Natural sequence of development"
+        },
+        {
+          "correct": false,
+          "text": "Differentiated tasks"
+        },
+        {
+          "correct": false,
+          "text": "Individual differences"
+        },
+        {
+          "correct": false,
+          "text": "Coordination"
+        }
+      ]
+    },
+    {
+      "question": "This development is most rapid in infancy but continuous quite rapidly through &nbsp;the preschool years. It continuous to develop during the primary years but the rate is not as rapid as it is with the younger years.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Social development"
+        },
+        {
+          "correct": true,
+          "text": "Physical development"
+        },
+        {
+          "correct": false,
+          "text": "Cognitive development"
+        },
+        {
+          "correct": false,
+          "text": "Emotional Development"
+        }
+      ]
+    },
+    {
+      "question": "As the children grow, they develop a greater ability to coordinate and control movement and to manipulate small objects. These are called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Locomotor skills"
+        },
+        {
+          "correct": false,
+          "text": "Self-help skills"
+        },
+        {
+          "correct": true,
+          "text": "Fine motor skills"
+        },
+        {
+          "correct": false,
+          "text": "Gross motor skills"
+        }
+      ]
+    },
+    {
+      "question": "Which developmental stage is sometimes called the pre-school years?<br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Middle childhood"
+        },
+        {
+          "correct": true,
+          "text": "Early childhood"
+        },
+        {
+          "correct": false,
+          "text": "Late infancy"
+        },
+        {
+          "correct": false,
+          "text": "Early infancy"
+        }
+      ]
+    },
+    {
+      "question": "The most helpless stage of human development is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "infancy"
+        },
+        {
+          "correct": false,
+          "text": "babyhood"
+        },
+        {
+          "correct": false,
+          "text": "Childhood"
+        },
+        {
+          "correct": false,
+          "text": "adulthood"
+        }
+      ]
+    },
+    {
+      "question": "The most teachable period of development",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "infancy"
+        },
+        {
+          "correct": true,
+          "text": "childhood"
+        },
+        {
+          "correct": false,
+          "text": "adolescence"
+        },
+        {
+          "correct": false,
+          "text": "adulthood"
+        }
+      ]
+    },
+    {
+      "question": "In the pre-school class of Mrs. Dela Cruz, she requires her pupils to use big pencils and crayons. She discourages the use of small pencils and crayons. What does this practice imply?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Big pencils make big prints and make beautiful writing."
+        },
+        {
+          "correct": false,
+          "text": "Small pencils and crayons make small prints which are difficult to read"
+        },
+        {
+          "correct": true,
+          "text": "Big pencils and crayons are easy to hold because fine motor skills are just developing"
+        },
+        {
+          "correct": false,
+          "text": "Small pencils, because they are thin, have pointed writing ends, might be dangerous to very young children"
+        }
+      ]
+    },
+    {
+      "question": "Commonality among all children which serves as a means of learning about and making sense of the world.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sleep"
+        },
+        {
+          "correct": true,
+          "text": "play"
+        },
+        {
+          "correct": false,
+          "text": "food"
+        },
+        {
+          "correct": false,
+          "text": "all of these"
+        }
+      ]
+    },
+    {
+      "question": "A teacher who realizes the educational value of the practice of providing ample opportunities for play in the curriculum would emphasize that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "students need time to play in order to develop cognitively"
+        },
+        {
+          "correct": false,
+          "text": "play is crucial to all phases of children's development: affective, motor, and cognitive"
+        },
+        {
+          "correct": true,
+          "text": "play makes learning a pleasure experience"
+        },
+        {
+          "correct": false,
+          "text": "play facilitates physical development of students"
+        }
+      ]
+    },
+    {
+      "question": "Kindergarten and elementary grade pupils are often engaged in various games as their learning activities. What principle is best observed in the situation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Teachers need to relax while the children are at play"
+        },
+        {
+          "correct": false,
+          "text": "Children need games to relax and enjoy"
+        },
+        {
+          "correct": false,
+          "text": "Games as a formalized expression of play are natural"
+        },
+        {
+          "correct": true,
+          "text": "Games provide wide range of social and cognitive experience"
+        }
+      ]
+    },
+    {
+      "question": "Lorraine works diligently at building a sand mountain, not looking at or speaking with the other children who are involved in other activities around her. This is an example of _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "onlooker play"
+        },
+        {
+          "correct": false,
+          "text": "Parallel play"
+        },
+        {
+          "correct": false,
+          "text": "Associative play"
+        },
+        {
+          "correct": true,
+          "text": "Solitary play"
+        }
+      ]
+    },
+    {
+      "question": "In line with the principle of readiness, how can Ms. Shirley help her pre-schoolers to read?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "recommend a reading tutor"
+        },
+        {
+          "correct": false,
+          "text": "advice them to go to the library"
+        },
+        {
+          "correct": false,
+          "text": "ask them to watch educational programs"
+        },
+        {
+          "correct": true,
+          "text": "provide visual and discriminatory activities"
+        }
+      ]
+    },
+    {
+      "question": "It is not wise to laugh at a two-year child when he utters bad words because in his stage he is learning to ______",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Consider other's views"
+        },
+        {
+          "correct": false,
+          "text": "Socialize"
+        },
+        {
+          "correct": false,
+          "text": "Distinguish sex differences"
+        },
+        {
+          "correct": true,
+          "text": "Distinguish right and wrong"
+        }
+      ]
+    },
+    {
+      "question": "Nicole, a four year old shild, does not like to attend school but her parents force her to. What principle should the teachers bear in mind in dealing with Nicole?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "growth"
+        },
+        {
+          "correct": false,
+          "text": "heredity"
+        },
+        {
+          "correct": false,
+          "text": "development"
+        },
+        {
+          "correct": true,
+          "text": "readiness"
+        }
+      ]
+    },
+    {
+      "question": "Between the ages of 2 and 4, the children's attention is directed to the anal region. This stage refers to the pleasure children recieve by the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Sucking of fingers and toes"
+        },
+        {
+          "correct": false,
+          "text": "Activities involving the mouth"
+        },
+        {
+          "correct": false,
+          "text": "Energies concerning peers and sports"
+        },
+        {
+          "correct": true,
+          "text": "Elimination process"
+        }
+      ]
+    },
+    {
+      "question": "Children in the kindergarten have very short attention span. What does this statement implies?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Varied activities should be utilized"
+        },
+        {
+          "correct": false,
+          "text": "One type of activity should be provided"
+        },
+        {
+          "correct": false,
+          "text": "Pupils should be allowed to do what they like"
+        },
+        {
+          "correct": false,
+          "text": "Interesting pictures should be used"
+        }
+      ]
+    },
+    {
+      "question": "Abigail is praised by her parents every time she keeos her toys after playing with them. Which behavior is likely to occur by the time she enters school for the first time?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "She will teach her classmates to keep their toys after playing with them."
+        },
+        {
+          "correct": true,
+          "text": "She can take care of her personal things she brings to school."
+        },
+        {
+          "correct": false,
+          "text": "She might become careless with her things if not reminded by her teacher."
+        },
+        {
+          "correct": false,
+          "text": "She will be in trouble with her classmates who don't know how to care for their toys."
+        }
+      ]
+    },
+    {
+      "question": "What primary benefits does a child gain by participating in playgroups?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "He develops his motor and physical skills"
+        },
+        {
+          "correct": false,
+          "text": "He can practice how to relax in the midst of physical activities"
+        },
+        {
+          "correct": true,
+          "text": "He can learn and gain practice in adjusting to social demands"
+        },
+        {
+          "correct": false,
+          "text": "He can evaluate his skills in comparison to others"
+        }
+      ]
+    },
+    {
+      "question": "Which characteristics of a Grade VI pupil makes you conclude he is behind in his development in comparison with the average Grade VI pupil?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Has not learned to get along with his agemates"
+        },
+        {
+          "correct": false,
+          "text": "Has not achieved emotional independence from his parents"
+        },
+        {
+          "correct": false,
+          "text": "Has not achieved a feminine and masculine social role"
+        },
+        {
+          "correct": false,
+          "text": "Has not achieved socially responsible behavior"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following developmental tasks is not expected from a 6-12 years old child?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learning to get along with agemates"
+        },
+        {
+          "correct": false,
+          "text": "Learning physical skills necessary for ordinary games"
+        },
+        {
+          "correct": true,
+          "text": "Learning to control the elimination of body wastes"
+        },
+        {
+          "correct": false,
+          "text": "Developing concepts for everyday living"
+        }
+      ]
+    },
+    {
+      "question": "All of the following describe the development of children age 11 to 13 EXCEPT:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Sex differences in IQ becomes more evident"
+        },
+        {
+          "correct": false,
+          "text": "They shift from impulsivity to adaptive ability"
+        },
+        {
+          "correct": false,
+          "text": "They exhibit increased objectivity in thinking"
+        },
+        {
+          "correct": false,
+          "text": "They show abstract thinking and judgment"
+        }
+      ]
+    },
+    {
+      "question": "When teachers understand the psychosocial development of students 6 to 12 years old they can provide",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Play activities to foster social development"
+        },
+        {
+          "correct": true,
+          "text": "Projects that encourage industriousness"
+        },
+        {
+          "correct": false,
+          "text": "Activities that encourage emotional support"
+        },
+        {
+          "correct": false,
+          "text": "Activities that foster trust"
+        }
+      ]
+    },
+    {
+      "question": "Which secondary sex characteristic appears in females but not in males at the time of puberty?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Replacement of fat with muscle tissues"
+        },
+        {
+          "correct": false,
+          "text": "Broadening of the shoulder"
+        },
+        {
+          "correct": false,
+          "text": "Change in texture of skin"
+        },
+        {
+          "correct": true,
+          "text": "Rounded hips"
+        }
+      ]
+    },
+    {
+      "question": "Transition age from childhood to adulthood where rapid physical changes and sex maturity occur resulting in changes in ways of feelings, thinking, and acting",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "puberty"
+        },
+        {
+          "correct": true,
+          "text": "adolescence"
+        },
+        {
+          "correct": false,
+          "text": "early childhood"
+        },
+        {
+          "correct": false,
+          "text": "stage V"
+        }
+      ]
+    },
+    {
+      "question": "Which may help an adolescent discover his identity?<br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Decision to follow one path only"
+        },
+        {
+          "correct": false,
+          "text": "Relating to people"
+        },
+        {
+          "correct": false,
+          "text": "Parents relating in to follow a specific path"
+        },
+        {
+          "correct": true,
+          "text": "Exploring many different roles in a healthy manner"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements best describes sex differences among adolescents?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Girls mature earlier than boys"
+        },
+        {
+          "correct": false,
+          "text": "Boys mature earlier than girls"
+        },
+        {
+          "correct": false,
+          "text": "Girls experience puberty growth later than boys"
+        },
+        {
+          "correct": false,
+          "text": "Boys and girls have the same rate of puberty growth"
+        }
+      ]
+    },
+    {
+      "question": "Which holds true of adolescence?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Spurt in physical growth and hormonal changes"
+        },
+        {
+          "correct": false,
+          "text": "Lack of idealism"
+        },
+        {
+          "correct": false,
+          "text": "Dependence"
+        },
+        {
+          "correct": false,
+          "text": "Defiance of peer group norms"
+        }
+      ]
+    },
+    {
+      "question": "Which developmental tasks are expected of the adolescent according to Havighurst?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Skilled in games"
+        },
+        {
+          "correct": false,
+          "text": "Getting started in an occupation"
+        },
+        {
+          "correct": true,
+          "text": "Achieving new and more mature relations with the age-mates of both sexes"
+        },
+        {
+          "correct": false,
+          "text": "Learning to get along with age mates"
+        }
+      ]
+    },
+    {
+      "question": "The teacher who understands the adolescent's needs to conform will",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Use sarcasm as a disciplinary device"
+        },
+        {
+          "correct": false,
+          "text": "Disregard unique responses in discussions and on examinations"
+        },
+        {
+          "correct": true,
+          "text": "Establish a learning climate that fosters feelings of security"
+        },
+        {
+          "correct": false,
+          "text": "Lecture students on their weaknesses of character"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following would you do as a teacher of adolescents?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Activities given should be from general to specific"
+        },
+        {
+          "correct": false,
+          "text": "Always consider friendships as the basis for grouping students"
+        },
+        {
+          "correct": false,
+          "text": "Tasks to be assigned should be those that will make them feel like adults"
+        },
+        {
+          "correct": true,
+          "text": "Provide activities that will help them define their roles"
+        }
+      ]
+    },
+    {
+      "question": "Children are attracted to join gangs which exert profound influence upon them because",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "They involve goals and purposes very neatly related to their own goals and purposes."
+        },
+        {
+          "correct": false,
+          "text": "The gang is a natural step among the several steps of growth"
+        },
+        {
+          "correct": true,
+          "text": "It provides them the security that they need most during that particular time in their young life"
+        },
+        {
+          "correct": false,
+          "text": "They find a pleasant release from adult domination and individual self-direction"
+        }
+      ]
+    },
+    {
+      "question": "Which of these statements BEST explain the occurence of disciplinary infractions among adolescents in the secondary schools?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "There is a widespread lack of pre-vocational meaningful study in secondary schools"
+        },
+        {
+          "correct": true,
+          "text": "Adolescents tend to resist authority; they seek the admiration of their peers."
+        },
+        {
+          "correct": false,
+          "text": "Syllabi are teacher-imposed, rules of conduct in secondary school are unrealistic."
+        },
+        {
+          "correct": false,
+          "text": "Adolescents undergo rapid physical growth; they are incapable of abstract thoughts."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following activities would be very interesting for homeroom guidance sessions for adolescents?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Boy-girl relationship"
+        },
+        {
+          "correct": false,
+          "text": "Effective study habits"
+        },
+        {
+          "correct": false,
+          "text": "stress management"
+        },
+        {
+          "correct": false,
+          "text": "interesting hobby"
+        }
+      ]
+    },
+    {
+      "question": "Which of the three components of personality consists of instincts?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ego &amp; superego"
+        },
+        {
+          "correct": true,
+          "text": "id"
+        },
+        {
+          "correct": false,
+          "text": "ego"
+        },
+        {
+          "correct": false,
+          "text": "superego"
+        }
+      ]
+    },
+    {
+      "question": "A stage when a girl sees her mother as a rival for her father's attention although she still has a strong attachment to her mother is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Oedipus complex"
+        },
+        {
+          "correct": false,
+          "text": "self-identity complex"
+        },
+        {
+          "correct": false,
+          "text": "superiority complex"
+        },
+        {
+          "correct": true,
+          "text": "electra complex"
+        }
+      ]
+    },
+    {
+      "question": "Norman is very attached to his mother and Nina to her father. In what development stage are they according to Freudian psychoanalytical theory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "phallic stage"
+        },
+        {
+          "correct": false,
+          "text": "anal stage"
+        },
+        {
+          "correct": false,
+          "text": "latent stage"
+        },
+        {
+          "correct": false,
+          "text": "pre-genital"
+        }
+      ]
+    },
+    {
+      "question": "If you have to develop in the children a correct sense of right and wrong, with which should you be concerned according to Freud?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Id"
+        },
+        {
+          "correct": false,
+          "text": "ego"
+        },
+        {
+          "correct": true,
+          "text": "superego"
+        },
+        {
+          "correct": false,
+          "text": "superego &amp; ego"
+        }
+      ]
+    },
+    {
+      "question": "Based on Freud's theory, which operates when a child strikes a playmate at the height of anger?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "ego"
+        },
+        {
+          "correct": false,
+          "text": "superego"
+        },
+        {
+          "correct": true,
+          "text": "id"
+        },
+        {
+          "correct": false,
+          "text": "id and superego"
+        }
+      ]
+    },
+    {
+      "question": "When a young boy experiences rivalry with his father for his mother's attention and affection, he is experiencing",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "electra complex"
+        },
+        {
+          "correct": true,
+          "text": "oedipus complex"
+        },
+        {
+          "correct": false,
+          "text": "superiority complex"
+        },
+        {
+          "correct": false,
+          "text": "inferiority complex"
+        }
+      ]
+    },
+    {
+      "question": "The psychanalytic theory was popularized by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Robert Havighurst"
+        },
+        {
+          "correct": false,
+          "text": "Jean Piaget"
+        },
+        {
+          "correct": false,
+          "text": "Erik Erikson"
+        },
+        {
+          "correct": true,
+          "text": "Sigmund Freud"
+        }
+      ]
+    },
+    {
+      "question": "This part of the personality develops as the young child learns to consider the demands of reality.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "ego"
+        },
+        {
+          "correct": false,
+          "text": "superego"
+        },
+        {
+          "correct": false,
+          "text": "id&nbsp;"
+        },
+        {
+          "correct": false,
+          "text": "libido"
+        }
+      ]
+    },
+    {
+      "question": "Christopher kept on thumb sucking until his adolescence. his needs during the oral development were not gratified so he became fixated at this stage. Which of the following theories is generally applied to the early experiences as an explanation for adult behavior?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Phychosocial"
+        },
+        {
+          "correct": true,
+          "text": "Psychoanalytic"
+        },
+        {
+          "correct": false,
+          "text": "social learning"
+        },
+        {
+          "correct": false,
+          "text": "cognitive development"
+        }
+      ]
+    },
+    {
+      "question": "An emerging thrust in determining one's personality, whether pleasant or wholesomeness one's virtues, i.e, values, relationships with others, adjustments to varying situations, behavior, and motivation<br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "emotional quotient"
+        },
+        {
+          "correct": false,
+          "text": "intelligence quotient"
+        },
+        {
+          "correct": false,
+          "text": "maladjustment personality"
+        },
+        {
+          "correct": false,
+          "text": "anticipated behavior"
+        }
+      ]
+    },
+    {
+      "question": "Daniel Goleman talks about emotional intelligence. Which of the folowing characterize a student with a high degree of emotional in intelligence?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Sensitive to the points of view and feelings of others"
+        },
+        {
+          "correct": false,
+          "text": "Obsessed with achieving at any cost"
+        },
+        {
+          "correct": false,
+          "text": "Prodded by others"
+        },
+        {
+          "correct": false,
+          "text": "Unable to delay gratification"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a correct statement of emotional intelligence?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Emotional Intelligence is being nice to people"
+        },
+        {
+          "correct": false,
+          "text": "Emotional Intelligence is giving free rein to feelings"
+        },
+        {
+          "correct": false,
+          "text": "Emotional Intelligence changes less consider than IQ through life"
+        },
+        {
+          "correct": true,
+          "text": "Emotional Intelligence is feeling appropriately and effectively"
+        }
+      ]
+    },
+    {
+      "question": "Emotionally intelligent individuals are described as having specific characteristics associate with self-awareness, impulse control, persistence, self-motivation, empathy, hope, and ______",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Happiness"
+        },
+        {
+          "correct": true,
+          "text": "Sensitivity"
+        },
+        {
+          "correct": false,
+          "text": "Concern"
+        },
+        {
+          "correct": false,
+          "text": "Optimism"
+        }
+      ]
+    },
+    {
+      "question": "Which is/are NOT supportive of the development of creative thinking?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "open classroom atmosphere"
+        },
+        {
+          "correct": false,
+          "text": "divergent questions"
+        },
+        {
+          "correct": false,
+          "text": "authoritative teacher"
+        },
+        {
+          "correct": true,
+          "text": "authoritarian teacher"
+        }
+      ]
+    },
+    {
+      "question": "What does extreme authoritarianism in home reinforce in learners?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Doing things on their own initiative"
+        },
+        {
+          "correct": false,
+          "text": "Ability to direct themselves"
+        },
+        {
+          "correct": true,
+          "text": "Dependence on others for direction"
+        },
+        {
+          "correct": false,
+          "text": "Creativity in work"
+        }
+      ]
+    },
+    {
+      "question": "A classroom teacher who is _____ reinforces, most Filipino's authoritarian home setting.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "prescribing what pupils should do"
+        },
+        {
+          "correct": false,
+          "text": "asking open-minded questions"
+        },
+        {
+          "correct": false,
+          "text": "encouraging pupil to ask question"
+        },
+        {
+          "correct": false,
+          "text": "being open to suggestions"
+        }
+      ]
+    },
+    {
+      "question": "A type of parenting style wherein parents include children in family-decision making.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "authoritarian"
+        },
+        {
+          "correct": true,
+          "text": "authoritative"
+        },
+        {
+          "correct": false,
+          "text": "permissive"
+        },
+        {
+          "correct": false,
+          "text": "reticent"
+        }
+      ]
+    },
+    {
+      "question": "Early childhood is considered as problem age. Which of the following best supports this statement?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "young children have frequent tempertantrums"
+        },
+        {
+          "correct": true,
+          "text": "demands for independence which in most cases are incapable of handling successfully"
+        },
+        {
+          "correct": false,
+          "text": "both a and b"
+        },
+        {
+          "correct": false,
+          "text": "none of these"
+        }
+      ]
+    },
+    {
+      "question": "In which way does heredity affect the development of the learner?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "by compensating for what the environment fails to develop"
+        },
+        {
+          "correct": true,
+          "text": "by placing limits beyond which the learner cannot develop"
+        },
+        {
+          "correct": false,
+          "text": "by blocking the influence of environment"
+        },
+        {
+          "correct": false,
+          "text": "by providing equal potential to all"
+        }
+      ]
+    },
+    {
+      "question": "A baby is placed in her playpen most of the time. As she grows older, she was able to stand as she held on the rails of the playpen. The baby showed the ability to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "assimilation"
+        },
+        {
+          "correct": true,
+          "text": "accommodation"
+        },
+        {
+          "correct": false,
+          "text": "equilibration"
+        },
+        {
+          "correct": false,
+          "text": "decentration"
+        }
+      ]
+    },
+    {
+      "question": "If a teacher wants to help his fourth graders develop social skills, one of the first points he will have to consider with regard to social learning is that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "social roles are learned only in the family"
+        },
+        {
+          "correct": false,
+          "text": "all role relationships are defined by law"
+        },
+        {
+          "correct": false,
+          "text": "motor skills are not essential to social behavior"
+        },
+        {
+          "correct": true,
+          "text": "internalized rules determine personal interaction with others"
+        }
+      ]
+    },
+    {
+      "question": "A nursery pupil was presented with 20 plastic blocks; 15 red and 5 yellow. When asked if there were red blocks than yellow blocks, the child correctly answered \"red\". This mental activity to focus on one feature of objects is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "object permanence"
+        },
+        {
+          "correct": true,
+          "text": "centration"
+        },
+        {
+          "correct": false,
+          "text": "irreversibility"
+        },
+        {
+          "correct": false,
+          "text": "conservation"
+        }
+      ]
+    },
+    {
+      "question": "Which statement does not describe Piaget's theory of cognitive development?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cognitive development passes through four clearly defined objectives"
+        },
+        {
+          "correct": true,
+          "text": "each stage of cognitive development has similar observable characteristics"
+        },
+        {
+          "correct": false,
+          "text": "Each stage of cognitive development has unique observable characteristics"
+        },
+        {
+          "correct": false,
+          "text": "There are qualitative changes that occur in behavior from one stage to the next"
+        }
+      ]
+    },
+    {
+      "question": "A seven-year old child begins to understand that the amount of a flat mask of clay when rolled like a ball remains the same regardless of the shape or the way it looks. The situation shows that he is able to understand the mental concept called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "equilibration"
+        },
+        {
+          "correct": false,
+          "text": "centration"
+        },
+        {
+          "correct": true,
+          "text": "conservation"
+        },
+        {
+          "correct": false,
+          "text": "reversibility"
+        }
+      ]
+    },
+    {
+      "question": "Which student is functioning at Piaget's concrete operational level?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "John understands laws of conservation, can classify and seriate<br>"
+        },
+        {
+          "correct": false,
+          "text": "June can reason inductively"
+        },
+        {
+          "correct": false,
+          "text": "Jane can apply the scientific method in problem solving"
+        },
+        {
+          "correct": false,
+          "text": "Jenny has developed concerns about social issues and personal"
+        }
+      ]
+    },
+    {
+      "question": "Two sticks are aligned in front of the child. The child agrees that they are of the same length. The teacher moves the stick to the right, and then asks the child if they are equal in length. The child answers, \"No, the one of the top is longer\". What skills does the child lack?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "reasoning"
+        },
+        {
+          "correct": false,
+          "text": "intuition"
+        },
+        {
+          "correct": false,
+          "text": "centration"
+        },
+        {
+          "correct": true,
+          "text": "conservation"
+        }
+      ]
+    },
+    {
+      "question": "Which is the best implications of Piaget's findings that children think differently at different stages?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "children must develop capabilities to master the curriculum"
+        },
+        {
+          "correct": true,
+          "text": "materials and techniques should match the children's capabilities"
+        },
+        {
+          "correct": false,
+          "text": "schooling should be delayed until children mature intellectually"
+        },
+        {
+          "correct": false,
+          "text": "there is no pattern to cognitive development"
+        }
+      ]
+    },
+    {
+      "question": "Richie is very aloof and cold in his relationships with classmates. Which basic goal must have not been attained by Richie during his developmental years, according to Erik Erikson's theory on psychosocial development?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "autonomy"
+        },
+        {
+          "correct": false,
+          "text": "initiative"
+        },
+        {
+          "correct": true,
+          "text": "trust"
+        },
+        {
+          "correct": false,
+          "text": "generativity"
+        }
+      ]
+    },
+    {
+      "question": "In which order do the three important goals during childhood be attined according to Erikson?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "autonomy, initiative, trust"
+        },
+        {
+          "correct": false,
+          "text": "trust, initiative, autonomy"
+        },
+        {
+          "correct": true,
+          "text": "trust, autonomy, initiative"
+        },
+        {
+          "correct": false,
+          "text": "autonomy, trust, initiative"
+        }
+      ]
+    },
+    {
+      "question": "According to Erikson, what years are critical for the development of self-confidence?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "high schools years"
+        },
+        {
+          "correct": true,
+          "text": "elementary school years"
+        },
+        {
+          "correct": false,
+          "text": "pre-school years"
+        },
+        {
+          "correct": false,
+          "text": "college years"
+        }
+      ]
+    },
+    {
+      "question": "A teacher's use of rewards and punishment is not working the same way for all pupils. The reason is probably that:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the teacher favors some students over others"
+        },
+        {
+          "correct": true,
+          "text": "teachers and pupils have different views of what is rewarding"
+        },
+        {
+          "correct": false,
+          "text": "some pupils don't really care what will happen"
+        },
+        {
+          "correct": false,
+          "text": "some pupils become too anxious"
+        }
+      ]
+    }
+  ]
+}

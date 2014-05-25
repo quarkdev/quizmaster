@@ -1,0 +1,2208 @@
+{
+  "name": "Biological Science - Intensive",
+  "description": "...",
+  "duration": 50,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "If the study of fishes interests you, what field or branch of study would you choose to specialize in?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "entomology"
+        },
+        {
+          "correct": false,
+          "text": "helminthology"
+        },
+        {
+          "correct": true,
+          "text": "ichthyology"
+        },
+        {
+          "correct": false,
+          "text": "omithology"
+        }
+      ]
+    },
+    {
+      "question": "Living organisms have the ability to maintain a stable internal environment and transform from an immature to mature functional form. These attributes are _______ respectively.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "adaptation and growth"
+        },
+        {
+          "correct": false,
+          "text": "homeostasis and growth"
+        },
+        {
+          "correct": false,
+          "text": "adaptation and development"
+        },
+        {
+          "correct": true,
+          "text": "homeostatis and development"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the BEST example of the biological principle of structural adaptations?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Pigs have litters."
+        },
+        {
+          "correct": false,
+          "text": "Snakes eat frogs."
+        },
+        {
+          "correct": false,
+          "text": "There are many breeds of dogs."
+        },
+        {
+          "correct": true,
+          "text": "Cacti needles are modified branches."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following levels of organization is arranged in the correct sequence starting from most to least inclusive?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "community, ecosystem, individual, population"
+        },
+        {
+          "correct": false,
+          "text": "individual, population, community, ecosystem"
+        },
+        {
+          "correct": true,
+          "text": "ecosystem, community, population, individual"
+        },
+        {
+          "correct": false,
+          "text": "individual, community, population, ecosystem"
+        }
+      ]
+    },
+    {
+      "question": "What is a true ecosystem?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Primary consumers are least dependent upon producers."
+        },
+        {
+          "correct": false,
+          "text": "Primary consumers outnumber producers."
+        },
+        {
+          "correct": true,
+          "text": "Producers are more than primary consumers."
+        },
+        {
+          "correct": false,
+          "text": "Secondary consumers are the largest and most powerful."
+        }
+      ]
+    },
+    {
+      "question": "Which biome is correctly paired with a factor or organism that is found there?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "boreal forest -moss"
+        },
+        {
+          "correct": true,
+          "text": "tundra - permafrost"
+        },
+        {
+          "correct": false,
+          "text": "temperate forest - prairie dog"
+        },
+        {
+          "correct": false,
+          "text": "grassland -bear"
+        }
+      ]
+    },
+    {
+      "question": "A wetland is an ecosystem in which water either covers the soil or is present at or near the surface of the soil for at least part of the year. Wetland areas are under government protection because they are",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "inexpensive building site"
+        },
+        {
+          "correct": false,
+          "text": "very limited in number"
+        },
+        {
+          "correct": false,
+          "text": "important for shipping companies"
+        },
+        {
+          "correct": true,
+          "text": "breeding grounds for many organisms"
+        }
+      ]
+    },
+    {
+      "question": "Autotrophs are organisms that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "rely on other organisms for their energy and food supply"
+        },
+        {
+          "correct": false,
+          "text": "consume plant and animal remains and other dead matter"
+        },
+        {
+          "correct": true,
+          "text": "use energy they take in from the environment to convert inorganic molecules into complex organic molecules"
+        },
+        {
+          "correct": false,
+          "text": "obtain energy by eating plants"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a food chain?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "algae - mongo - birds"
+        },
+        {
+          "correct": false,
+          "text": "eagle - snake - frog"
+        },
+        {
+          "correct": false,
+          "text": "snake - mouse - grass"
+        },
+        {
+          "correct": true,
+          "text": "rice plant - rat - hawk"
+        }
+      ]
+    },
+    {
+      "question": "The energy pyramid shows the decreasing pattern of energy from producers to the consumers and from one trophic level to another. Producers are placed at the base of the energy pyramid because<br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "they are used up at a faster&nbsp;rate"
+        },
+        {
+          "correct": true,
+          "text": "they have the most amount of energy available"
+        },
+        {
+          "correct": false,
+          "text": "they can be found in aquatic and terrestrial ecosystem"
+        },
+        {
+          "correct": false,
+          "text": "they have pigments available in producing their own food"
+        }
+      ]
+    },
+    {
+      "question": "Human activities, such as the burning of fossil fuels, cycle carbon through the carbon cycle. Which other process(es) also participate(s) in the carbon cycle?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "nitrogen fixation by bacteria on legume roots"
+        },
+        {
+          "correct": false,
+          "text": "evaporation of water vapor into the atmosphere"
+        },
+        {
+          "correct": false,
+          "text": "movement of organic phosphates through the food web"
+        },
+        {
+          "correct": true,
+          "text": "biological processes such as photosynthesis"
+        }
+      ]
+    },
+    {
+      "question": "Which is NOT true about matter in the biosphere?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Matter is recycled in the biosphere."
+        },
+        {
+          "correct": false,
+          "text": "Oxygen and nitrogen cycles transform and reuse molecules"
+        },
+        {
+          "correct": true,
+          "text": "The total amount of matter decreases over time."
+        },
+        {
+          "correct": false,
+          "text": "The lack of specific nutrient can reduce productivity in an ecosystem."
+        }
+      ]
+    },
+    {
+      "question": "When a scientist reports truthfully and acknowledge sources of information, he has",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "self-confidence"
+        },
+        {
+          "correct": true,
+          "text": "intellectual honesty"
+        },
+        {
+          "correct": false,
+          "text": "intellectual inventiveness"
+        },
+        {
+          "correct": false,
+          "text": "broad-mindedness"
+        }
+      ]
+    },
+    {
+      "question": "The four basic needs of living things are ____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "food, clothing, shelter, love"
+        },
+        {
+          "correct": false,
+          "text": "water, air, habitat, protection"
+        },
+        {
+          "correct": false,
+          "text": "food, water, habitat, space"
+        },
+        {
+          "correct": true,
+          "text": "air, water, food, habitat"
+        }
+      ]
+    },
+    {
+      "question": "As amphibians bullfrogs spend their lives in or near the water of ponds, lakes, and slow-moving streams. As winter approaches, bullfrogs burrow into the mud of pond or stream bottom to hibernate. The physical conditions that the bullfrog requires to survive are part of its",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "habitat"
+        },
+        {
+          "correct": true,
+          "text": "niche"
+        },
+        {
+          "correct": false,
+          "text": "symbiosis"
+        },
+        {
+          "correct": false,
+          "text": "life cycle"
+        }
+      ]
+    },
+    {
+      "question": "The cowbird lays its eggs in other bird's nest. When the cowbird egg hatches, the \"parents\" feed the cowbird along with their own young, which the young cowbird then pushes out of the nest. This illustrates what type of symbiotic relationship?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "mutualism"
+        },
+        {
+          "correct": false,
+          "text": "predation"
+        },
+        {
+          "correct": true,
+          "text": "parasitism"
+        },
+        {
+          "correct": false,
+          "text": "commensalism"
+        }
+      ]
+    },
+    {
+      "question": "A population is a group of individuals that belong to the same species and live in the same area. Which of the following would increase the size of population?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "increased mortality"
+        },
+        {
+          "correct": false,
+          "text": "increased emigration"
+        },
+        {
+          "correct": false,
+          "text": "decreased immigration"
+        },
+        {
+          "correct": true,
+          "text": "increased natality"
+        }
+      ]
+    },
+    {
+      "question": "A science skill that requires the use of one or more of the human sense organs is termed as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "experimentation"
+        },
+        {
+          "correct": true,
+          "text": "observation"
+        },
+        {
+          "correct": false,
+          "text": "formulation"
+        },
+        {
+          "correct": false,
+          "text": "communication"
+        }
+      ]
+    },
+    {
+      "question": "How does reforestation promote sustainable development?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Periodic clearing and developing forest will eradicate weeds and grasses for the next planting season."
+        },
+        {
+          "correct": true,
+          "text": "Planting new trees to replace cut ones will prevent soil erosion and protect the watersheds."
+        },
+        {
+          "correct": false,
+          "text": "Preserving virgin forests will conserve wildlife."
+        },
+        {
+          "correct": false,
+          "text": "Clear cutting will provide timber for man's use."
+        }
+      ]
+    },
+    {
+      "question": "The dumping of non-biodegradable materials like plastics in the environment could casue",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "imbalance of nature"
+        },
+        {
+          "correct": false,
+          "text": "balance of nature"
+        },
+        {
+          "correct": false,
+          "text": "decomposition"
+        },
+        {
+          "correct": false,
+          "text": "stability of the ecosystem"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following activities brings a harmful effect to the environment?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "waste recycling in which refuse materials are converted into useful materials"
+        },
+        {
+          "correct": false,
+          "text": "selective logging in which only mature trees with a diameter of 60 cm or more are cut and 70% of the mature trees are left into the forest"
+        },
+        {
+          "correct": false,
+          "text": "crop rotation in which one kind of crop is planted for a year and another kind of crop is grown in the next year"
+        },
+        {
+          "correct": true,
+          "text": "kaingin farming in which forest trees are burned to clear an area for planting crops"
+        }
+      ]
+    },
+    {
+      "question": "When a body of water is filled with aquatic plants and other decayed matter, this water is polluted. The presence of decayed matter on the surface of the water and the foul odor will deplete oxygen. Which of the following will likely to happen?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The body of water will become a dumping site."
+        },
+        {
+          "correct": true,
+          "text": "Fish and other living organisms will die."
+        },
+        {
+          "correct": false,
+          "text": "The aquatic plants will depend more on water nutrients."
+        },
+        {
+          "correct": false,
+          "text": "The body of water will restore its normal state."
+        }
+      ]
+    },
+    {
+      "question": "When you go shopping, what will you do to save environment?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Shop for products that have as little packaging as possible."
+        },
+        {
+          "correct": false,
+          "text": "In any store, use a bag even it is not needed."
+        },
+        {
+          "correct": false,
+          "text": "Do not reduce the frequency of shopping."
+        },
+        {
+          "correct": false,
+          "text": "Buy paper towels and napkins."
+        }
+      ]
+    },
+    {
+      "question": "Dengue fever has caused death to many children and adults. All these can be traced to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "poor disposal of wastes"
+        },
+        {
+          "correct": false,
+          "text": "poor ventilation"
+        },
+        {
+          "correct": false,
+          "text": "poor maintenance of home compost pits"
+        },
+        {
+          "correct": true,
+          "text": "poor hoarding of water in tanks"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following processes is the primary reason why scientists repeat the measurement they take during experiments?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "to estimate an experimental error"
+        },
+        {
+          "correct": false,
+          "text": "to change the experimental conditions"
+        },
+        {
+          "correct": false,
+          "text": "to list the data in a tabulation"
+        },
+        {
+          "correct": false,
+          "text": "to find out if the equipment is working"
+        }
+      ]
+    },
+    {
+      "question": "The following personality traits are found to be common among scientists EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "They are curious about causes of natural phenomena."
+        },
+        {
+          "correct": false,
+          "text": "They have a strong passion for research."
+        },
+        {
+          "correct": true,
+          "text": "They prefer to work in groups."
+        },
+        {
+          "correct": false,
+          "text": "They have a strong motivation to achieve."
+        }
+      ]
+    },
+    {
+      "question": "Which concepts are important in Darwin's theory of evolution by natural selection?&nbsp;<br><span style=\"font-weight: normal;\"><i>I. Struggle for existence<br>II. Survival of the fittest<br>III. Descent with modification</i></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I and II only"
+        },
+        {
+          "correct": false,
+          "text": "I and III only"
+        },
+        {
+          "correct": false,
+          "text": "II and III only"
+        },
+        {
+          "correct": true,
+          "text": "I, II, and III"
+        }
+      ]
+    },
+    {
+      "question": "Humans, monkey, and apes are all primates because they share common traits. Humans differ from primates because",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "they can walk upright"
+        },
+        {
+          "correct": false,
+          "text": "they use speech"
+        },
+        {
+          "correct": false,
+          "text": "they have larger brains"
+        },
+        {
+          "correct": true,
+          "text": "all of these"
+        }
+      ]
+    },
+    {
+      "question": "Throughout the history of life on Earth, which factor has probably been the chief cause of the extinction of species?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "human interference with the natural environment"
+        },
+        {
+          "correct": true,
+          "text": "failure to adapt to the environmental change"
+        },
+        {
+          "correct": false,
+          "text": "competition within species"
+        },
+        {
+          "correct": false,
+          "text": "volcanic eruptions"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is correctly ranked in increasing order of inclusiveness?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "genus, class, family, order"
+        },
+        {
+          "correct": true,
+          "text": "species, family, order, class"
+        },
+        {
+          "correct": false,
+          "text": "order, family, class, phylum"
+        },
+        {
+          "correct": false,
+          "text": "kingdom, phylum, class, genus"
+        }
+      ]
+    },
+    {
+      "question": "A new organism has been discovered that cannot produce its own food. Therefore, it should NOT be placed into the kingdom",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "protista"
+        },
+        {
+          "correct": false,
+          "text": "fungi"
+        },
+        {
+          "correct": true,
+          "text": "plantae"
+        },
+        {
+          "correct": false,
+          "text": "animalia"
+        }
+      ]
+    },
+    {
+      "question": "The following are characteristics of living things EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cellular organization"
+        },
+        {
+          "correct": false,
+          "text": "variation and adaptation"
+        },
+        {
+          "correct": true,
+          "text": "indefinite form and shape"
+        },
+        {
+          "correct": false,
+          "text": "capacity to reproduce"
+        }
+      ]
+    },
+    {
+      "question": "The basic requirement of organisms to stay alive",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "care"
+        },
+        {
+          "correct": false,
+          "text": "mate"
+        },
+        {
+          "correct": true,
+          "text": "energy"
+        },
+        {
+          "correct": false,
+          "text": "habitat"
+        }
+      ]
+    },
+    {
+      "question": "The leaves of a plant appear green because chlorophyll",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "reflects blue and orange light"
+        },
+        {
+          "correct": false,
+          "text": "absorbs blue and orange light"
+        },
+        {
+          "correct": true,
+          "text": "reflects green light"
+        },
+        {
+          "correct": false,
+          "text": "absorbs green light"
+        }
+      ]
+    },
+    {
+      "question": "In addition to light and chlorophyll, photosynthesis requires",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "water and oxygen"
+        },
+        {
+          "correct": false,
+          "text": "sugars and carbon dioxide"
+        },
+        {
+          "correct": true,
+          "text": "water and carbon dioxide"
+        },
+        {
+          "correct": false,
+          "text": "hydrogen and oxygen"
+        }
+      ]
+    },
+    {
+      "question": "The products of photosynthesis are",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "sugars and oxygen"
+        },
+        {
+          "correct": false,
+          "text": "sugars and carbon dioxide"
+        },
+        {
+          "correct": false,
+          "text": "water and carbon dioxide"
+        },
+        {
+          "correct": false,
+          "text": "hydrogen and oxygen"
+        }
+      ]
+    },
+    {
+      "question": "Life on earth depends largely on",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "strength"
+        },
+        {
+          "correct": false,
+          "text": "supply of food"
+        },
+        {
+          "correct": false,
+          "text": "air movement"
+        },
+        {
+          "correct": true,
+          "text": "energy"
+        }
+      ]
+    },
+    {
+      "question": "Which choice best illustrates a thigmotropism?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "leaf abscission"
+        },
+        {
+          "correct": true,
+          "text": "climbing vines"
+        },
+        {
+          "correct": false,
+          "text": "branching stems"
+        },
+        {
+          "correct": false,
+          "text": "blooming period"
+        }
+      ]
+    },
+    {
+      "question": "Forests are called \"lungs of the earth\". Why?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "They supply earth with oxygen."
+        },
+        {
+          "correct": false,
+          "text": "They supply earth with carbon dioxide."
+        },
+        {
+          "correct": false,
+          "text": "They are the source of food for other organisms."
+        },
+        {
+          "correct": false,
+          "text": "They get their energy directly to the sun."
+        }
+      ]
+    },
+    {
+      "question": "Most of the free-living flatworms are hermaphrodites. A hermaphrodite is an organism that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "has male reproductive organ only"
+        },
+        {
+          "correct": false,
+          "text": "has female reproductive organ only"
+        },
+        {
+          "correct": true,
+          "text": "has both male and female reproductive organs"
+        },
+        {
+          "correct": false,
+          "text": "reproduces asexually"
+        }
+      ]
+    },
+    {
+      "question": "Which animals have four pairs of walking legs?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "centipedes"
+        },
+        {
+          "correct": false,
+          "text": "insects"
+        },
+        {
+          "correct": false,
+          "text": "ants"
+        },
+        {
+          "correct": true,
+          "text": "arachnids"
+        }
+      ]
+    },
+    {
+      "question": "One might think that with such extreme variations in habitat, fishes would be difficult to characterize. Which of the following is NOT a fish?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sharks"
+        },
+        {
+          "correct": false,
+          "text": "catfish"
+        },
+        {
+          "correct": true,
+          "text": "starfish"
+        },
+        {
+          "correct": false,
+          "text": "lamprey"
+        }
+      ]
+    },
+    {
+      "question": "Animal communication can occur through",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "smells"
+        },
+        {
+          "correct": false,
+          "text": "touches"
+        },
+        {
+          "correct": false,
+          "text": "sounds"
+        },
+        {
+          "correct": true,
+          "text": "all of these"
+        }
+      ]
+    },
+    {
+      "question": "Amphibian means \"double life\", emphasizing that these animals live both in water and on land. Which of the following is an amphibian?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "snake"
+        },
+        {
+          "correct": true,
+          "text": "frog"
+        },
+        {
+          "correct": false,
+          "text": "turtle"
+        },
+        {
+          "correct": false,
+          "text": "crocodile"
+        }
+      ]
+    },
+    {
+      "question": "Which characteristic is an important adaptation that separates birds from animals?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "their lack of a bony skeleton"
+        },
+        {
+          "correct": false,
+          "text": "having only two legs"
+        },
+        {
+          "correct": true,
+          "text": "the presence of feathers"
+        },
+        {
+          "correct": false,
+          "text": "maintaining a constant body temperature"
+        }
+      ]
+    },
+    {
+      "question": "Which is NOT a characteristic of all mammals?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "giving birth to live young"
+        },
+        {
+          "correct": false,
+          "text": "warm-blooded"
+        },
+        {
+          "correct": false,
+          "text": "depends on energy for survival"
+        },
+        {
+          "correct": false,
+          "text": "the ability to generate body heat internally"
+        }
+      ]
+    },
+    {
+      "question": "A characteristic of endotherms is that they",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "control body temperature through behavior"
+        },
+        {
+          "correct": true,
+          "text": "control body temperature from within"
+        },
+        {
+          "correct": false,
+          "text": "obtain heat from outside their bodies"
+        },
+        {
+          "correct": false,
+          "text": "have relatively low rates of metabolism"
+        }
+      ]
+    },
+    {
+      "question": "When a male sea lion patrols the area of beach where his female sea lions rest, he is displaying",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "habituation"
+        },
+        {
+          "correct": false,
+          "text": "circadian rhythm"
+        },
+        {
+          "correct": false,
+          "text": "courtship"
+        },
+        {
+          "correct": true,
+          "text": "territorial behavior"
+        }
+      ]
+    },
+    {
+      "question": "What do you call the reduction of activity by animals during summer?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "estivation"
+        },
+        {
+          "correct": false,
+          "text": "hibernation"
+        },
+        {
+          "correct": false,
+          "text": "vacation"
+        },
+        {
+          "correct": false,
+          "text": "none of these"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements regarding cell theory is/are FALSE?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Some living things are composed of cells."
+        },
+        {
+          "correct": false,
+          "text": "Cells are the basic units of structure and function in living things."
+        },
+        {
+          "correct": false,
+          "text": "New cells are produced from existing cells."
+        },
+        {
+          "correct": false,
+          "text": "The cell is the smallest &nbsp;part of a living thing which performs all the processes a living organism does."
+        }
+      ]
+    },
+    {
+      "question": "Which organelle modifies proteins produced in the ribosomes that passed through the rough endoplasmic reticulum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "mitochondrion"
+        },
+        {
+          "correct": false,
+          "text": "lysosome"
+        },
+        {
+          "correct": true,
+          "text": "golgi apparatus"
+        },
+        {
+          "correct": false,
+          "text": "vacuole"
+        }
+      ]
+    },
+    {
+      "question": "The dwarf water buffalo and the maple tree have eukaryotic type of cells. Which of the following organelles is present in the cells of the dwarf water buffalo but absent in the cells of the maple tree?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "nucleus"
+        },
+        {
+          "correct": true,
+          "text": "centriole"
+        },
+        {
+          "correct": false,
+          "text": "cell wall"
+        },
+        {
+          "correct": false,
+          "text": "cell membrane"
+        }
+      ]
+    },
+    {
+      "question": "Which arrangement of cell-related terms correctly represents the relationships involved?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "A nucleus includes chromosomes that contain several genes."
+        },
+        {
+          "correct": false,
+          "text": "Several nuclei make up genes that are located on chromosomes."
+        },
+        {
+          "correct": false,
+          "text": "A gene is made up of chromosomes that are located in the cytoplasm."
+        },
+        {
+          "correct": false,
+          "text": "Chromosomes are composed of nuclei that include several genes."
+        }
+      ]
+    },
+    {
+      "question": "A normal human zygote contains a full set of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "23 chromosomes, one half from each parent"
+        },
+        {
+          "correct": true,
+          "text": "46 chromosomes, one half from each parent"
+        },
+        {
+          "correct": false,
+          "text": "chromosomes from the father only"
+        },
+        {
+          "correct": false,
+          "text": "chromosomes from the mother only"
+        }
+      ]
+    },
+    {
+      "question": "Normal cell division results in the production of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "two daughter cells"
+        },
+        {
+          "correct": false,
+          "text": "two sex cells"
+        },
+        {
+          "correct": false,
+          "text": "double the number of chromosomes"
+        },
+        {
+          "correct": false,
+          "text": "half the number of chromosomes"
+        }
+      ]
+    },
+    {
+      "question": "The life cycle undergone by insects is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "metabolism"
+        },
+        {
+          "correct": true,
+          "text": "metamorphosis"
+        },
+        {
+          "correct": false,
+          "text": "synthesis"
+        },
+        {
+          "correct": false,
+          "text": "mitosis"
+        }
+      ]
+    },
+    {
+      "question": "Two organs are considered to be part of the same body system if the organs",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "are located next to each other"
+        },
+        {
+          "correct": false,
+          "text": "work independently &nbsp;of each other"
+        },
+        {
+          "correct": true,
+          "text": "work together to carry out a life function"
+        },
+        {
+          "correct": false,
+          "text": "are made up of cells with organelles"
+        }
+      ]
+    },
+    {
+      "question": "Which is the functional layer of the skin and is made mostly of connective tissue?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "epidermis"
+        },
+        {
+          "correct": true,
+          "text": "dermis"
+        },
+        {
+          "correct": false,
+          "text": "subcutaneous layer"
+        },
+        {
+          "correct": false,
+          "text": "sweat gland"
+        }
+      ]
+    },
+    {
+      "question": "What determines difference in skin color among individuals?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "number of melanocytes in the skin"
+        },
+        {
+          "correct": true,
+          "text": "amount of melanin produced by each melanocyte"
+        },
+        {
+          "correct": false,
+          "text": "amount of keratin in the skin"
+        },
+        {
+          "correct": false,
+          "text": "amount of sebum produced in the dermis"
+        }
+      ]
+    },
+    {
+      "question": "All are important roles of the skeletal system EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "protection of internal genes"
+        },
+        {
+          "correct": false,
+          "text": "movement of the body"
+        },
+        {
+          "correct": false,
+          "text": "production of red blood cells"
+        },
+        {
+          "correct": true,
+          "text": "regulation of body temperature"
+        }
+      ]
+    },
+    {
+      "question": "The tough connective tissue layer surrounding bone is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tendon"
+        },
+        {
+          "correct": false,
+          "text": "ligament"
+        },
+        {
+          "correct": true,
+          "text": "periosteum"
+        },
+        {
+          "correct": false,
+          "text": "cartilage"
+        }
+      ]
+    },
+    {
+      "question": "Complete this analogy,<br>&nbsp; &nbsp; &nbsp; Lower arm: radius and ulna<br>&nbsp; &nbsp; &nbsp; Leg: ___________",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "femur and tibia"
+        },
+        {
+          "correct": true,
+          "text": "tibia and fibula"
+        },
+        {
+          "correct": false,
+          "text": "femur and fibula"
+        },
+        {
+          "correct": false,
+          "text": "carpal and tarsal"
+        }
+      ]
+    },
+    {
+      "question": "Most vertebrates have",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "an inflexible backbone"
+        },
+        {
+          "correct": true,
+          "text": "a&nbsp;flexible backbone"
+        },
+        {
+          "correct": false,
+          "text": "a backbone made of cartilage"
+        },
+        {
+          "correct": false,
+          "text": "no backbone"
+        }
+      ]
+    },
+    {
+      "question": "What type of joint is responsible for straightening or bending our arms and legs?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sliding"
+        },
+        {
+          "correct": false,
+          "text": "ball and socket"
+        },
+        {
+          "correct": true,
+          "text": "hinge"
+        },
+        {
+          "correct": false,
+          "text": "pivot"
+        }
+      ]
+    },
+    {
+      "question": "Which would you advise to children to prevent osteoporosis?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "consistent bone density test"
+        },
+        {
+          "correct": true,
+          "text": "adequate calcium and vitamin D"
+        },
+        {
+          "correct": false,
+          "text": "more intake of all vitamins"
+        },
+        {
+          "correct": false,
+          "text": "less bone exercise and fatigue"
+        }
+      ]
+    },
+    {
+      "question": "More than 40% of the mass of the average human body is muscle. What muscle are you going to use to lift a book?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cardiac"
+        },
+        {
+          "correct": false,
+          "text": "smooth"
+        },
+        {
+          "correct": false,
+          "text": "involuntary"
+        },
+        {
+          "correct": true,
+          "text": "skeletal"
+        }
+      ]
+    },
+    {
+      "question": "The main function of the human digestive system is to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "break down large, insoluble molecules into smaller, soluble molecules"
+        },
+        {
+          "correct": false,
+          "text": "excrete oxygen and carbon dioxide"
+        },
+        {
+          "correct": false,
+          "text": "synthesize minerals and vitamins needed for a healthy body"
+        },
+        {
+          "correct": false,
+          "text": "add essential vitamins to blood"
+        }
+      ]
+    },
+    {
+      "question": "The correct sequence of structures in the gut is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "stomach, esophagus, small intestine, large intestine"
+        },
+        {
+          "correct": false,
+          "text": "esophagus, stomach, large intestine, small intestine"
+        },
+        {
+          "correct": true,
+          "text": "esophagus, stomach, small intestine, large intestine"
+        },
+        {
+          "correct": false,
+          "text": "esophagus, small intestine, stomach, large intestine"
+        }
+      ]
+    },
+    {
+      "question": "A person who has had the gallbladder removed may be expected to have some difficulty in",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "absorbing minerals"
+        },
+        {
+          "correct": true,
+          "text": "digesting fats"
+        },
+        {
+          "correct": false,
+          "text": "excreting urea"
+        },
+        {
+          "correct": false,
+          "text": "storing glycogen"
+        }
+      ]
+    },
+    {
+      "question": "What does the pancreas do during digestion?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "secretes digestive enzymes"
+        },
+        {
+          "correct": false,
+          "text": "grinds food into smaller bits"
+        },
+        {
+          "correct": false,
+          "text": "removes toxins"
+        },
+        {
+          "correct": false,
+          "text": "returns excess water to the bloodstream after digestion is completed"
+        }
+      ]
+    },
+    {
+      "question": "What does the liver do with materials absorbed into the bloodstream during digestion?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "secretes digestive enzymes into duodenum"
+        },
+        {
+          "correct": false,
+          "text": "adds oxygen to the bloodstream"
+        },
+        {
+          "correct": true,
+          "text": "removes toxins from the bloodstream"
+        },
+        {
+          "correct": false,
+          "text": "adds water to the mixture"
+        }
+      ]
+    },
+    {
+      "question": "Which body system supplies nutrients and oxygen to the cells?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "digestive system"
+        },
+        {
+          "correct": false,
+          "text": "skeletal system"
+        },
+        {
+          "correct": true,
+          "text": "circulatory system"
+        },
+        {
+          "correct": false,
+          "text": "muscular system"
+        }
+      ]
+    },
+    {
+      "question": "Most absorption of the end products of digestion into the circulatory system in humans occurs",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "in the large intestine"
+        },
+        {
+          "correct": false,
+          "text": "in the stomach"
+        },
+        {
+          "correct": false,
+          "text": "through the lining of the esophagus"
+        },
+        {
+          "correct": true,
+          "text": "through the villi of the small intestine"
+        }
+      ]
+    },
+    {
+      "question": "Which group consists entirely of materials found in the human blood?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "plasma, alveoli, proteins"
+        },
+        {
+          "correct": false,
+          "text": "platelets, mucus, red blood cells"
+        },
+        {
+          "correct": true,
+          "text": "phagocytes, platelets, proteins"
+        },
+        {
+          "correct": false,
+          "text": "hemoglobin, capillaries, white blood cells"
+        }
+      ]
+    },
+    {
+      "question": "Because of the differences in the surface of blood cells that acts as antigens, human blood is classified into four different blood types namely A, AB, B, and O. Blood type AB is also known as \"universal recipient\" because<br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it has antibody against A and B"
+        },
+        {
+          "correct": true,
+          "text": "it has no antibody against A and B"
+        },
+        {
+          "correct": false,
+          "text": "it has antigen A and antibody against B"
+        },
+        {
+          "correct": false,
+          "text": "it has antigen B and antibody against A"
+        }
+      ]
+    },
+    {
+      "question": "Which cells are able to protect the body by engulfing foreign cells or producing antibodies?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "erythrocytes"
+        },
+        {
+          "correct": false,
+          "text": "plasma cells"
+        },
+        {
+          "correct": false,
+          "text": "thrombocytes"
+        },
+        {
+          "correct": true,
+          "text": "leukocytes"
+        }
+      ]
+    },
+    {
+      "question": "Which is the pathway of blood through the body, including the lungs?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "heart → pulmonary arteries → body → vena cava&nbsp;→ heart&nbsp;→ aorta&nbsp;→ lungs&nbsp;→ pulmonary veins&nbsp;→ heart"
+        },
+        {
+          "correct": true,
+          "text": "heart&nbsp;→ aorta&nbsp;→ body&nbsp;→ vena cava&nbsp;→ heart&nbsp;→ pulmonary arteries&nbsp;→ lungs&nbsp;→ pulmonary veins&nbsp;→ heart"
+        },
+        {
+          "correct": false,
+          "text": "heart&nbsp;→ vena cava&nbsp;→ body&nbsp;→ aorta&nbsp;→ heart&nbsp;→ pulmonary arteries&nbsp;→ lungs&nbsp;→ pulmonary veins&nbsp;→ heart"
+        },
+        {
+          "correct": false,
+          "text": "heart&nbsp;→ aorta&nbsp;→ body&nbsp;→ vena cava&nbsp;→ heart&nbsp;→ pulmonary veins&nbsp;→ lungs&nbsp;→ pulmonary arteries&nbsp;→ heart"
+        }
+      ]
+    },
+    {
+      "question": "Blood goes upward as it travels through the veins back to the heart. Why does it not flow backward?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "there are valves in the veins"
+        },
+        {
+          "correct": false,
+          "text": "blood flows slowly"
+        },
+        {
+          "correct": false,
+          "text": "the veins are thick"
+        },
+        {
+          "correct": false,
+          "text": "blood flows fast"
+        }
+      ]
+    },
+    {
+      "question": "To aid the process of breathing, the diaphragm",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "increases blood flow from the heart to the lungs"
+        },
+        {
+          "correct": true,
+          "text": "moves up and down to alter the volume of the chest cavity"
+        },
+        {
+          "correct": false,
+          "text": "inflates and deflates to force air in and out of the lungs"
+        },
+        {
+          "correct": false,
+          "text": "moves the rib cage in and out as air is inhaled"
+        }
+      ]
+    },
+    {
+      "question": "Which is the pathway of oxygen into the lungs?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "nose&nbsp;→ pharynx&nbsp;→ larynx&nbsp;→ trachea&nbsp;→ bronchus&nbsp;→ bronchiole&nbsp;→ alveolus"
+        },
+        {
+          "correct": false,
+          "text": "mouth&nbsp;→ larynx&nbsp;→ pharynx&nbsp;→ alveolus&nbsp;→ bronchus&nbsp;→ bronchiole"
+        },
+        {
+          "correct": false,
+          "text": "nose&nbsp;→ bronchus&nbsp;→ trachea&nbsp;→ larynx&nbsp;→ pharynx&nbsp;→ alveolus"
+        },
+        {
+          "correct": false,
+          "text": "mouth&nbsp;→ trachea&nbsp;→ bronchiole&nbsp;→ alveolus&nbsp;→ pharynx&nbsp;→ bronchus&nbsp;→ larynx"
+        }
+      ]
+    },
+    {
+      "question": "Which is NOT a function of the kidneys",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "maintenance of blood pH"
+        },
+        {
+          "correct": false,
+          "text": "regulation of the water content of blood"
+        },
+        {
+          "correct": false,
+          "text": "maintenance of homeostatis"
+        },
+        {
+          "correct": true,
+          "text": "excretion of carbon dioxide"
+        }
+      ]
+    },
+    {
+      "question": "Which is the pathway of urine",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "urinary bladder&nbsp;→ kidney&nbsp;→ ureter&nbsp;→ urethra"
+        },
+        {
+          "correct": true,
+          "text": "glomerulus&nbsp;→ renal tubule&nbsp;→ ureter&nbsp;→ urinary bladder&nbsp;→ urethra"
+        },
+        {
+          "correct": false,
+          "text": "kidney&nbsp;→ ureter&nbsp;→ urinary bladder&nbsp;→ prostate gland&nbsp;→ urethra"
+        },
+        {
+          "correct": false,
+          "text": "urinary bladder&nbsp;→ ureter&nbsp;→ urethra&nbsp;→ prostate gland"
+        }
+      ]
+    },
+    {
+      "question": "The central nervous system consists of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sense organs"
+        },
+        {
+          "correct": false,
+          "text": "reflexes"
+        },
+        {
+          "correct": true,
+          "text": "brain and spinal cord"
+        },
+        {
+          "correct": false,
+          "text": "sensory and motor neurons"
+        }
+      ]
+    },
+    {
+      "question": "Which part of the human brain is responsible for the voluntary or conscious activities of the body and the site of intelligence, learning, and judgement?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "medulla oblongata"
+        },
+        {
+          "correct": false,
+          "text": "cerebellum"
+        },
+        {
+          "correct": true,
+          "text": "cerebrum"
+        },
+        {
+          "correct": false,
+          "text": "brain stem"
+        }
+      ]
+    },
+    {
+      "question": "The sympathetic nervous system and the parasympathetic nervous system are the divisions of the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "peripheral nervous system"
+        },
+        {
+          "correct": false,
+          "text": "central nervous system"
+        },
+        {
+          "correct": false,
+          "text": "somatic nervous system"
+        },
+        {
+          "correct": true,
+          "text": "autonomic nervous system"
+        }
+      ]
+    },
+    {
+      "question": "What nerves are found in the inner ear that send impulses to the brain?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "olfactory"
+        },
+        {
+          "correct": false,
+          "text": "vagus"
+        },
+        {
+          "correct": true,
+          "text": "auditory"
+        },
+        {
+          "correct": false,
+          "text": "optic"
+        }
+      ]
+    },
+    {
+      "question": "What sense organ contains structures that help the central nervous system maintain balance or equilibrium?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "eye"
+        },
+        {
+          "correct": false,
+          "text": "skin"
+        },
+        {
+          "correct": true,
+          "text": "ear"
+        },
+        {
+          "correct": false,
+          "text": "nose"
+        }
+      ]
+    },
+    {
+      "question": "What explains why our lips are redder than our palm?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "many blood vessels are located around the lips"
+        },
+        {
+          "correct": true,
+          "text": "lip epidermis is thinner"
+        },
+        {
+          "correct": false,
+          "text": "lips are heavily keratinized"
+        },
+        {
+          "correct": false,
+          "text": "there is increased blood flow in the lips"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following causes our nose to \"run\" when we cry?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the lungs release water vapor"
+        },
+        {
+          "correct": false,
+          "text": "mucus glands are activated"
+        },
+        {
+          "correct": true,
+          "text": "tears enter the duct to the nasal cavity"
+        },
+        {
+          "correct": false,
+          "text": "the sinuses release water"
+        }
+      ]
+    },
+    {
+      "question": "Which is NOT an endocrine gland?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "thyroid gland"
+        },
+        {
+          "correct": true,
+          "text": "sweat gland"
+        },
+        {
+          "correct": false,
+          "text": "pituitary gland"
+        },
+        {
+          "correct": false,
+          "text": "adrenal gland"
+        }
+      ]
+    },
+    {
+      "question": "Endocrine glands are ductless, what does ductless mean?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "without cover"
+        },
+        {
+          "correct": true,
+          "text": "without tube"
+        },
+        {
+          "correct": false,
+          "text": "without an opening"
+        },
+        {
+          "correct": false,
+          "text": "without connection"
+        }
+      ]
+    },
+    {
+      "question": "A boy is starting to notice that his shoulders are getting broader and his voice is changing. What hormone is responsible for this changes?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "estrogen"
+        },
+        {
+          "correct": false,
+          "text": "parathormone"
+        },
+        {
+          "correct": false,
+          "text": "epinephrine"
+        },
+        {
+          "correct": true,
+          "text": "testosterone"
+        }
+      ]
+    },
+    {
+      "question": "Which is the pathway of the sperm?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "epididymis&nbsp;→ seminiferous tubules&nbsp;→ampulla&nbsp;→ vas deferens&nbsp;→ urethra"
+        },
+        {
+          "correct": false,
+          "text": "vas deferens&nbsp;→ urethra&nbsp;→ seminiferous tubules&nbsp;→ epididymis&nbsp;→ ampulla"
+        },
+        {
+          "correct": true,
+          "text": "seminiferous tubules&nbsp;→ epididymis&nbsp;→ vas deferens&nbsp;→ ampulla&nbsp;→ urethra"
+        },
+        {
+          "correct": false,
+          "text": "urethra&nbsp;→ ampulla&nbsp;→ vas deferens&nbsp;→ epididymis&nbsp;→ seminiferous tubules"
+        }
+      ]
+    },
+    {
+      "question": "Which is the pathway of the egg?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "follicle&nbsp;→ fimbriae&nbsp;→ fallopian tube&nbsp;→ uterus"
+        },
+        {
+          "correct": false,
+          "text": "uterus&nbsp;→ fallopian tube&nbsp;→ follicle&nbsp;→ fimbriae"
+        },
+        {
+          "correct": false,
+          "text": "follicle&nbsp;→ fimbriae&nbsp;→ uterus&nbsp;→ fallopian tube"
+        },
+        {
+          "correct": false,
+          "text": "fallopian tube&nbsp;→ fimbriae&nbsp;→ uterus&nbsp;→ follicle"
+        }
+      ]
+    },
+    {
+      "question": "Mycobacterium leprae causes leprosy, Corynebacterium diphtheria causes diphtheria and Vibrio comma causes",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tetanus"
+        },
+        {
+          "correct": false,
+          "text": "tuberculosis"
+        },
+        {
+          "correct": true,
+          "text": "cholera"
+        },
+        {
+          "correct": false,
+          "text": "pneumonia"
+        }
+      ]
+    },
+    {
+      "question": "Which statement describes one effect of a fever?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it increases the growth of pathogens"
+        },
+        {
+          "correct": false,
+          "text": "it decreases the rate of chemical reactions"
+        },
+        {
+          "correct": true,
+          "text": "it increases the heart rate"
+        },
+        {
+          "correct": false,
+          "text": "it decreases the number of white blood cells"
+        }
+      ]
+    },
+    {
+      "question": "If a doctor describes a patient as dehydrated, he means that the patient",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "has contagious disease"
+        },
+        {
+          "correct": false,
+          "text": "needs insulin"
+        },
+        {
+          "correct": false,
+          "text": "needs oxygen"
+        },
+        {
+          "correct": true,
+          "text": "has lost a great deal of water"
+        }
+      ]
+    },
+    {
+      "question": "Situation (98-100):<br><i style=\"font-weight: normal;\">The class was asked to design an experiment to test the effect of detergent on fish. One group came up with this experimental design: for detergent, they got Tide, Surf, and Champion. For dish, they had Tilapia Fingerling, Gold fish, and Baby Janitor Fish contained in different sizes and shapes of bodies. To the Tilapia Fingerling, they put one tbsp. of Surf, and to the Baby Janitor fish, one tbsp. of Champion.<br></i><br>Is there any defect in the experimental design?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "yes there is but was compensated by the use of not only one type of fish"
+        },
+        {
+          "correct": false,
+          "text": "yes there is but was remedied by the fact that 3 kinds of detergents were used"
+        },
+        {
+          "correct": true,
+          "text": "yes not only one but several"
+        },
+        {
+          "correct": false,
+          "text": "none it was a simple yet perfect design"
+        }
+      ]
+    },
+    {
+      "question": "What is the dependent variable?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "amount of water"
+        },
+        {
+          "correct": false,
+          "text": "amount of detergent"
+        },
+        {
+          "correct": true,
+          "text": "effect of detergent on fish"
+        },
+        {
+          "correct": false,
+          "text": "brand of detergent"
+        }
+      ]
+    },
+    {
+      "question": "How can the experimental design be improved?<br><span style=\"font-weight: normal;\"><i>I. Focus on one independent variable at a time, e.g. brand of detergent<br>II. Make use of the same type and size of fish<br>III. increase the number of fish and reduce the number of detergent</i></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I only"
+        },
+        {
+          "correct": true,
+          "text": "I and III"
+        },
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "II only"
+        }
+      ]
+    }
+  ]
+}

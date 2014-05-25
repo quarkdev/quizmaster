@@ -1,0 +1,2098 @@
+{
+  "name": "Child and Adolescent Development Set 2",
+  "description": "...",
+  "duration": 40,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "Which is a characteristic of a child with ADHD?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "inability to read"
+        },
+        {
+          "correct": false,
+          "text": "poor health"
+        },
+        {
+          "correct": true,
+          "text": "inattention"
+        },
+        {
+          "correct": false,
+          "text": "inability to spell"
+        }
+      ]
+    },
+    {
+      "question": "Blurting out answers, difficulties waiting turn, interrupting or intruding on others are characteristics of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hyperactivity"
+        },
+        {
+          "correct": true,
+          "text": "impulsivity"
+        },
+        {
+          "correct": false,
+          "text": "inattention"
+        },
+        {
+          "correct": false,
+          "text": "misbehavior"
+        }
+      ]
+    },
+    {
+      "question": "A persistent pattern of inattention and/or hyperactivity-impulsivity observed in individuals at a comparable level of development is considered which of the following?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "learning disabled"
+        },
+        {
+          "correct": true,
+          "text": "ADHD"
+        },
+        {
+          "correct": false,
+          "text": "health impaired"
+        },
+        {
+          "correct": false,
+          "text": "developmentally predominant"
+        }
+      ]
+    },
+    {
+      "question": "Three subtypes of ADHD are inattentive type, predominantly hyperactive-impulsive type and",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "combined"
+        },
+        {
+          "correct": false,
+          "text": "adult onset"
+        },
+        {
+          "correct": false,
+          "text": "child onset"
+        },
+        {
+          "correct": false,
+          "text": "educational"
+        }
+      ]
+    },
+    {
+      "question": "Failing to give close attention to details, having difficulty sustaining attention, not listening when spoken to, having difficulty organizing task, and being forgetful are characteristics of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hyperactivity"
+        },
+        {
+          "correct": false,
+          "text": "impulsivity"
+        },
+        {
+          "correct": true,
+          "text": "inattention"
+        },
+        {
+          "correct": false,
+          "text": "misbehavior"
+        }
+      ]
+    },
+    {
+      "question": "Fidgeting with hands or feet, leaving the seat running or climbing excessively, and talking excessively are characteristics of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "hyperactivity"
+        },
+        {
+          "correct": false,
+          "text": "impulsivity"
+        },
+        {
+          "correct": false,
+          "text": "inattention"
+        },
+        {
+          "correct": false,
+          "text": "misbehavior"
+        }
+      ]
+    },
+    {
+      "question": "For students who have inattentive type of ADHD, teachers should make sure students have enough time to shift from one activity to another, allow flexible limits for finishing works, simply task that have multiple steps and",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "take medication"
+        },
+        {
+          "correct": false,
+          "text": "receive special education services"
+        },
+        {
+          "correct": true,
+          "text": "teach organizational skills"
+        },
+        {
+          "correct": false,
+          "text": "have it peer tutor"
+        }
+      ]
+    },
+    {
+      "question": "Nila reads WAS as SAW or D from P or B. From her reading behavior, one can say that Nila suffers from,",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "aphasia"
+        },
+        {
+          "correct": false,
+          "text": "dysgrapia"
+        },
+        {
+          "correct": true,
+          "text": "dyslexia"
+        },
+        {
+          "correct": false,
+          "text": "dyspraxia"
+        }
+      ]
+    },
+    {
+      "question": "A congenital disorder characterized by mild to severe mental retardation, slow physical development, and characteristics physical features.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "autism"
+        },
+        {
+          "correct": false,
+          "text": "Asperger's disorder"
+        },
+        {
+          "correct": true,
+          "text": "down syndrome"
+        },
+        {
+          "correct": false,
+          "text": "aphasia"
+        }
+      ]
+    },
+    {
+      "question": "There are indicators that Joshua is a child with autism. What should Mrs. Santos his teacher do to help him?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Recommend a special tutor for Joshua"
+        },
+        {
+          "correct": false,
+          "text": "Tell his parents to transfer him to another school"
+        },
+        {
+          "correct": false,
+          "text": "Ask Joshua so stay and give him extra care and attention"
+        },
+        {
+          "correct": true,
+          "text": "Advise his parents to take him to a specialist for diagnosis"
+        }
+      ]
+    },
+    {
+      "question": "Autism is generally evident before age three and is manifest when the child engages in _____, resists environmental change, and displayed unusual responses to sensory development.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "academic activity"
+        },
+        {
+          "correct": false,
+          "text": "poor behavior"
+        },
+        {
+          "correct": false,
+          "text": "social activities"
+        },
+        {
+          "correct": true,
+          "text": "repetitive activities and stereotyped movements"
+        }
+      ]
+    },
+    {
+      "question": "Categories of problem behavior in students with autism include which of the following?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "self-injuries behavior"
+        },
+        {
+          "correct": false,
+          "text": "aggresion"
+        },
+        {
+          "correct": false,
+          "text": "tantrums"
+        },
+        {
+          "correct": true,
+          "text": "all of these"
+        }
+      ]
+    },
+    {
+      "question": "Autistic behavior, Rett's disorder, childhood degenerative disorder, Asperger's disorder and pervasive development disorder are sometimes referred to as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Autism"
+        },
+        {
+          "correct": true,
+          "text": "Autism Spectrum Disorder"
+        },
+        {
+          "correct": false,
+          "text": "stereotype"
+        },
+        {
+          "correct": false,
+          "text": "mental retardation"
+        }
+      ]
+    },
+    {
+      "question": "Students with autism may have which of the following characteristics of communication?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "attention focused on one type only"
+        },
+        {
+          "correct": false,
+          "text": "use of limited gestures to supplement verbal skills"
+        },
+        {
+          "correct": false,
+          "text": "lack of eye contact"
+        },
+        {
+          "correct": true,
+          "text": "all of these"
+        }
+      ]
+    },
+    {
+      "question": "Delinquents differ from non-delinquents, according to research, in that the former",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Have generally lower intelligence"
+        },
+        {
+          "correct": false,
+          "text": "Are more original and imaginative"
+        },
+        {
+          "correct": true,
+          "text": "Have more emotional and more serious conflicts"
+        },
+        {
+          "correct": false,
+          "text": "Are less concerned with society's standards and demands"
+        }
+      ]
+    },
+    {
+      "question": "In dealing with slow learners, which of the following principles must a teacher take into consideration?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The teaching and the materials used should be at the learner's level of learning"
+        },
+        {
+          "correct": false,
+          "text": "The teacher must know that the techniques most important in helping each learner towards maximum attainment"
+        },
+        {
+          "correct": false,
+          "text": "The children must proceed at the pace best suited to their abilities"
+        },
+        {
+          "correct": true,
+          "text": "all of the above"
+        }
+      ]
+    },
+    {
+      "question": "Which best explains what mainstreaming in the classroom means?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Pupils who were previously enrolled in special education classes are now integrated into regular classes"
+        },
+        {
+          "correct": false,
+          "text": "Teachers in special education centers are now teaching in the regular classrooms"
+        },
+        {
+          "correct": false,
+          "text": "Teachers of regular classes are now teaching with disabilities in special education"
+        },
+        {
+          "correct": false,
+          "text": "Pupils in the regular classroom are now accepted in special education centers"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following best describes a slow learner?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Unable to function satisfactorily in many situations"
+        },
+        {
+          "correct": false,
+          "text": "Has a broad view of the world"
+        },
+        {
+          "correct": false,
+          "text": "Consistently does only mediocre work"
+        },
+        {
+          "correct": false,
+          "text": "All of the above"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT true of a slow learner?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Short attention span"
+        },
+        {
+          "correct": false,
+          "text": "Awkward in self-expression"
+        },
+        {
+          "correct": true,
+          "text": "Least direction needed"
+        },
+        {
+          "correct": false,
+          "text": "More supervision required"
+        }
+      ]
+    },
+    {
+      "question": "Which one best describes a fast/gifted learner?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "high creativity"
+        },
+        {
+          "correct": false,
+          "text": "mediocre performance"
+        },
+        {
+          "correct": false,
+          "text": "difficult to identify"
+        },
+        {
+          "correct": false,
+          "text": "extensive reading required"
+        }
+      ]
+    },
+    {
+      "question": "How can the teacher best provide for the slow learner?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "giving them more free time to study on their own"
+        },
+        {
+          "correct": true,
+          "text": "giving them frequent drills on basic knowledge and skills"
+        },
+        {
+          "correct": false,
+          "text": "assigning them exercises for creative expression"
+        },
+        {
+          "correct": false,
+          "text": "assigning them same lesson as the rest of the class"
+        }
+      ]
+    },
+    {
+      "question": "Which can best account for the success of gifted individuals in later life?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "their IQ's"
+        },
+        {
+          "correct": false,
+          "text": "their academic record in college"
+        },
+        {
+          "correct": false,
+          "text": "many factors related to the position of their parents in society"
+        },
+        {
+          "correct": true,
+          "text": "factors like emotional, social, and adjustment which are personal in nature"
+        }
+      ]
+    },
+    {
+      "question": "Before a teacher makes decision on how to integrate moral values in the subject she is teaching, she should consider first",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "a host of factors affecting the development of values"
+        },
+        {
+          "correct": false,
+          "text": "the selection of appropriate teaching strategies"
+        },
+        {
+          "correct": false,
+          "text": "the setting up of objectives in teaching moral values"
+        },
+        {
+          "correct": true,
+          "text": "the identification of moral values in the home, school, and community"
+        }
+      ]
+    },
+    {
+      "question": "A disorder in one or more of the basic psychological processes, involved in understanding or in using language, spoken or written, which disorder may manifest disability to listen, think, speak, read, or write, speel or do mathematical operations?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "autistic"
+        },
+        {
+          "correct": true,
+          "text": "learning disability"
+        },
+        {
+          "correct": false,
+          "text": "mentally retarded"
+        },
+        {
+          "correct": false,
+          "text": "communicative disorder"
+        }
+      ]
+    },
+    {
+      "question": "________ is one of the most significant challenges facing students with learning disabilities",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "writing difficulty"
+        },
+        {
+          "correct": false,
+          "text": "reading difficulty"
+        },
+        {
+          "correct": true,
+          "text": "behavior difficulty"
+        },
+        {
+          "correct": false,
+          "text": "math difficulty"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the major goal in the education of children with special needs?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Acquisition of relevant knowledge and skills"
+        },
+        {
+          "correct": false,
+          "text": "Maximization of their abilities and potentials"
+        },
+        {
+          "correct": false,
+          "text": "Self-actualization"
+        },
+        {
+          "correct": true,
+          "text": "both a and b"
+        }
+      ]
+    },
+    {
+      "question": "The qualification that students with learning disabilities must have a significant discrepancy between actual achievement and expected achevement raises which questions?<br>I. How does one define expected achievement?<br>II. How large must the discrepancy be to be considered significant?<br>How much below average must the individual's IQ be?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "I and II only"
+        },
+        {
+          "correct": false,
+          "text": "I and III only"
+        },
+        {
+          "correct": false,
+          "text": "II and III only"
+        },
+        {
+          "correct": false,
+          "text": "I, II, and III"
+        }
+      ]
+    },
+    {
+      "question": "Environmental causes of learning disabilities may include which of the following?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "teratogens"
+        },
+        {
+          "correct": false,
+          "text": "a mother's alcohol and drug use during pregnancy"
+        },
+        {
+          "correct": false,
+          "text": "lead-based paint"
+        },
+        {
+          "correct": true,
+          "text": "all of these"
+        }
+      ]
+    },
+    {
+      "question": "Keeping possible problems from becoming a serious handicapped is an example of _____ intervention",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "compensatory"
+        },
+        {
+          "correct": true,
+          "text": "preventive"
+        },
+        {
+          "correct": false,
+          "text": "remedial"
+        },
+        {
+          "correct": false,
+          "text": "any of them"
+        }
+      ]
+    },
+    {
+      "question": "which of the following are important to child development specialists?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "protection and care of the children"
+        },
+        {
+          "correct": false,
+          "text": "education and nurture of early learners"
+        },
+        {
+          "correct": false,
+          "text": "care for the children of working parents"
+        },
+        {
+          "correct": true,
+          "text": "both a and b"
+        }
+      ]
+    },
+    {
+      "question": "High levels of cortisol, the stress hormone, inhibits learning. What is an implication of this in the teaching-learning process?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Teacher should be non-threatening in her ways."
+        },
+        {
+          "correct": false,
+          "text": "Avoid quizzes and tests."
+        },
+        {
+          "correct": false,
+          "text": "Never raise your voice."
+        },
+        {
+          "correct": false,
+          "text": "Don't give assignments."
+        }
+      ]
+    },
+    {
+      "question": "Defense or coping mechanisms are activities/ behaviors manifested by man as one",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tries to avenge those who hurt him"
+        },
+        {
+          "correct": false,
+          "text": "focuses on the goals to be achieved"
+        },
+        {
+          "correct": false,
+          "text": "succumbs to the influence of the environment"
+        },
+        {
+          "correct": true,
+          "text": "tries to reduce the tensions and anxieties felt by him"
+        }
+      ]
+    },
+    {
+      "question": "Psychologists use the term \"individual differences\" to describe variations in",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "people characteristics"
+        },
+        {
+          "correct": false,
+          "text": "theoretical approaches to learning"
+        },
+        {
+          "correct": false,
+          "text": "philosophies of human nature"
+        },
+        {
+          "correct": false,
+          "text": "environmental and genetic influences"
+        }
+      ]
+    },
+    {
+      "question": "What is the main role of the teacher in the classroom as perceived by the cognitive psychologists?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Prepare instructional materials for the learners"
+        },
+        {
+          "correct": false,
+          "text": "Provide varied and new information about the lessons"
+        },
+        {
+          "correct": false,
+          "text": "Dictate to the learners what and how to do with the tasks"
+        },
+        {
+          "correct": true,
+          "text": "Make the learner relate to past lessons with the new information"
+        }
+      ]
+    },
+    {
+      "question": "The teacher must be aware that both heredity and environment represent complex factors, exerting many specific influences on an individual's growth. Which of the following statements best represents the influence of heredity and environment?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Heredity counts; environment is less important."
+        },
+        {
+          "correct": false,
+          "text": "If the environment is changed, heredity becomes less important."
+        },
+        {
+          "correct": true,
+          "text": "The relative heredity influences of heredity and environment can vary widely in an individual's growth."
+        },
+        {
+          "correct": false,
+          "text": "None of the above."
+        }
+      ]
+    },
+    {
+      "question": "Lila and Mila are fraternal twins. Lila is an extrovert while Mila is an introvert. Lila likes to eat spaghetti while Mila dislikes it. On the other hand, Mila gets good grades while Lila contents herself with fairly good grades. Which of the following principle does not apply in this case?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Each individual is unique."
+        },
+        {
+          "correct": false,
+          "text": "No two individuals are alike."
+        },
+        {
+          "correct": false,
+          "text": "Development patterns show wide individual differences."
+        },
+        {
+          "correct": true,
+          "text": "Development is a product of the interaction of the organism and its environment."
+        }
+      ]
+    },
+    {
+      "question": "Piagetian tasks state that thinking becomes more logical and abstract as children reach the formal operations stage. What is an educational implication of this finding?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Expect hypothetical reasoning from learners between 12 to 15 years of age."
+        },
+        {
+          "correct": false,
+          "text": "Engage children in analogical reasoning as early as preschool to train them for HOTS."
+        },
+        {
+          "correct": false,
+          "text": "Learners who are not capable of logical reasoning from ages 8 to 11 lag behind in their cognitive development."
+        },
+        {
+          "correct": false,
+          "text": "Let children be children."
+        }
+      ]
+    },
+    {
+      "question": "Which refers to Kohlberg's moral development theory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Psycho social crisis"
+        },
+        {
+          "correct": false,
+          "text": "Sensorimotor stage"
+        },
+        {
+          "correct": true,
+          "text": "moral dilemmas"
+        },
+        {
+          "correct": false,
+          "text": "concrete operation"
+        }
+      ]
+    },
+    {
+      "question": "According to Erikson's theory, the child ages 2 to 4 years ols is largely",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "dependent"
+        },
+        {
+          "correct": false,
+          "text": "egocentric"
+        },
+        {
+          "correct": false,
+          "text": "sensitive"
+        },
+        {
+          "correct": true,
+          "text": "autonomous"
+        }
+      ]
+    },
+    {
+      "question": "Shame and doubt in young children can arise from",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "adults refusing to allow the child to explore"
+        },
+        {
+          "correct": false,
+          "text": "adults reinforcing childish behavior"
+        },
+        {
+          "correct": false,
+          "text": "children comparing their strengths against others"
+        },
+        {
+          "correct": false,
+          "text": "innate fear of the unknown"
+        }
+      ]
+    },
+    {
+      "question": "Some forms of experiences are called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "maturation"
+        },
+        {
+          "correct": false,
+          "text": "conditioning"
+        },
+        {
+          "correct": true,
+          "text": "learning"
+        },
+        {
+          "correct": false,
+          "text": "development"
+        }
+      ]
+    },
+    {
+      "question": "A child who is learning to draw is slapped on the hand every time he draws on the table and wall. This form of punishment if used _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "to increase the likelihood of an undesirable behavior"
+        },
+        {
+          "correct": true,
+          "text": "to decrease the likelihood of an undesirable behavior"
+        },
+        {
+          "correct": false,
+          "text": "to decrease the likelihood of the desirable behavior"
+        },
+        {
+          "correct": false,
+          "text": "to increase the likelihood of the desirable behavior"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Sarah demonstrates to the students, one step at a time, the desired behavior of brushing one's teeth until the correct behavior is attained. What type of reinforcement is recommended?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "extinction"
+        },
+        {
+          "correct": false,
+          "text": "generalization"
+        },
+        {
+          "correct": true,
+          "text": "shaping"
+        },
+        {
+          "correct": false,
+          "text": "chaining"
+        }
+      ]
+    },
+    {
+      "question": "Children have generally short attention span. What activities must be provided for them to affect learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "short, varied, interesting"
+        },
+        {
+          "correct": false,
+          "text": "challenging and interesting"
+        },
+        {
+          "correct": false,
+          "text": "long but interesting"
+        },
+        {
+          "correct": false,
+          "text": "both easy and difficult"
+        }
+      ]
+    },
+    {
+      "question": "Sensation is the starting point of any study of behavior and experience. This means",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "all experiences must begin with sensation"
+        },
+        {
+          "correct": false,
+          "text": "sensation is very important"
+        },
+        {
+          "correct": false,
+          "text": "perception is the follow up of sensation"
+        },
+        {
+          "correct": false,
+          "text": "perception is separate from sensation"
+        }
+      ]
+    },
+    {
+      "question": "In which situations is the law of readiness applied?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the teacher gives the aims of the lessons being taken up&nbsp;"
+        },
+        {
+          "correct": false,
+          "text": "the teacher announces the subject matter at the start of the period"
+        },
+        {
+          "correct": true,
+          "text": "the teacher presents a song related to the lesson"
+        },
+        {
+          "correct": false,
+          "text": "the teacher prepares all the devices needed for the lessons"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is emphasized by Abraham Maslow in the Humanistic Theory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "conflicts during the different stages of development have to be resolved"
+        },
+        {
+          "correct": false,
+          "text": "conditioning plays a part in developing social skills"
+        },
+        {
+          "correct": true,
+          "text": "people grow towards the goal self-actualization"
+        },
+        {
+          "correct": false,
+          "text": "modeling is important in the mental development"
+        }
+      ]
+    },
+    {
+      "question": "_________ or cognitive road maps are presented &nbsp;before a learning experience.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "advance organizers<br>"
+        },
+        {
+          "correct": false,
+          "text": "graphic organizers"
+        },
+        {
+          "correct": false,
+          "text": "test organizers"
+        },
+        {
+          "correct": false,
+          "text": "pocket organizers"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements is true to parents and teachers?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "parents and teachers both share valuable information"
+        },
+        {
+          "correct": false,
+          "text": "parents should be involved in the social life of their children"
+        },
+        {
+          "correct": false,
+          "text": "only teacher play an important role in developing the cognitive aspect of the child"
+        },
+        {
+          "correct": true,
+          "text": "both a and b"
+        }
+      ]
+    },
+    {
+      "question": "What should a teacher do if students are misbehaving in class?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "send the misbehaving pupils to the guidance counselor"
+        },
+        {
+          "correct": true,
+          "text": "involve the whole class in setting rules of conduct in the whole class"
+        },
+        {
+          "correct": false,
+          "text": "make a report to the parents about their children's misbehavior"
+        },
+        {
+          "correct": false,
+          "text": "set the rules for the class to observe"
+        }
+      ]
+    },
+    {
+      "question": "Development spreads over the body from head to foot and from central axis of the body to the extremities. Which of the following principles apply to this statement of fact?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "all individuals are different"
+        },
+        {
+          "correct": true,
+          "text": "development follows a definite predictable pattern"
+        },
+        {
+          "correct": false,
+          "text": "early foundations are critical"
+        },
+        {
+          "correct": false,
+          "text": "each phase of development has hazards"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statement indicates the importance of parent engagement in school?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Parental involvement contributes to parent's greater knowledge about the school program"
+        },
+        {
+          "correct": false,
+          "text": "Parental presence in school may model to the child the importance of schooling"
+        },
+        {
+          "correct": false,
+          "text": "Familiarity with school experiences"
+        },
+        {
+          "correct": true,
+          "text": "All of the above"
+        }
+      ]
+    },
+    {
+      "question": "If parents would like to foster achievement motivation, they should",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "encourage their children to be independent"
+        },
+        {
+          "correct": false,
+          "text": "punish their when they don't complete their tasks well"
+        },
+        {
+          "correct": false,
+          "text": "teach their children how to do each task and never let them fail"
+        },
+        {
+          "correct": true,
+          "text": "give their children unconditional positive regard"
+        }
+      ]
+    },
+    {
+      "question": "Phil has been a truant in recent weeks. Even though he really enjoys learning, he is skipping school because he is afraid of being beaten up by other students on the way to school. This case exemplifies which theory of motivation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Locus of control theory"
+        },
+        {
+          "correct": false,
+          "text": "Efficacy expectation theory"
+        },
+        {
+          "correct": true,
+          "text": "Hierarchy of needs theory"
+        },
+        {
+          "correct": false,
+          "text": "Achievement motivation theory"
+        }
+      ]
+    },
+    {
+      "question": "Grant avoids studying because he believes that how much time you study does not matter. What matters is whether the teacher has made a tough test, how he grades it, and if he likes you. This case exemplifies what theory of motivation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Locus of control theory"
+        },
+        {
+          "correct": false,
+          "text": "Efficacy expectation theory"
+        },
+        {
+          "correct": false,
+          "text": "Hierarchy of needs theory"
+        },
+        {
+          "correct": false,
+          "text": "Achievement motivation theory"
+        }
+      ]
+    },
+    {
+      "question": "Research on the brain reveals that the number of dendrite connections in the first five years of growth are in the tens of billions. What does this underscore?<br>&nbsp; &nbsp;<i style=\"font-weight: normal;\"> I. The significance of stimulating early childhood education<br>&nbsp; &nbsp; II. The necessity of forcing the child to learn at an early age or else may never get interested at all<br>&nbsp; &nbsp; III. The need to punish preschool children when they can't follow a lesson for them to remember the lesson<br>&nbsp; &nbsp; IV. The significance of right parenting</i>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I and III"
+        },
+        {
+          "correct": false,
+          "text": "II and IV"
+        },
+        {
+          "correct": true,
+          "text": "I and IV"
+        },
+        {
+          "correct": false,
+          "text": "II and III"
+        }
+      ]
+    },
+    {
+      "question": "Which appropriate teaching practice flows from this research finding on the brain: the brain's emotional center is tied into its ability to learn.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Create a learning environment that encourages students to explore their feelings and ideas freely"
+        },
+        {
+          "correct": false,
+          "text": "Come up with highly competitive games where winners will feel happy"
+        },
+        {
+          "correct": false,
+          "text": "Tell students to participate in class activities or else won't receive plus points in class recitation"
+        },
+        {
+          "correct": false,
+          "text": "To establish discipline be judgmental in attitude"
+        }
+      ]
+    },
+    {
+      "question": "Which violates this brain-based principle of teaching-learning: \"Each child's brain is unique and vastly different from each other.\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Giving ample opportunity for a pupil to explore even if the class creates \"noise\""
+        },
+        {
+          "correct": true,
+          "text": "Making a left-handed pupil write with his right hand as this is better."
+        },
+        {
+          "correct": false,
+          "text": "Allowing open dialogue among students."
+        },
+        {
+          "correct": false,
+          "text": "Employing MI teaching approaches."
+        }
+      ]
+    },
+    {
+      "question": "Research says that development in one domain (physical, social, emotional, cognitive) influences and is influenced by development in other domains. What is an educational implication of this finding?<br>&nbsp; <i style=\"font-weight: normal;\">I.&nbsp;Use MI approaches<br>&nbsp; II.&nbsp;Stimulate the sense of sight which is the most important to the senses<br>&nbsp; III.&nbsp;Use thematic teaching</i>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "III only"
+        },
+        {
+          "correct": false,
+          "text": "I only"
+        },
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": true,
+          "text": "I and III"
+        }
+      ]
+    },
+    {
+      "question": "Bruner's theory on intellectual development moves from enactive to iconic and symbolic stages. Applying Bruner's, how should you teach?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Begin with the concrete"
+        },
+        {
+          "correct": false,
+          "text": "Begin with the abstract"
+        },
+        {
+          "correct": false,
+          "text": "Be interactive in approach"
+        },
+        {
+          "correct": false,
+          "text": "Do direct instruction"
+        }
+      ]
+    },
+    {
+      "question": "Which view on intelligence runs counter to Gardner's Multiple Intelligence Theory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learners possess multiple intelligences"
+        },
+        {
+          "correct": false,
+          "text": "Learners can develop each of the eight multiple intelligences"
+        },
+        {
+          "correct": true,
+          "text": "Learners have a single, quantifiable intelligence"
+        },
+        {
+          "correct": false,
+          "text": "Learners are strong in some and weak in other intelligences"
+        }
+      ]
+    },
+    {
+      "question": "Richard exhibits fear response to freely roaming dogs but does not show fear when a dog is on a leash or confined to a pen. Which conditioning process is illustrated?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "discrimination"
+        },
+        {
+          "correct": false,
+          "text": "extinction"
+        },
+        {
+          "correct": false,
+          "text": "generalization"
+        },
+        {
+          "correct": false,
+          "text": "acquisition"
+        }
+      ]
+    },
+    {
+      "question": "Bernadette enjoyed the roller coaster when they visited Enchanted Kingdom. Just at the sight of the roller coaster, she gets excited. Which theory explains Bernadette's behavior?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Operant conditioning"
+        },
+        {
+          "correct": false,
+          "text": "Attribution Theory"
+        },
+        {
+          "correct": true,
+          "text": "Pavlovian conditioning"
+        },
+        {
+          "correct": false,
+          "text": "Social Learning Theory"
+        }
+      ]
+    },
+    {
+      "question": "A teacher reinforces a student's approximations of a desired behavior until the actual behavior is demonstrated. According to behavioral theory, what type of reinforcement is this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "extinction"
+        },
+        {
+          "correct": false,
+          "text": "generalization"
+        },
+        {
+          "correct": true,
+          "text": "shaping"
+        },
+        {
+          "correct": false,
+          "text": "chaining"
+        }
+      ]
+    },
+    {
+      "question": "According to Maslow, a child will find it difficult to meet his need for self-actualization unless his _____ needs are satisfied first.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "personal"
+        },
+        {
+          "correct": false,
+          "text": "social"
+        },
+        {
+          "correct": true,
+          "text": "physiological"
+        },
+        {
+          "correct": false,
+          "text": "psychological"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following shows Maslow's hierarchy of needs?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "meditating, securing a stable job, marrying"
+        },
+        {
+          "correct": true,
+          "text": "getting enough sleep, securing a stable job, marrying"
+        },
+        {
+          "correct": false,
+          "text": "marrying, getting enough sleep, securing a stable a job,&nbsp;"
+        },
+        {
+          "correct": false,
+          "text": "getting a Ph.D, providing for food, giving to charities"
+        }
+      ]
+    },
+    {
+      "question": "A student who loves to read may learn about snow and igloos, even if he has not been to Alaska. Which type of learning experiences is acquired though reading?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "vicarious"
+        },
+        {
+          "correct": false,
+          "text": "realistic"
+        },
+        {
+          "correct": false,
+          "text": "simulated"
+        },
+        {
+          "correct": false,
+          "text": "direct"
+        }
+      ]
+    },
+    {
+      "question": "Based on Bandura's social learning theory, whom do children often imitate? Those who _____<br>&nbsp; &nbsp;<i style=\"font-weight: normal;\">I. Have substantial influence over their lives<br>&nbsp; &nbsp;II. Belong to their peer group<br>&nbsp; &nbsp;III. Belong to other races<br>&nbsp; &nbsp;IV. Are successful and seem admired</i>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "II and IV"
+        },
+        {
+          "correct": true,
+          "text": "I and IV"
+        },
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "IV only"
+        }
+      ]
+    },
+    {
+      "question": "Megan dances well. She can figure out how something works or how to fix something that is broken without asking for help. Based on Gardner's theory of multiple intelligences, under what intelligence is Megan strong?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "musical"
+        },
+        {
+          "correct": false,
+          "text": "spatial"
+        },
+        {
+          "correct": false,
+          "text": "logical"
+        },
+        {
+          "correct": true,
+          "text": "kinesthetic"
+        }
+      ]
+    },
+    {
+      "question": "The teacher provides various learning activities and methods in her teaching so that needs and interests of learners are met. Which principle did she consider?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learning by doing"
+        },
+        {
+          "correct": true,
+          "text": "Multiple intelligence"
+        },
+        {
+          "correct": false,
+          "text": "Cognitive development stages"
+        },
+        {
+          "correct": false,
+          "text": "Cooperative learning"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Bea clears her throat to communicate disapproval of student's behavior. Which specific technique is this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Signal interference"
+        },
+        {
+          "correct": false,
+          "text": "interest boosting"
+        },
+        {
+          "correct": false,
+          "text": "direct appeal"
+        },
+        {
+          "correct": false,
+          "text": "proximity control"
+        }
+      ]
+    },
+    {
+      "question": "Posture or gesture that communicates, \"Don't open up to me\" is an example of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "verbal bahavior"
+        },
+        {
+          "correct": true,
+          "text": "nonverbal behavior"
+        },
+        {
+          "correct": false,
+          "text": "counseling"
+        },
+        {
+          "correct": false,
+          "text": "aggressive behavior"
+        }
+      ]
+    },
+    {
+      "question": "The sociogram reveals that four children in your class formed a \"cluster\" or a \"clique\". This means that the teacher should",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Talk to them individually to disband the group"
+        },
+        {
+          "correct": true,
+          "text": "Encourage them to join other members of the groups with similar interests"
+        },
+        {
+          "correct": false,
+          "text": "Discourage them from forming such groups as this should not be allowed"
+        },
+        {
+          "correct": false,
+          "text": "Allow them to be together all the time"
+        }
+      ]
+    },
+    {
+      "question": "Gene stutters in class. You would like to help him. How?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Make him recite often so he has opportunity to practice"
+        },
+        {
+          "correct": false,
+          "text": "Make him repeat orally words, phrases, sentences in class"
+        },
+        {
+          "correct": false,
+          "text": "Let him recite only when he likes it"
+        },
+        {
+          "correct": true,
+          "text": "Build up his confidence by asking him to recite when you are sure he is ready to answer"
+        }
+      ]
+    },
+    {
+      "question": "The best way to deal with a group of children who have become inattentive and restless is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Be nice to them and ask them to sit and be quiet"
+        },
+        {
+          "correct": false,
+          "text": "Stop the class activities until they sit still"
+        },
+        {
+          "correct": true,
+          "text": "Introduce changes in the class activities"
+        },
+        {
+          "correct": false,
+          "text": "Assure them something will be given for behaving well"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following would best reveal the learner's readiness for new learning activity?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Scholastic aptitude"
+        },
+        {
+          "correct": false,
+          "text": "Chronological age"
+        },
+        {
+          "correct": true,
+          "text": "mental age"
+        },
+        {
+          "correct": false,
+          "text": "grade level"
+        }
+      ]
+    },
+    {
+      "question": "The process of problem solving and learning are highly unique and individual. This principle means ______",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Students can adapt alternative problem solving models."
+        },
+        {
+          "correct": false,
+          "text": "Students can modify their own personal styles"
+        },
+        {
+          "correct": false,
+          "text": "Each student becomes aware of how learning styles can be changed.<br>"
+        },
+        {
+          "correct": true,
+          "text": "Each student has his/her own distinctive styles of learning and solving problems."
+        }
+      ]
+    },
+    {
+      "question": "Learning refers to changes in the individual due to<br>&nbsp; &nbsp;I. Experience<br>&nbsp; &nbsp;II. Development<br>&nbsp; &nbsp;III. Maturation<br>&nbsp; &nbsp;IV. Aging &nbsp;&nbsp;",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "I only"
+        },
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "I, II, and III,"
+        },
+        {
+          "correct": false,
+          "text": "I, II, III, and IV"
+        }
+      ]
+    },
+    {
+      "question": "Rodel gave the wrong answer. Teacher said, \"Wrong! You are way off!\" As a consequence other students in the class were afraid to answer questions. Which of the following is illustrated by the event?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Ripple effect"
+        },
+        {
+          "correct": false,
+          "text": "Halo effect"
+        },
+        {
+          "correct": false,
+          "text": "Rosenthal effect"
+        },
+        {
+          "correct": false,
+          "text": "Pygmalion effect"
+        }
+      ]
+    },
+    {
+      "question": "Which teacher's attitude reflects her understanding of development as a product of maturation and learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "patience in dealing with the slower ones"
+        },
+        {
+          "correct": false,
+          "text": "creativity with the classroom strategies or tasks<br>"
+        },
+        {
+          "correct": false,
+          "text": "fairness when giving grades or school marks"
+        },
+        {
+          "correct": false,
+          "text": "cheerfulness and enthusiasm when discussing"
+        }
+      ]
+    },
+    {
+      "question": "To ensure that all Filipino children are functionally literate, which mechanism, is meant to reach out to children who come a barangay without a school?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Mobile teacher"
+        },
+        {
+          "correct": false,
+          "text": "Multi-level classroom"
+        },
+        {
+          "correct": false,
+          "text": "multi-grade classroom"
+        },
+        {
+          "correct": false,
+          "text": "sine-eskwela"
+        }
+      ]
+    },
+    {
+      "question": "When is giving praise ineffective? When it _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Provides information to students about their competence and the value of their accomplishments"
+        },
+        {
+          "correct": true,
+          "text": "Uses the accomplishments of peers as the context for describing a student's present accomplishment"
+        },
+        {
+          "correct": false,
+          "text": "Shows spontaneity, variety, and other signs of credibility"
+        },
+        {
+          "correct": false,
+          "text": "Focuses student's attention on their won task-relevant behavior"
+        }
+      ]
+    },
+    {
+      "question": "Which diagram is used to determine the social interaction among individuals in a group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "sociogram"
+        },
+        {
+          "correct": false,
+          "text": "histogram"
+        },
+        {
+          "correct": false,
+          "text": "scattergram"
+        },
+        {
+          "correct": false,
+          "text": "anagram"
+        }
+      ]
+    },
+    {
+      "question": "In the context of the theory of multiple intelligence, one weakness of the paper and pencil test is ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it utilizes so much time"
+        },
+        {
+          "correct": true,
+          "text": "it puts the non-linguistic intelligent at a disadvantage"
+        },
+        {
+          "correct": false,
+          "text": "it lacks realibility"
+        },
+        {
+          "correct": false,
+          "text": "it is not easy to administer"
+        }
+      ]
+    },
+    {
+      "question": "Allowing the students to participate in the formulation of two or three rules for the classroom promotes ____ in the classroom.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "a sense of belongingness"
+        },
+        {
+          "correct": false,
+          "text": "an autocratic system"
+        },
+        {
+          "correct": false,
+          "text": "teacher's diminished authority"
+        },
+        {
+          "correct": false,
+          "text": "\"buddy-buddy system\""
+        }
+      ]
+    },
+    {
+      "question": "Daniel Goleman's theory on emotional intelligence highlights the role of emotion in the success or happiness of an individual. In which situation can the teacher best cultivate emphathy in the case of students fighting in the classroom?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "reprimand the students so that others will not follow the misbehavior"
+        },
+        {
+          "correct": false,
+          "text": "tell the students to stop fighting so that there will be peace in the classroom"
+        },
+        {
+          "correct": true,
+          "text": "make them realize how fighting negatively affect themselves and others"
+        },
+        {
+          "correct": false,
+          "text": "establish roles and responsibilities to avoid arguments among them"
+        }
+      ]
+    },
+    {
+      "question": "Professor B said, \"We talk of developing critical thinking among our students, but when they diagree with us, we get offended.\" To which Filipino trait does this point?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Inquisitiveness of the Filipino youth"
+        },
+        {
+          "correct": false,
+          "text": "The lack of seriousness among Filipinos"
+        },
+        {
+          "correct": true,
+          "text": "Extreme authoritarianism"
+        },
+        {
+          "correct": false,
+          "text": "Lack of subjectivity"
+        }
+      ]
+    },
+    {
+      "question": "A lecturer narrates: \"I observe that when there is English-speaking foreigner in class, more ofetn than not, his classmates perceive him to be superior\". To which Filipino trait does this point?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hospitality"
+        },
+        {
+          "correct": false,
+          "text": "friendliness"
+        },
+        {
+          "correct": true,
+          "text": "colonial mentality"
+        },
+        {
+          "correct": false,
+          "text": "lack of confidence"
+        }
+      ]
+    },
+    {
+      "question": "One learns Math by building on Math lessons previously learned. This is an application of the _____ theory.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "physiological"
+        },
+        {
+          "correct": true,
+          "text": "constructivist"
+        },
+        {
+          "correct": false,
+          "text": "S-R"
+        },
+        {
+          "correct": false,
+          "text": "humanist"
+        }
+      ]
+    },
+    {
+      "question": "<i>Mrs. Dela Cruz developed a lesson on the concept of fraction as follows. First, she presented one whole pizza then asked a pupil to cut it into two. She called one part of the pizza 1/2 and the two parts 2/2. Then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then wrote 1/4, 2/4, and 3/4. Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.</i><br><br>Which part of the lesson is the symbolic stage?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Dividing the pizza further into two."
+        },
+        {
+          "correct": false,
+          "text": "Using the model of fractions."
+        },
+        {
+          "correct": true,
+          "text": "Writing the fractions 1/2, 1/4, 1/3, 2/4 on the board"
+        },
+        {
+          "correct": false,
+          "text": "Dividing the pizza further into four"
+        }
+      ]
+    },
+    {
+      "question": "<i>Mrs. Dela Cruz developed a lesson on the concept of fraction as follows. First, she presented one whole pizza then asked a pupil to cut it into two. She called one part of the pizza 1/2 and the two parts 2/2. Then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then wrote 1/4, 2/4, and 3/4. Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.</i><br><br>Does the development of the lesson on fraction conform to the bottom-up arrangement of the learning experiences in Edgar Dale's Cone of Experience?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Yes"
+        },
+        {
+          "correct": false,
+          "text": "Cannot be determined"
+        },
+        {
+          "correct": false,
+          "text": "No"
+        },
+        {
+          "correct": false,
+          "text": "Up to the second phase of the lesson only"
+        }
+      ]
+    },
+    {
+      "question": "<i>Mrs. Dela Cruz developed a lesson on the concept of fraction as follows. First, she presented one whole pizza then asked a pupil to cut it into two. She called one part of the pizza 1/2 and the two parts 2/2. Then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then wrote 1/4, 2/4, and 3/4. Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.<br></i><br>Would it be easier to understand and retain the concepts of fractions if Mrs. Dela Cruz began the lesson on fractions with the meaning of 1/2, 1/3, 1/4, etc?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "No, for better learning the teacher proceeds from the concrete to the abstract"
+        },
+        {
+          "correct": true,
+          "text": "Yes, provided the teacher proceeds to the concrete"
+        },
+        {
+          "correct": false,
+          "text": "Yes, provided the teacher includes a concrete application of the abstract"
+        },
+        {
+          "correct": false,
+          "text": "It depends on the teaching skills of the teacher"
+        }
+      ]
+    },
+    {
+      "question": "<i>Mrs. Dela Cruz developed a lesson on the concept of fraction as follows. First, she presented one whole pizza then asked a pupil to cut it into two. She called one part of the pizza 1/2 and the two parts 2/2. Then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then wrote 1/4, 2/4, and 3/4. Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.<br></i><br>What must you establish at the beginning of the class to ensure order and discipline?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Elect the classroom officers"
+        },
+        {
+          "correct": true,
+          "text": "Set your rules and expectations"
+        },
+        {
+          "correct": false,
+          "text": "Impose your sanctions for erring students"
+        },
+        {
+          "correct": false,
+          "text": "Let them know that you are firm and strict"
+        }
+      ]
+    },
+    {
+      "question": "<i>Mrs. Dela Cruz developed a lesson on the concept of fraction as follows. First, she presented one whole pizza then asked a pupil to cut it into two. She called one part of the pizza 1/2 and the two parts 2/2. Then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then wrote 1/4, 2/4, and 3/4. Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.<br></i><br>Why do children in the elementary level need real objects as learning materials",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "They associate learning with the play activities"
+        },
+        {
+          "correct": false,
+          "text": "They have short attention span"
+        },
+        {
+          "correct": false,
+          "text": "They can recognize these object easily"
+        },
+        {
+          "correct": true,
+          "text": "They operate in terms of concrete experience"
+        }
+      ]
+    },
+    {
+      "question": "<i>Mrs. Dela Cruz developed a lesson on the concept of fraction as follows. First, she presented one whole pizza then asked a pupil to cut it into two. She called one part of the pizza 1/2 and the two parts 2/2. Then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then wrote 1/4, 2/4, and 3/4. Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.<br></i><br>With changing needs and knowledge explosion, the emphasis in today's schools should be on teaching_____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "skills on how to learn"
+        },
+        {
+          "correct": false,
+          "text": "facts"
+        },
+        {
+          "correct": false,
+          "text": "values"
+        },
+        {
+          "correct": false,
+          "text": "concepts"
+        }
+      ]
+    }
+  ]
+}

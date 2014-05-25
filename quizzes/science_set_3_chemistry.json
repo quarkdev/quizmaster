@@ -1,0 +1,558 @@
+{
+  "name": "Science Set 3 Chemistry",
+  "description": "...",
+  "duration": 8,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "Made up of two or more substances that are physically combined.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "substance"
+        },
+        {
+          "correct": false,
+          "text": "solution"
+        },
+        {
+          "correct": true,
+          "text": "mixture"
+        },
+        {
+          "correct": false,
+          "text": "suspension"
+        }
+      ]
+    },
+    {
+      "question": "Anything that has mass and occupies space.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "atom"
+        },
+        {
+          "correct": true,
+          "text": "matter"
+        },
+        {
+          "correct": false,
+          "text": "object"
+        },
+        {
+          "correct": false,
+          "text": "gravity"
+        }
+      ]
+    },
+    {
+      "question": "State of matter having a definite shape and a definite volume.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "plasma"
+        },
+        {
+          "correct": false,
+          "text": "liquid"
+        },
+        {
+          "correct": false,
+          "text": "gas"
+        },
+        {
+          "correct": true,
+          "text": "solid"
+        }
+      ]
+    },
+    {
+      "question": "Amount of space occupied by an object.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "volume"
+        },
+        {
+          "correct": false,
+          "text": "area"
+        },
+        {
+          "correct": false,
+          "text": "circumference"
+        },
+        {
+          "correct": false,
+          "text": "perimeter"
+        }
+      ]
+    },
+    {
+      "question": "Measure of the pull of gravity on an object.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "mass"
+        },
+        {
+          "correct": true,
+          "text": "weight"
+        },
+        {
+          "correct": false,
+          "text": "gravitational pull"
+        },
+        {
+          "correct": false,
+          "text": "centripetal force"
+        }
+      ]
+    },
+    {
+      "question": "Amount of matter in an object that measures its inertia.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "centrifugal force"
+        },
+        {
+          "correct": false,
+          "text": "gravity"
+        },
+        {
+          "correct": true,
+          "text": "mass"
+        },
+        {
+          "correct": false,
+          "text": "weight"
+        }
+      ]
+    },
+    {
+      "question": "Ratio of mass per unit volume.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "pressure"
+        },
+        {
+          "correct": true,
+          "text": "density"
+        },
+        {
+          "correct": false,
+          "text": "buoyancy"
+        },
+        {
+          "correct": false,
+          "text": "cubic area"
+        }
+      ]
+    },
+    {
+      "question": "Temperature at which matter is converted from a liquid state to a gaseous state.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "condensation point"
+        },
+        {
+          "correct": true,
+          "text": "boiling point"
+        },
+        {
+          "correct": false,
+          "text": "sublimation point"
+        },
+        {
+          "correct": false,
+          "text": "evaporation threshold"
+        }
+      ]
+    },
+    {
+      "question": "Temperature at which matter is converted from a solid state into a liquid state.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "melting point"
+        },
+        {
+          "correct": false,
+          "text": "sublimation point"
+        },
+        {
+          "correct": false,
+          "text": "liquefaction point"
+        },
+        {
+          "correct": false,
+          "text": "condensation point"
+        }
+      ]
+    },
+    {
+      "question": "Ability of matter to dissolve in another substance.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "conductivity"
+        },
+        {
+          "correct": true,
+          "text": "solubility"
+        },
+        {
+          "correct": false,
+          "text": "entropy"
+        },
+        {
+          "correct": false,
+          "text": "homogeneity"
+        }
+      ]
+    },
+    {
+      "question": "Property of matter to be flattened into thin sheets.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "toughness"
+        },
+        {
+          "correct": false,
+          "text": "adaptability"
+        },
+        {
+          "correct": true,
+          "text": "malleability"
+        },
+        {
+          "correct": false,
+          "text": "forgability"
+        }
+      ]
+    },
+    {
+      "question": "Ability of a substance to allow electricity to flow through it.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "resistivity"
+        },
+        {
+          "correct": false,
+          "text": "capacitance"
+        },
+        {
+          "correct": true,
+          "text": "electrical conductivity"
+        },
+        {
+          "correct": false,
+          "text": "capacitance"
+        }
+      ]
+    },
+    {
+      "question": "An electric circuit with two or more components connected across two common points to allow separate conducting paths.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "series circuit"
+        },
+        {
+          "correct": true,
+          "text": "parallel circuit"
+        },
+        {
+          "correct": false,
+          "text": "series-parallel circuit"
+        },
+        {
+          "correct": false,
+          "text": "closed circuit"
+        }
+      ]
+    },
+    {
+      "question": "An electric circuit with several components arranged to allow current to flow through one single path.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "series circuit"
+        },
+        {
+          "correct": false,
+          "text": "parallel circuit"
+        },
+        {
+          "correct": false,
+          "text": "series-parallel circuit"
+        },
+        {
+          "correct": false,
+          "text": "closed circuit"
+        }
+      ]
+    },
+    {
+      "question": "Involves no change in the fixed composition of the substance.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "physical change"
+        },
+        {
+          "correct": false,
+          "text": "ethereal change"
+        },
+        {
+          "correct": false,
+          "text": "non-material change"
+        },
+        {
+          "correct": false,
+          "text": "nuclear change"
+        }
+      ]
+    },
+    {
+      "question": "Device consisting of a core of magnetic material surrounded by a coil through which an electric current is passed to magnetize the core.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "natural magnet"
+        },
+        {
+          "correct": true,
+          "text": "electromagnet"
+        },
+        {
+          "correct": false,
+          "text": "compass"
+        },
+        {
+          "correct": false,
+          "text": "electric motor"
+        }
+      ]
+    },
+    {
+      "question": "Property in which a substance interacts with another substance to undergo a change in composition.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "physical property"
+        },
+        {
+          "correct": true,
+          "text": "chemical property"
+        },
+        {
+          "correct": false,
+          "text": "nuclear property"
+        },
+        {
+          "correct": false,
+          "text": "lattice property"
+        }
+      ]
+    },
+    {
+      "question": "Inclined plane with either one or two sloping sides.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "wedge"
+        },
+        {
+          "correct": false,
+          "text": "ramp"
+        },
+        {
+          "correct": false,
+          "text": "bevel"
+        },
+        {
+          "correct": false,
+          "text": "hill"
+        }
+      ]
+    },
+    {
+      "question": "Rigid body pivoted about a point called fulcrum.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "fulcrum wheel"
+        },
+        {
+          "correct": true,
+          "text": "lever"
+        },
+        {
+          "correct": false,
+          "text": "guard clamp"
+        },
+        {
+          "correct": false,
+          "text": "axis"
+        }
+      ]
+    },
+    {
+      "question": "A flat surface with one end higher than the other.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "wedge"
+        },
+        {
+          "correct": true,
+          "text": "inclined plane"
+        },
+        {
+          "correct": false,
+          "text": "guard clamp"
+        },
+        {
+          "correct": false,
+          "text": "ramp"
+        }
+      ]
+    },
+    {
+      "question": "Spiral inclined planes.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "screw"
+        },
+        {
+          "correct": false,
+          "text": "spring"
+        },
+        {
+          "correct": false,
+          "text": "inclined plane"
+        },
+        {
+          "correct": false,
+          "text": "wedge"
+        }
+      ]
+    },
+    {
+      "question": "Mechanical devices that makes work easier consists of one or two parts each.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "simple devices"
+        },
+        {
+          "correct": false,
+          "text": "basic machines"
+        },
+        {
+          "correct": true,
+          "text": "simple machines"
+        },
+        {
+          "correct": false,
+          "text": "simple tools"
+        }
+      ]
+    },
+    {
+      "question": "Made up of more than one phase or of different parts and can be separated physically.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "suspension"
+        },
+        {
+          "correct": true,
+          "text": "heterogeneous mixture"
+        },
+        {
+          "correct": false,
+          "text": "homogeneous mixture"
+        },
+        {
+          "correct": false,
+          "text": "solution"
+        }
+      ]
+    },
+    {
+      "question": "Homogeneous mixture of two or more substances in variable composition.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "suspension"
+        },
+        {
+          "correct": true,
+          "text": "solution"
+        },
+        {
+          "correct": false,
+          "text": "heterogeneous mixture"
+        },
+        {
+          "correct": false,
+          "text": "compound mixture"
+        }
+      ]
+    },
+    {
+      "question": "Refers to the path of an electric current.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "path of least resistance"
+        },
+        {
+          "correct": true,
+          "text": "electric circuit"
+        },
+        {
+          "correct": false,
+          "text": "current loop"
+        },
+        {
+          "correct": false,
+          "text": "conductor"
+        }
+      ]
+    }
+  ]
+}

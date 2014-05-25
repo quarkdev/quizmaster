@@ -1,0 +1,2208 @@
+{
+  "name": "Earth Science - Intensive",
+  "description": "..",
+  "duration": 50,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "What is geology?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "the study of the processes that form and change Earth"
+        },
+        {
+          "correct": false,
+          "text": "the study of Earth's ocean"
+        },
+        {
+          "correct": false,
+          "text": "the study of objects beyond Earth's atmosphere"
+        },
+        {
+          "correct": false,
+          "text": "the systematic study of weather and climate"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a part of the Earth's lithosphere?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "the inner core"
+        },
+        {
+          "correct": false,
+          "text": "the crust"
+        },
+        {
+          "correct": false,
+          "text": "the upper mantle"
+        },
+        {
+          "correct": false,
+          "text": "rocks on the surface"
+        }
+      ]
+    },
+    {
+      "question": "What is Earth's hydrosphere?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the gases in the air"
+        },
+        {
+          "correct": false,
+          "text": "the solid, rocky part of the Earth"
+        },
+        {
+          "correct": true,
+          "text": "all of the water on the planet"
+        },
+        {
+          "correct": false,
+          "text": "the study of Earth's atmosphere"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT true of lines of longitude?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "They are semicircles."
+        },
+        {
+          "correct": false,
+          "text": "They measure distances east and west of the prime meridian."
+        },
+        {
+          "correct": false,
+          "text": "They run from pole to pole."
+        },
+        {
+          "correct": true,
+          "text": "They are parallel lines."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the reference point for the lines of latitude?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "the equator"
+        },
+        {
+          "correct": false,
+          "text": "the prime meridian"
+        },
+        {
+          "correct": false,
+          "text": "the International Date Line"
+        },
+        {
+          "correct": false,
+          "text": "the 180° meridian"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is part of the definition of a mineral?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "liquid"
+        },
+        {
+          "correct": false,
+          "text": "organic"
+        },
+        {
+          "correct": false,
+          "text": "synthetic"
+        },
+        {
+          "correct": true,
+          "text": "inorganic"
+        }
+      ]
+    },
+    {
+      "question": "What property causes the mineral galena to break into tiny cubes?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "its density"
+        },
+        {
+          "correct": true,
+          "text": "the internal arrangement of its atoms"
+        },
+        {
+          "correct": false,
+          "text": "its hardness"
+        },
+        {
+          "correct": false,
+          "text": "its luster"
+        }
+      ]
+    },
+    {
+      "question": "Carbonates, halides, native elements, oxides, sulfates, and sulfides are classes of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "silicate minerals"
+        },
+        {
+          "correct": true,
+          "text": "non-silicate minerals"
+        },
+        {
+          "correct": false,
+          "text": "sheet silicates"
+        },
+        {
+          "correct": false,
+          "text": "rock-forming minerals"
+        }
+      ]
+    },
+    {
+      "question": "A student rubs a mineral across an unglazed porcelain plate. What mineral property is the student testing?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "luster"
+        },
+        {
+          "correct": true,
+          "text": "streak"
+        },
+        {
+          "correct": false,
+          "text": "color"
+        },
+        {
+          "correct": false,
+          "text": "hardness"
+        }
+      ]
+    },
+    {
+      "question": "Dull, silky, waxy, and pearly are descriptive terms that best describe which property of mineral?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "color"
+        },
+        {
+          "correct": true,
+          "text": "luster"
+        },
+        {
+          "correct": false,
+          "text": "streak"
+        },
+        {
+          "correct": false,
+          "text": "cleavage"
+        }
+      ]
+    },
+    {
+      "question": "Which object best represents a true scale model of the shape of the Earth?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "a football"
+        },
+        {
+          "correct": true,
+          "text": "a Ping-Pong ball"
+        },
+        {
+          "correct": false,
+          "text": "a pear"
+        },
+        {
+          "correct": false,
+          "text": "an egg"
+        }
+      ]
+    },
+    {
+      "question": "The Mohs scale of hardness is used",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "to identify a mineral"
+        },
+        {
+          "correct": false,
+          "text": "to find the mass of a mineral"
+        },
+        {
+          "correct": false,
+          "text": "to calculate the density of a mineral"
+        },
+        {
+          "correct": false,
+          "text": "to determine a mineral's fracture"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements best summarizes Mohs scale of hardness?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "It is a 10-step relative scale in which each mineral, in succession, is harder than and able to scratch the preceding mineral."
+        },
+        {
+          "correct": false,
+          "text": "It is a 10-step relative scale in which each mineral, in succession, is softer than and unable to scratch the preceding mineral."
+        },
+        {
+          "correct": false,
+          "text": "It is a 10-step relative scale in which each mineral, in succession, is harder than and scratched the preceding mineral."
+        },
+        {
+          "correct": false,
+          "text": "It is a 10-step relative scale in which each mineral, in succession, is softer than and not scratched by the preceding mineral."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following describes an ore?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "a mineral that contains a useful substance"
+        },
+        {
+          "correct": false,
+          "text": "a mineral found in food"
+        },
+        {
+          "correct": false,
+          "text": "a mineral that has streak, but no color"
+        },
+        {
+          "correct": false,
+          "text": "a mineral for which there is no demand"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is/are TRUE about rocks?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "can also be a mineral"
+        },
+        {
+          "correct": false,
+          "text": "cannot be a gem"
+        },
+        {
+          "correct": true,
+          "text": "aggregate of minerals"
+        },
+        {
+          "correct": false,
+          "text": "b and c"
+        }
+      ]
+    },
+    {
+      "question": "What term describes igneous rocks that crystallize inside the Earth?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "magma"
+        },
+        {
+          "correct": true,
+          "text": "intrusive"
+        },
+        {
+          "correct": false,
+          "text": "lava"
+        },
+        {
+          "correct": false,
+          "text": "extrusive"
+        }
+      ]
+    },
+    {
+      "question": "What effect does fast cooling rate have on grain size in igneous rocks?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "It forms fine-grained crystals."
+        },
+        {
+          "correct": false,
+          "text": "It forms large-grained crystals."
+        },
+        {
+          "correct": false,
+          "text": "It forms light crystals."
+        },
+        {
+          "correct": false,
+          "text": "It forms dark crystals."
+        }
+      ]
+    },
+    {
+      "question": "What initiates the process that turns sediments into sedimentary rocks?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "bedding"
+        },
+        {
+          "correct": false,
+          "text": "cementation"
+        },
+        {
+          "correct": true,
+          "text": "burial"
+        },
+        {
+          "correct": false,
+          "text": "compaction"
+        }
+      ]
+    },
+    {
+      "question": "When solid rock is broken into smaller pieces, the process is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "deposition"
+        },
+        {
+          "correct": false,
+          "text": "metamorphism"
+        },
+        {
+          "correct": false,
+          "text": "cementation"
+        },
+        {
+          "correct": true,
+          "text": "weathering"
+        }
+      ]
+    },
+    {
+      "question": "The variables that most affect the weathering process are rock composition and what?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "topography"
+        },
+        {
+          "correct": false,
+          "text": "surface area"
+        },
+        {
+          "correct": false,
+          "text": "living things"
+        },
+        {
+          "correct": true,
+          "text": "climate"
+        }
+      ]
+    },
+    {
+      "question": "By what process are surface materials removed and transported from one location to another?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "weathering"
+        },
+        {
+          "correct": true,
+          "text": "erosion"
+        },
+        {
+          "correct": false,
+          "text": "deposition"
+        },
+        {
+          "correct": false,
+          "text": "cementation"
+        }
+      ]
+    },
+    {
+      "question": "What agent of erosion accounts for most of erosion on Earth's surface?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "animals"
+        },
+        {
+          "correct": true,
+          "text": "water"
+        },
+        {
+          "correct": false,
+          "text": "glaciers"
+        },
+        {
+          "correct": false,
+          "text": "wind"
+        }
+      ]
+    },
+    {
+      "question": "What is the name of the soil type that is from a location that experiences high temperatures and low precipitation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tropical"
+        },
+        {
+          "correct": false,
+          "text": "polar"
+        },
+        {
+          "correct": true,
+          "text": "desert"
+        },
+        {
+          "correct": false,
+          "text": "temperate"
+        }
+      ]
+    },
+    {
+      "question": "What is underlying force of all agents of erosion?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "earthquake"
+        },
+        {
+          "correct": true,
+          "text": "gravity"
+        },
+        {
+          "correct": false,
+          "text": "typhoon"
+        },
+        {
+          "correct": false,
+          "text": "magnetism"
+        }
+      ]
+    },
+    {
+      "question": "Which is the best evidence that erosion has occured?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "a large number of fossils embedded in limestone"
+        },
+        {
+          "correct": false,
+          "text": "a soil rich in lime on top of a limestone bedrock"
+        },
+        {
+          "correct": true,
+          "text": "sediments found in a sandbar of a river"
+        },
+        {
+          "correct": false,
+          "text": "a layer of basalt found on the floor of the ocean"
+        }
+      ]
+    },
+    {
+      "question": "For which movement of earth materials is gravity NOT the main force?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "snow tumbling in an avalanche"
+        },
+        {
+          "correct": true,
+          "text": "moisture evaporating from an ocean"
+        },
+        {
+          "correct": false,
+          "text": "boulders carried by a glacier"
+        },
+        {
+          "correct": false,
+          "text": "sediments flowing in a river"
+        }
+      ]
+    },
+    {
+      "question": "Which condition would create the most runoff?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "land covered with vegetation"
+        },
+        {
+          "correct": true,
+          "text": "plants in densely packed soil"
+        },
+        {
+          "correct": false,
+          "text": "light precipitation"
+        },
+        {
+          "correct": false,
+          "text": "soil with a high percentage of sand"
+        }
+      ]
+    },
+    {
+      "question": "Where can we usually find fertile soils?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "watersheds"
+        },
+        {
+          "correct": false,
+          "text": "dried-up streambeds"
+        },
+        {
+          "correct": true,
+          "text": "flood plains"
+        },
+        {
+          "correct": false,
+          "text": "mountainous areas"
+        }
+      ]
+    },
+    {
+      "question": "Water is a major agent of chemical weathering because water",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "has a density of about one gram per cubic centimeter"
+        },
+        {
+          "correct": false,
+          "text": "has the highest specific heat of all common earth materials"
+        },
+        {
+          "correct": false,
+          "text": "cools the surroundings when it evaporates"
+        },
+        {
+          "correct": true,
+          "text": "dissolves many of the minerals that make up rocks"
+        }
+      ]
+    },
+    {
+      "question": "What material plays a major role in the eutrophication of lakes?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "iron"
+        },
+        {
+          "correct": true,
+          "text": "phosphate"
+        },
+        {
+          "correct": false,
+          "text": "ozone"
+        },
+        {
+          "correct": false,
+          "text": "nitrogen"
+        }
+      ]
+    },
+    {
+      "question": "During the process of eutrophication, what happens to the oxygen present in a lake?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it increases"
+        },
+        {
+          "correct": true,
+          "text": "it decreases"
+        },
+        {
+          "correct": false,
+          "text": "it stays the same"
+        },
+        {
+          "correct": false,
+          "text": "it evaporates"
+        }
+      ]
+    },
+    {
+      "question": "Which condition helps determine the quality of lake water?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the amount of nitrogen"
+        },
+        {
+          "correct": false,
+          "text": "the amount of potassium"
+        },
+        {
+          "correct": false,
+          "text": "the amount of dissolved calcium carbonate"
+        },
+        {
+          "correct": true,
+          "text": "the amount of dissolved oxygen"
+        }
+      ]
+    },
+    {
+      "question": "Where does water move most rapidly in a straight length of a stream?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "along the bottom"
+        },
+        {
+          "correct": false,
+          "text": "along the sides"
+        },
+        {
+          "correct": false,
+          "text": "near the surface"
+        },
+        {
+          "correct": true,
+          "text": "in the center"
+        }
+      ]
+    },
+    {
+      "question": "A body of water partially surrounded by land. where fresh water from a river mixes with ocean water.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lake"
+        },
+        {
+          "correct": false,
+          "text": "river"
+        },
+        {
+          "correct": true,
+          "text": "estuary"
+        },
+        {
+          "correct": false,
+          "text": "stream"
+        }
+      ]
+    },
+    {
+      "question": "What is the largest source of freshwater on Earth?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the oceans"
+        },
+        {
+          "correct": false,
+          "text": "the atmosphere"
+        },
+        {
+          "correct": true,
+          "text": "polar ice caps and glaciers"
+        },
+        {
+          "correct": false,
+          "text": "lakes and rivers"
+        }
+      ]
+    },
+    {
+      "question": "The movement of water and water vapor from the sea to the atmosphere, to the land, and back to the sea and atmosphere again.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "rain"
+        },
+        {
+          "correct": false,
+          "text": "precipitation"
+        },
+        {
+          "correct": true,
+          "text": "water cycle"
+        },
+        {
+          "correct": false,
+          "text": "all of these"
+        }
+      ]
+    },
+    {
+      "question": "What happens to most of the precipitation that falls on land?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It evaporates"
+        },
+        {
+          "correct": false,
+          "text": "It becomes runoff"
+        },
+        {
+          "correct": true,
+          "text": "It seeps into the ground"
+        },
+        {
+          "correct": false,
+          "text": "It becomes glacial ice"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following replenishes groundwater?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "precipitation"
+        },
+        {
+          "correct": false,
+          "text": "surface water"
+        },
+        {
+          "correct": false,
+          "text": "underground streams"
+        },
+        {
+          "correct": false,
+          "text": "municipal wastewater"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a common groundwater problem in coastal areas?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "saltwater contamination"
+        },
+        {
+          "correct": false,
+          "text": "contamination by crude oil"
+        },
+        {
+          "correct": false,
+          "text": "high sulfur content"
+        },
+        {
+          "correct": false,
+          "text": "excessive recharge"
+        }
+      ]
+    },
+    {
+      "question": "Of Earth's surface waters, what percent is freshwater available for human use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "97 percent"
+        },
+        {
+          "correct": false,
+          "text": "3 percent"
+        },
+        {
+          "correct": true,
+          "text": "less than 1 percent"
+        },
+        {
+          "correct": false,
+          "text": "21 percent"
+        }
+      ]
+    },
+    {
+      "question": "Condensation nuclei are involved in the formation of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "cloud droplets"
+        },
+        {
+          "correct": false,
+          "text": "ozone"
+        },
+        {
+          "correct": false,
+          "text": "dry ice"
+        },
+        {
+          "correct": false,
+          "text": "carbon dioxide"
+        }
+      ]
+    },
+    {
+      "question": "Which list shows atmospheric layers in the correct order upward from the Earth's surface?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "thermosphere, mesosphere, stratosphere, troposphere"
+        },
+        {
+          "correct": false,
+          "text": "thermosphere, troposphere, mesosphere, stratosphere"
+        },
+        {
+          "correct": false,
+          "text": "stratosphere, mesosphere, troposphere, thermosphere"
+        },
+        {
+          "correct": true,
+          "text": "troposphere, stratosphere, mesosphere, thermosphere"
+        }
+      ]
+    },
+    {
+      "question": "Which atmospheric layer contains most of the mass of Earth's atmosphere?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tropopause"
+        },
+        {
+          "correct": true,
+          "text": "troposphere"
+        },
+        {
+          "correct": false,
+          "text": "stratosphere"
+        },
+        {
+          "correct": false,
+          "text": "mesosphere"
+        }
+      ]
+    },
+    {
+      "question": "As we move into the troposphere",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "temperature and air density increase"
+        },
+        {
+          "correct": false,
+          "text": "temperature increases while air density and air pressure decrease"
+        },
+        {
+          "correct": true,
+          "text": "temperature, air density, and air pressure decrease"
+        },
+        {
+          "correct": false,
+          "text": "temperature decreases while air density and air pressure increase"
+        }
+      ]
+    },
+    {
+      "question": "In which atmospheric layer is most water vapor found?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "troposphere"
+        },
+        {
+          "correct": false,
+          "text": "mesosphere"
+        },
+        {
+          "correct": false,
+          "text": "stratosphere"
+        },
+        {
+          "correct": false,
+          "text": "thermosphere"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT true of ozone?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It absorbs ultraviolet radiatation"
+        },
+        {
+          "correct": false,
+          "text": "Its concentration is decreasing or thinning."
+        },
+        {
+          "correct": false,
+          "text": "It is concentrated in the atmospheric layer called the stratosphere."
+        },
+        {
+          "correct": true,
+          "text": "It is a gas formed by the addition of two oxygen atoms to an oxygen molecule."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following gases is(are) responsible for ozone depletion in the upper atmosphere?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "chlorofluorocarbons"
+        },
+        {
+          "correct": false,
+          "text": "carbon monoxide"
+        },
+        {
+          "correct": false,
+          "text": "sulfur dioxide and nitrogen"
+        },
+        {
+          "correct": false,
+          "text": "carbon dioxide and oxygen"
+        }
+      ]
+    },
+    {
+      "question": "How can garbage be disposed of without destryoing the ozone layers of the atmosphere?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "burn it"
+        },
+        {
+          "correct": false,
+          "text": "throw it into rivers"
+        },
+        {
+          "correct": true,
+          "text": "compost it"
+        },
+        {
+          "correct": false,
+          "text": "give it to collectors"
+        }
+      ]
+    },
+    {
+      "question": "What percentage of incoming solar radiation does Earth's atmosphere absorb?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "100 percent"
+        },
+        {
+          "correct": true,
+          "text": "15 percent"
+        },
+        {
+          "correct": false,
+          "text": "50 percent"
+        },
+        {
+          "correct": false,
+          "text": "35 percent"
+        }
+      ]
+    },
+    {
+      "question": "Oxygen is the most abundant element by volume in the Earth's",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hydrosphere"
+        },
+        {
+          "correct": true,
+          "text": "crust"
+        },
+        {
+          "correct": false,
+          "text": "troposphere"
+        },
+        {
+          "correct": false,
+          "text": "inner core"
+        }
+      ]
+    },
+    {
+      "question": "The two most common gases in the atmosphere are the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "nitrogen and oxygen"
+        },
+        {
+          "correct": false,
+          "text": "nitrogen and water vapor"
+        },
+        {
+          "correct": false,
+          "text": "oxygen and hydrogen"
+        },
+        {
+          "correct": false,
+          "text": "hydrogen and nitrogen"
+        }
+      ]
+    },
+    {
+      "question": "What winds blow between 0° and 30° north and south latitude?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "trade winds"
+        },
+        {
+          "correct": false,
+          "text": "prevailing westerlies"
+        },
+        {
+          "correct": false,
+          "text": "polar easterlies"
+        },
+        {
+          "correct": false,
+          "text": "jet streams"
+        }
+      ]
+    },
+    {
+      "question": "What would be the most likely classification for an air mass originating over the North Pacific Ocean?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "maritime tropical"
+        },
+        {
+          "correct": false,
+          "text": "continental polar"
+        },
+        {
+          "correct": false,
+          "text": "continental tropical"
+        },
+        {
+          "correct": true,
+          "text": "maritime polar"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following clouds are indicators of rain?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "nimbus"
+        },
+        {
+          "correct": false,
+          "text": "cumulus"
+        },
+        {
+          "correct": false,
+          "text": "stratus"
+        },
+        {
+          "correct": false,
+          "text": "cirrus"
+        }
+      ]
+    },
+    {
+      "question": "What does an anemometer measure?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "humidity"
+        },
+        {
+          "correct": false,
+          "text": "air pressure"
+        },
+        {
+          "correct": true,
+          "text": "wind speed"
+        },
+        {
+          "correct": false,
+          "text": "wind direction"
+        }
+      ]
+    },
+    {
+      "question": "Which term describes changes in air motion resulting from Earth's rotation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "jet stream"
+        },
+        {
+          "correct": false,
+          "text": "convergence"
+        },
+        {
+          "correct": true,
+          "text": "Coriolis effect"
+        },
+        {
+          "correct": false,
+          "text": "front"
+        }
+      ]
+    },
+    {
+      "question": "Present-day weather predictions are based primarily upon",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cloud height"
+        },
+        {
+          "correct": false,
+          "text": "ocean currents"
+        },
+        {
+          "correct": true,
+          "text": "airmass movements"
+        },
+        {
+          "correct": false,
+          "text": "land and sea breezes"
+        }
+      ]
+    },
+    {
+      "question": "Area encircling the earth near the equator where winds originating in the northern and southern hemispheres come together.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "equator"
+        },
+        {
+          "correct": false,
+          "text": "troposphere"
+        },
+        {
+          "correct": false,
+          "text": "Tropic of Cancer"
+        },
+        {
+          "correct": true,
+          "text": "intertropical convergence zone"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements is/are TRUE?<br><span style=\"font-weight: normal;\"><i>I. Weather and climate are the same atmospheric phenomena.<br>II. Land breeze occurs because warmer air in the land rises and colder air in the sea sinks.<br>III. The development of hurricane is determined by the wind speed.<br>IV. Winds from northern and southern hemispheres converge at the equator.</i></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I, III, and IV"
+        },
+        {
+          "correct": false,
+          "text": "III and IV"
+        },
+        {
+          "correct": true,
+          "text": "III only"
+        },
+        {
+          "correct": false,
+          "text": "IV only"
+        }
+      ]
+    },
+    {
+      "question": "Why is deforestation often linked to global warming?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It increases the amount of dry land on Earth's surface."
+        },
+        {
+          "correct": false,
+          "text": "It releases toxic gases and pollutants into the atmosphere."
+        },
+        {
+          "correct": true,
+          "text": "It increases the amount of CO2 released into the atmosphere."
+        },
+        {
+          "correct": false,
+          "text": "It decreases the amount of CO2 released into the atmosphere."
+        }
+      ]
+    },
+    {
+      "question": "Wind moves from regions of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "high temperature toward regions of low temperature"
+        },
+        {
+          "correct": false,
+          "text": "high humidity toward regions of low humidity"
+        },
+        {
+          "correct": false,
+          "text": "high precipitation toward regions of low precipitation"
+        },
+        {
+          "correct": true,
+          "text": "high pressure toward regions of low pressure"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements best describes the relationship of atmospheric pressure to altitude?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The atmospheric pressure increases as the altitude increases."
+        },
+        {
+          "correct": true,
+          "text": "The atmospheric pressure increases as the altitude decreases."
+        },
+        {
+          "correct": false,
+          "text": "The atmospheric pressure varies unpredictably at different altitudes."
+        },
+        {
+          "correct": false,
+          "text": "The atmospheric pressure is constant at all altitudes."
+        }
+      ]
+    },
+    {
+      "question": "What is El Niño?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "a warm wind"
+        },
+        {
+          "correct": false,
+          "text": "a cool ocean current"
+        },
+        {
+          "correct": false,
+          "text": "a cool wind"
+        },
+        {
+          "correct": true,
+          "text": "a warm ocean current"
+        }
+      ]
+    },
+    {
+      "question": "Which agency gives the official weather report?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "newspaper"
+        },
+        {
+          "correct": false,
+          "text": "PHIVOLCS"
+        },
+        {
+          "correct": true,
+          "text": "PAGASA"
+        },
+        {
+          "correct": false,
+          "text": "radio"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following does NOT influence climate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "location"
+        },
+        {
+          "correct": true,
+          "text": "satellites"
+        },
+        {
+          "correct": false,
+          "text": "mountains"
+        },
+        {
+          "correct": false,
+          "text": "large bodies of water"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a natural cause of long-term climatic change?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "solar activity"
+        },
+        {
+          "correct": true,
+          "text": "industrialization"
+        },
+        {
+          "correct": false,
+          "text": "changes in the tilt of Earth's axis"
+        },
+        {
+          "correct": false,
+          "text": "changes in Earth's rotation"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a renewable resource?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "oil"
+        },
+        {
+          "correct": false,
+          "text": "natural gas"
+        },
+        {
+          "correct": true,
+          "text": "trees"
+        },
+        {
+          "correct": false,
+          "text": "coal"
+        }
+      ]
+    },
+    {
+      "question": "The fit of the coastlines of which of the following continents led people to suggest that the continents had drifted over time?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "North and Sound America"
+        },
+        {
+          "correct": false,
+          "text": "North America and Africa"
+        },
+        {
+          "correct": true,
+          "text": "South America and Africa"
+        },
+        {
+          "correct": false,
+          "text": "Europe and North America"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following evidence was used by Wegener to support his hypothesis that the continents had once been joined?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "rock types and ages"
+        },
+        {
+          "correct": false,
+          "text": "plate tectonics"
+        },
+        {
+          "correct": false,
+          "text": "slab pull and ridge push"
+        },
+        {
+          "correct": false,
+          "text": "fossils of ocean plants"
+        }
+      ]
+    },
+    {
+      "question": "Why was the hypothesis of continental drift rejected when it was proposed by Wegener?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Wegener thought that the south pole had changed location."
+        },
+        {
+          "correct": false,
+          "text": "Wegener thought that Earth's rotation was the driving force."
+        },
+        {
+          "correct": true,
+          "text": "Wegener couldn't explain how or why continents moved."
+        },
+        {
+          "correct": false,
+          "text": "Wegener died in Greenland in 1930."
+        }
+      ]
+    },
+    {
+      "question": "Example of this type is Mayon volcano.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "composite"
+        },
+        {
+          "correct": false,
+          "text": "shield"
+        },
+        {
+          "correct": false,
+          "text": "cinder"
+        },
+        {
+          "correct": false,
+          "text": "hydrovolcano"
+        }
+      ]
+    },
+    {
+      "question": "Geologists consider volcanism as a building process because it",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "adds materials to the crust"
+        },
+        {
+          "correct": false,
+          "text": "builds volcanoes"
+        },
+        {
+          "correct": false,
+          "text": "moves crystal materials from place to place"
+        },
+        {
+          "correct": false,
+          "text": "destroys properties of man"
+        }
+      ]
+    },
+    {
+      "question": "What is the order in which seismic waves are recorded by a seismometer?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "P-wave, S-wave, surface wave"
+        },
+        {
+          "correct": false,
+          "text": "surface wave, P-wave, S-wave"
+        },
+        {
+          "correct": false,
+          "text": "S-wave, P-wave, surface wave"
+        },
+        {
+          "correct": false,
+          "text": "P-wave, surface wave, S-wave"
+        }
+      ]
+    },
+    {
+      "question": "The study of which of the following led to the proposal of seafloor spreading?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "ocean rocks and sediments"
+        },
+        {
+          "correct": false,
+          "text": "soil liquefaction"
+        },
+        {
+          "correct": false,
+          "text": "seismic wave travel times"
+        },
+        {
+          "correct": false,
+          "text": "P-wave motions"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the probable cause of plate movements?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "ocean currents"
+        },
+        {
+          "correct": false,
+          "text": "topographic highs"
+        },
+        {
+          "correct": true,
+          "text": "convection currents in the mantle"
+        },
+        {
+          "correct": false,
+          "text": "strain"
+        }
+      ]
+    },
+    {
+      "question": "What of the following is TRUE about earthquake intensity?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "a measure of the energy released"
+        },
+        {
+          "correct": true,
+          "text": "a measure of damage done"
+        },
+        {
+          "correct": false,
+          "text": "a measure of seismic risk"
+        },
+        {
+          "correct": false,
+          "text": "a measure of the quake's focus"
+        }
+      ]
+    },
+    {
+      "question": "What causes differences in elevation on Earth?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "density and thickness of the crust"
+        },
+        {
+          "correct": false,
+          "text": "vertical dikes and pillow basalts"
+        },
+        {
+          "correct": false,
+          "text": "seamounts and hot spots"
+        },
+        {
+          "correct": false,
+          "text": "uplifted and faulted mountains"
+        }
+      ]
+    },
+    {
+      "question": "What would trigger the occurence of a tsunami?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "earthquake in the crust"
+        },
+        {
+          "correct": false,
+          "text": "climate change"
+        },
+        {
+          "correct": false,
+          "text": "typhoons"
+        },
+        {
+          "correct": false,
+          "text": "landslides in coastal areas"
+        }
+      ]
+    },
+    {
+      "question": "What is the ultimate source of most energy on Earth?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tides"
+        },
+        {
+          "correct": false,
+          "text": "radioactivity"
+        },
+        {
+          "correct": true,
+          "text": "the Sun"
+        },
+        {
+          "correct": false,
+          "text": "the mantle"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a part of the Sun's atmosphere?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the corona"
+        },
+        {
+          "correct": false,
+          "text": "the chromosphere"
+        },
+        {
+          "correct": false,
+          "text": "the solar wind"
+        },
+        {
+          "correct": true,
+          "text": "the photosphere"
+        }
+      ]
+    },
+    {
+      "question": "Sun's energy is generated by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "nuclear fission"
+        },
+        {
+          "correct": false,
+          "text": "sun reacting with gravity"
+        },
+        {
+          "correct": true,
+          "text": "nuclear fusion"
+        },
+        {
+          "correct": false,
+          "text": "reaction with magnetic field"
+        }
+      ]
+    },
+    {
+      "question": "Why does the Sun rise in the west and set in east when viewed from Venus?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Venus is the closest planet to Earth"
+        },
+        {
+          "correct": true,
+          "text": "Venus has a retrograde rotation"
+        },
+        {
+          "correct": false,
+          "text": "Venus' orbital period is 224 Earth days"
+        },
+        {
+          "correct": false,
+          "text": "The semi-major axis of Venus is only 0.723 AU from the Sun"
+        }
+      ]
+    },
+    {
+      "question": "What tool of astronomy relates the class, mass, temperature, magnitude, diameter, and luminosity of stars?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "parallax"
+        },
+        {
+          "correct": false,
+          "text": "absolute magnitude"
+        },
+        {
+          "correct": false,
+          "text": "absolute brightness"
+        },
+        {
+          "correct": true,
+          "text": "the Hertzsprung-Russell diagram"
+        }
+      ]
+    },
+    {
+      "question": "The apparent patterns of stars long imagined to outline shapes of objects are called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "constellations"
+        },
+        {
+          "correct": false,
+          "text": "supernovae"
+        },
+        {
+          "correct": false,
+          "text": "galaxies"
+        },
+        {
+          "correct": false,
+          "text": "big dipper"
+        }
+      ]
+    },
+    {
+      "question": "The phases of the Moon are caused by the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Sun's varying distance from the Moon"
+        },
+        {
+          "correct": true,
+          "text": "Moon's revolution around the Earth"
+        },
+        {
+          "correct": false,
+          "text": "Moon's varying distance from the Earth"
+        },
+        {
+          "correct": false,
+          "text": "Earth's revolution around the Sun"
+        }
+      ]
+    },
+    {
+      "question": "The following have something to do with the characteristics and movement of the moon EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "eclipse"
+        },
+        {
+          "correct": false,
+          "text": "phases of the moon"
+        },
+        {
+          "correct": true,
+          "text": "meteor shower"
+        },
+        {
+          "correct": false,
+          "text": "tides"
+        }
+      ]
+    },
+    {
+      "question": "What causes high and low tides?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "earth's rotation on its axis"
+        },
+        {
+          "correct": true,
+          "text": "moon's gravitational pull"
+        },
+        {
+          "correct": false,
+          "text": "sun's solar energy"
+        },
+        {
+          "correct": false,
+          "text": "earth's gravitational pull"
+        }
+      ]
+    },
+    {
+      "question": "What is one theory about how the Moon formed?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Numerous asteroids were pulled together"
+        },
+        {
+          "correct": false,
+          "text": "Earth and Mars collided"
+        },
+        {
+          "correct": true,
+          "text": "Earth and Mars-sized body collided"
+        },
+        {
+          "correct": false,
+          "text": "Earth captured an existing moon from Mars"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the correct order?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "waning crescent, third quarter, waning gibbous, new moon"
+        },
+        {
+          "correct": true,
+          "text": "waxing gibbous, full moon, waning gibbous, third quarter"
+        },
+        {
+          "correct": false,
+          "text": "new moon, waning gibbous, first quarter, waning cresccent"
+        },
+        {
+          "correct": false,
+          "text": "waxing crescent, new moon, waning crescent, first quarter"
+        }
+      ]
+    },
+    {
+      "question": "The moon has more surface craters than Earth does because the moon has",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "a smaller diameter than Earth"
+        },
+        {
+          "correct": true,
+          "text": "no significant atmosphere"
+        },
+        {
+          "correct": false,
+          "text": "a stronger gravitational force"
+        },
+        {
+          "correct": false,
+          "text": "a surface more sensitive to impacts"
+        }
+      ]
+    },
+    {
+      "question": "If the Moon were passing directly between the Sun and Earth, therby blocking our view of the Sun, what would we be experiencing on Earth?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "a lunar eclipse"
+        },
+        {
+          "correct": true,
+          "text": "a solar eclipse"
+        },
+        {
+          "correct": false,
+          "text": "umbra"
+        },
+        {
+          "correct": false,
+          "text": "penumbra"
+        }
+      ]
+    },
+    {
+      "question": "Why do we have the Sun rise in the east",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the earth rotates clockwise"
+        },
+        {
+          "correct": false,
+          "text": "the sun is located in the east"
+        },
+        {
+          "correct": true,
+          "text": "the earth rotates counter-clockwise"
+        },
+        {
+          "correct": false,
+          "text": "the earth revolves towards the east"
+        }
+      ]
+    },
+    {
+      "question": "The tilt of the Earth on its axis is a cause of the Earth's",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "24-hour day"
+        },
+        {
+          "correct": false,
+          "text": "uniform daylight hours"
+        },
+        {
+          "correct": true,
+          "text": "changing length of day and night"
+        },
+        {
+          "correct": false,
+          "text": "365 and 1/4-day year"
+        }
+      ]
+    },
+    {
+      "question": "The planets known as \"gas planets\" include Jupiter, Uranus, and",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Mars"
+        },
+        {
+          "correct": false,
+          "text": "Pluto"
+        },
+        {
+          "correct": false,
+          "text": "Earth"
+        },
+        {
+          "correct": true,
+          "text": "Saturn"
+        }
+      ]
+    },
+    {
+      "question": "What two planets have similar appearances, atmospheric compositions, interiors, and particle belts?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Neptune and Uranus"
+        },
+        {
+          "correct": false,
+          "text": "Mars and Venus"
+        },
+        {
+          "correct": false,
+          "text": "Saturn and Neptune"
+        },
+        {
+          "correct": false,
+          "text": "Saturn and Uranus"
+        }
+      ]
+    },
+    {
+      "question": "The surface of Venus is much hotter than would be expected, considering its distance from the Sun. Which statement BEST explains this condition?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Venus has many active volcanoes"
+        },
+        {
+          "correct": false,
+          "text": "The clouds of Venus is highly reflective"
+        },
+        {
+          "correct": false,
+          "text": "Venus has a slow rate of rotation"
+        },
+        {
+          "correct": true,
+          "text": "The atmosphere of Venus contains a high percentage of carbon dioxide"
+        }
+      ]
+    },
+    {
+      "question": "Persons who travel in space are called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "astronomers"
+        },
+        {
+          "correct": false,
+          "text": "geologists"
+        },
+        {
+          "correct": true,
+          "text": "astronauts"
+        },
+        {
+          "correct": false,
+          "text": "astrologists"
+        }
+      ]
+    },
+    {
+      "question": "A streak of light produced by a meteoroid moving rapidly through the Earth's atmosphere",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "meteor"
+        },
+        {
+          "correct": false,
+          "text": "asteroid"
+        },
+        {
+          "correct": false,
+          "text": "comet"
+        },
+        {
+          "correct": false,
+          "text": "quasar"
+        }
+      ]
+    },
+    {
+      "question": "Identify our galaxy and its type",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Andromeda; spiral"
+        },
+        {
+          "correct": false,
+          "text": "Milky; spiral"
+        },
+        {
+          "correct": false,
+          "text": "Pegasus; irregular"
+        },
+        {
+          "correct": true,
+          "text": "Milky Way; spiral"
+        }
+      ]
+    },
+    {
+      "question": "What theory proposes that the universe does not change with time?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the Big Bang"
+        },
+        {
+          "correct": false,
+          "text": "the cosmological constant"
+        },
+        {
+          "correct": false,
+          "text": "the heliocentric universe theory"
+        },
+        {
+          "correct": true,
+          "text": "the steady-state universe theory"
+        }
+      ]
+    }
+  ]
+}

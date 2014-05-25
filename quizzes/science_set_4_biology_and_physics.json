@@ -1,0 +1,888 @@
+{
+  "name": "Science Set 4 Biology and Physics",
+  "description": "...",
+  "duration": 30,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "Is a sequence of steps followed by scientists in differentiating the truth from lies and superstition.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hypotheses procedure"
+        },
+        {
+          "correct": false,
+          "text": "standard operating procedure"
+        },
+        {
+          "correct": true,
+          "text": "scientific method"
+        },
+        {
+          "correct": false,
+          "text": "experiment procedure"
+        }
+      ]
+    },
+    {
+      "question": "Applied science.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "engineering"
+        },
+        {
+          "correct": false,
+          "text": "general science"
+        },
+        {
+          "correct": true,
+          "text": "technology"
+        },
+        {
+          "correct": false,
+          "text": "consumer applications"
+        }
+      ]
+    },
+    {
+      "question": "Belief of notion not based on reason, knowledge or experience.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "supernatural beliefs"
+        },
+        {
+          "correct": false,
+          "text": "religious beliefs"
+        },
+        {
+          "correct": true,
+          "text": "superstitious beliefs"
+        },
+        {
+          "correct": false,
+          "text": "naturalism"
+        }
+      ]
+    },
+    {
+      "question": "Described as a hypothesis that has been tested again and again by many scientists from different parts of the world with similar results each time.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "confirmed hypothesis"
+        },
+        {
+          "correct": true,
+          "text": "theory"
+        },
+        {
+          "correct": false,
+          "text": "experimental evidence"
+        },
+        {
+          "correct": false,
+          "text": "fact"
+        }
+      ]
+    },
+    {
+      "question": "Repeatability of a measurement.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "accuracy"
+        },
+        {
+          "correct": false,
+          "text": "efficacy"
+        },
+        {
+          "correct": false,
+          "text": "efficiency"
+        },
+        {
+          "correct": true,
+          "text": "precision"
+        }
+      ]
+    },
+    {
+      "question": "Reliability of a measurement.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "accuracy"
+        },
+        {
+          "correct": false,
+          "text": "efficacy"
+        },
+        {
+          "correct": false,
+          "text": "efficiency"
+        },
+        {
+          "correct": false,
+          "text": "precision"
+        }
+      ]
+    },
+    {
+      "question": "Language of science.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Mathematics"
+        },
+        {
+          "correct": false,
+          "text": "English"
+        },
+        {
+          "correct": false,
+          "text": "Scientific Method"
+        },
+        {
+          "correct": false,
+          "text": "Proof"
+        }
+      ]
+    },
+    {
+      "question": "He developed the Fahrenheit scale.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "James Euler Fahrenheit"
+        },
+        {
+          "correct": false,
+          "text": "Gubher Von Fahrenheit"
+        },
+        {
+          "correct": false,
+          "text": "Deutrich Hindler Fahrenheit"
+        },
+        {
+          "correct": true,
+          "text": "Gabriel Daniel Fahrenheit"
+        }
+      ]
+    },
+    {
+      "question": "Absolute temperature scale.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Celsius"
+        },
+        {
+          "correct": true,
+          "text": "Kelvin"
+        },
+        {
+          "correct": false,
+          "text": "Fahrenheit"
+        },
+        {
+          "correct": false,
+          "text": "Centigrade"
+        }
+      ]
+    },
+    {
+      "question": "Lowest possible temperature at which the molecules of a substance have the lowest energy.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "minimum thermodynamic threshold"
+        },
+        {
+          "correct": false,
+          "text": "freezing point"
+        },
+        {
+          "correct": true,
+          "text": "absolute zero"
+        },
+        {
+          "correct": false,
+          "text": "0 degrees Celsius"
+        }
+      ]
+    },
+    {
+      "question": "Digits in a number which are considered as certain plus the last digit which is estimated.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "significant digits"
+        },
+        {
+          "correct": true,
+          "text": "significant figures"
+        },
+        {
+          "correct": false,
+          "text": "precision"
+        },
+        {
+          "correct": false,
+          "text": "absolute value"
+        }
+      ]
+    },
+    {
+      "question": "He developed the Kelvin Scale",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Brad Kelvin"
+        },
+        {
+          "correct": true,
+          "text": "Baron Kelvin"
+        },
+        {
+          "correct": false,
+          "text": "Bill Kelvin"
+        },
+        {
+          "correct": false,
+          "text": "Boyle Kelvin"
+        }
+      ]
+    },
+    {
+      "question": "Science of life.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ecology"
+        },
+        {
+          "correct": false,
+          "text": "Anthropology"
+        },
+        {
+          "correct": true,
+          "text": "Biology"
+        },
+        {
+          "correct": false,
+          "text": "Psychology"
+        }
+      ]
+    },
+    {
+      "question": "Basic unit of life.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "nucleus"
+        },
+        {
+          "correct": true,
+          "text": "cell"
+        },
+        {
+          "correct": false,
+          "text": "air"
+        },
+        {
+          "correct": false,
+          "text": "DNA"
+        }
+      ]
+    },
+    {
+      "question": "Group of tissues organizing and working together to perform a common function.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "mitochondrion"
+        },
+        {
+          "correct": false,
+          "text": "systems"
+        },
+        {
+          "correct": true,
+          "text": "organs"
+        },
+        {
+          "correct": false,
+          "text": "tissues"
+        }
+      ]
+    },
+    {
+      "question": "Control center of the cell.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "nucleus"
+        },
+        {
+          "correct": false,
+          "text": "ganglia"
+        },
+        {
+          "correct": false,
+          "text": "dendrite"
+        },
+        {
+          "correct": false,
+          "text": "axon"
+        }
+      ]
+    },
+    {
+      "question": "Packaging and distribution center of the cell.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ganglia"
+        },
+        {
+          "correct": false,
+          "text": "Mitochondria"
+        },
+        {
+          "correct": false,
+          "text": "Axon"
+        },
+        {
+          "correct": true,
+          "text": "Golgi apparatus"
+        }
+      ]
+    },
+    {
+      "question": "Site of protein synthesis.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Ribosome"
+        },
+        {
+          "correct": false,
+          "text": "Myelin Sheath"
+        },
+        {
+          "correct": false,
+          "text": "Cistron"
+        },
+        {
+          "correct": false,
+          "text": "Eukaryote"
+        }
+      ]
+    },
+    {
+      "question": "Powerhouse of the cell.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Golgi bodies"
+        },
+        {
+          "correct": true,
+          "text": "Mitochondria"
+        },
+        {
+          "correct": false,
+          "text": "Myelin Sheath"
+        },
+        {
+          "correct": false,
+          "text": "Axon"
+        }
+      ]
+    },
+    {
+      "question": "Viscous and jellylike substance where all organelles outside the nucleus are embedded.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Cytoplasm"
+        },
+        {
+          "correct": false,
+          "text": "Vacuoles"
+        },
+        {
+          "correct": false,
+          "text": "Chloroplasts"
+        },
+        {
+          "correct": false,
+          "text": "Cytosol"
+        }
+      ]
+    },
+    {
+      "question": "Hard outer covering that protects an animal's body and gives it support.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "shell"
+        },
+        {
+          "correct": true,
+          "text": "exoskeleton"
+        },
+        {
+          "correct": false,
+          "text": "carapace"
+        },
+        {
+          "correct": false,
+          "text": "enamel covering"
+        }
+      ]
+    },
+    {
+      "question": "Simplest level of organization.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "organism"
+        },
+        {
+          "correct": false,
+          "text": "system"
+        },
+        {
+          "correct": false,
+          "text": "biome"
+        },
+        {
+          "correct": false,
+          "text": "biosphere"
+        }
+      ]
+    },
+    {
+      "question": "A relationship in which one organism benefits and the other is not affected.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "parasitism"
+        },
+        {
+          "correct": true,
+          "text": "commensalism"
+        },
+        {
+          "correct": false,
+          "text": "predation"
+        },
+        {
+          "correct": false,
+          "text": "communism"
+        }
+      ]
+    },
+    {
+      "question": "A relationship in which one organism benefits and the other is harmed",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "parasitism"
+        },
+        {
+          "correct": false,
+          "text": "commensalism"
+        },
+        {
+          "correct": false,
+          "text": "antagonism"
+        },
+        {
+          "correct": false,
+          "text": "predation"
+        }
+      ]
+    },
+    {
+      "question": "A relationship in which organisms benefit from each other.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "commensalism"
+        },
+        {
+          "correct": false,
+          "text": "communism"
+        },
+        {
+          "correct": true,
+          "text": "mutualism"
+        },
+        {
+          "correct": false,
+          "text": "communalism"
+        }
+      ]
+    },
+    {
+      "question": "Community of plants, animals, and microorganisms that interact with their physical environment and are interdependent on each other for their survival.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "biome"
+        },
+        {
+          "correct": true,
+          "text": "ecosystem"
+        },
+        {
+          "correct": false,
+          "text": "biosphere"
+        },
+        {
+          "correct": false,
+          "text": "ecology"
+        }
+      ]
+    },
+    {
+      "question": "Living component.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cell"
+        },
+        {
+          "correct": true,
+          "text": "biotic"
+        },
+        {
+          "correct": false,
+          "text": "nuclei"
+        },
+        {
+          "correct": false,
+          "text": "organelle"
+        }
+      ]
+    },
+    {
+      "question": "Nonliving component.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "probiotic"
+        },
+        {
+          "correct": true,
+          "text": "abiotic"
+        },
+        {
+          "correct": false,
+          "text": "cell"
+        },
+        {
+          "correct": false,
+          "text": "organelle"
+        }
+      ]
+    },
+    {
+      "question": "Branch of biology hat studies the interrelation of organisms and their environment.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "ecosystem"
+        },
+        {
+          "correct": true,
+          "text": "ecology"
+        },
+        {
+          "correct": false,
+          "text": "biome"
+        },
+        {
+          "correct": false,
+          "text": "biosphere"
+        }
+      ]
+    },
+    {
+      "question": "Acts as centralized storage for water.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "dam"
+        },
+        {
+          "correct": true,
+          "text": "cell sap vacuole"
+        },
+        {
+          "correct": false,
+          "text": "tonoplast"
+        },
+        {
+          "correct": false,
+          "text": "vesicle"
+        }
+      ]
+    },
+    {
+      "question": "Educated guess.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "hypothesis"
+        },
+        {
+          "correct": false,
+          "text": "theory"
+        },
+        {
+          "correct": false,
+          "text": "guesstimate"
+        },
+        {
+          "correct": false,
+          "text": "good guess"
+        }
+      ]
+    },
+    {
+      "question": "Attitude when he does not believe in superstitions, believes that in this physical world things happen for a reason.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "rationality"
+        },
+        {
+          "correct": false,
+          "text": "atheism"
+        },
+        {
+          "correct": false,
+          "text": "scientific"
+        },
+        {
+          "correct": false,
+          "text": "superficiality"
+        }
+      ]
+    },
+    {
+      "question": "Cell that contains nuclear materials enclosed by a nuclear membrane.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "prokaryotic cell"
+        },
+        {
+          "correct": true,
+          "text": "eukaryotic cell"
+        },
+        {
+          "correct": false,
+          "text": "gamete"
+        },
+        {
+          "correct": false,
+          "text": "haploid"
+        }
+      ]
+    },
+    {
+      "question": "Cell that contains nuclear materials not enclosed by a nuclear membrane.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "prokaryotic cell"
+        },
+        {
+          "correct": false,
+          "text": "eukaryotic cell"
+        },
+        {
+          "correct": false,
+          "text": "gamete"
+        },
+        {
+          "correct": false,
+          "text": "haploid"
+        }
+      ]
+    },
+    {
+      "question": "Simplest plants having no true roots and no vascular tissues.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "vines"
+        },
+        {
+          "correct": true,
+          "text": "mosses"
+        },
+        {
+          "correct": false,
+          "text": "herbs"
+        },
+        {
+          "correct": false,
+          "text": "fungi"
+        }
+      ]
+    },
+    {
+      "question": "Variable you decide to change.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "control"
+        },
+        {
+          "correct": true,
+          "text": "independent"
+        },
+        {
+          "correct": false,
+          "text": "dependent"
+        },
+        {
+          "correct": false,
+          "text": "constant"
+        }
+      ]
+    },
+    {
+      "question": "Variable you decide to measure.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "control"
+        },
+        {
+          "correct": false,
+          "text": "independent<br>"
+        },
+        {
+          "correct": true,
+          "text": "dependent"
+        },
+        {
+          "correct": false,
+          "text": "constant"
+        }
+      ]
+    },
+    {
+      "question": "States that all living materials are made up of cells.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Theory of Evolution"
+        },
+        {
+          "correct": true,
+          "text": "Cell Theory"
+        },
+        {
+          "correct": false,
+          "text": "Mendes' Theory"
+        },
+        {
+          "correct": false,
+          "text": "Big Bang Theory"
+        }
+      ]
+    },
+    {
+      "question": "c in E = mc<sup><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:\nCalibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;\nmso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">2&nbsp;</span></sup>represents what",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "speed of light in a vacuum"
+        },
+        {
+          "correct": false,
+          "text": "speed of light in zero gravity"
+        },
+        {
+          "correct": false,
+          "text": "gravitational pull of the Earth"
+        },
+        {
+          "correct": false,
+          "text": "gravitation pull of the Sun"
+        }
+      ]
+    },
+    {
+      "question": "Contains the important pigment chlorophyll.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "chloroplast"
+        },
+        {
+          "correct": false,
+          "text": "stigmata"
+        },
+        {
+          "correct": false,
+          "text": "stomata"
+        },
+        {
+          "correct": false,
+          "text": "anthocyanin"
+        }
+      ]
+    }
+  ]
+}
