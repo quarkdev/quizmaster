@@ -279,12 +279,25 @@ table[id=items] * {
 	font-weight: bold;
 }
 
+.local-storage-item:hover .tstamp {
+	display: inline;
+}
+
 .remove-savefile-btn:hover {
 	font-weight: bold;
 }
 
 .rem-ch > button,
 .rem-q > button {
+	display: none;
+}
+
+.tstamp {
+	position: relative;
+	top: -12px;
+	font-size: 12px;
+	font-weight: normal;
+	opacity: 0.75;
 	display: none;
 }
 

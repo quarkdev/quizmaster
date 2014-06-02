@@ -18,6 +18,20 @@ var QuizMaster = (function () {
 		'_STATS_',
 		'_QUIZZES_'
 	];
+	var monthNames = [
+		'January',
+		'February',
+		'March',
+		'April',
+		'May',
+		'June',
+		'July',
+		'August',
+		'September',
+		'October',
+		'November',
+		'December',
+	];
 
 	var shuffle = function (array) {
 		// fisher-yates shuffle [ https://github.com/coolaj86/knuth-shuffle/blob/master/index.js ]
@@ -286,6 +300,13 @@ var QuizMaster = (function () {
 		return {hh: hours, mm: minutes, ss: seconds};
 	};
 
+	ml.formatDate = function (date) {
+		// format the date(in ms since the last epoch) into {Month DD, YYYY}
+		var currentDate = new Date(date);
+
+		return monthNames[currentDate.getMonth() - 1] + ' ' + currentDate.getDate() + ', ' + currentDate.getFullYear();
+	};
+
 	ml.endQuiz = function (timedOut) {
 		clearInterval(timer.interval);
 		timer.ticks = 0;
@@ -540,7 +561,7 @@ var QuizMaster = (function () {
     };
 
     ml.convertToJSON = function () {
-        // parse quiz-area and convert it to a quiz (in JSON)
+        // parse quiz-area and convert it to a quiz (in JSON, only used inside editor when saving to localstorage)
         
         var details = $('#details').children();
 
@@ -570,6 +591,9 @@ var QuizMaster = (function () {
                 choices: chs
             });
         });
+
+        // add a timestamp
+        quiz.timestamp = new Date().getTime();
 
         return JSON.stringify(quiz, null, 2); // convert to JSON and prettify
     };
@@ -619,9 +643,17 @@ var QuizMaster = (function () {
 
 		// build list of saved quizzes
 		var list = '';
+		var lmod = ''; // last modified timestamp
 		for (var i = 0; i < localStorage.length; i++) {
 			if (ml.isReserved(localStorage.key(i))) continue; // don't show special storage
-			list += '<div class="local-storage-item"><span class="savefile" onclick="QuizMaster.loadToEditor(QuizMaster.getFromLocalStorage(\'' + localStorage.key(i) + '\')); $(\'#overlay\').hide()">' + localStorage.key(i) + '.json</span><span class="remove-savefile-btn" onclick="if (event.ctrlKey) {localStorage.removeItem(\'' + localStorage.key(i) + '\'); QuizMaster.postNotice(\'#editor-notifications\', \'SaveFile Removed.\')} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove SaveFile.\')}">[x]</span></div>'
+			var parsedItem = ml.getFromLocalStorage(localStorage.key(i));
+			if (parsedItem.hasOwnProperty('timestamp')) {
+				lmod = ml.formatDate(parsedItem.timestamp);
+			}
+			else {
+				lmod = 'n/a';
+			}
+			list += '<div class="local-storage-item"><span class="savefile" onclick="QuizMaster.loadToEditor(QuizMaster.getFromLocalStorage(\'' + localStorage.key(i) + '\')); $(\'#overlay\').hide()">' + localStorage.key(i) + '.json</span><span class="remove-savefile-btn" onclick="if (event.ctrlKey) {localStorage.removeItem(\'' + localStorage.key(i) + '\'); QuizMaster.postNotice(\'#editor-notifications\', \'SaveFile Removed.\')} else {QuizMaster.postNotice(\'#editor-notifications\', \'Use: [Ctrl + LeftClick] to Remove SaveFile.\')}">[x]</span><br><span class="tstamp">Last Modified: ' + lmod + '</span></div>'
 		}
 
 		$('#result').html('<span>Select SaveFile.</span>' + list);
