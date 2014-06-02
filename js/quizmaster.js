@@ -303,8 +303,14 @@ var QuizMaster = (function () {
 	ml.formatDate = function (date) {
 		// format the date(in ms since the last epoch) into {Month DD, YYYY}
 		var currentDate = new Date(date);
-
-		return monthNames[currentDate.getMonth() - 1] + ' ' + currentDate.getDate() + ', ' + currentDate.getFullYear();
+		var hmOfDay = '';
+		if (currentDate.getHours() > 10) {
+			hmOfDay = padDigits(currentDate.getHours() % 12, 2) + ':' + padDigits(currentDate.getMinutes(), 2) + ' PM';
+		}
+		else {
+			hmOfDay = padDigits(currentDate.getHours() % 12, 2) + ':' + padDigits(currentDate.getMinutes(), 2) + ' AM';
+		}
+		return monthNames[currentDate.getMonth() - 1] + ' ' + currentDate.getDate() + ', ' + currentDate.getFullYear() + ' at ' + hmOfDay;
 	};
 
 	ml.endQuiz = function (timedOut) {
