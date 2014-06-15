@@ -310,7 +310,7 @@ var QuizMaster = (function () {
 		else {
 			hmOfDay = padDigits(currentDate.getHours() % 12, 2) + ':' + padDigits(currentDate.getMinutes(), 2) + ' AM';
 		}
-		return monthNames[currentDate.getMonth() - 1] + ' ' + currentDate.getDate() + ', ' + currentDate.getFullYear() + ' at ' + hmOfDay;
+		return monthNames[currentDate.getMonth()] + ' ' + currentDate.getDate() + ', ' + currentDate.getFullYear() + ' at ' + hmOfDay;
 	};
 
 	ml.endQuiz = function (timedOut) {
