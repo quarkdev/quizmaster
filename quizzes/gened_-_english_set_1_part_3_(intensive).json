@@ -1,0 +1,278 @@
+{
+  "name": "GenEd - English Set 1 Part 3 (Intensive)",
+  "description": "Understanding Idioms",
+  "duration": 4,
+  "instruction": "Read each sentence well, get the thought of the italicized expression, and choose the letter of the correct meaning.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "The Lopezes want <i>their bread buttered</i>&nbsp;on both sides.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "easy prosperity"
+        },
+        {
+          "correct": false,
+          "text": "buttered sandwich"
+        },
+        {
+          "correct": false,
+          "text": "imported butter"
+        }
+      ]
+    },
+    {
+      "question": "I hate <i>fair-weather</i>&nbsp;friends.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "beautiful"
+        },
+        {
+          "correct": true,
+          "text": "only on happy days"
+        },
+        {
+          "correct": false,
+          "text": "helpful to others"
+        }
+      ]
+    },
+    {
+      "question": "Hard labor leads to a <i>path strewn with roses</i>.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "life of delight"
+        },
+        {
+          "correct": false,
+          "text": "road where roses grow"
+        },
+        {
+          "correct": false,
+          "text": "road scattered with roses"
+        }
+      ]
+    },
+    {
+      "question": "Out of the <i>abundance</i>&nbsp;of his heart, he embraced his long-lost friend.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "his overflowing emotion"
+        },
+        {
+          "correct": false,
+          "text": "more than his one heart"
+        },
+        {
+          "correct": false,
+          "text": "his very rich heart"
+        }
+      ]
+    },
+    {
+      "question": "The woman's way of speaking often <i>adds fuel to the fire</i>.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "keeps the fire burning"
+        },
+        {
+          "correct": false,
+          "text": "brightens the atmosphere"
+        },
+        {
+          "correct": true,
+          "text": "worsens matters"
+        }
+      ]
+    },
+    {
+      "question": "The year 1982 is a <i>golden age</i>&nbsp;in my uncle's profession.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "period of old people"
+        },
+        {
+          "correct": true,
+          "text": "prosperous period"
+        },
+        {
+          "correct": false,
+          "text": "fiftieth anniversary"
+        }
+      ]
+    },
+    {
+      "question": "The British and the Argentines&nbsp;<i>must lay down their arms</i>; otherwise, war is inevitable.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "cease hostilities"
+        },
+        {
+          "correct": false,
+          "text": "fight bare-handed"
+        },
+        {
+          "correct": false,
+          "text": "fight without using nuclear weapons"
+        }
+      ]
+    },
+    {
+      "question": "The student went to the teacher to <i>make a clean breast</i>&nbsp;of his fault.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "wash his breast"
+        },
+        {
+          "correct": true,
+          "text": "confess the truth"
+        },
+        {
+          "correct": false,
+          "text": "give his reasons"
+        }
+      ]
+    },
+    {
+      "question": "With prices so high, the <i>Dutch treat</i>&nbsp;is gaining popularity.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "everyone orders the cheapest food"
+        },
+        {
+          "correct": true,
+          "text": "everyone pays for what he eats"
+        },
+        {
+          "correct": false,
+          "text": "each one orders Dutch food"
+        }
+      ]
+    },
+    {
+      "question": "People who try to answer essay type tests often <i>beat around the bush</i>.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Approach the subject in a roundabout way"
+        },
+        {
+          "correct": false,
+          "text": "Go around the garden"
+        },
+        {
+          "correct": false,
+          "text": "Hit the bush with a ball pen"
+        }
+      ]
+    },
+    {
+      "question": "Face to face.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "confront directly"
+        },
+        {
+          "correct": false,
+          "text": "speak with one another"
+        },
+        {
+          "correct": false,
+          "text": "deal with"
+        },
+        {
+          "correct": false,
+          "text": "formal talk"
+        }
+      ]
+    },
+    {
+      "question": "Tip of the iceberg.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cold treatment"
+        },
+        {
+          "correct": false,
+          "text": "dripping water"
+        },
+        {
+          "correct": false,
+          "text": "a block of ice"
+        },
+        {
+          "correct": true,
+          "text": "beginning of a problem"
+        }
+      ]
+    },
+    {
+      "question": "A feather in one's cap.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "expensive treatment"
+        },
+        {
+          "correct": false,
+          "text": "golden crown"
+        },
+        {
+          "correct": false,
+          "text": "symbol of wealth"
+        },
+        {
+          "correct": true,
+          "text": "reward for accomplishments"
+        }
+      ]
+    },
+    {
+      "question": "A cloud on the horizon.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "rain is coming"
+        },
+        {
+          "correct": true,
+          "text": "a matter of concern"
+        },
+        {
+          "correct": false,
+          "text": "cloudy day"
+        },
+        {
+          "correct": false,
+          "text": "topmost"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1403173003947
+}

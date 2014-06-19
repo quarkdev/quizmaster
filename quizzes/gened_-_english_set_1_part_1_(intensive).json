@@ -1,0 +1,430 @@
+{
+  "name": "GenEd - English Set 1 Part 1 (Intensive)",
+  "description": "Understanding Synonyms",
+  "duration": 5,
+  "instruction": "Choose the best meaning of the underlined word.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "For <u>enmity</u>&nbsp;and hate are contrary to friendship and concord.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "agreement"
+        },
+        {
+          "correct": false,
+          "text": "confusion"
+        },
+        {
+          "correct": true,
+          "text": "mutual hatred"
+        },
+        {
+          "correct": false,
+          "text": "division"
+        }
+      ]
+    },
+    {
+      "question": "\"Spare the rod and spoil the child\" is a common <u>aphorism</u>.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "slogan"
+        },
+        {
+          "correct": false,
+          "text": "battlecry"
+        },
+        {
+          "correct": true,
+          "text": "proverb"
+        },
+        {
+          "correct": false,
+          "text": "motto"
+        }
+      ]
+    },
+    {
+      "question": "It is now <u>plausible</u>&nbsp;to say that someday, interplanetary travel will never be impossible.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "reasonable"
+        },
+        {
+          "correct": false,
+          "text": "unusual"
+        },
+        {
+          "correct": false,
+          "text": "illogical"
+        },
+        {
+          "correct": false,
+          "text": "extraordinary"
+        }
+      ]
+    },
+    {
+      "question": "Shandy's <u>deportment</u>&nbsp;is highly commendable.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "belief"
+        },
+        {
+          "correct": true,
+          "text": "behavior"
+        },
+        {
+          "correct": false,
+          "text": "intelligence"
+        },
+        {
+          "correct": false,
+          "text": "competence"
+        }
+      ]
+    },
+    {
+      "question": "Filipino's <u>fortitude</u>&nbsp;is the reason why we seldom complain.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "endurance"
+        },
+        {
+          "correct": false,
+          "text": "peace-loving"
+        },
+        {
+          "correct": false,
+          "text": "discontent"
+        },
+        {
+          "correct": false,
+          "text": "satisfaction"
+        }
+      ]
+    },
+    {
+      "question": "<u>Urbane</u>&nbsp;people are appalled by rude behavior.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "well-mannered"
+        },
+        {
+          "correct": false,
+          "text": "ill-mannered"
+        },
+        {
+          "correct": false,
+          "text": "modern"
+        },
+        {
+          "correct": false,
+          "text": "rich"
+        }
+      ]
+    },
+    {
+      "question": "Poverty should never be viewed as an <u>impediment</u>&nbsp;towards attaining good education.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "reason"
+        },
+        {
+          "correct": false,
+          "text": "way"
+        },
+        {
+          "correct": false,
+          "text": "link"
+        },
+        {
+          "correct": true,
+          "text": "obstruction"
+        }
+      ]
+    },
+    {
+      "question": "The students were <u>upbraided</u>&nbsp;for misbehaving during the assembly.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "praised"
+        },
+        {
+          "correct": true,
+          "text": "scolded"
+        },
+        {
+          "correct": false,
+          "text": "honored"
+        },
+        {
+          "correct": false,
+          "text": "stopped"
+        }
+      ]
+    },
+    {
+      "question": "Clowns are never <u>vapid</u>&nbsp;but the sick usually are.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lively"
+        },
+        {
+          "correct": true,
+          "text": "lack spirit"
+        },
+        {
+          "correct": false,
+          "text": "clumsy"
+        },
+        {
+          "correct": false,
+          "text": "funny"
+        }
+      ]
+    },
+    {
+      "question": "The client was asked to verify the <u>veracity</u>&nbsp;of the statement of accounts issued.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "accuracy"
+        },
+        {
+          "correct": false,
+          "text": "discrepancy"
+        },
+        {
+          "correct": false,
+          "text": "redundancy"
+        },
+        {
+          "correct": false,
+          "text": "mistake"
+        }
+      ]
+    },
+    {
+      "question": "Dentists believed that babies should be <u>weaned</u>&nbsp;from feeding bottles as soon as possible to prevent malformation of the infant's erupting teeth.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "get used to"
+        },
+        {
+          "correct": false,
+          "text": "make more dependent"
+        },
+        {
+          "correct": true,
+          "text": "free from dependence"
+        }
+      ]
+    },
+    {
+      "question": "Some people believe that Balete Drive is haunted because a <u>wraith</u>&nbsp;of a woman who appears there.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "shadow"
+        },
+        {
+          "correct": false,
+          "text": "reflection"
+        },
+        {
+          "correct": true,
+          "text": "ghost"
+        }
+      ]
+    },
+    {
+      "question": "She looks <u>unkempt</u>&nbsp;with her wavy coarse hair falling freely behind her back.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "pretty"
+        },
+        {
+          "correct": true,
+          "text": "untidy"
+        },
+        {
+          "correct": false,
+          "text": "neat"
+        },
+        {
+          "correct": false,
+          "text": "long and shiny"
+        }
+      ]
+    },
+    {
+      "question": "Sherlock Holmes is a famous <u>sleuth</u>.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "adventurer"
+        },
+        {
+          "correct": false,
+          "text": "scientist"
+        },
+        {
+          "correct": true,
+          "text": "detective"
+        },
+        {
+          "correct": false,
+          "text": "criminal"
+        }
+      ]
+    },
+    {
+      "question": "Mindy <u>rummaged</u>&nbsp;through the chest of old clothes for something usable to donate.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "searched through"
+        },
+        {
+          "correct": false,
+          "text": "passed through"
+        },
+        {
+          "correct": false,
+          "text": "wandered through"
+        }
+      ]
+    },
+    {
+      "question": "To <u>augment</u>&nbsp;the policeman's income, the government allowed them to take part time jobs.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "increase"
+        },
+        {
+          "correct": false,
+          "text": "limit"
+        },
+        {
+          "correct": false,
+          "text": "contribute"
+        },
+        {
+          "correct": false,
+          "text": "remove"
+        }
+      ]
+    },
+    {
+      "question": "The footprints were <u>effaced</u>&nbsp;when the floor was mopped.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "printed"
+        },
+        {
+          "correct": true,
+          "text": "erased"
+        },
+        {
+          "correct": false,
+          "text": "deformed"
+        }
+      ]
+    },
+    {
+      "question": "The plane <u>overshot</u>&nbsp;the runway and landed on a ditch.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "passed through"
+        },
+        {
+          "correct": false,
+          "text": "passed by"
+        },
+        {
+          "correct": true,
+          "text": "went beyond"
+        }
+      ]
+    },
+    {
+      "question": "The branch grew leaves and then delicate <u>blossoms</u>&nbsp;began to appear.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "seeds"
+        },
+        {
+          "correct": false,
+          "text": "roots"
+        },
+        {
+          "correct": true,
+          "text": "flowers"
+        },
+        {
+          "correct": false,
+          "text": "fruits"
+        }
+      ]
+    },
+    {
+      "question": "The long journey was nothing compared to the <u>tribulation</u>&nbsp;and distress that came after it.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sorrow"
+        },
+        {
+          "correct": false,
+          "text": "joy"
+        },
+        {
+          "correct": false,
+          "text": "gladness"
+        },
+        {
+          "correct": true,
+          "text": "suffering"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1403173012932
+}

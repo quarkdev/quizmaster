@@ -1,0 +1,216 @@
+{
+  "name": "GenEd - English Set 1 Part 2 (Intensive)",
+  "description": "Understanding Antonyms",
+  "duration": 4,
+  "instruction": "Choose the opposite in meaning of the underlined word.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "Marie <u>accompanied</u>&nbsp;her sister to the drugstore.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "followed"
+        },
+        {
+          "correct": true,
+          "text": "let go on one's own"
+        },
+        {
+          "correct": false,
+          "text": "left behind"
+        }
+      ]
+    },
+    {
+      "question": "Beside the <u>boulevard</u>&nbsp;are gigantic buildings.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "alley"
+        },
+        {
+          "correct": false,
+          "text": "street"
+        },
+        {
+          "correct": false,
+          "text": "avenue"
+        },
+        {
+          "correct": false,
+          "text": "road"
+        }
+      ]
+    },
+    {
+      "question": "He often got into trouble because he was <u>brusque</u>.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "blunt"
+        },
+        {
+          "correct": false,
+          "text": "rude"
+        },
+        {
+          "correct": true,
+          "text": "refined"
+        },
+        {
+          "correct": false,
+          "text": "curt"
+        }
+      ]
+    },
+    {
+      "question": "The reporter's <u>candid</u>&nbsp;remarks caught the mayoralty candidate off-guard.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "secret"
+        },
+        {
+          "correct": false,
+          "text": "true"
+        },
+        {
+          "correct": true,
+          "text": "well-thought"
+        }
+      ]
+    },
+    {
+      "question": "The mean boys <u>derided</u>&nbsp;the sickly boy.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "made fun of"
+        },
+        {
+          "correct": true,
+          "text": "praised"
+        },
+        {
+          "correct": false,
+          "text": "ridiculed"
+        }
+      ]
+    },
+    {
+      "question": "Andrea was <u>ecstatic</u>&nbsp;when she won first prize in the short story writing contest.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "melancholic"
+        },
+        {
+          "correct": false,
+          "text": "overjoyed"
+        },
+        {
+          "correct": false,
+          "text": "happy"
+        }
+      ]
+    },
+    {
+      "question": "Migraine headaches are <u>excrutiating</u>.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "extremely painful"
+        },
+        {
+          "correct": true,
+          "text": "painless"
+        },
+        {
+          "correct": false,
+          "text": "mild pain"
+        }
+      ]
+    },
+    {
+      "question": "The quiz proved to be <u>facile</u>&nbsp;so the students got high score.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "difficult"
+        },
+        {
+          "correct": false,
+          "text": "easy"
+        },
+        {
+          "correct": false,
+          "text": "average"
+        }
+      ]
+    },
+    {
+      "question": "The <u>garrulous</u>&nbsp;girls were distanced from each other.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "mute"
+        },
+        {
+          "correct": false,
+          "text": "talkative"
+        },
+        {
+          "correct": true,
+          "text": "behaved"
+        }
+      ]
+    },
+    {
+      "question": "The <u>heathens</u>&nbsp;used to practice cannibalism.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "uncivilized people"
+        },
+        {
+          "correct": false,
+          "text": "barbaric people"
+        },
+        {
+          "correct": true,
+          "text": "cultured people"
+        }
+      ]
+    },
+    {
+      "question": "Some people believe that breaking a mirror is a <u>jinx</u>.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "bad luck"
+        },
+        {
+          "correct": false,
+          "text": "expensive"
+        },
+        {
+          "correct": true,
+          "text": "good luck"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1403173008179
+}

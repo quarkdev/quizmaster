@@ -92,6 +92,18 @@ var QuizMaster = (function () {
 		}
 	};
 
+	ml.toggleBox = function () {
+		var range = getSelection().getRangeAt(0);
+		var node = $(range.commonAncestorContainer);
+		if (node.parent().is('blockquote')) {
+			node.unwrap();
+		}
+		else {
+			var tags = document.createElement('blockquote');
+			range.surroundContents(tags);
+		}
+	};
+
 	ml.isReserved = function (word) {
 		for (var i = 0; i < reservedWords.length; i++) {
 			if (reservedWords[i] === word) return true;
@@ -201,8 +213,12 @@ var QuizMaster = (function () {
 	};
 
 	ml.shuffleQuiz = function (index) {
-		// First, let us shuffle the item order
-		quizzes[index].items = shuffle(quizzes[index].items);
+		// First, let us shuffle the item order (only if quizzes[index].shuffle === true or unset)
+		quizzes[index].shuffle = typeof quizzes[index].shuffle === 'undefined' ? true : quizzes[index].shuffle; // true if unset
+
+		if (quizzes[index].shuffle) {
+			quizzes[index].items = shuffle(quizzes[index].items);
+		}
 
 		// Then the order of choices
 		for (var i = 0; i < quizzes[index].items.length; i++) {
@@ -463,6 +479,18 @@ var QuizMaster = (function () {
 		            <td>Instructions:</td>\
 		            <th colspan="3" contenteditable="true"></th>\
 		        </tr>\
+		        <tr>\
+		            <td>Shuffle Items:</td>\
+		            <td colspan="3">\
+						<div class="onoffswitch">\
+						    <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="shuffle-option" checked>\
+						    <label class="onoffswitch-label" for="shuffle-option">\
+						        <span class="onoffswitch-inner"></span>\
+						        <span class="onoffswitch-switch"></span>\
+						    </label>\
+						</div>\
+		            </td>\
+		        </tr>\
 		    </table>\
 		    <br>\
 		    <table id="items">\
@@ -580,6 +608,7 @@ var QuizMaster = (function () {
             description: details.children(':nth-child(2)').children(':nth-child(2)').html(),
             duration: parseFloat(details.children(':nth-child(3)').children(':nth-child(2)').html()),
             instruction: details.children(':nth-child(4)').children(':nth-child(2)').html(),
+            shuffle: $('#shuffle-option').prop('checked'),
             items: []
         };
 
@@ -687,11 +716,33 @@ var QuizMaster = (function () {
 
 	ml.loadToEditor = function (quiz) {
 		// build quiz string for editor loading
+		var shuffle = 'checked';
+		if (typeof quiz.shuffle === 'undefined') {
+			shuffle = 'checked';
+		}
+		else if (quiz.shuffle === true) {
+			shuffle = 'checked';
+		}
+		else {
+			shuffle = '';
+		}
 		var str = '<table id="details">';
 		str += '<tr><td>Name:</td><th colspan="3" contenteditable="true">' + quiz.name + '</th></tr>';
 		str += '<tr><td>Description:</td><th colspan="3" contenteditable="true">' + quiz.description + '</th></tr>';
 		str += '<tr><td>Duration:</td><th colspan="3" contenteditable="true">' + quiz.duration + '</th></tr>';
 		str += '<tr><td>Instructions:</td><th colspan="3" contenteditable="true">' + quiz.instruction + '</th></tr>';
+		str += '<tr>\
+		            <td>Shuffle Items:</td>\
+		            <td colspan="3">\
+						<div class="onoffswitch">\
+						    <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="shuffle-option" ' + shuffle + '>\
+						    <label class="onoffswitch-label" for="shuffle-option">\
+						        <span class="onoffswitch-inner"></span>\
+						        <span class="onoffswitch-switch"></span>\
+						    </label>\
+						</div>\
+		            </td>\
+		        </tr>';
 		str += '</table><br>';
 
 		str += '<table id="items">';

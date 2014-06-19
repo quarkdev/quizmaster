@@ -1,0 +1,1852 @@
+{
+  "name": "GenEd - English Set 1 Part 4 (Intensive)",
+  "description": "Understanding Structural Analysis",
+  "duration": 60,
+  "instruction": "Choose the best answer.",
+  "shuffle": false,
+  "items": [
+    {
+      "question": "\"Alter\" means other. In this sentence, His <i>altruism</i>&nbsp;is evident from his generosity. Altruism means _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hatred of others"
+        },
+        {
+          "correct": true,
+          "text": "love for others"
+        },
+        {
+          "correct": false,
+          "text": "other nature"
+        },
+        {
+          "correct": false,
+          "text": "false ideas"
+        }
+      ]
+    },
+    {
+      "question": "\"ego\" means I. In this sentence, The <i>egocentric</i>&nbsp;believes that the world revolves around him. Egocentric means _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "self-made person"
+        },
+        {
+          "correct": false,
+          "text": "mad person"
+        },
+        {
+          "correct": false,
+          "text": "accomplished person"
+        },
+        {
+          "correct": true,
+          "text": "self-centered person"
+        }
+      ]
+    },
+    {
+      "question": "\"Carn\" means flesh. In the sentence, <u>Carnality</u>&nbsp;is the theme of many movies today. The underlined word means _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "indulgence in pleasure of the body"
+        },
+        {
+          "correct": false,
+          "text": "life after death"
+        },
+        {
+          "correct": false,
+          "text": "reincarnation"
+        },
+        {
+          "correct": false,
+          "text": "vice"
+        }
+      ]
+    },
+    {
+      "question": "The <i>vivacious</i>&nbsp;manner of the starlet makes her popular.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sophisticated"
+        },
+        {
+          "correct": false,
+          "text": "serious"
+        },
+        {
+          "correct": true,
+          "text": "lively"
+        },
+        {
+          "correct": false,
+          "text": "funny"
+        }
+      ]
+    },
+    {
+      "question": "Giving help to the flood victims was a <i>magnanimous</i>&nbsp;act.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "over-acting"
+        },
+        {
+          "correct": true,
+          "text": "big-hearted"
+        },
+        {
+          "correct": false,
+          "text": "sensitive"
+        },
+        {
+          "correct": false,
+          "text": "small"
+        }
+      ]
+    },
+    {
+      "question": "Researchers, doctors, and scientists are working hard to discover a <i>panacea</i>&nbsp;and make this world a truly pleasant place to live in.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "mircale"
+        },
+        {
+          "correct": false,
+          "text": "formula"
+        },
+        {
+          "correct": true,
+          "text": "cure of all disease"
+        },
+        {
+          "correct": false,
+          "text": "machine"
+        }
+      ]
+    },
+    {
+      "question": "The <i>bibulous</i>&nbsp;man cannot eat without wine.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "alcoholic"
+        },
+        {
+          "correct": false,
+          "text": "funny"
+        },
+        {
+          "correct": false,
+          "text": "hungry"
+        }
+      ]
+    },
+    {
+      "question": "We cannot send a letter of thanks to an <i>anonymous </i>writer.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "renowned"
+        },
+        {
+          "correct": true,
+          "text": "unknown"
+        },
+        {
+          "correct": false,
+          "text": "well-known"
+        }
+      ]
+    },
+    {
+      "question": "The <i>dolorous</i>&nbsp;attitude makes her look rather old for her age.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "joyful"
+        },
+        {
+          "correct": true,
+          "text": "sorrowful"
+        },
+        {
+          "correct": false,
+          "text": "indifferent"
+        }
+      ]
+    },
+    {
+      "question": "Her <i>gregarious</i>&nbsp;nature makes him have many friends wherever he goes.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "strong"
+        },
+        {
+          "correct": false,
+          "text": "aggressive"
+        },
+        {
+          "correct": true,
+          "text": "sociable"
+        }
+      ]
+    },
+    {
+      "question": "The <i>consummate</i>&nbsp;performer received a standing ovation from the audience.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "total"
+        },
+        {
+          "correct": false,
+          "text": "intelligent"
+        },
+        {
+          "correct": false,
+          "text": "graceful"
+        }
+      ]
+    },
+    {
+      "question": "The student could not think of a way to <i>placate</i>&nbsp;their teacher.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "pacify"
+        },
+        {
+          "correct": false,
+          "text": "provoke"
+        },
+        {
+          "correct": false,
+          "text": "answer"
+        }
+      ]
+    },
+    {
+      "question": "A pregnant woman must be extra careful to prevent her child from contracting <i>congenital</i>&nbsp;diseases.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "acquired at birth"
+        },
+        {
+          "correct": false,
+          "text": "acquired after birth"
+        },
+        {
+          "correct": false,
+          "text": "hereditary"
+        }
+      ]
+    },
+    {
+      "question": "\"A man who attempts to be his own doctor has a fool for his patient.\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "A doctor who tries to cure himself is a fool"
+        },
+        {
+          "correct": false,
+          "text": "A person who goes to the doctor is a fool"
+        },
+        {
+          "correct": false,
+          "text": "The sick should try to cure themselves"
+        },
+        {
+          "correct": false,
+          "text": "A sick person should see a doctor"
+        }
+      ]
+    },
+    {
+      "question": "\"A fool's tongue is long enough to cut his throat.\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The man has a very long tongue."
+        },
+        {
+          "correct": false,
+          "text": "The fool has a sharp tongue."
+        },
+        {
+          "correct": true,
+          "text": "A fool speaks too much."
+        },
+        {
+          "correct": false,
+          "text": "One who cuts his throat is a fool."
+        }
+      ]
+    },
+    {
+      "question": "\"One man's meat is another man's poison.\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Those with a healthy digestive system cannot be poisoned."
+        },
+        {
+          "correct": false,
+          "text": "People should make sure that the food they eat is not poisonous."
+        },
+        {
+          "correct": false,
+          "text": "Good food may turn out to be poisonous."
+        },
+        {
+          "correct": true,
+          "text": "Not everyone has the same tastes and habits as others."
+        }
+      ]
+    },
+    {
+      "question": "\"Criticism comes easier than craftsmanship.\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "many people easily find fault with others."
+        },
+        {
+          "correct": true,
+          "text": "It is easier to find fault than to work."
+        },
+        {
+          "correct": false,
+          "text": "It takes time to create something."
+        },
+        {
+          "correct": false,
+          "text": "We have many critics but few creators."
+        }
+      ]
+    },
+    {
+      "question": "\"The end justifies the means.\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "A man should work hard to achieve his goal."
+        },
+        {
+          "correct": true,
+          "text": "The speaker does not care what method he uses as long as he gets what he wants."
+        },
+        {
+          "correct": false,
+          "text": "Patience bring success."
+        },
+        {
+          "correct": false,
+          "text": "He who works hard will succeed."
+        }
+      ]
+    },
+    {
+      "question": "\"It is not a question of what a man knows, but what use he makes of what he knows.\" - J. G. Holland",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Use his knowledge wisely."
+        },
+        {
+          "correct": false,
+          "text": "Think before he acts."
+        },
+        {
+          "correct": false,
+          "text": "Get all the knowledge he can."
+        },
+        {
+          "correct": false,
+          "text": "Make the best use of his time."
+        }
+      ]
+    },
+    {
+      "question": "\"I believe that every right implies a responsibility, every opportunity an obligation, every possession a duty.\" - J.D. Rockefeller",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "A man has both rights and responsibilities."
+        },
+        {
+          "correct": false,
+          "text": "All men must know their rights."
+        },
+        {
+          "correct": false,
+          "text": "A man must accept his responsibilities."
+        },
+        {
+          "correct": false,
+          "text": "It is important that a man know what he should do."
+        }
+      ]
+    },
+    {
+      "question": "\"We are form believers in the maxim that for all right judgement of any man or thing, it is useful, nay, essential to see his good qualities before pronouncing him bad.\" - Thomas Carlyle",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Judge a man by his actions."
+        },
+        {
+          "correct": false,
+          "text": "When judging a man, look at his good points first."
+        },
+        {
+          "correct": false,
+          "text": "Do not judge a man by his physical appearance."
+        },
+        {
+          "correct": false,
+          "text": "Always look at a man you are judging."
+        }
+      ]
+    },
+    {
+      "question": "\"He who is the slowest in making a promise is the most faithful in the performance of it.\" - Jean Jacques Rousseau",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "People who easily make promises quickly forget them."
+        },
+        {
+          "correct": false,
+          "text": "Never make promises."
+        },
+        {
+          "correct": true,
+          "text": "A person who seldom promises is he who keeps his word."
+        },
+        {
+          "correct": false,
+          "text": "Do not promise what you do not intend to keep."
+        }
+      ]
+    },
+    {
+      "question": "\"Bear in mind that children of all ages have one thing in common - they close their ears to advice and open their eyes to example.\" - The Tablet",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Children learn by what they see."
+        },
+        {
+          "correct": false,
+          "text": "Advise children often so that they will become responsible."
+        },
+        {
+          "correct": false,
+          "text": "Act according to your words."
+        },
+        {
+          "correct": false,
+          "text": "Action and words are necessary for growth."
+        }
+      ]
+    },
+    {
+      "question": "<span style=\"font-weight: normal;\">[ \"Grass\" by Carl Sandburg ]</span><br><span style=\"font-style: italic; font-weight: normal;\">Pile the bodies high at Austerlitz and Waterloo.</span><br><span style=\"font-style: italic; font-weight: normal;\">Shovel them under and let me work -</span><br><span style=\"font-style: italic; font-weight: normal;\">I am the grass, I cover all.</span><br><span style=\"font-style: italic; font-weight: normal;\">And pile them high at Gettysburg.</span><br><span style=\"font-style: italic; font-weight: normal;\">And pile them high at Ypres and Verdun.</span><br><span style=\"font-style: italic; font-weight: normal;\">Shovel them under and let me work.</span><br><span style=\"font-style: italic; font-weight: normal;\">Two years, ten years, and the passengers ask the conductor:</span><br><span style=\"font-style: italic; font-weight: normal;\">&nbsp; &nbsp; &nbsp;What place is this?</span><br><span style=\"font-style: italic; font-weight: normal;\">&nbsp; &nbsp; &nbsp;Where are we now?</span><br><span style=\"font-style: italic; font-weight: normal;\">&nbsp; &nbsp; &nbsp;I am the grass.</span><br><span style=\"font-style: italic; font-weight: normal;\">&nbsp; &nbsp; &nbsp;Let me work.</span><br>What is common among the places mentioned in the poem?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "They are all scenic spots."
+        },
+        {
+          "correct": true,
+          "text": "They used to be war zones."
+        },
+        {
+          "correct": false,
+          "text": "They are all verdant or grassy."
+        },
+        {
+          "correct": false,
+          "text": "They have all been forgotten."
+        }
+      ]
+    },
+    {
+      "question": "What does Sandburg's \"The Grass\" clearly suggest?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Deaths in war are often forgotten."
+        },
+        {
+          "correct": false,
+          "text": "Without war, there can be no peace."
+        },
+        {
+          "correct": false,
+          "text": "To die for one's country is a glorious act."
+        },
+        {
+          "correct": false,
+          "text": "War leaves behind unimaginable ravages."
+        }
+      ]
+    },
+    {
+      "question": "What does the poem reveal about the grass?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Grass is clean and refreshing."
+        },
+        {
+          "correct": false,
+          "text": "It helps maintain peace and order."
+        },
+        {
+          "correct": false,
+          "text": "It covers the graves of soldiers."
+        },
+        {
+          "correct": true,
+          "text": "It can obscure memories of war."
+        }
+      ]
+    },
+    {
+      "question": "What sound device is exemplified in the first two lines of Poe's \"The Raven\"?<br><span style=\"font-weight: normal;\"><i>Deep into the darkness peering, long I stood there wondering, fearing,<br>Doubting, dreaming dreams no mortal ever dared to dream before;<br>But the silence was unbroken, and the stillness gave no token</i></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Anaphora"
+        },
+        {
+          "correct": false,
+          "text": "Onomatopoeia"
+        },
+        {
+          "correct": false,
+          "text": "Assonance"
+        },
+        {
+          "correct": true,
+          "text": "Alliteration"
+        }
+      ]
+    },
+    {
+      "question": "What sound is being repeated above?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "/t/"
+        },
+        {
+          "correct": false,
+          "text": "/m/"
+        },
+        {
+          "correct": true,
+          "text": "/d/"
+        },
+        {
+          "correct": false,
+          "text": "/s/"
+        }
+      ]
+    },
+    {
+      "question": "In Nathaniel Hawthorne's Minister's Black Veil, what does the Minister refer to as \"an hour to come... when all of us shall cast aside our veils\"?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Sabbath Day"
+        },
+        {
+          "correct": true,
+          "text": "Judgement Day"
+        },
+        {
+          "correct": false,
+          "text": "Wedding Day"
+        },
+        {
+          "correct": false,
+          "text": "Thanksgiving Day"
+        }
+      ]
+    },
+    {
+      "question": "Who is alluded alluded to as the Captain in the following lines from Whitman's poem?<br><span style=\"font-weight: normal;\"><i>O Captain! My Captain! Our fearful trip is done,<br>The ship has weather'd every rack, the prize we sought is won.</i></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Abraham Lincoln"
+        },
+        {
+          "correct": false,
+          "text": "George Washington"
+        },
+        {
+          "correct": false,
+          "text": "John F. Kennedy"
+        },
+        {
+          "correct": false,
+          "text": "Thomas Jefferson"
+        }
+      ]
+    },
+    {
+      "question": "In the following dialogue, what Filipino value is affirmed by Mario's statement?<br>GLORIA:<i style=\"font-weight: normal;\">&nbsp;So, for a measly apply, you lost a job you needed so much-</i><br>MARIO: <span style=\"font-weight: normal;\"><i>I wouldn't mind losing a thousand jobs for an apple for my daughter!</i></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Parental sacrifice for children"
+        },
+        {
+          "correct": false,
+          "text": "Material comfort for the family"
+        },
+        {
+          "correct": false,
+          "text": "Family happiness over job security"
+        },
+        {
+          "correct": false,
+          "text": "Child's care above morality"
+        }
+      ]
+    },
+    {
+      "question": "<span style=\"font-weight: normal;\">Food spoilage is an undesirable action of bacteria. It is counteracted by modern methods by canning, refrigeration, and freezing. If spoiled food is eaten, the result can be food poisoning. Food poisoning is not an infectious disease. It is not passed from one organism to another. However, in food poisoning, bacterial toxins have some effects on the host as they do in infectious diseases.</span><br>If spoiled food is eaten, the result can be _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "abnormal feeling in the stomach"
+        },
+        {
+          "correct": false,
+          "text": "indigestion"
+        },
+        {
+          "correct": true,
+          "text": "food poisoning"
+        },
+        {
+          "correct": false,
+          "text": "diarrhea"
+        }
+      ]
+    },
+    {
+      "question": "Spoilage is counteracted by modern methods of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "refrigeration"
+        },
+        {
+          "correct": false,
+          "text": "canning"
+        },
+        {
+          "correct": false,
+          "text": "freezing"
+        },
+        {
+          "correct": true,
+          "text": "all of the above"
+        }
+      ]
+    },
+    {
+      "question": "Food spoilage is caused by _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "virus"
+        },
+        {
+          "correct": false,
+          "text": "insects"
+        },
+        {
+          "correct": false,
+          "text": "fungi"
+        },
+        {
+          "correct": true,
+          "text": "toxins"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following sentences is false?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Food poisoning is not an infectious disease."
+        },
+        {
+          "correct": true,
+          "text": "Food poisoning is passed from one organism to another."
+        },
+        {
+          "correct": false,
+          "text": "Food poisoning is the result of eating spoiled food."
+        },
+        {
+          "correct": false,
+          "text": "All the statements above are false."
+        }
+      ]
+    },
+    {
+      "question": "The speaker delivered a well-prepared but long speech on the energy crisis. Soon the audience began yawning.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The audience were interested."
+        },
+        {
+          "correct": true,
+          "text": "The audience were bored."
+        },
+        {
+          "correct": false,
+          "text": "The speaker is not good in pronunciation."
+        },
+        {
+          "correct": false,
+          "text": "The audience appreciated the speaker's effort."
+        }
+      ]
+    },
+    {
+      "question": "The girl looked at the man with one eyebrow slightly raised. Her face wore a scowl and her lips were puckered.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "She was confused."
+        },
+        {
+          "correct": false,
+          "text": "She was pleased."
+        },
+        {
+          "correct": false,
+          "text": "She was conscious."
+        },
+        {
+          "correct": true,
+          "text": "She was in an ugly mood."
+        }
+      ]
+    },
+    {
+      "question": "The lame boy sat by the window all day. He was overwhelmed by the endless sight of the fast-moving vehicles and people hurrying across the street and along the sidewalk.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The boy was in a barrio."
+        },
+        {
+          "correct": false,
+          "text": "The boy was in a field."
+        },
+        {
+          "correct": false,
+          "text": "The scene was a remote town."
+        },
+        {
+          "correct": true,
+          "text": "The boy was on a busy city street."
+        }
+      ]
+    },
+    {
+      "question": "The woman opened the telegram. Her eyes widened in horror and disbelief, and then she cried in agony.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The telegram brought good news."
+        },
+        {
+          "correct": true,
+          "text": "The telegram brought bad news."
+        },
+        {
+          "correct": false,
+          "text": "The telegram contained nonsense message."
+        },
+        {
+          "correct": false,
+          "text": "The telegram contained unreadable text."
+        }
+      ]
+    },
+    {
+      "question": "<span style=\"font-weight: normal;\">Education is a life-long process which requires studying and learning from previous experiences. It is not enough to be educated as it is to be cultured.</span><br>The paragraph best supports the idea that:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Education means more than being a cultured person."
+        },
+        {
+          "correct": true,
+          "text": "To be called a cultured person requires a continuing education."
+        },
+        {
+          "correct": false,
+          "text": "A cultured person learns and profits from previous educational experiences."
+        },
+        {
+          "correct": false,
+          "text": "None of the above."
+        }
+      ]
+    },
+    {
+      "question": "\"As he makes his bed, so he must lie on it.\" The quotation implies that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "One should face the consequences of his actions."
+        },
+        {
+          "correct": false,
+          "text": "A person should prepare the be he'll lie on."
+        },
+        {
+          "correct": false,
+          "text": "Beds are made for resting."
+        },
+        {
+          "correct": false,
+          "text": "All of the above."
+        }
+      ]
+    },
+    {
+      "question": "Rumor mongering is like letting a bagful of feathers on top of a tall building on a windy day. The quotation best supports the idea that:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Old habits die hard."
+        },
+        {
+          "correct": true,
+          "text": "False loose talks are impossible to retrieve when already scattered around."
+        },
+        {
+          "correct": false,
+          "text": "A feasible cure to gossip is not to talk."
+        },
+        {
+          "correct": false,
+          "text": "Never mind the gossip."
+        }
+      ]
+    },
+    {
+      "question": "\"Early to bed, early to rise, keeps a man healthy, wealthy, and wise.\" means",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sleep early and wake up early so you will become wealthy"
+        },
+        {
+          "correct": true,
+          "text": "develop healthy habits of going to bed early"
+        },
+        {
+          "correct": false,
+          "text": "sleeping is the root of making wealth"
+        },
+        {
+          "correct": false,
+          "text": "sleeping will give you a healthy mind"
+        }
+      ]
+    },
+    {
+      "question": "What does it mean by saying, \"Not all close eyes are asleep.\"?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Not all eyes are blind."
+        },
+        {
+          "correct": true,
+          "text": "A person may seem to be unaware of something but actually the opposite is true."
+        },
+        {
+          "correct": false,
+          "text": "When we sleep sometimes we open our eyes."
+        },
+        {
+          "correct": false,
+          "text": "Sleeping is not always closing our eyes."
+        }
+      ]
+    },
+    {
+      "question": "What is meant by live within your means?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Grow as you live."
+        },
+        {
+          "correct": false,
+          "text": "Liking is the means of growing."
+        },
+        {
+          "correct": true,
+          "text": "Spend according to your income."
+        },
+        {
+          "correct": false,
+          "text": "Growing is the means to live."
+        }
+      ]
+    },
+    {
+      "question": "<i><u style=\"font-weight: normal;\">I Shall Not Pass This Way Again</u><br><span style=\"font-weight: normal;\">Through this toilsome road alas!</span><br><span style=\"font-weight: normal;\">Once and only once I pass;</span><br><span style=\"font-weight: normal;\">If a kindness I may sow</span><br><span style=\"font-weight: normal;\">I a good deed I may do</span><br><span style=\"font-weight: normal;\">To a suffering fellowman</span><br><span style=\"font-weight: normal;\">Let me do it while I can</span><br><span style=\"font-weight: normal;\">No delay, for its plain</span><br><span style=\"font-weight: normal;\">I shall not pass this way again</span></i><br>What is the mood of the first two lines?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "happiness"
+        },
+        {
+          "correct": false,
+          "text": "despair"
+        },
+        {
+          "correct": true,
+          "text": "regret"
+        },
+        {
+          "correct": false,
+          "text": "sorrow"
+        }
+      ]
+    },
+    {
+      "question": "What word in the poem means involving work?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "suffering"
+        },
+        {
+          "correct": true,
+          "text": "toil"
+        },
+        {
+          "correct": false,
+          "text": "deed"
+        },
+        {
+          "correct": false,
+          "text": "do"
+        }
+      ]
+    },
+    {
+      "question": "What does road and way symbolize?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "education"
+        },
+        {
+          "correct": false,
+          "text": "life"
+        },
+        {
+          "correct": true,
+          "text": "world"
+        },
+        {
+          "correct": false,
+          "text": "success"
+        }
+      ]
+    },
+    {
+      "question": "What does the poem imply?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "We are on earth to work."
+        },
+        {
+          "correct": false,
+          "text": "We have to experience suffering."
+        },
+        {
+          "correct": true,
+          "text": "We live but once on earth."
+        },
+        {
+          "correct": false,
+          "text": "Our lives are not ours."
+        }
+      ]
+    },
+    {
+      "question": "What virtue does the poem focus on?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "industry"
+        },
+        {
+          "correct": true,
+          "text": "charity"
+        },
+        {
+          "correct": false,
+          "text": "perseverance"
+        },
+        {
+          "correct": false,
+          "text": "love"
+        }
+      ]
+    },
+    {
+      "question": "What is the message of the poem?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "We have only one chance of helping others, so let us not delay doing good deeds."
+        },
+        {
+          "correct": false,
+          "text": "Life is short, so let us enjoy every moment of it."
+        },
+        {
+          "correct": false,
+          "text": "We can always delay our work because tomorrow is forever."
+        },
+        {
+          "correct": false,
+          "text": "Helping others is a good deed."
+        }
+      ]
+    },
+    {
+      "question": "<u style=\"font-weight: normal; font-style: italic;\">AFTER THE RAIN</u><br><i style=\"font-weight: normal;\">The rain halts,</i><br><i style=\"font-weight: normal;\">The wind ceases,</i><br><i style=\"font-weight: normal;\">The girls</i><br><i style=\"font-weight: normal;\">Again spread out their colorful clothes in the sun;</i><br><i style=\"font-weight: normal;\">The children</i><br><i style=\"font-weight: normal;\">Chase a rainbow on the lawn</i><br><i style=\"font-weight: normal;\">Look!</i><br><i style=\"font-weight: normal;\">Who has painted another coat of fresh color on the blue hill?</i><br><i style=\"font-weight: normal;\">Listen!</i><br><i style=\"font-weight: normal;\">The cornstalks are talking in their crackling voice.</i><br><i style=\"font-weight: normal;\">~ Kai Yu Hsu<br></i>What happened to the hills?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "They turned to a fresh color."
+        },
+        {
+          "correct": false,
+          "text": "The rainbow set on the lawn."
+        },
+        {
+          "correct": false,
+          "text": "The cornstalks talked."
+        },
+        {
+          "correct": false,
+          "text": "It spread out colorful clothes."
+        }
+      ]
+    },
+    {
+      "question": "What does the last line mean?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The cornstalks are alive again."
+        },
+        {
+          "correct": false,
+          "text": "The blue hills are painted again."
+        },
+        {
+          "correct": false,
+          "text": "The cornstalks are shouting."
+        },
+        {
+          "correct": true,
+          "text": "The cornstalks promise a plentiful harvest."
+        }
+      ]
+    },
+    {
+      "question": "<u style=\"font-weight: normal; font-style: italic;\">THE MORNING GLORY</u><br><i style=\"font-weight: normal;\">The morning glory climbs above my head,</i><br><i style=\"font-weight: normal;\">Pale flowers of white and purple, blue and red.</i><br><i style=\"font-weight: normal;\">I &nbsp;am disquieted.</i><br><i style=\"font-weight: normal;\">Down in the withered grasses something stirred;</i><br><i style=\"font-weight: normal;\">I thought it was his footfall that I heard.</i><br><i style=\"font-weight: normal;\">Then a grasshopper chirped.</i><br><i style=\"font-weight: normal;\">I climbed the hill just as the new moon showed,</i><br><i style=\"font-weight: normal;\">I saw him coming on the southern road.</i><br><i style=\"font-weight: normal;\">My heart lays down its load.</i><br><i style=\"font-weight: normal;\">~ Confucius</i><br>How does the speaker of the poem feel at the sight of the morning glory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "sad and worried"
+        },
+        {
+          "correct": false,
+          "text": "delighted"
+        },
+        {
+          "correct": false,
+          "text": "happy"
+        },
+        {
+          "correct": false,
+          "text": "triumphant"
+        }
+      ]
+    },
+    {
+      "question": "What description of white and purple, blue and red flowers justified the speaker's feeling?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "velvety"
+        },
+        {
+          "correct": false,
+          "text": "gray"
+        },
+        {
+          "correct": true,
+          "text": "pale"
+        },
+        {
+          "correct": false,
+          "text": "yellow"
+        }
+      ]
+    },
+    {
+      "question": "What disturbed the speakers thought and feeling?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "footfall"
+        },
+        {
+          "correct": false,
+          "text": "grasshopper's chirp"
+        },
+        {
+          "correct": true,
+          "text": "stirred grass"
+        },
+        {
+          "correct": false,
+          "text": "moonlight"
+        }
+      ]
+    },
+    {
+      "question": "The moon was visualized by the speaker as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "in its new cycle"
+        },
+        {
+          "correct": false,
+          "text": "a full moon"
+        },
+        {
+          "correct": false,
+          "text": "a half moon"
+        },
+        {
+          "correct": false,
+          "text": "a first quarter moon"
+        }
+      ]
+    },
+    {
+      "question": "What is the meaning of the last line?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "she is happy"
+        },
+        {
+          "correct": true,
+          "text": "she is no longer worried"
+        },
+        {
+          "correct": false,
+          "text": "she is still disquieted"
+        },
+        {
+          "correct": false,
+          "text": "her heart is heavy"
+        }
+      ]
+    },
+    {
+      "question": "Why did the speaker's feelings change?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it's night"
+        },
+        {
+          "correct": false,
+          "text": "the grasshopper chirped"
+        },
+        {
+          "correct": false,
+          "text": "she heard a footfall"
+        },
+        {
+          "correct": true,
+          "text": "she saw him coming"
+        }
+      ]
+    },
+    {
+      "question": "Around what central theme does the poem revolve?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "the anxieties of waiting"
+        },
+        {
+          "correct": false,
+          "text": "the heavy heart of one sitting down"
+        },
+        {
+          "correct": false,
+          "text": "the joy of waiting"
+        },
+        {
+          "correct": false,
+          "text": "the dull moment when one is alone"
+        }
+      ]
+    },
+    {
+      "question": "<i style=\"font-weight: normal;\">On that trip to the old village, Grandfather took me along. He also took my cousins Juanito, his namesake and favorite among his grandchildren, and Alejo, who, though somewhat doltish, was big for his age and strong as a horse. We made a curious crew.</i><br>Which of the following phrases best describes Alejo?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "like an old villager"
+        },
+        {
+          "correct": true,
+          "text": "like a horse"
+        },
+        {
+          "correct": false,
+          "text": "like grandfather's favorite"
+        },
+        {
+          "correct": false,
+          "text": "like my cousin Juanito"
+        }
+      ]
+    },
+    {
+      "question": "What figure of speech does the sentence, \"Alejo is as strong as a horse.\" exemplify?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "metaphor"
+        },
+        {
+          "correct": false,
+          "text": "personification"
+        },
+        {
+          "correct": false,
+          "text": "symbol"
+        },
+        {
+          "correct": true,
+          "text": "simile"
+        }
+      ]
+    },
+    {
+      "question": "<i style=\"font-weight: normal;\">Sebio laughed. He was again his likeable self. He tried to catch the outstretched hand, but like lightning it was withdrawn, and when he stood up the girl was gone. He sat down again.</i><br>What are compared in the above paragraph?<br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Sebio and the girl"
+        },
+        {
+          "correct": true,
+          "text": "the hand and lightning"
+        },
+        {
+          "correct": false,
+          "text": "the girl and lightning"
+        },
+        {
+          "correct": false,
+          "text": "Sebio and lightning"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following line is a simile?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "his likeable self"
+        },
+        {
+          "correct": true,
+          "text": "the hand like lightning"
+        },
+        {
+          "correct": false,
+          "text": "his outstretched hand"
+        },
+        {
+          "correct": false,
+          "text": "the girl liked Sebio"
+        }
+      ]
+    },
+    {
+      "question": "Why was the hand compared to a lightning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it was burning"
+        },
+        {
+          "correct": false,
+          "text": "it was hot"
+        },
+        {
+          "correct": false,
+          "text": "it was easy to catch"
+        },
+        {
+          "correct": true,
+          "text": "it vanished fast"
+        }
+      ]
+    },
+    {
+      "question": "<i style=\"font-weight: normal;\">He saw the heat waves in the glare</i><br><i style=\"font-weight: normal;\">As devils on the stage of fire,</i><br><i style=\"font-weight: normal;\">Reproached the sky and saw the rain</i><br><i style=\"font-weight: normal;\">As diablos dancing in the mire.</i><br>What are compared in the first two lines?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "heat and wave"
+        },
+        {
+          "correct": false,
+          "text": "stage and fire"
+        },
+        {
+          "correct": false,
+          "text": "raindrops"
+        },
+        {
+          "correct": true,
+          "text": "heat waves and devils"
+        }
+      ]
+    },
+    {
+      "question": "In the last two lines, devils are like",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "fire"
+        },
+        {
+          "correct": false,
+          "text": "skies"
+        },
+        {
+          "correct": false,
+          "text": "raindrops"
+        },
+        {
+          "correct": true,
+          "text": "mire"
+        }
+      ]
+    },
+    {
+      "question": "<i style=\"font-weight: normal;\">That night our friar kept vigil in the sacristy. Pacing the stone floor, he said his beads, clinging to them as to something familiar and benevolent, a part of the known world, and a weapon against the nameless, ageless, meaningless horror outside. He had witnessed again the little ceremony around the tree. Pausing at the window, he looked into the now silent patio. A slip of moon was abroad; the dense tree let fall its light in slivers. Upon pavement, the bowl shone luminous and mocking.</i><br>To what do the \"beads\" in the paragraph refer?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "pearls"
+        },
+        {
+          "correct": true,
+          "text": "rosary"
+        },
+        {
+          "correct": false,
+          "text": "stones"
+        },
+        {
+          "correct": false,
+          "text": "necklace"
+        }
+      ]
+    },
+    {
+      "question": "How does Nick Joaquin describe the light falling from the dense tree?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "luminous"
+        },
+        {
+          "correct": true,
+          "text": "in slivers"
+        },
+        {
+          "correct": false,
+          "text": "mocking"
+        },
+        {
+          "correct": false,
+          "text": "like a bowl"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following phrases describes the \"beads\" the friar holds?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The little ceremony"
+        },
+        {
+          "correct": false,
+          "text": "the silent patio"
+        },
+        {
+          "correct": false,
+          "text": "the light in slivers"
+        },
+        {
+          "correct": true,
+          "text": "the weapon against horror"
+        }
+      ]
+    },
+    {
+      "question": "<u style=\"font-weight: normal; font-style: italic;\">THE ORCHID</u><br><i style=\"font-weight: normal;\">Under the rock</i><br><i style=\"font-weight: normal;\">In a deep shady hollow</i><br><i style=\"font-weight: normal;\">The graceful green orchid</i><br><i style=\"font-weight: normal;\">Puts forth</i><br><i style=\"font-weight: normal;\">Its pale leaves</i><br><i style=\"font-weight: normal;\">Its glory is wasted</i><br><i style=\"font-weight: normal;\">There's no eye</i><br><i style=\"font-weight: normal;\">To see it,</i><br><i style=\"font-weight: normal;\">And its fragrance</i><br><i style=\"font-weight: normal;\">Is spilled</i><br><i style=\"font-weight: normal;\">On the velvety moss.</i><br>The speaker of the poem would like to describe the flower through the phrase, \"the graceful green orchid.\" What does it mean?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The flower is beautiful."
+        },
+        {
+          "correct": false,
+          "text": "The flower is on display."
+        },
+        {
+          "correct": false,
+          "text": "The flower has no odor."
+        },
+        {
+          "correct": false,
+          "text": "The flower is not attractive."
+        }
+      ]
+    },
+    {
+      "question": "How does the speaker see the orchid?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It is covered in moss."
+        },
+        {
+          "correct": false,
+          "text": "It is shaded."
+        },
+        {
+          "correct": false,
+          "text": "It is under the rock."
+        },
+        {
+          "correct": true,
+          "text": "It has a pale color."
+        }
+      ]
+    },
+    {
+      "question": "What does the speaker emphasize in the line, \"It's glory is wasted\"?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The flower is useless."
+        },
+        {
+          "correct": false,
+          "text": "The flower is majestic."
+        },
+        {
+          "correct": false,
+          "text": "The flower is exposed."
+        },
+        {
+          "correct": false,
+          "text": "The flower is decorative."
+        }
+      ]
+    },
+    {
+      "question": "What happens to the flower's fragrance?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It is shared with other flowers."
+        },
+        {
+          "correct": false,
+          "text": "It is stocked in the shady hollow."
+        },
+        {
+          "correct": true,
+          "text": "It is spilled on the velvety moss."
+        },
+        {
+          "correct": false,
+          "text": "It is enjoyed by many."
+        }
+      ]
+    },
+    {
+      "question": "What characteristic of the poet is revealed by the poem?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "thrill-seeker"
+        },
+        {
+          "correct": true,
+          "text": "nature-lover"
+        },
+        {
+          "correct": false,
+          "text": "attention-seeker"
+        },
+        {
+          "correct": false,
+          "text": "prestige-oriented"
+        }
+      ]
+    },
+    {
+      "question": "The speaker implies that something must be done to the green orchid, according to him what should it be?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Display the flower so others may see its beauty."
+        },
+        {
+          "correct": false,
+          "text": "Leave the flower under the rock."
+        },
+        {
+          "correct": true,
+          "text": "Take care of the flower so that it can provide beauty."
+        },
+        {
+          "correct": false,
+          "text": "Destroy it under the rock."
+        }
+      ]
+    },
+    {
+      "question": "<i style=\"font-weight: normal;\">Why does the sea laugh Mother,</i><br><i style=\"font-weight: normal;\">As it glints beneath the sun?</i><br><i style=\"font-weight: normal;\">It is thinking of the joys, my child,</i><br><i style=\"font-weight: normal;\">That it wishes everyone.</i><br><i style=\"font-weight: normal;\">Why does the sea sob Mother,</i><br><i style=\"font-weight: normal;\">As it breaks on the rocky shore?</i><br><i style=\"font-weight: normal;\">It recalls the sorrows of the world</i><br><i style=\"font-weight: normal;\">And weeps forevermore.</i><br><i style=\"font-weight: normal;\">Why is the sea so peaceful Mother,</i><br><i style=\"font-weight: normal;\">As if it were fast asleep?</i><br><i style=\"font-weight: normal;\">It would give our tired hearts, dearest child,</i><br><i style=\"font-weight: normal;\">The comforts of the deep.</i><br>What does the child ask in the poem?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "where the sea is"
+        },
+        {
+          "correct": false,
+          "text": "what the sea does"
+        },
+        {
+          "correct": false,
+          "text": "the cause of the high tide"
+        },
+        {
+          "correct": true,
+          "text": "the cause of what the sea does"
+        }
+      ]
+    },
+    {
+      "question": "What does the sea wish for everyone?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sorrow"
+        },
+        {
+          "correct": false,
+          "text": "good health"
+        },
+        {
+          "correct": true,
+          "text": "happiness"
+        },
+        {
+          "correct": false,
+          "text": "wealth"
+        }
+      ]
+    },
+    {
+      "question": "What does the sea do when it recalls the sorrows of the world?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it chuckles"
+        },
+        {
+          "correct": false,
+          "text": "it flows"
+        },
+        {
+          "correct": false,
+          "text": "it sleeps"
+        },
+        {
+          "correct": true,
+          "text": "it weeps"
+        }
+      ]
+    },
+    {
+      "question": "According to the speaker in Natividad Marquez' poem, why does the sea sob?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it breaks on the rocky shore"
+        },
+        {
+          "correct": false,
+          "text": "it gives us comfort"
+        },
+        {
+          "correct": false,
+          "text": "it wishes us joy"
+        },
+        {
+          "correct": true,
+          "text": "it recalls the sorrows of the world"
+        }
+      ]
+    },
+    {
+      "question": "Which of these phrases does not show a human quality?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sleep calmly"
+        },
+        {
+          "correct": false,
+          "text": "weeps forevermore"
+        },
+        {
+          "correct": false,
+          "text": "recalls sadly"
+        },
+        {
+          "correct": true,
+          "text": "flows forevermore"
+        }
+      ]
+    },
+    {
+      "question": "<i style=\"font-weight: normal;\">The moon is a pale yellow-orange disc</i><br><i style=\"font-weight: normal;\">on the edge of the sea.</i><br><i style=\"font-weight: normal;\">There is a trail of light</i><br><i style=\"font-weight: normal;\">on the shimmering waters</i><br><i style=\"font-weight: normal;\">leading to the moon.</i><br>What are compared in the above passage?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The orange and the disc"
+        },
+        {
+          "correct": false,
+          "text": "The sea and the light"
+        },
+        {
+          "correct": true,
+          "text": "The moon and the disc"
+        },
+        {
+          "correct": false,
+          "text": "The moon and the waters"
+        }
+      ]
+    },
+    {
+      "question": "To what does the \"trail of light on shimmering waters\" refer?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the sunbeam"
+        },
+        {
+          "correct": true,
+          "text": "the moonbeam"
+        },
+        {
+          "correct": false,
+          "text": "the electric light"
+        },
+        {
+          "correct": false,
+          "text": "the starlight"
+        }
+      ]
+    },
+    {
+      "question": "<i style=\"font-weight: normal;\">I was a kakawate tree. I grew on the bank of the river. I had been there for more years than I could remember. And my branches spread out, some of them reaching almost halfway across the river.</i><br>How is personification expressed in the paragraph?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the kakawate tree spreads out"
+        },
+        {
+          "correct": false,
+          "text": "the kakawate tree has fresh leaves"
+        },
+        {
+          "correct": false,
+          "text": "the kakawate tree has branches"
+        },
+        {
+          "correct": true,
+          "text": "the kakawate tree talks about itself"
+        }
+      ]
+    },
+    {
+      "question": "\"I was a kakawate tree\" is an example of?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "simile"
+        },
+        {
+          "correct": true,
+          "text": "metaphor"
+        },
+        {
+          "correct": false,
+          "text": "personification"
+        },
+        {
+          "correct": false,
+          "text": "irony"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1403172994156
+}
