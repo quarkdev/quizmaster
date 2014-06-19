@@ -304,7 +304,10 @@ var QuizMaster = (function () {
 		// format the date(in ms since the last epoch) into {Month DD, YYYY}
 		var currentDate = new Date(date);
 		var hmOfDay = '';
-		if (currentDate.getHours() > 10) {
+		if (currentDate.getHours() === 12) {
+			hmOfDay = 12 + ':' + padDigits(currentDate.getMinutes(), 2) + ' PM';
+		}
+		else if (currentDate.getHours() > 10) {
 			hmOfDay = padDigits(currentDate.getHours() % 12, 2) + ':' + padDigits(currentDate.getMinutes(), 2) + ' PM';
 		}
 		else {

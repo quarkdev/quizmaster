@@ -1,0 +1,2209 @@
+{
+  "name": "ProfEd - Educational Technology Set 2 (Intensive)",
+  "description": "...",
+  "duration": 40,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "Which of the following learning outcomes is properly stated in performance terms?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Students realizes the importance of the tests in teaching"
+        },
+        {
+          "correct": false,
+          "text": "Students has acquired the basic principle of achievement testing"
+        },
+        {
+          "correct": true,
+          "text": "Student demonstrates a desire for more experience in test construction"
+        },
+        {
+          "correct": false,
+          "text": "Student predicts the most probable effect of violating test construction principles"
+        }
+      ]
+    },
+    {
+      "question": "When choosing an instructional aid or device, the primary consideration of the teacher would be _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cost"
+        },
+        {
+          "correct": false,
+          "text": "Availability"
+        },
+        {
+          "correct": false,
+          "text": "Efficiency"
+        },
+        {
+          "correct": true,
+          "text": "Suitability"
+        }
+      ]
+    },
+    {
+      "question": "Which of the computer-based instructional tool can help you revise written work such as short stories essays?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Word processing"
+        },
+        {
+          "correct": false,
+          "text": "Spreadsheet"
+        },
+        {
+          "correct": false,
+          "text": "Database"
+        },
+        {
+          "correct": false,
+          "text": "Desktop publishing"
+        }
+      ]
+    },
+    {
+      "question": "With a use of computer-aided software, which can be used to organize information about trees and planets?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Word processing"
+        },
+        {
+          "correct": false,
+          "text": "Spreadsheet"
+        },
+        {
+          "correct": true,
+          "text": "Database"
+        },
+        {
+          "correct": false,
+          "text": "Desktop publishing"
+        }
+      ]
+    },
+    {
+      "question": "A document published by the school district that identifies rules of behavior that must be followed by anyone using the school districts computers, networks, or internet connection.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Classroom rules"
+        },
+        {
+          "correct": false,
+          "text": "Acceptable use policy"
+        },
+        {
+          "correct": false,
+          "text": "Fair use"
+        },
+        {
+          "correct": true,
+          "text": "Ethical internet use policy"
+        }
+      ]
+    },
+    {
+      "question": "Mrs. Sult is a seasoned teachers. She has been in the service longer than anyone else in the department. However, she is also the first person to resist in media utilization in the classroom and found out to be technophobic. What is she afraid of?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Fear in the use of technology due to limited exposure to new ideas and new equipment"
+        },
+        {
+          "correct": false,
+          "text": "Fear of computers, laptops, PDA"
+        },
+        {
+          "correct": false,
+          "text": "Fear of being charged by computers"
+        },
+        {
+          "correct": false,
+          "text": "Fear of electrical circuits"
+        }
+      ]
+    },
+    {
+      "question": "Teacher is the best visual aid. What does this statement mean?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The teacher prepares visual aids"
+        },
+        {
+          "correct": false,
+          "text": "The teacher is the sole source of learning"
+        },
+        {
+          "correct": true,
+          "text": "The teacher is always the medium of teaching-learning process"
+        },
+        {
+          "correct": false,
+          "text": "The teacher uses visual aid effectively"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Gerly is assigned to handle a multi0grade class. What instructional material must be used to provide the needs of each grade?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Differentiated materials to cater to different levels"
+        },
+        {
+          "correct": false,
+          "text": "Multisensory material"
+        },
+        {
+          "correct": false,
+          "text": "Colorful, useful and durable materials"
+        },
+        {
+          "correct": false,
+          "text": "Materials of high-level thinking skills"
+        }
+      ]
+    },
+    {
+      "question": "As a teacher employing the project-based multimedia learning strategy, what are some limitations teachers expect from the encounter?<br>&nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\"><i>I. There is a need for extending the time to use several strategies<br>&nbsp; &nbsp; &nbsp;II. The presentation of the product is not an easy task<br>&nbsp; &nbsp; &nbsp;III. The technology skills to produce a product may be lacking</i></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I only"
+        },
+        {
+          "correct": true,
+          "text": "I, II, and III"
+        },
+        {
+          "correct": false,
+          "text": "III only"
+        },
+        {
+          "correct": false,
+          "text": "I and II only"
+        }
+      ]
+    },
+    {
+      "question": "Ms. Mendoza wants to show her class a magnified picture of the Mt. Pinatubo's crater fixed on a bond paper. Which of the following tools can she use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Filmstrip"
+        },
+        {
+          "correct": true,
+          "text": "Opaque projector"
+        },
+        {
+          "correct": false,
+          "text": "Overhead projector"
+        },
+        {
+          "correct": false,
+          "text": "Slides"
+        }
+      ]
+    },
+    {
+      "question": "<i>\"Technology is not panacea\"</i>. What does this statement mean?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Technology is the answer to all the problems of the teachers."
+        },
+        {
+          "correct": false,
+          "text": "Technology is not a \"cure-all\" tool for the teachers."
+        },
+        {
+          "correct": true,
+          "text": "Technology will not always be a remedy in the learning process of the students."
+        },
+        {
+          "correct": false,
+          "text": "Technology is not an important factor in the teaching and learning process."
+        }
+      ]
+    },
+    {
+      "question": "Teacher Lawrence likes to show a close presentation of the size and shape of the Earth and its location in the entire solar system. What is the best instructional aid?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Picture"
+        },
+        {
+          "correct": true,
+          "text": "Model"
+        },
+        {
+          "correct": false,
+          "text": "Realia"
+        },
+        {
+          "correct": false,
+          "text": "Film"
+        }
+      ]
+    },
+    {
+      "question": "Mrs. Alcoriza dreams to organize a seminar with a known poet from another country but she cannot afford to spend for the transportation of the said poet. Which of the following can she use so she won't need to spend much?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Instant messaging"
+        },
+        {
+          "correct": true,
+          "text": "Video conferencing"
+        },
+        {
+          "correct": false,
+          "text": "Distant communication"
+        },
+        {
+          "correct": false,
+          "text": "Podcasting"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Jenny wants her students to express their opinions regarding a certain government issue. Which of the following can she use to do this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "forum"
+        },
+        {
+          "correct": false,
+          "text": "blog"
+        },
+        {
+          "correct": false,
+          "text": "email"
+        },
+        {
+          "correct": false,
+          "text": "group messaging system"
+        }
+      ]
+    },
+    {
+      "question": "A student of Ms. Weng wants to clarify something regarding the project she gave them. Which of the following is the fastest way that the student can use to send her message if she is not online?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "email the message"
+        },
+        {
+          "correct": false,
+          "text": "post the message in a blog"
+        },
+        {
+          "correct": false,
+          "text": "use instant messaging on social networking sites"
+        },
+        {
+          "correct": false,
+          "text": "wait till you meet the teacher"
+        }
+      ]
+    },
+    {
+      "question": "Ms. Charlin will be absent for two days because of a national conference. She wants her students to work on a certain module. What is the fastest way of sending the module to her students while she is away?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "email a module to her students"
+        },
+        {
+          "correct": false,
+          "text": "share it to all her students in her live account"
+        },
+        {
+          "correct": true,
+          "text": "send the module through group instant messaging"
+        },
+        {
+          "correct": false,
+          "text": "message each of the students on a social networking site"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Rubie wants her students to learn more English. Specifically she wants her students to improve their listening skills. SHe has a CD player, tape recorder, and an internet connection. Which of the following is best for her students?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "CDs with English listening drills"
+        },
+        {
+          "correct": false,
+          "text": "Tapes with English listening drills"
+        },
+        {
+          "correct": false,
+          "text": "Internet websites such as Go4English, English language listening lab"
+        },
+        {
+          "correct": true,
+          "text": "All of the above"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Harold brought a hamster in the class during a lecture about mammals. The hamster is a device commonly known as a REALIA. Teacher can bring REALIA ONLY when _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Available"
+        },
+        {
+          "correct": true,
+          "text": "Feasible"
+        },
+        {
+          "correct": false,
+          "text": "Affordable"
+        },
+        {
+          "correct": false,
+          "text": "Workable"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Liah wants to show her class a magnified picture of Taal Volcano fixed on a bond paper. Which among the following should she utilize to accomplish her goal?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Video Tape"
+        },
+        {
+          "correct": false,
+          "text": "Slides"
+        },
+        {
+          "correct": false,
+          "text": "LCD Projector"
+        },
+        {
+          "correct": true,
+          "text": "Opaque Projector"
+        }
+      ]
+    },
+    {
+      "question": "Which of the computer-based system instructional tool can help you revise written work such as short stories and essays?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Word processing"
+        },
+        {
+          "correct": false,
+          "text": "Database"
+        },
+        {
+          "correct": false,
+          "text": "Spreadsheet"
+        },
+        {
+          "correct": false,
+          "text": "Desktop Publishing"
+        }
+      ]
+    },
+    {
+      "question": "It refers to the lowest level of involvement using computer technology<br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "ICT"
+        },
+        {
+          "correct": true,
+          "text": "IT"
+        },
+        {
+          "correct": false,
+          "text": "E-learning"
+        },
+        {
+          "correct": false,
+          "text": "Web-browsing"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Kylie monitors. evaluate and facilitate student's use of tools and applications to collaborate, access information, and communicate to analyze and solve problems. Her competency in ICT is considered as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Basic"
+        },
+        {
+          "correct": true,
+          "text": "Proficient"
+        },
+        {
+          "correct": false,
+          "text": "Advanced"
+        },
+        {
+          "correct": false,
+          "text": "none of the above"
+        }
+      ]
+    },
+    {
+      "question": "The following are roles of information technology in Education, which is supposed to be REMOVED.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Mobile devices that utilize information and communication technology give students and teachers more sources of information, which makes learning anything more accessible."
+        },
+        {
+          "correct": false,
+          "text": "Staff members can find and send transcript information and other records quickly by accessing a digital filing system, saving time and paper."
+        },
+        {
+          "correct": false,
+          "text": "Information and communication technology opens the doors for better distance learning programs, allowing those in disadvantaged areas to have access to the same education as the priviledged."
+        },
+        {
+          "correct": true,
+          "text": "Teachers can enter grades and assignment in their class records saving electricity from computers."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following activity integrates technology to education?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Technology is mostly being used by the instructor."
+        },
+        {
+          "correct": true,
+          "text": "Technology is mostly being used by the students."
+        },
+        {
+          "correct": false,
+          "text": "Technology is used purely for the sake of using technology."
+        },
+        {
+          "correct": false,
+          "text": "Technology is used to complete lower-order thinking class."
+        }
+      ]
+    },
+    {
+      "question": "What is the initial stage in educational technology?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Coupled with the use of aids like charts, maps, symbols, models, specimens and concrete materials."
+        },
+        {
+          "correct": false,
+          "text": "Associated with the 'electronic revolutions' with the instruction and establishment of sophisticated hardware and software."
+        },
+        {
+          "correct": false,
+          "text": "Linked with the development of mass media which in turn led to communication revolution fro instructional purposes."
+        },
+        {
+          "correct": false,
+          "text": "Discernible by the individualized process of instruction. The invention of programmed learning and programmed instruction provided a new dimension to educational technology."
+        }
+      ]
+    },
+    {
+      "question": "Which rationale of the use of technology is attributed to engagement?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Using technology transforms the teacher from authority-expert to facilitator when the students are guided to use technology to find answers online."
+        },
+        {
+          "correct": false,
+          "text": "Students are transformed from passive recipients of the teacher's knowledge to active participants in knowledge-seeking and knowledge construction."
+        },
+        {
+          "correct": true,
+          "text": "Students using technology become active in the learning process instead of passive listeners."
+        },
+        {
+          "correct": false,
+          "text": "The internet provides access to an incredible array of information sources, media, and communication."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following best gives life to the subject matter?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Instructional Materials"
+        },
+        {
+          "correct": false,
+          "text": "Computer Technology"
+        },
+        {
+          "correct": false,
+          "text": "Individualized Learning"
+        },
+        {
+          "correct": false,
+          "text": "Mass Instruction"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Biance was absent for 2 days because of flu. Which is the fastest way to send her lectures to her students so they could read them?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Email the lectures to her students"
+        },
+        {
+          "correct": true,
+          "text": "Send the lecture through their group in a social networking site"
+        },
+        {
+          "correct": false,
+          "text": "Blog the message"
+        },
+        {
+          "correct": false,
+          "text": "Send it through a courier"
+        }
+      ]
+    },
+    {
+      "question": "Sir Joey is a Grade 1 and 5 teacher in Polilo, Quezon. The place has a ration electricity which is switched on only from 2pm until 6am the following day. The topic he has for his lesson this week is all about the different bodies of water. Which audio-visual material should he use for the lesson?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "PowerPoint Presentation"
+        },
+        {
+          "correct": true,
+          "text": "Video Film"
+        },
+        {
+          "correct": false,
+          "text": "Transparencies and Projector"
+        },
+        {
+          "correct": false,
+          "text": "Pictures"
+        }
+      ]
+    },
+    {
+      "question": "The following are different teaching methods that Ms. Cindy is utilizing. Which method should she use if she is going to utilize computers?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cooperative Learning"
+        },
+        {
+          "correct": false,
+          "text": "Role Play"
+        },
+        {
+          "correct": false,
+          "text": "Individualized Instruction"
+        },
+        {
+          "correct": true,
+          "text": "Distance Learning"
+        }
+      ]
+    },
+    {
+      "question": "What will happen to your files if you compress them?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The file size will be smaller"
+        },
+        {
+          "correct": false,
+          "text": "The file size will be bigger"
+        },
+        {
+          "correct": false,
+          "text": "The file size will be deleted"
+        },
+        {
+          "correct": false,
+          "text": "The file will be infected by viruses"
+        }
+      ]
+    },
+    {
+      "question": "Technology like the internet can be used so that students may visit museums, listen to or watch great performances, and have their own music practice supported and analyzed. This is known as _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Virtual Interaction"
+        },
+        {
+          "correct": false,
+          "text": "Virtual Performance"
+        },
+        {
+          "correct": false,
+          "text": "Virtual Communication"
+        },
+        {
+          "correct": true,
+          "text": "Virtual Tour"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Dora aims at developing deep competency using the problem solving environment provided by the computer. Which rationale of using technology is she using?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Reflection of Current Practice."
+        },
+        {
+          "correct": true,
+          "text": "Problem-Solving and Project-Based Learning"
+        },
+        {
+          "correct": false,
+          "text": "Archiving"
+        },
+        {
+          "correct": false,
+          "text": "Cooperative Grouping"
+        }
+      ]
+    },
+    {
+      "question": "The following are the contribution of ICT in the classroom EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Provision for individual resources"
+        },
+        {
+          "correct": false,
+          "text": "Shared learning spaces"
+        },
+        {
+          "correct": false,
+          "text": "The promotion of collaboration learning"
+        },
+        {
+          "correct": false,
+          "text": "The move towards autonomous learning"
+        }
+      ]
+    },
+    {
+      "question": "\"An act to integrate information technology into the public elementary and secondary cuuricula and appropriating funds therefore\" can be found in",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "House Bill 845"
+        },
+        {
+          "correct": false,
+          "text": "BP 232"
+        },
+        {
+          "correct": false,
+          "text": "RA 7610"
+        },
+        {
+          "correct": false,
+          "text": "RA 90210"
+        }
+      ]
+    },
+    {
+      "question": "Teacher May would like to compare and contrast plant cell vs. animal cell. She would most likely use:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Fishbone Diagram"
+        },
+        {
+          "correct": true,
+          "text": "Venn Diagram"
+        },
+        {
+          "correct": false,
+          "text": "Tree Diagram"
+        },
+        {
+          "correct": false,
+          "text": "KWL Chart"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Reyes would like to present the historical events that happened in the field of education. Which among he following would be best of help?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cluster Map"
+        },
+        {
+          "correct": true,
+          "text": "Time Line"
+        },
+        {
+          "correct": false,
+          "text": "Story Map"
+        },
+        {
+          "correct": false,
+          "text": "Affinity Chart"
+        }
+      ]
+    },
+    {
+      "question": "The use of TV and film brings to the classroom \"live broadcast\" of world events as they happen. What are the other advantages of using it. The students are provided _____.<br>&nbsp; &nbsp; &nbsp;<span style=\"font-weight: normal;\"><i>I. exciting sights and sounds<br>&nbsp; &nbsp; &nbsp;II. close view of big events<br>&nbsp; &nbsp; &nbsp;III. most believable news source</i></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "I, II, and III"
+        },
+        {
+          "correct": false,
+          "text": "I and II only"
+        },
+        {
+          "correct": false,
+          "text": "I and III only"
+        },
+        {
+          "correct": false,
+          "text": "II and III only"
+        }
+      ]
+    },
+    {
+      "question": "The best way the teacher can be sure of the appropriateness of an instructional material is to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "try it out before using it in class"
+        },
+        {
+          "correct": false,
+          "text": "consider its availability"
+        },
+        {
+          "correct": false,
+          "text": "consider cost"
+        },
+        {
+          "correct": false,
+          "text": "consider technical quality"
+        }
+      ]
+    },
+    {
+      "question": "What is the advantage of using computers in processing test results?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "its processing takes a short period of time"
+        },
+        {
+          "correct": false,
+          "text": "test results can easily be assessed"
+        },
+        {
+          "correct": false,
+          "text": "its statistical computation is accurate"
+        },
+        {
+          "correct": true,
+          "text": "all of these"
+        }
+      ]
+    },
+    {
+      "question": "Among the following criterion, which should be the priority when choosing device?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "novelty"
+        },
+        {
+          "correct": false,
+          "text": "attractiveness"
+        },
+        {
+          "correct": true,
+          "text": "appropriateness"
+        },
+        {
+          "correct": false,
+          "text": "attractiveness"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Roel would like to discuss about the Earth and therefore brought with him a globe when he started his lesson. How would you classify teacher Roel's device?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "chart"
+        },
+        {
+          "correct": false,
+          "text": "replica"
+        },
+        {
+          "correct": true,
+          "text": "model"
+        },
+        {
+          "correct": false,
+          "text": "realia"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Joy would like to show how volcanoes erupt. Which of the following materials available is most fit?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "model"
+        },
+        {
+          "correct": true,
+          "text": "mockup"
+        },
+        {
+          "correct": false,
+          "text": "replica"
+        },
+        {
+          "correct": false,
+          "text": "realia"
+        }
+      ]
+    },
+    {
+      "question": "Teacher is going to teach the parts of a human digestive system. Which best instructional aid should she use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "model"
+        },
+        {
+          "correct": false,
+          "text": "realia"
+        },
+        {
+          "correct": false,
+          "text": "TV"
+        },
+        {
+          "correct": false,
+          "text": "large drawing"
+        }
+      ]
+    },
+    {
+      "question": "Below are manifestations of technology into instruction, except one.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "There's a change in the way classes are traditionally conducted."
+        },
+        {
+          "correct": false,
+          "text": "The quality of instruction is improved to a higher level."
+        },
+        {
+          "correct": false,
+          "text": "There is planning by the teacher on the process of determining how and when technology fits into the teaching learning process."
+        },
+        {
+          "correct": true,
+          "text": "The use of technology does not provide the opening of opportunities to respond to these instructional issues."
+        }
+      ]
+    },
+    {
+      "question": "The first instructional television program was aired at the State University of Iowa in the year",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "1926"
+        },
+        {
+          "correct": true,
+          "text": "1932"
+        },
+        {
+          "correct": false,
+          "text": "1927"
+        },
+        {
+          "correct": false,
+          "text": "1920"
+        }
+      ]
+    },
+    {
+      "question": "Basic design considerations that consider the pattern to capture the viewer's attention to relevant details",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Balance"
+        },
+        {
+          "correct": true,
+          "text": "Arrangement"
+        },
+        {
+          "correct": false,
+          "text": "Color"
+        },
+        {
+          "correct": false,
+          "text": "Lettering"
+        }
+      ]
+    },
+    {
+      "question": "Non-photographic, two-dimensional materials designed especially to communicate a message to the viewer.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Media"
+        },
+        {
+          "correct": false,
+          "text": "Visuals"
+        },
+        {
+          "correct": true,
+          "text": "Graphics"
+        },
+        {
+          "correct": false,
+          "text": "Pictures"
+        }
+      ]
+    },
+    {
+      "question": "These technologies serve to access information for learning of new ideas.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Laser discs"
+        },
+        {
+          "correct": false,
+          "text": "Electronic mail"
+        },
+        {
+          "correct": false,
+          "text": "Video discs"
+        },
+        {
+          "correct": true,
+          "text": "Computers"
+        }
+      ]
+    },
+    {
+      "question": "Used to link with computer to allow access to scene and segments useful to topic being studied",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Laser discs"
+        },
+        {
+          "correct": true,
+          "text": "Electronic mails"
+        },
+        {
+          "correct": false,
+          "text": "Video discs"
+        },
+        {
+          "correct": false,
+          "text": "Computers"
+        }
+      ]
+    },
+    {
+      "question": "It is designed as substitute for face-to-face meetings an travel",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Telecommunication"
+        },
+        {
+          "correct": false,
+          "text": "Televised instruction"
+        },
+        {
+          "correct": true,
+          "text": "Teleconference"
+        },
+        {
+          "correct": false,
+          "text": "Telecomputing"
+        }
+      ]
+    },
+    {
+      "question": "The seamless integration of all modern modes of information, words, graphics, video, and sound all combined into a computer",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Hypercard"
+        },
+        {
+          "correct": false,
+          "text": "CD-ROM"
+        },
+        {
+          "correct": true,
+          "text": "Hypermedia"
+        },
+        {
+          "correct": false,
+          "text": "LAN"
+        }
+      ]
+    },
+    {
+      "question": "Which statement on ICT is/are true?<br><span style=\"font-weight: normal;\"><i>&nbsp; &nbsp; &nbsp;I. The use of ICT has negative effects<br>&nbsp; &nbsp; &nbsp;II. The use of ICT has a lot of benefits<br>&nbsp; &nbsp; &nbsp;III. The use of ICT is effective only in industrialized countries</i></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "II only"
+        },
+        {
+          "correct": false,
+          "text": "III only"
+        },
+        {
+          "correct": false,
+          "text": "I and III"
+        }
+      ]
+    },
+    {
+      "question": "The standard interface for computer access to high quality musical devices",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Hyper Talk"
+        },
+        {
+          "correct": false,
+          "text": "Mac Recorder"
+        },
+        {
+          "correct": false,
+          "text": "Scanner"
+        },
+        {
+          "correct": true,
+          "text": "MIDI"
+        }
+      ]
+    },
+    {
+      "question": "It is the collection of instructional materials incorporated in a systematic plan or program in the proper use and delivery of effective instruction.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Computer"
+        },
+        {
+          "correct": false,
+          "text": "Educational Media Center"
+        },
+        {
+          "correct": true,
+          "text": "Educational Technology"
+        },
+        {
+          "correct": false,
+          "text": "School"
+        }
+      ]
+    },
+    {
+      "question": "ICT when transformed data are systematically collected into useful and timely information is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "System"
+        },
+        {
+          "correct": true,
+          "text": "Process"
+        },
+        {
+          "correct": false,
+          "text": "Tool"
+        },
+        {
+          "correct": false,
+          "text": "Computer"
+        }
+      ]
+    },
+    {
+      "question": "Then as a _____. ICT enables an individual to increase efficiency, effectiveness, and productivity by implementing a set operation procedures, feedbacks and control.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "System"
+        },
+        {
+          "correct": false,
+          "text": "Process"
+        },
+        {
+          "correct": false,
+          "text": "Tool"
+        },
+        {
+          "correct": false,
+          "text": "Computer"
+        }
+      ]
+    },
+    {
+      "question": "In this mode, the computer is used to assist in the learning activity",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Teacher"
+        },
+        {
+          "correct": false,
+          "text": "Tutee"
+        },
+        {
+          "correct": true,
+          "text": "Tool"
+        },
+        {
+          "correct": false,
+          "text": "Tutor"
+        }
+      ]
+    },
+    {
+      "question": "Tool application that is frequently used to assist in teaching, writing as process in which one writes, revises, rewrites and finalizes.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Database"
+        },
+        {
+          "correct": false,
+          "text": "Encyclopedia"
+        },
+        {
+          "correct": true,
+          "text": "Word Processing"
+        },
+        {
+          "correct": false,
+          "text": "Spreadsheet"
+        }
+      ]
+    },
+    {
+      "question": "It is used for data collecting and data searching.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Database"
+        },
+        {
+          "correct": false,
+          "text": "Encyclopedia"
+        },
+        {
+          "correct": false,
+          "text": "Word Processing"
+        },
+        {
+          "correct": false,
+          "text": "Spreadsheet"
+        }
+      ]
+    },
+    {
+      "question": "The most popular programming language taught in elementary which was designed and developed by Seymour Paper of MIT for young children.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "BASIC"
+        },
+        {
+          "correct": true,
+          "text": "LOGO"
+        },
+        {
+          "correct": false,
+          "text": "PASCAL"
+        },
+        {
+          "correct": false,
+          "text": "Authoring Language"
+        }
+      ]
+    },
+    {
+      "question": "The process of conceptualization, planning, modelling and execution of electronic media content delivery via internet.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Web Design"
+        },
+        {
+          "correct": false,
+          "text": "Website"
+        },
+        {
+          "correct": false,
+          "text": "HTML"
+        },
+        {
+          "correct": false,
+          "text": "Web page"
+        }
+      ]
+    },
+    {
+      "question": "It is giving the person the exclusive right to control reproduction or adaptation of his works for a certain period of time.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Industrial Design"
+        },
+        {
+          "correct": false,
+          "text": "Trade Mark"
+        },
+        {
+          "correct": true,
+          "text": "Copyright"
+        },
+        {
+          "correct": false,
+          "text": "Patent"
+        }
+      ]
+    },
+    {
+      "question": "Granting a person for a new useful and non-obvious invention and gives the holder a right to prevent others from practicing the invention without a license from the inventor.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Trade Mark"
+        },
+        {
+          "correct": false,
+          "text": "Industrial Design"
+        },
+        {
+          "correct": false,
+          "text": "Copyright"
+        },
+        {
+          "correct": true,
+          "text": "Patent"
+        }
+      ]
+    },
+    {
+      "question": "In the group, which technologies exhibit the highest degree of abstraction?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "VCD, DVD, film"
+        },
+        {
+          "correct": false,
+          "text": "Video, picture, TV"
+        },
+        {
+          "correct": false,
+          "text": "Realia, Computer"
+        },
+        {
+          "correct": true,
+          "text": "Book, literature, programmed instruction"
+        }
+      ]
+    },
+    {
+      "question": "The following are advantages of real objects and models in the process of teaching and learning EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Pose problems on stage"
+        },
+        {
+          "correct": false,
+          "text": "More concrete"
+        },
+        {
+          "correct": false,
+          "text": "Provide hands-on learning experiences"
+        },
+        {
+          "correct": false,
+          "text": "Available readily in school and at home"
+        }
+      ]
+    },
+    {
+      "question": "What is the best reason why teachers state the objectives first before using instructional media?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "To provide how to use the equipment"
+        },
+        {
+          "correct": false,
+          "text": "To prepare the materials beforehand"
+        },
+        {
+          "correct": true,
+          "text": "To determine which media to use"
+        },
+        {
+          "correct": false,
+          "text": "To gather available materials"
+        }
+      ]
+    },
+    {
+      "question": "The following statements are the contributions of technology to the learning process EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Methods of teaching and learning become interactive"
+        },
+        {
+          "correct": true,
+          "text": "Teacher's role can be changed into demonstrator"
+        },
+        {
+          "correct": false,
+          "text": "The quality of learning can be improved"
+        },
+        {
+          "correct": false,
+          "text": "The delivery of instruction will be more interesting"
+        }
+      ]
+    },
+    {
+      "question": "Which is the correct arrangement of these technologies from most symbolic to multi-sensory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Real object, print, audio-visual and visual materials"
+        },
+        {
+          "correct": false,
+          "text": "Visual materials, audio-visual, and audio materials"
+        },
+        {
+          "correct": false,
+          "text": "Visual materials, print, audio-visual materials, realia"
+        },
+        {
+          "correct": true,
+          "text": "Print, audio, visual materials, computers"
+        }
+      ]
+    },
+    {
+      "question": "What is NOT the basic consideration in the selecting and assessing the content of educational technology?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Does it match the content?"
+        },
+        {
+          "correct": false,
+          "text": "Will it motivate and maintain interest?"
+        },
+        {
+          "correct": false,
+          "text": "Are there evidences of its effectiveness?"
+        },
+        {
+          "correct": true,
+          "text": "Can it easily be dismantled?"
+        }
+      ]
+    },
+    {
+      "question": "In increasing the utilization of the educational technology in the classroom, it will be the new role of the teachers as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Researcher"
+        },
+        {
+          "correct": true,
+          "text": "Facilitator"
+        },
+        {
+          "correct": false,
+          "text": "Source of information"
+        },
+        {
+          "correct": false,
+          "text": "Knowledge giver"
+        }
+      ]
+    },
+    {
+      "question": "What technologies give iconic experiences?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Video and computer"
+        },
+        {
+          "correct": false,
+          "text": "Radio and audio materials"
+        },
+        {
+          "correct": false,
+          "text": "books and periodicals"
+        },
+        {
+          "correct": false,
+          "text": "printedand verbal symbols"
+        }
+      ]
+    },
+    {
+      "question": "Unable to bring real object in the school, Juan constructed a three-dimensional visual. Which did he construct?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Charts"
+        },
+        {
+          "correct": false,
+          "text": "Graphics"
+        },
+        {
+          "correct": true,
+          "text": "Models"
+        },
+        {
+          "correct": false,
+          "text": "Cartoons"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statement is NOT a principle on the use of Instructional Materials?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Instructional objectives serve as basis in the selection of instructional materials."
+        },
+        {
+          "correct": false,
+          "text": "Check your instructional materials before class starts to be sure it is working preoperly."
+        },
+        {
+          "correct": false,
+          "text": "The use of a variety of tools is a \"come-on\" in the teaching-learning process"
+        },
+        {
+          "correct": true,
+          "text": "Instructional materials that is available determines an instructional objective."
+        }
+      ]
+    },
+    {
+      "question": "Edgar Dale's Cone of Experience is best presented in the class using",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "realia"
+        },
+        {
+          "correct": false,
+          "text": "picture"
+        },
+        {
+          "correct": false,
+          "text": "video tape"
+        },
+        {
+          "correct": false,
+          "text": "OHP and Transparencies"
+        }
+      ]
+    },
+    {
+      "question": "One of the advantages of the mock-up is that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It can be made by students"
+        },
+        {
+          "correct": false,
+          "text": "They are easily available"
+        },
+        {
+          "correct": true,
+          "text": "It can be constructed by the teacher since she knows which part should be emphasized"
+        },
+        {
+          "correct": false,
+          "text": "It can present a preview of the lesson to be presented as a way of motivating the students"
+        }
+      ]
+    },
+    {
+      "question": "What is Educational Technology?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "An electronic device designed to manipulate data to produce useful information."
+        },
+        {
+          "correct": true,
+          "text": "It is any technology used by educators in support of the teaching and learning process."
+        },
+        {
+          "correct": false,
+          "text": "It is the process of using computers in preparation for instructional aid."
+        },
+        {
+          "correct": false,
+          "text": "These are the tools teachers use to create an effective instructional event."
+        }
+      ]
+    },
+    {
+      "question": "What three types of factors can interfere with the communication cycle?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Environmental, Physical and Personal Filters"
+        },
+        {
+          "correct": false,
+          "text": "Physiological, Physical and Personal Filters"
+        },
+        {
+          "correct": false,
+          "text": "Environmental, Psychological and Personal Filters"
+        },
+        {
+          "correct": true,
+          "text": "Environmental, Psychological and Physical"
+        }
+      ]
+    },
+    {
+      "question": "Which does not tell about constructivism?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learning happens when knowledge is assimilated or accommodated."
+        },
+        {
+          "correct": false,
+          "text": "Knowledge may be constructed best in a social context."
+        },
+        {
+          "correct": false,
+          "text": "Knowledge is constructed as a result if the learning process and is unique to the person who constructs it."
+        },
+        {
+          "correct": true,
+          "text": "Students learn to acquire behaviors and skills"
+        }
+      ]
+    },
+    {
+      "question": "Which is not a projected media?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "slides"
+        },
+        {
+          "correct": false,
+          "text": "opaque projection"
+        },
+        {
+          "correct": true,
+          "text": "audio materials"
+        },
+        {
+          "correct": false,
+          "text": "multimedia presentation"
+        }
+      ]
+    },
+    {
+      "question": "This theory considers how human memory works to promote learning.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Behaviorism"
+        },
+        {
+          "correct": true,
+          "text": "Cognitivism"
+        },
+        {
+          "correct": false,
+          "text": "Constructivism"
+        },
+        {
+          "correct": false,
+          "text": "Idealism"
+        }
+      ]
+    },
+    {
+      "question": "This theoretical framework was developed in the early 20<sup>th</sup>&nbsp;century with animal learning experiments of Ivan Palov, Edward Thorndike, Edward C. Tolman, Clark L. Hull, B.F. Skinner and many others.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Behaviorism"
+        },
+        {
+          "correct": false,
+          "text": "Cognitivism"
+        },
+        {
+          "correct": false,
+          "text": "Constructivism"
+        },
+        {
+          "correct": false,
+          "text": "Idealism"
+        }
+      ]
+    },
+    {
+      "question": "It requires students to utilize their prior knowledge and experiences to formulate new, related, and/or adaptive concepts in learning",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Dual theory"
+        },
+        {
+          "correct": false,
+          "text": "Cognitivism"
+        },
+        {
+          "correct": true,
+          "text": "Constructivism"
+        },
+        {
+          "correct": false,
+          "text": "Idealism"
+        }
+      ]
+    },
+    {
+      "question": "What guideline in the selection of instructional material is observed when it considers the cost?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Durability"
+        },
+        {
+          "correct": true,
+          "text": "Economy"
+        },
+        {
+          "correct": false,
+          "text": "Relevance"
+        },
+        {
+          "correct": false,
+          "text": "Novelty"
+        }
+      ]
+    },
+    {
+      "question": "If the question asked is \"Can the material stand several uses?\", what guideline is considered?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Durability"
+        },
+        {
+          "correct": false,
+          "text": "Economy"
+        },
+        {
+          "correct": false,
+          "text": "Relevance"
+        },
+        {
+          "correct": false,
+          "text": "Novelty"
+        }
+      ]
+    },
+    {
+      "question": "What percent is remembered when the learner says and writes the information?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "10%"
+        },
+        {
+          "correct": false,
+          "text": "50%"
+        },
+        {
+          "correct": true,
+          "text": "70%"
+        },
+        {
+          "correct": false,
+          "text": "90%"
+        }
+      ]
+    },
+    {
+      "question": "What is the apex of the eleven bands of the cone of experience arranged in an increasing degree of abstraction?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Motion Pictures"
+        },
+        {
+          "correct": false,
+          "text": "Educational Television Symbols"
+        },
+        {
+          "correct": false,
+          "text": "Radio and Recordings"
+        },
+        {
+          "correct": true,
+          "text": "Visual Symbols and Verbal"
+        }
+      ]
+    },
+    {
+      "question": "The theory which maintains that real world contexts embedded in educational media serve as anchors of learning in the sense that learners construct knowledge while solving the subsequent problems is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cognitivism flexibility"
+        },
+        {
+          "correct": false,
+          "text": "Constructivist theory"
+        },
+        {
+          "correct": true,
+          "text": "Anchored instruction"
+        },
+        {
+          "correct": false,
+          "text": "Diffusion of innovations"
+        }
+      ]
+    },
+    {
+      "question": "These are good substitutes for realia",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Specimens"
+        },
+        {
+          "correct": true,
+          "text": "Models and mock-ups"
+        },
+        {
+          "correct": false,
+          "text": "Globes"
+        },
+        {
+          "correct": false,
+          "text": "None of the above"
+        }
+      ]
+    },
+    {
+      "question": "It is the physical part of the machine like the central processing unit (CPU), monitor, keyboard, mouse, scanner, CD player, LCD panel, modem, printer, disc drive. Simply it is the part of the computer that one sees and touches.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Multi-media"
+        },
+        {
+          "correct": false,
+          "text": "Software"
+        },
+        {
+          "correct": true,
+          "text": "Hardware"
+        },
+        {
+          "correct": false,
+          "text": "CD-ROM"
+        }
+      ]
+    },
+    {
+      "question": "It is a wide network of computers, its scope is throughout the world. It is an international electronic network to connect schools, universities, government agencies and various establishments, offices and organizations.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Computer"
+        },
+        {
+          "correct": true,
+          "text": "Internet"
+        },
+        {
+          "correct": false,
+          "text": "E-mail"
+        },
+        {
+          "correct": false,
+          "text": "CD-ROM"
+        }
+      ]
+    },
+    {
+      "question": "Bruner's theory on intellectual development moves from enactive to iconic and symbolic stages. In which stage(s) are diagrams helpful to accompany verbal information?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "enactive and iconic"
+        },
+        {
+          "correct": false,
+          "text": "symbolic"
+        },
+        {
+          "correct": false,
+          "text": "symbolic and enactive"
+        },
+        {
+          "correct": true,
+          "text": "iconic"
+        }
+      ]
+    },
+    {
+      "question": "Teacher A is a teacher of English as a language. She uses vocabulary cards, fill-in the blank sentences, dialogues, dictation and writing exercises in teaching a lesson about grocery shopping. Based on this information, which of the following is a valid conclusion?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The teacher is applying Bloom's hierarchy of cognitive learning."
+        },
+        {
+          "correct": true,
+          "text": "The teacher is teaching in a variety of ways because not all students learn in the same manner."
+        },
+        {
+          "correct": false,
+          "text": "The teacher wants to make her teaching easier by having less talk."
+        },
+        {
+          "correct": false,
+          "text": "The teacher is emphasizing reading and writing skills."
+        }
+      ]
+    },
+    {
+      "question": "In a network of computers such as the internet, computer resources, like files and programs, can be accessed from retrieving a file from a remote computer?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Downloading"
+        },
+        {
+          "correct": false,
+          "text": "Uploading"
+        },
+        {
+          "correct": false,
+          "text": "Saving"
+        },
+        {
+          "correct": false,
+          "text": "Copying"
+        }
+      ]
+    },
+    {
+      "question": "Today most jobs including teaching require that the applicants should possess the basic _____ literacy skills in order to be hired.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Reading"
+        },
+        {
+          "correct": false,
+          "text": "Writing"
+        },
+        {
+          "correct": true,
+          "text": "Computer"
+        },
+        {
+          "correct": false,
+          "text": "Speaking"
+        }
+      ]
+    },
+    {
+      "question": "MS DOS is an example of a command-line interface, which enable the user to interact with the software by typing commands at an onscreen location. This onscreen location provides a blinking cursor to indicate where commands can be typed. What do you call this onscreen location?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Prompt"
+        },
+        {
+          "correct": false,
+          "text": "Window"
+        },
+        {
+          "correct": true,
+          "text": "Dialog Box"
+        },
+        {
+          "correct": false,
+          "text": "Desktop"
+        }
+      ]
+    },
+    {
+      "question": "This is relating what one sees in the picture to life. What level of reading picture is it?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "enumerative level"
+        },
+        {
+          "correct": false,
+          "text": "descriptive level"
+        },
+        {
+          "correct": false,
+          "text": "interpretative level"
+        },
+        {
+          "correct": true,
+          "text": "integrative level"
+        }
+      ]
+    },
+    {
+      "question": "Learning becomes a personal affair because the will to learn is largely dependent upon the intensity of the learner's purpose or goal. Learning is not by accident. There is a purpose for doing the activities to bring the desired change in the behavior of the learner.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Principle of connectivity"
+        },
+        {
+          "correct": false,
+          "text": "Principle of active involvement"
+        },
+        {
+          "correct": false,
+          "text": "Principle of Integration"
+        },
+        {
+          "correct": true,
+          "text": "Principle of Intention (Motivation and Interest)"
+        }
+      ]
+    },
+    {
+      "question": "Computers are developed primarily to perform data processing, in which raw data are manipulated in order to produce useful _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "data"
+        },
+        {
+          "correct": true,
+          "text": "information"
+        },
+        {
+          "correct": false,
+          "text": "hard copy"
+        },
+        {
+          "correct": false,
+          "text": "software"
+        }
+      ]
+    },
+    {
+      "question": "Modern disk storage media store data on both sides of the disk. When formatting such disks, the disk drive creates a set of concentric circles on each side of the disk. Each of these circles is split into smaller segments, where data are stored. What do you call the concentric circles on the sides of the disks?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Sectors"
+        },
+        {
+          "correct": false,
+          "text": "Cylinders"
+        },
+        {
+          "correct": true,
+          "text": "Tracks"
+        },
+        {
+          "correct": false,
+          "text": "Scratch"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1402818354548
+}
