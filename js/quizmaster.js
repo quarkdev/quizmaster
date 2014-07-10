@@ -121,7 +121,7 @@ var QuizMaster = (function () {
 		for (var i = 0; i < stats.length; i++) {
 			if (stats[i].quizName === quizName) {
 				stats[i].data = data;
-				break;
+				return;
 			}
 		}
 
@@ -136,6 +136,15 @@ var QuizMaster = (function () {
 				return stats[i].data;
 			}
 		}
+
+		// no stat found, return a blank stat
+		return null;
+	};
+
+	ml.clearStats = function () {
+		// clear all quiz stats including the one saved on storage
+		stats = [];
+		ml.saveStatsToStorage();
 	};
 
 	ml.saveStatsToStorage = function () {
@@ -143,7 +152,7 @@ var QuizMaster = (function () {
 	};
 
 	ml.loadStatsFromStorage = function () {
-		stats = localStorage.getItem('_STATS_');
+		stats = JSON.parse(localStorage.getItem('_STATS_'));
 	};
 
 	ml.inQuizzesArray = function (name) {
@@ -302,7 +311,7 @@ var QuizMaster = (function () {
 			}
 		}, 1000);
 
-		$('#start-quiz-btn').html('End Quiz');
+		$('#end-quiz-btn').show();
 
 		return paper;
 	};
@@ -346,7 +355,7 @@ var QuizMaster = (function () {
 			ml.postNotice('#hud-timer', '<strong>Quiz Ended Manually.</strong>');
 		}
 
-		$('#start-quiz-btn').html('Start Quiz');
+		$('#end-quiz-btn').hide();
 		ml.checkPaper();
 	};
 
@@ -364,6 +373,17 @@ var QuizMaster = (function () {
 		var totalCorrect = $('input[name^=choice][value=true]:checked').size();
 		var result = '<span><strong>' + totalCorrect + ' / ' + maxPoints + '</strong></span><br>';
 		var percentage = totalCorrect / maxPoints;
+
+		// save stats
+		var data = {};
+		data.score = totalCorrect;
+		data.items = totalItems;
+		data.timestamp = new Date().getTime();
+
+		ml.setStat(currentQuiz.name, data);
+
+		// save stats to storage
+		ml.saveStatsToStorage();
 
 		result += '<span style="font-style: italic; font-size: 22px;">';
 		if (percentage === 1) {
@@ -425,7 +445,7 @@ var QuizMaster = (function () {
 		else {
 			$('#result').html(result);
 		}
-		$('#overlay').fadeIn(200);
+		$('.overlay').fadeIn(200);
 
 		// highlight correct answers
 		$('input[name^=choice][value=true]:checked').closest('.quiz-choice').addClass('correct');
@@ -435,6 +455,68 @@ var QuizMaster = (function () {
 
 		// highlight correct answers that were not selected
 		$('input[name^=choice][value=true]:not(:checked)').closest('.quiz-choice').addClass('missed');
+	};
+
+	ml.showQuizList = function () {
+		if (quizActive) return;
+
+		var qzs = '<table id="qlist-table">\
+				<tr id="headrow">\
+					<th></th>\
+					<th>Quiz Name</th>\
+					<th></th>\
+					<th>Latest Score</th>\
+					<th>Date Taken</th>\
+					<th></th>\
+				</tr>';
+
+		var data;
+
+		for (var i = 0; i < quizzes.length; i++) {
+			// retrieve the stats for the quiz
+			data = ml.getStat(quizzes[i].name);
+
+			if (data !== null) {
+				var percentage = data.score / data.items,
+					status_symbol;
+
+				if (percentage >= 1) {
+					status_symbol = 'perfect';
+				}
+				else if (percentage < 1 && percentage >= 0.75) {
+					status_symbol = 'passed';
+				}
+				else if (percentage < 0.75) {
+					status_symbol = 'failed';
+				}
+
+				qzs += '\
+					<tr data-index="' + i + '">\
+						<td class="ss-tr"><img src="images/' + status_symbol + '.png" /></td>\
+						<td>' + quizzes[i].name + '</td>\
+						<td class="tq-tr"><span class="default-btn" onclick="$(\'#quiz-area\').html(QuizMaster.prepareQuiz(' + i + '));">Take Quiz</span></td>\
+						<td>' + data.score + '/' + data.items + '</td>\
+						<td>' + ml.formatDate(data.timestamp) + '</td>\
+						<td class="rq-tr"><span class="default-btn" onclick="QuizMaster.removeQuiz(' + i + '); QuizMaster.showQuizList();">x</span></td>\
+					</tr>';
+			}
+			else {
+				qzs += '\
+					<tr data-index="' + i + '">\
+						<td class="ss-tr"><img src="images/not_taken.png" /></td>\
+						<td>' + quizzes[i].name + '</td>\
+						<td class="tq-tr"><span class="default-btn" onclick="$(\'#quiz-area\').html(QuizMaster.prepareQuiz(' + i + '));">Take Quiz</span></td>\
+						<td>n/a</td>\
+						<td>n/a</td>\
+						<td class="rq-tr"><span class="default-btn" onclick="QuizMaster.removeQuiz(' + i + '); QuizMaster.showQuizList();">x</span></td>\
+					</tr>';
+			}
+		}
+
+		qzs += '</table><br><span class="default-btn" onclick="QuizMaster.clearStats(); QuizMaster.showQuizList();">Flush Quiz Data</span>';
+
+		$('#quiz-area').html(qzs);
+		//$('.overlay').fadeIn();
 	};
 
 	ml.goToMain = function () {
@@ -695,7 +777,7 @@ var QuizMaster = (function () {
 		}
 
 		$('#result').html('<span>Select SaveFile.</span>' + list);
-		$('#overlay').fadeIn();
+		$('.overlay').fadeIn();
 	};
 
 	ml.getFromLocalStorage = function (key) {

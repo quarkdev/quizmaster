@@ -12,8 +12,8 @@
 		<div id="quiz-control">
 			<input id="add-quiz" type="file" onchange="checkAdded(); $(this).val(null)" multiple>
 			<span id="multi-upload-btn" class="default-btn" onclick="triggerAddQuiz()">Add Quiz</span>
-			<select id="quiz-list"></select>
-			<span id="start-quiz-btn" class="default-btn" data-action="start" onclick="startQuiz()">Start Quiz</span>
+			<span id="show-quizzes-btn" class="default-btn" onclick="QuizMaster.showQuizList()">Quiz List</span>
+			<span id="end-quiz-btn" class="default-btn" onclick="QuizMaster.prepareQuiz()">End Quiz</span>
 			<span id="goto-editor" class="default-btn" onclick="QuizMaster.goToEditor()">Editor &gt;</span>
 			<span id="hud-timer"></span>
 		</div>
@@ -30,10 +30,12 @@
 	</div>
 	<div id="quiz-area"></div>
 	<div id="dl-area"></div>
-	<div id="overlay" onclick="$(this).fadeOut(200)"><div id="result"></div></div>
+	<div class="overlay" onclick="$(this).fadeOut(200)">
+		<div id="result"></div>
+	</div>
 </body>
 <script type="text/javascript">
-	$('#overlay').hide();
+	$('.overlay').hide();
 
 	function checkAdded() {
 		var files = document.getElementById('add-quiz').files;
@@ -52,19 +54,6 @@
 		}
 	}
 
-	function loadQuizzesToList() {
-		var qList = QuizMaster.getQuizList();
-
-		if (qList.length === 0) return;
-
-		$('#quiz-list').html('');
-		for (var i = 0; i < qList.length; i++) {
-			$('#quiz-list').append('<option value="' + i + '">' + qList[i] + '</option>');
-		}
-
-		$('#quiz-list :nth-child(' + qList.length + ')').prop('selected', true);
-	}
-
 	function checkImport() {
 		var files = document.getElementById('import-quiz').files;
 		if (files.length > 0) {
@@ -80,33 +69,11 @@
 		$('#import-quiz').trigger('click');
 	}
 
-	function startQuiz() {
-		var action = $('#start-quiz-btn').data('action');
-		if (action === 'start') {
-			$('#quiz-area').html(QuizMaster.prepareQuiz($('#quiz-list').val()));
-		}
-		else if (action === 'remove') {
-			var quizzesLeft = QuizMaster.removeQuiz($('#quiz-list').val());
-			loadQuizzesToList();
-
-			if (quizzesLeft === 0) {
-				$('#quiz-list').html('');
-			}
-
-			$('#quiz-area').html('');
-		}
-	}
-
 	window.onload = function () {
 		QuizMaster.loadQuizzesFromStorage();
-		loadQuizzesToList();
+		QuizMaster.loadStatsFromStorage();
 
 		document.body.onkeydown = function(event) {
-			if (event.ctrlKey && !QuizMaster.quizIsActive()) {
-				$('#start-quiz-btn').html('Remove Quiz');
-				$('#start-quiz-btn').data('action', 'remove');
-			}
-
 			if (event.ctrlKey && event.keyCode === 83) {
 				event.preventDefault();
 				if ($('#editor-control').css('display') !== 'none') {
@@ -123,13 +90,6 @@
 			}
 			else if (event.ctrlKey && event.keyCode === 81) {
 				QuizMaster.toggleBox();
-			}
-		};
-
-		document.body.onkeyup = function(event) {
-			if (!event.ctrlKey && !QuizMaster.quizIsActive()) {
-				$('#start-quiz-btn').html('Start Quiz');
-				$('#start-quiz-btn').data('action', 'start');
 			}
 		};
 	}

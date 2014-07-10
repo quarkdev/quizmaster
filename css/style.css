@@ -72,11 +72,10 @@ p {
 }
 
 #hud-timer {
-	position: relative;
-	top: 3px;
+	position: absolute;
 	font-size: 20px;
 	font-weight: bold;
-	padding: 0 30px 0 30px;
+	padding: 0 30px;
 	display: none;
 }
 
@@ -120,35 +119,74 @@ p {
 	padding: 8px;
 	transition: background-color 0.2s;
 	cursor: pointer;
+	color: #fff;
 }
 
 .default-btn:hover {
 	background-color: #228fff;
 }
 
-#overlay {
+.tq-tr,
+.rq-tr,
+.ss-tr {
+	text-align: center;
+}
+
+.tq-tr,
+.rq-tr {
+	padding: 0 !important;
+	width: 1%;
+	white-space: nowrap;
+}
+
+
+.overlay {
+	display: table;
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0, 0, 0, 0.75);
+	background-color: rgba(0, 0, 0, 0.90);
 	text-align: center;
 }
 
 #result {
-	width: 100%;
-	height: 220px;
-	position: absolute;
-	top: 50%;
-	margin-top: -110px;
+	display: table-cell;
+	vertical-align: middle;
 	color: #fff;
 	font-size: 52px;
 	text-align: center;
 }
 
+#qlist-table {
+	width: 100%;
+	font-size: 15px;
+	border-collapse: collapse;
+}
+
+#qlist-table td,
+#qlist-table th {
+	padding: 6px 10px;
+	border: 1px solid #eee;
+}
+
+#qlist-table th {
+	color: #000;
+}
+
+#qlist-table td {
+	background-color: #fff;
+	color: #000;
+	font-size: 14px;
+}
+
 #add-quiz,
 #import-quiz {
+	display: none;
+}
+
+#end-quiz-btn {
 	display: none;
 }
 
@@ -159,7 +197,7 @@ p {
 }
 
 #quiz-control {
-	margin-top: 10px;
+	margin-top: 17px;
 	margin-left: 22px;
 }
 

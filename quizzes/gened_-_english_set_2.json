@@ -1,0 +1,2994 @@
+{
+  "name": "GenEd - English Set 2",
+  "description": "...",
+  "duration": 50,
+  "instruction": "Choose the best answer.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "This type of prose is a long narrative divided into chapters.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "essay"
+        },
+        {
+          "correct": false,
+          "text": "speech"
+        },
+        {
+          "correct": false,
+          "text": "legend"
+        },
+        {
+          "correct": true,
+          "text": "novel"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a narrative involving one or more characters, one plot and one single impression?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "fable"
+        },
+        {
+          "correct": false,
+          "text": "legend"
+        },
+        {
+          "correct": false,
+          "text": "biography"
+        },
+        {
+          "correct": true,
+          "text": "short story"
+        }
+      ]
+    },
+    {
+      "question": "The \"Harvest Song of Aliguyon\" is an example of what variety of narrative poetry?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "epic"
+        },
+        {
+          "correct": false,
+          "text": "metric tale"
+        },
+        {
+          "correct": false,
+          "text": "ballad"
+        },
+        {
+          "correct": false,
+          "text": "ode"
+        }
+      ]
+    },
+    {
+      "question": "CHIT-CHIRIT-CHIT is an example of what type of poetry?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sonnet"
+        },
+        {
+          "correct": true,
+          "text": "folk song"
+        },
+        {
+          "correct": false,
+          "text": "elegy"
+        },
+        {
+          "correct": false,
+          "text": "corridor"
+        }
+      ]
+    },
+    {
+      "question": "This is a lyric poem which expresses feelings of grief and melancholy, and whose theme is death.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sonnet"
+        },
+        {
+          "correct": false,
+          "text": "ode"
+        },
+        {
+          "correct": false,
+          "text": "awit"
+        },
+        {
+          "correct": true,
+          "text": "elegy"
+        }
+      ]
+    },
+    {
+      "question": "Ibong Adarna is an example of what type of lyric poetry?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sonnet"
+        },
+        {
+          "correct": false,
+          "text": "ode"
+        },
+        {
+          "correct": false,
+          "text": "awit"
+        },
+        {
+          "correct": true,
+          "text": "corrido"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following forms of dramatic poetry is light and written with the purpose of amusing, and usually has a happy ending.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "comedy"
+        },
+        {
+          "correct": false,
+          "text": "melodrama"
+        },
+        {
+          "correct": false,
+          "text": "tragedy"
+        },
+        {
+          "correct": false,
+          "text": "social poems"
+        }
+      ]
+    },
+    {
+      "question": "This form involves the hero struggling mightily against dynamic forces.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "farce"
+        },
+        {
+          "correct": true,
+          "text": "tragedy"
+        },
+        {
+          "correct": false,
+          "text": "comedy"
+        },
+        {
+          "correct": false,
+          "text": "social poems"
+        }
+      ]
+    },
+    {
+      "question": "Florante at Laura is an example of what form of lyric poetry?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "corridor"
+        },
+        {
+          "correct": false,
+          "text": "ode"
+        },
+        {
+          "correct": true,
+          "text": "awit"
+        },
+        {
+          "correct": false,
+          "text": "sonnet"
+        }
+      ]
+    },
+    {
+      "question": "What type of prose is The Monkey and the Turtle?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "anecdote"
+        },
+        {
+          "correct": false,
+          "text": "legend"
+        },
+        {
+          "correct": false,
+          "text": "short story"
+        },
+        {
+          "correct": true,
+          "text": "fable"
+        }
+      ]
+    },
+    {
+      "question": "The Moth and the Lamp is an example of what type of prose?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "anecdote"
+        },
+        {
+          "correct": false,
+          "text": "fable"
+        },
+        {
+          "correct": false,
+          "text": "short story"
+        },
+        {
+          "correct": false,
+          "text": "legend"
+        }
+      ]
+    },
+    {
+      "question": "What is a poem of a noble feeling, expressed with dignity, with no definite number of syllables or definite lines in a stanza?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "ode"
+        },
+        {
+          "correct": false,
+          "text": "elegy"
+        },
+        {
+          "correct": false,
+          "text": "psalm"
+        },
+        {
+          "correct": false,
+          "text": "sonnet"
+        }
+      ]
+    },
+    {
+      "question": "What is a song praising God or the Virgin Mary and containing philosophy?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "ode"
+        },
+        {
+          "correct": false,
+          "text": "elegy"
+        },
+        {
+          "correct": true,
+          "text": "psalm"
+        },
+        {
+          "correct": false,
+          "text": "sonnet"
+        }
+      ]
+    },
+    {
+      "question": "Novel, short stories, contemporary dramas, legends, fables, essays, anecdotes, news, and speeches are examples of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "poetry"
+        },
+        {
+          "correct": true,
+          "text": "prose"
+        },
+        {
+          "correct": false,
+          "text": "narration"
+        },
+        {
+          "correct": false,
+          "text": "discourse"
+        }
+      ]
+    },
+    {
+      "question": "Refers to those expressions in verse, with measure and rhyme, line and stanza and has a more melodious tone.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "poetry"
+        },
+        {
+          "correct": false,
+          "text": "prose"
+        },
+        {
+          "correct": false,
+          "text": "narration"
+        },
+        {
+          "correct": false,
+          "text": "discourse"
+        }
+      ]
+    },
+    {
+      "question": "Biag-ni-Lam-Ang, Darangan, Ibalon are examples of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "epic"
+        },
+        {
+          "correct": false,
+          "text": "song"
+        },
+        {
+          "correct": false,
+          "text": "poem"
+        },
+        {
+          "correct": false,
+          "text": "ballad"
+        }
+      ]
+    },
+    {
+      "question": "Metrical tale, ballad, epic are examples of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "narrative poetry"
+        },
+        {
+          "correct": false,
+          "text": "lyric poetry"
+        },
+        {
+          "correct": false,
+          "text": "fairy tales"
+        }
+      ]
+    },
+    {
+      "question": "This is an extended narrative about heroic exploits often under supernatural control. It may deal with heroes and Gods.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "epic"
+        },
+        {
+          "correct": false,
+          "text": "song"
+        },
+        {
+          "correct": false,
+          "text": "poem"
+        },
+        {
+          "correct": false,
+          "text": "metrical tale"
+        }
+      ]
+    },
+    {
+      "question": "This is a narrative poetry which is written in verse and can be classified either as a ballad or a metrical romance.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "epic"
+        },
+        {
+          "correct": false,
+          "text": "song"
+        },
+        {
+          "correct": false,
+          "text": "poem"
+        },
+        {
+          "correct": true,
+          "text": "metrical tale"
+        }
+      ]
+    },
+    {
+      "question": "Hero of Fields is written by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Al Perez"
+        },
+        {
+          "correct": false,
+          "text": "Jose Garcia Villa"
+        },
+        {
+          "correct": false,
+          "text": "Manuel Arguilla"
+        }
+      ]
+    },
+    {
+      "question": "Of the narrative poems, this is considered the shortest and simplest. It has a simple structure and tells of a single incident.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "epic"
+        },
+        {
+          "correct": false,
+          "text": "song"
+        },
+        {
+          "correct": false,
+          "text": "poem"
+        },
+        {
+          "correct": true,
+          "text": "ballad"
+        }
+      ]
+    },
+    {
+      "question": "This refers to that kind of poetry that expresses emotions and feeling of the poet.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "lyric"
+        },
+        {
+          "correct": false,
+          "text": "song"
+        },
+        {
+          "correct": false,
+          "text": "poem"
+        },
+        {
+          "correct": false,
+          "text": "ballad"
+        }
+      ]
+    },
+    {
+      "question": "These are short poems intended to be sung. The common theme is love, despair, grief, doubt, joy, hope, sorrow.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lyric"
+        },
+        {
+          "correct": true,
+          "text": "folk songs"
+        },
+        {
+          "correct": false,
+          "text": "sonnet"
+        },
+        {
+          "correct": false,
+          "text": "proverbs"
+        }
+      ]
+    },
+    {
+      "question": "Sonnet, elegy, ode and psalms are examples of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "lyric poetry"
+        },
+        {
+          "correct": false,
+          "text": "folk songs"
+        },
+        {
+          "correct": false,
+          "text": "narrative poetry"
+        }
+      ]
+    },
+    {
+      "question": "This is a lyric poem of 14 lines dealing with an emotion, a feeling, or an idea.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "idyll"
+        },
+        {
+          "correct": true,
+          "text": "sonnet"
+        },
+        {
+          "correct": false,
+          "text": "elegy"
+        },
+        {
+          "correct": false,
+          "text": "ode"
+        }
+      ]
+    },
+    {
+      "question": "Santang Buds is a sonnet written by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Al Perez"
+        },
+        {
+          "correct": false,
+          "text": "Abad Santos"
+        },
+        {
+          "correct": true,
+          "text": "Alfonso P. Santos"
+        }
+      ]
+    },
+    {
+      "question": "These have measures of twelve syllables (dodecasyllabic) and slowly sung to the accompaniment of a guitar or banduria.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "corrido"
+        },
+        {
+          "correct": true,
+          "text": "awit"
+        },
+        {
+          "correct": false,
+          "text": "folk songs"
+        },
+        {
+          "correct": false,
+          "text": "proverbs"
+        }
+      ]
+    },
+    {
+      "question": "Comedy, tragedy, and farce are just some of the forms of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "narrative poetry"
+        },
+        {
+          "correct": true,
+          "text": "dramatic poetry"
+        },
+        {
+          "correct": false,
+          "text": "lyric poetry"
+        }
+      ]
+    },
+    {
+      "question": "These have measures of eight syllables (octosyllabic) and recited to a martial beat.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "corrido"
+        },
+        {
+          "correct": false,
+          "text": "awit"
+        },
+        {
+          "correct": false,
+          "text": "folk songs"
+        },
+        {
+          "correct": false,
+          "text": "proverbs"
+        }
+      ]
+    },
+    {
+      "question": "This is an exaggerated comedy. It seeks to arouse mirth by laughable lines. Situations are ridiculous to be true; the characters seem to be caricatures and the motives undignified and absurd.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tragey"
+        },
+        {
+          "correct": false,
+          "text": "melodrama"
+        },
+        {
+          "correct": false,
+          "text": "comedy"
+        },
+        {
+          "correct": true,
+          "text": "farce"
+        }
+      ]
+    },
+    {
+      "question": "This is usually used in musical plays with the opera",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tragedy"
+        },
+        {
+          "correct": true,
+          "text": "melodrama"
+        },
+        {
+          "correct": false,
+          "text": "comedy"
+        },
+        {
+          "correct": false,
+          "text": "farce"
+        }
+      ]
+    },
+    {
+      "question": "This form is either purely comic or tragic and it pictures the life of today.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "social poems"
+        },
+        {
+          "correct": false,
+          "text": "melodrama"
+        },
+        {
+          "correct": false,
+          "text": "comedy"
+        },
+        {
+          "correct": false,
+          "text": "farce"
+        }
+      ]
+    },
+    {
+      "question": "Are made up of stories about life, adventure, love, horror where one can derive lessons about life.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "folk lores"
+        },
+        {
+          "correct": false,
+          "text": "folk songs"
+        },
+        {
+          "correct": true,
+          "text": "folk tales"
+        },
+        {
+          "correct": false,
+          "text": "farce"
+        }
+      ]
+    },
+    {
+      "question": "Biag-Ni-Lam-Ang is written by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Aliguyon"
+        },
+        {
+          "correct": true,
+          "text": "Bucaneg"
+        },
+        {
+          "correct": false,
+          "text": "Baltazar"
+        },
+        {
+          "correct": false,
+          "text": "Santos"
+        }
+      ]
+    },
+    {
+      "question": "Who is the suitor of Ines Kannoyan in the epic Biag-Ni-Lam-Ang?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Don Juan"
+        },
+        {
+          "correct": true,
+          "text": "Sumarang"
+        },
+        {
+          "correct": false,
+          "text": "Karepos"
+        },
+        {
+          "correct": false,
+          "text": "Brutus"
+        }
+      ]
+    },
+    {
+      "question": "Where did the story in Biag-Ni-Lam-Ang happen?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Linuan"
+        },
+        {
+          "correct": false,
+          "text": "Kabisera"
+        },
+        {
+          "correct": true,
+          "text": "Nalbuan"
+        },
+        {
+          "correct": false,
+          "text": "Tubon"
+        }
+      ]
+    },
+    {
+      "question": "\"Alim\" is a _____ epic",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Maranaoan"
+        },
+        {
+          "correct": true,
+          "text": "Ifugao"
+        },
+        {
+          "correct": false,
+          "text": "Visayan"
+        },
+        {
+          "correct": false,
+          "text": "Tagalog"
+        }
+      ]
+    },
+    {
+      "question": "<i>Drought came, all plants and animals died. People died of thirst and starvation.</i>&nbsp;This was the _____ of \"Alim\".",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "denouement"
+        },
+        {
+          "correct": false,
+          "text": "theme"
+        },
+        {
+          "correct": true,
+          "text": "conflict"
+        },
+        {
+          "correct": false,
+          "text": "atmosphere"
+        }
+      ]
+    },
+    {
+      "question": "Amuyao and Kalawitan are the two _____ in \"Alim\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "characters"
+        },
+        {
+          "correct": true,
+          "text": "hills"
+        },
+        {
+          "correct": false,
+          "text": "stones"
+        },
+        {
+          "correct": false,
+          "text": "settings"
+        }
+      ]
+    },
+    {
+      "question": "Kundiman, Oyayi, and Talindaw are some of the _____ of the Philippines.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "epigrams"
+        },
+        {
+          "correct": true,
+          "text": "folk songs"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        },
+        {
+          "correct": false,
+          "text": "farce"
+        }
+      ]
+    },
+    {
+      "question": "These have been customarily used and served as laws or rules on good behavior by our ancestors",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "epigrams"
+        },
+        {
+          "correct": false,
+          "text": "folk songs"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        },
+        {
+          "correct": false,
+          "text": "riddles"
+        }
+      ]
+    },
+    {
+      "question": "These are made up of one or more measured lines with rhyme and may consist of four to 12 syllables",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "epigrams"
+        },
+        {
+          "correct": false,
+          "text": "folk songs"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        },
+        {
+          "correct": true,
+          "text": "riddles"
+        }
+      ]
+    },
+    {
+      "question": "These are one of the oldest forms of Philippine literature that emerged in the pre-Spanish period. Many of these songs mirrored the early forms of culture.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "epigrams"
+        },
+        {
+          "correct": true,
+          "text": "folk songs"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        },
+        {
+          "correct": false,
+          "text": "riddles"
+        }
+      ]
+    },
+    {
+      "question": "These are used in witchcraft or enchantment.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "chant"
+        },
+        {
+          "correct": false,
+          "text": "epigrams"
+        },
+        {
+          "correct": false,
+          "text": "sawikain"
+        },
+        {
+          "correct": false,
+          "text": "riddles"
+        }
+      ]
+    },
+    {
+      "question": "These are saying with no hidden meanings.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "chat"
+        },
+        {
+          "correct": false,
+          "text": "epigrams"
+        },
+        {
+          "correct": true,
+          "text": "sawikain"
+        },
+        {
+          "correct": false,
+          "text": "riddles"
+        }
+      ]
+    },
+    {
+      "question": "The first Filipino alphabet is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "alibata"
+        },
+        {
+          "correct": false,
+          "text": "epirgrams"
+        },
+        {
+          "correct": false,
+          "text": "sawikain"
+        },
+        {
+          "correct": false,
+          "text": "riddles"
+        }
+      ]
+    },
+    {
+      "question": "This was the first book printed in the Philippines in 1593 in xylography. It was written by Fr. Juan de Placencia and Fr. Domingo Nieva.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Doctrina Cristiana"
+        },
+        {
+          "correct": false,
+          "text": "The Pasion"
+        },
+        {
+          "correct": false,
+          "text": "Ang Barlaan at Josephat"
+        }
+      ]
+    },
+    {
+      "question": "This is a biblical story printed in the Philippines and translated to tagalog by Fr. Antonio de Borja.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Doctrina Cristiana"
+        },
+        {
+          "correct": false,
+          "text": "The Pasion"
+        },
+        {
+          "correct": true,
+          "text": "Ang Barlaan at Josephat"
+        }
+      ]
+    },
+    {
+      "question": "This is a book about the life and sufferings of Jesus Christ",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Doctrina Cristiana"
+        },
+        {
+          "correct": true,
+          "text": "The Pasion"
+        },
+        {
+          "correct": false,
+          "text": "Ang Barlaan at Josephat"
+        }
+      ]
+    },
+    {
+      "question": "A book by Modesto de Castro, the so-called Father of Classic Prose in Tagalog, and has influenced greatly the behavior of people in society because the letters dealt with good behavior.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Urbana at Felisa"
+        },
+        {
+          "correct": false,
+          "text": "Mga Dalit Kay Maria"
+        },
+        {
+          "correct": false,
+          "text": "The Pasion"
+        }
+      ]
+    },
+    {
+      "question": "A collection of songs praising the Virgin Mary Fr. Mariano Sevilla, a Filipino priest, wrote this in 1895 and was popular during the \"Flores de Mayo\" festival.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Urbana at Felisa"
+        },
+        {
+          "correct": true,
+          "text": "Mga Dalit Kay Maria"
+        },
+        {
+          "correct": false,
+          "text": "The Pasion"
+        }
+      ]
+    },
+    {
+      "question": "The following is an example of folk song",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Kundiman"
+        },
+        {
+          "correct": false,
+          "text": "Pamulinawen"
+        },
+        {
+          "correct": false,
+          "text": "Oh, Aking Irog"
+        }
+      ]
+    },
+    {
+      "question": "\"What is not intended for one, will not bear fruit\" is an example of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "saying"
+        },
+        {
+          "correct": false,
+          "text": "riddles"
+        },
+        {
+          "correct": true,
+          "text": "maxim"
+        },
+        {
+          "correct": false,
+          "text": "chant"
+        }
+      ]
+    },
+    {
+      "question": "This is often used in teasing or to comment on a persons actuations.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "saying"
+        },
+        {
+          "correct": false,
+          "text": "ridles"
+        },
+        {
+          "correct": false,
+          "text": "maxim"
+        },
+        {
+          "correct": false,
+          "text": "chant"
+        }
+      ]
+    },
+    {
+      "question": "The participating ladies are chosen in order to fulfill a vow made during an illness or for a favor received.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tibag"
+        },
+        {
+          "correct": false,
+          "text": "cenacula"
+        },
+        {
+          "correct": true,
+          "text": "lagalyay"
+        },
+        {
+          "correct": false,
+          "text": "salubong"
+        }
+      ]
+    },
+    {
+      "question": "A dramatic performance to commemorate the passion and death of Jesus Christ",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tibag"
+        },
+        {
+          "correct": true,
+          "text": "cenacula"
+        },
+        {
+          "correct": false,
+          "text": "lagalyay"
+        },
+        {
+          "correct": false,
+          "text": "salubong"
+        }
+      ]
+    },
+    {
+      "question": "This is a presentation of the search of the Virgin Mary and St. Joseph for an inn wherein to deliver the baby Jesus.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "panunuluyan"
+        },
+        {
+          "correct": false,
+          "text": "cenacula"
+        },
+        {
+          "correct": false,
+          "text": "lagalyay"
+        },
+        {
+          "correct": false,
+          "text": "salubong"
+        }
+      ]
+    },
+    {
+      "question": "This ritual was brought by the Spaniards to remind the people about the search of St. Helena for the Cross on which Jesus Christ",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "tibag"
+        },
+        {
+          "correct": false,
+          "text": "cenacula"
+        },
+        {
+          "correct": false,
+          "text": "lagalyay"
+        },
+        {
+          "correct": false,
+          "text": "salubong"
+        }
+      ]
+    },
+    {
+      "question": "it is an Easter play that dramatizes the meeting of the Risen Christ and his Mother.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tibag"
+        },
+        {
+          "correct": false,
+          "text": "cenacula"
+        },
+        {
+          "correct": false,
+          "text": "lagalyay"
+        },
+        {
+          "correct": true,
+          "text": "salubong"
+        }
+      ]
+    },
+    {
+      "question": "A short musical role comedy popular during the 18<sup>th</sup> century. They were exaggerated comedies shown between acts of long plays and were mostly performed by characters from lower classes.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "zarzuela"
+        },
+        {
+          "correct": true,
+          "text": "sainete"
+        },
+        {
+          "correct": false,
+          "text": "moro-moro"
+        },
+        {
+          "correct": false,
+          "text": "karagatan"
+        }
+      ]
+    },
+    {
+      "question": "It's about a Christian princess who is captured by the Mohameddans. The father organizes a rescue party where fighting between the Moros and the Christians ensue.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "zarzuela"
+        },
+        {
+          "correct": false,
+          "text": "sainete"
+        },
+        {
+          "correct": true,
+          "text": "moro-moro"
+        },
+        {
+          "correct": false,
+          "text": "karagatan"
+        }
+      ]
+    },
+    {
+      "question": "It is a musical comedy or melodrama in three acts which dealt with a man's passions and emotions like love, hate, revenge, cruelty, avarice, or some social or political problem.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "zarzuela"
+        },
+        {
+          "correct": false,
+          "text": "sainete"
+        },
+        {
+          "correct": false,
+          "text": "moro-moro"
+        },
+        {
+          "correct": false,
+          "text": "karagatan"
+        }
+      ]
+    },
+    {
+      "question": "A ritual is performed based on a legend about a princess who dropped her ring into the middle of the sea and who offered her hand in marriage to anyone who can retrieve it.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "zarzuela"
+        },
+        {
+          "correct": false,
+          "text": "sainete"
+        },
+        {
+          "correct": false,
+          "text": "moro-moro"
+        },
+        {
+          "correct": true,
+          "text": "karagatan"
+        }
+      ]
+    },
+    {
+      "question": "This is a chant in free verse by a bereaved person or his representative beside the corpse of the dead.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "awit"
+        },
+        {
+          "correct": false,
+          "text": "corrido"
+        },
+        {
+          "correct": true,
+          "text": "dungaw"
+        },
+        {
+          "correct": false,
+          "text": "balagtasan"
+        }
+      ]
+    },
+    {
+      "question": "Is a poetic joust or a contest of skills in debate on a particular topic or issue.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "awit"
+        },
+        {
+          "correct": false,
+          "text": "corrido"
+        },
+        {
+          "correct": false,
+          "text": "dugnaw"
+        },
+        {
+          "correct": true,
+          "text": "balagtasan"
+        }
+      ]
+    },
+    {
+      "question": "They are fabricated stories from the writer's imagination although the setting and characters are European.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "awit"
+        },
+        {
+          "correct": false,
+          "text": "corrido"
+        },
+        {
+          "correct": false,
+          "text": "dungaw"
+        },
+        {
+          "correct": false,
+          "text": "balagtasan"
+        }
+      ]
+    },
+    {
+      "question": "These were usually on legends or stories from countries like France, Spain, Italy, and Greece.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "awit"
+        },
+        {
+          "correct": true,
+          "text": "corrido"
+        },
+        {
+          "correct": false,
+          "text": "dungaw"
+        },
+        {
+          "correct": false,
+          "text": "balagtasan"
+        }
+      ]
+    },
+    {
+      "question": "In this book, it courageously exposed the evils in the Spanish government in the Philippines.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "El Filibusterismo"
+        },
+        {
+          "correct": false,
+          "text": "Book of the Dead"
+        },
+        {
+          "correct": true,
+          "text": "Noli Me Tangere"
+        }
+      ]
+    },
+    {
+      "question": "Jose Ma. Panganiban is known as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Laon laan"
+        },
+        {
+          "correct": false,
+          "text": "Huseng Sisiw"
+        },
+        {
+          "correct": true,
+          "text": "Jomapa"
+        }
+      ]
+    },
+    {
+      "question": "He was the intelligent assistant of Andres Bonifacio in the establishment of the Katipunan. He edited Kalayaan (Freedom) a Katipunan newspaper.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Jacinto"
+        },
+        {
+          "correct": false,
+          "text": "Mabini"
+        },
+        {
+          "correct": false,
+          "text": "Bonifacio"
+        },
+        {
+          "correct": false,
+          "text": "Panganiban"
+        }
+      ]
+    },
+    {
+      "question": "A poem by Rizal while he was incarcerated at Fort Santiago and is one that can compare favorably with the best in the world.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "My Last Farewell"
+        },
+        {
+          "correct": false,
+          "text": "Goodbye"
+        },
+        {
+          "correct": false,
+          "text": "I Bid Farewell"
+        }
+      ]
+    },
+    {
+      "question": "Ibong Adarna is written by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Al Perez"
+        },
+        {
+          "correct": false,
+          "text": "Pedro Bucaneg"
+        },
+        {
+          "correct": true,
+          "text": "Jose dela Cruz"
+        }
+      ]
+    },
+    {
+      "question": "Ibong Adarna's author is also known as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Laon Laan"
+        },
+        {
+          "correct": true,
+          "text": "Huseng Sisiw"
+        },
+        {
+          "correct": false,
+          "text": "Jomapa"
+        }
+      ]
+    },
+    {
+      "question": "Who is known as Laon laan and Dimasalang?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Jacinto"
+        },
+        {
+          "correct": false,
+          "text": "Santos"
+        },
+        {
+          "correct": true,
+          "text": "Rizal"
+        },
+        {
+          "correct": false,
+          "text": "Mabini"
+        }
+      ]
+    },
+    {
+      "question": "This is a poetic joust in speaking and reasoning. The roles are taken fro the Bible and from proverbs and sayings.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "duplo"
+        },
+        {
+          "correct": false,
+          "text": "dungaw"
+        },
+        {
+          "correct": false,
+          "text": "lagaylay"
+        },
+        {
+          "correct": false,
+          "text": "cenaculo"
+        }
+      ]
+    },
+    {
+      "question": "Father of the Filipino Democracy and Father of Katipunan because he led in the establishing the KKK.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Jacinto"
+        },
+        {
+          "correct": true,
+          "text": "Bonifacio"
+        },
+        {
+          "correct": false,
+          "text": "Rizal"
+        },
+        {
+          "correct": false,
+          "text": "Mabini"
+        }
+      ]
+    },
+    {
+      "question": "He is known as the Sublime paralytic and the Brains of the Revolution.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Jacinto"
+        },
+        {
+          "correct": false,
+          "text": "Palma"
+        },
+        {
+          "correct": false,
+          "text": "Rizal"
+        },
+        {
+          "correct": true,
+          "text": "Mabini"
+        }
+      ]
+    },
+    {
+      "question": "He became popular because of his Himno Nacional Filipino (The Philippines National Anthem) which was set to music by Julian Felipe.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Jacinto"
+        },
+        {
+          "correct": true,
+          "text": "Palma"
+        },
+        {
+          "correct": false,
+          "text": "Rizal"
+        },
+        {
+          "correct": false,
+          "text": "Mabini"
+        }
+      ]
+    },
+    {
+      "question": "Who wrote EL NUEVO DIA?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Osmeña"
+        },
+        {
+          "correct": false,
+          "text": "Panganiban"
+        },
+        {
+          "correct": false,
+          "text": "Santos"
+        },
+        {
+          "correct": false,
+          "text": "Reyes"
+        }
+      ]
+    },
+    {
+      "question": "Tanikalang Ginto is written by?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Osmeña"
+        },
+        {
+          "correct": true,
+          "text": "Juan Abad"
+        },
+        {
+          "correct": false,
+          "text": "Santos"
+        },
+        {
+          "correct": false,
+          "text": "Reyes"
+        }
+      ]
+    },
+    {
+      "question": "The first woman poet in the Philippines who was good in Spanish. She obtained Zeobel prize in her song E Nido (The Nest).",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Lope K. Santos"
+        },
+        {
+          "correct": false,
+          "text": "Severino Reyes"
+        },
+        {
+          "correct": true,
+          "text": "Adelina Guerrera"
+        },
+        {
+          "correct": false,
+          "text": "Amado V. Hernandez"
+        }
+      ]
+    },
+    {
+      "question": "He is called the Poet of Love. Known as Huseng Batute. His masterpiece is an elegy, ISANG PUNONG KAHOY.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Lope K. Santos"
+        },
+        {
+          "correct": true,
+          "text": "Jose Corazon de Jesus"
+        },
+        {
+          "correct": false,
+          "text": "Adelina Guerrera"
+        },
+        {
+          "correct": false,
+          "text": "Amado V. Hernandez"
+        }
+      ]
+    },
+    {
+      "question": "He is dubbed MAKATA ng mga Manggagawa. He wrote ISANG DIPANG LANGIT, BAYANG MALAYA, MUNTING LUPA, and his masterpiece, ANG PANDAY",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Lope k. Santos"
+        },
+        {
+          "correct": false,
+          "text": "Jose Corazon de Jesus"
+        },
+        {
+          "correct": false,
+          "text": "Adelina Guerrera"
+        },
+        {
+          "correct": true,
+          "text": "Amado V. Hernandez"
+        }
+      ]
+    },
+    {
+      "question": "He is the Father of the National Language Grammar. He wrote BANAAG at SIKAT.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Lope K. Santos"
+        },
+        {
+          "correct": false,
+          "text": "Jose Corazon de Jesus"
+        },
+        {
+          "correct": false,
+          "text": "Adelina Guerrera"
+        },
+        {
+          "correct": false,
+          "text": "Amado V. Hernandez"
+        }
+      ]
+    },
+    {
+      "question": "He is the Father of Visayan Literture. He wrote a zarzuela, moro-moro, and a play in Visayan",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Eriberto Gumban"
+        },
+        {
+          "correct": false,
+          "text": "Jose Corazon de Jesus"
+        },
+        {
+          "correct": false,
+          "text": "Adelina Guerrera"
+        },
+        {
+          "correct": false,
+          "text": "Amado V. Hernandez"
+        }
+      ]
+    },
+    {
+      "question": "Father of the Tagalog Drama and authot of the immortal WALANG SUGAT.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Lope K. SAntos"
+        },
+        {
+          "correct": true,
+          "text": "Severino Reyes"
+        },
+        {
+          "correct": false,
+          "text": "Adelina Guerrera"
+        },
+        {
+          "correct": false,
+          "text": "Amado V. Hernandez"
+        }
+      ]
+    },
+    {
+      "question": "Who wrote the Dead Stars?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Paz Marquez Benitez"
+        },
+        {
+          "correct": false,
+          "text": "Lope K. SAntos"
+        },
+        {
+          "correct": false,
+          "text": "Adelina Guerrera"
+        },
+        {
+          "correct": false,
+          "text": "Amado V. Hernandez"
+        }
+      ]
+    },
+    {
+      "question": "Manuel Arguilla is known for his tory",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "How My Brother Leon Brought Home a Wife"
+        },
+        {
+          "correct": false,
+          "text": "The Wedding Dance"
+        },
+        {
+          "correct": false,
+          "text": "Daughters for Sale"
+        },
+        {
+          "correct": false,
+          "text": "Footnote to Youth"
+        }
+      ]
+    },
+    {
+      "question": "Jose Garcia Villa wrote",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "How My Brother Leon Brought Home a Wife"
+        },
+        {
+          "correct": false,
+          "text": "The Wedding Dance"
+        },
+        {
+          "correct": false,
+          "text": "Daughters for Sale"
+        },
+        {
+          "correct": true,
+          "text": "Footnote to Youth"
+        }
+      ]
+    },
+    {
+      "question": "Amador Daguio is known for his story",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "How My Brother Leon Brought Home a Wife"
+        },
+        {
+          "correct": true,
+          "text": "The Wedding Dance"
+        },
+        {
+          "correct": false,
+          "text": "Daughters for Sale"
+        },
+        {
+          "correct": false,
+          "text": "Footnote to Youth"
+        }
+      ]
+    },
+    {
+      "question": "The Wedding Dance is written by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Jose Garcia Villa"
+        },
+        {
+          "correct": true,
+          "text": "Amador Daguio"
+        },
+        {
+          "correct": false,
+          "text": "Carlos P. Romulo"
+        },
+        {
+          "correct": false,
+          "text": "Paz Marquez Benitez"
+        }
+      ]
+    },
+    {
+      "question": "It is a poem of free verse that the Japanese liked. It was made up of 17 syllables divided into three lines. The first line had 5 syllables, the seond 7 syllbales and the third, 5.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lyric"
+        },
+        {
+          "correct": false,
+          "text": "ballad"
+        },
+        {
+          "correct": true,
+          "text": "haiku"
+        },
+        {
+          "correct": false,
+          "text": "tanaga"
+        }
+      ]
+    },
+    {
+      "question": "It is a short but it had measure and rhyme. Each line had 17 syllables and is also allegorical in meaning.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lyric"
+        },
+        {
+          "correct": false,
+          "text": "ballad"
+        },
+        {
+          "correct": false,
+          "text": "haiku"
+        },
+        {
+          "correct": true,
+          "text": "tanaga"
+        }
+      ]
+    },
+    {
+      "question": "It is the song that continued to be sung throughout the trying period of the Revolution, almost like a second national anthem which gave fire to the Filipino spirit.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Bayan Ko"
+        },
+        {
+          "correct": false,
+          "text": "Lupang Hinirang"
+        },
+        {
+          "correct": false,
+          "text": "Ako Ay Pilipino"
+        }
+      ]
+    },
+    {
+      "question": "Bayan Ko is written by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Jose Palma"
+        },
+        {
+          "correct": false,
+          "text": "Jose Corazon de Jesus"
+        },
+        {
+          "correct": true,
+          "text": "Gonzalo K. Flores"
+        }
+      ]
+    },
+    {
+      "question": "It is the art of written work and can, in some circumstances, refer exclusively to published sources.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "literary"
+        },
+        {
+          "correct": true,
+          "text": "literature"
+        },
+        {
+          "correct": false,
+          "text": "literary pieces"
+        }
+      ]
+    },
+    {
+      "question": "This includes biographies, history, essays, speech, and narrative non-fiction",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "fiction"
+        },
+        {
+          "correct": true,
+          "text": "non-fiction"
+        },
+        {
+          "correct": false,
+          "text": "poetry"
+        }
+      ]
+    },
+    {
+      "question": "Is a short literary composition that reflects the author's outlook or point.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "speech"
+        },
+        {
+          "correct": true,
+          "text": "essay"
+        },
+        {
+          "correct": false,
+          "text": "news"
+        },
+        {
+          "correct": false,
+          "text": "biography"
+        }
+      ]
+    },
+    {
+      "question": "This is a report of everyday events in society, government, science and industry, and accidents, happening nationally, locally, or internationally.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "speech"
+        },
+        {
+          "correct": false,
+          "text": "autobiography"
+        },
+        {
+          "correct": true,
+          "text": "news"
+        },
+        {
+          "correct": false,
+          "text": "biography"
+        }
+      ]
+    },
+    {
+      "question": "It gives the history of a person's life, written or told by that person",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "speech"
+        },
+        {
+          "correct": true,
+          "text": "autobiography"
+        },
+        {
+          "correct": false,
+          "text": "news"
+        },
+        {
+          "correct": false,
+          "text": "biography"
+        }
+      ]
+    },
+    {
+      "question": "It is the ability to express one's thoughts and emotions by speech, sounds, and gesture.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "speech"
+        },
+        {
+          "correct": false,
+          "text": "<span style=\"background-color: rgb(254, 255, 226);\">autobiography</span>"
+        },
+        {
+          "correct": false,
+          "text": "news"
+        },
+        {
+          "correct": false,
+          "text": "biography"
+        }
+      ]
+    },
+    {
+      "question": "This is a formal treatment of a subject and is intended to be spoken in public.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "speech"
+        },
+        {
+          "correct": true,
+          "text": "oration"
+        },
+        {
+          "correct": false,
+          "text": "news"
+        },
+        {
+          "correct": false,
+          "text": "biography"
+        }
+      ]
+    },
+    {
+      "question": "Without Seeing the Dawn by Stevan Javellan is a",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "short story"
+        },
+        {
+          "correct": true,
+          "text": "novel"
+        },
+        {
+          "correct": false,
+          "text": "speech"
+        },
+        {
+          "correct": false,
+          "text": "essay"
+        }
+      ]
+    },
+    {
+      "question": "This genre is stories composed in verse or prose, usually for theatrical performance, where conflicts and emotion are expressed though dialogue and action",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "drama"
+        },
+        {
+          "correct": false,
+          "text": "fable"
+        },
+        {
+          "correct": false,
+          "text": "essay"
+        },
+        {
+          "correct": false,
+          "text": "parable"
+        }
+      ]
+    },
+    {
+      "question": "It is a story about supernatural or extraordinary people usually in the form of narration that demonstrates a useful truth.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "drama"
+        },
+        {
+          "correct": true,
+          "text": "fable"
+        },
+        {
+          "correct": false,
+          "text": "humor"
+        },
+        {
+          "correct": false,
+          "text": "parable"
+        }
+      ]
+    },
+    {
+      "question": "It is the faculty of perceiving what is amusing or comical. Fiction full of fun, fancy, and excitement which meant to entertain.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "drama"
+        },
+        {
+          "correct": false,
+          "text": "fable"
+        },
+        {
+          "correct": true,
+          "text": "humor"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        }
+      ]
+    },
+    {
+      "question": "The stories are about fairies or other magical creatures, usually for children.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "science fiction"
+        },
+        {
+          "correct": true,
+          "text": "fairy tale"
+        },
+        {
+          "correct": false,
+          "text": "humor"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        }
+      ]
+    },
+    {
+      "question": "It is a story based on impact of potential science, either actual or imagined.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "science fiction"
+        },
+        {
+          "correct": false,
+          "text": "fable"
+        },
+        {
+          "correct": false,
+          "text": "folk lore"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        }
+      ]
+    },
+    {
+      "question": "These are songs, stories, myths, and proverbs, of a person of \"folk\" that was handed down by word of mouth.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "science fiction"
+        },
+        {
+          "correct": false,
+          "text": "myths"
+        },
+        {
+          "correct": true,
+          "text": "folk lore"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        }
+      ]
+    },
+    {
+      "question": "The Bicol Legend is written by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Pio Duran"
+        },
+        {
+          "correct": false,
+          "text": "Wilfredo Guerrero"
+        },
+        {
+          "correct": false,
+          "text": "Maria Servantes"
+        }
+      ]
+    },
+    {
+      "question": "It is a type of legend or traditional narrative. This is often based in part on historical events, that reveals human behavior and natural phenomena by its symbolism; often pertaining to the actions of the Gods.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "plays"
+        },
+        {
+          "correct": true,
+          "text": "fable"
+        },
+        {
+          "correct": false,
+          "text": "folk lore"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        }
+      ]
+    },
+    {
+      "question": "This is presented on a stage, is divided into acts and each act has many scenes.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "plays"
+        },
+        {
+          "correct": false,
+          "text": "fable"
+        },
+        {
+          "correct": false,
+          "text": "folk lore"
+        },
+        {
+          "correct": false,
+          "text": "folk tales"
+        }
+      ]
+    },
+    {
+      "question": "Thirteen Plays is written by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Pio Duran"
+        },
+        {
+          "correct": true,
+          "text": "Wilfredo Guerrero"
+        },
+        {
+          "correct": false,
+          "text": "Maria Servantes"
+        }
+      ]
+    },
+    {
+      "question": "It is an overwhelming and painful feeling caused by literature that is frightfully shocking, terrifying, or revolting.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "anecdotes"
+        },
+        {
+          "correct": true,
+          "text": "horror"
+        },
+        {
+          "correct": false,
+          "text": "melodrama"
+        },
+        {
+          "correct": false,
+          "text": "comedy"
+        }
+      ]
+    },
+    {
+      "question": "These are merely products of the writer's imagination and the main aim is to bring out lessons to the reader.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "anecdotes"
+        },
+        {
+          "correct": false,
+          "text": "horror"
+        },
+        {
+          "correct": false,
+          "text": "melodrama"
+        },
+        {
+          "correct": false,
+          "text": "short story"
+        }
+      ]
+    },
+    {
+      "question": "This is a narrative involving one or more characters, one plot, one single impression.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "anecdotes"
+        },
+        {
+          "correct": false,
+          "text": "horror"
+        },
+        {
+          "correct": false,
+          "text": "melodrama"
+        },
+        {
+          "correct": true,
+          "text": "<span style=\"background-color: rgb(254, 255, 226);\">short story</span>"
+        }
+      ]
+    },
+    {
+      "question": "It is a series of events or episodes that make up the action. It is the skeletal structure of the story.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": false,
+          "text": "motivation"
+        },
+        {
+          "correct": true,
+          "text": "plot"
+        },
+        {
+          "correct": false,
+          "text": "conflict"
+        }
+      ]
+    },
+    {
+      "question": "The clash between conflicting forces within the heart or mind of the protagonist.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": false,
+          "text": "motivation"
+        },
+        {
+          "correct": false,
+          "text": "plot"
+        },
+        {
+          "correct": true,
+          "text": "conflict"
+        }
+      ]
+    },
+    {
+      "question": "It is the cause or reason that compels a character to act as he does.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": true,
+          "text": "motivation"
+        },
+        {
+          "correct": false,
+          "text": "plot"
+        },
+        {
+          "correct": false,
+          "text": "conflict"
+        }
+      ]
+    },
+    {
+      "question": "It is a struggle between conflicting forces &nbsp;within the heart or mind of the protragonist.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "inner conflict"
+        },
+        {
+          "correct": false,
+          "text": "external conflict"
+        },
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": false,
+          "text": "conflict"
+        }
+      ]
+    },
+    {
+      "question": "The point of high interest or dramatic intensity. Usually it marks the turning point in the action, &nbsp;since the reader is no longer in doubt about the outcome.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "climax"
+        },
+        {
+          "correct": false,
+          "text": "outcome"
+        },
+        {
+          "correct": false,
+          "text": "plot"
+        },
+        {
+          "correct": false,
+          "text": "conflict"
+        }
+      ]
+    },
+    {
+      "question": "The part when the characters get what he wants and the result is satisfactory or his wishes go unsatisfied and the ending is either happy or sad.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": true,
+          "text": "outcome"
+        },
+        {
+          "correct": false,
+          "text": "plot"
+        },
+        {
+          "correct": false,
+          "text": "conflict"
+        }
+      ]
+    },
+    {
+      "question": "It is the final action. It is the unveiling of the plot, following the climax in which the writer explains how and why everything turned out as it did.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "character"
+        },
+        {
+          "correct": false,
+          "text": "conflict"
+        },
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": true,
+          "text": "denouement"
+        }
+      ]
+    },
+    {
+      "question": "The person in a play or story; sometimes an animal or object.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "character"
+        },
+        {
+          "correct": false,
+          "text": "conflict"
+        },
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": false,
+          "text": "antagonist"
+        }
+      ]
+    },
+    {
+      "question": "A character who changes or develops during the course of the story.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "static"
+        },
+        {
+          "correct": true,
+          "text": "dynamic"
+        },
+        {
+          "correct": false,
+          "text": "consistent"
+        }
+      ]
+    },
+    {
+      "question": "A character whose actions, decisions, attitudes, feelings are kept in keeping with that the authot has led the reader to expect.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "static"
+        },
+        {
+          "correct": false,
+          "text": "dynamic"
+        },
+        {
+          "correct": true,
+          "text": "consistent"
+        }
+      ]
+    },
+    {
+      "question": "A general over-all feeling of a story conveyed in large part by the setting and the mood. This includes setting, the time, the place, the occupation and the conditions.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "theme"
+        },
+        {
+          "correct": false,
+          "text": "conflict"
+        },
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": true,
+          "text": "atmosphere"
+        }
+      ]
+    },
+    {
+      "question": "The idea, general truth or commentary on the life of people brought out in the story.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "theme"
+        },
+        {
+          "correct": false,
+          "text": "conflict"
+        },
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": false,
+          "text": "atmosphere"
+        }
+      ]
+    },
+    {
+      "question": "The method used by the author to tell his story; the position, psychological as well as physical, from which he presents what happens and the characters involved in it.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "theme"
+        },
+        {
+          "correct": false,
+          "text": "symbol"
+        },
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": true,
+          "text": "point on view"
+        }
+      ]
+    },
+    {
+      "question": "An object that stands for or represents an idea, belief, superstition, social or political in institution.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "theme"
+        },
+        {
+          "correct": true,
+          "text": "symbol"
+        },
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": false,
+          "text": "point of view"
+        }
+      ]
+    },
+    {
+      "question": "Is verse and rhythmic writing with imagery that evokes an emotional response from the reader.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "drama"
+        },
+        {
+          "correct": false,
+          "text": "prose"
+        },
+        {
+          "correct": true,
+          "text": "poetry"
+        },
+        {
+          "correct": false,
+          "text": "foreshadowing"
+        }
+      ]
+    },
+    {
+      "question": "It creates suspense and encourages the reader to go on and find out more about the event that is being foreshadowed.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "darama"
+        },
+        {
+          "correct": false,
+          "text": "prose"
+        },
+        {
+          "correct": false,
+          "text": "poetry"
+        },
+        {
+          "correct": true,
+          "text": "foreshadowing"
+        }
+      ]
+    },
+    {
+      "question": "The method used by the author to tell his story; the position, psychological as well as physical, from which he presents what happens and the characters involved in it.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "theme"
+        },
+        {
+          "correct": false,
+          "text": "symbol"
+        },
+        {
+          "correct": false,
+          "text": "climax"
+        },
+        {
+          "correct": true,
+          "text": "point of view"
+        }
+      ]
+    },
+    {
+      "question": "The male character who is usually the central or main character, also called a protagonist.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "hero"
+        },
+        {
+          "correct": false,
+          "text": "heroine"
+        },
+        {
+          "correct": false,
+          "text": "characterization"
+        },
+        {
+          "correct": false,
+          "text": "back up"
+        }
+      ]
+    },
+    {
+      "question": "The force (usually a person) that appears to go against the main character.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hero"
+        },
+        {
+          "correct": false,
+          "text": "heroine"
+        },
+        {
+          "correct": false,
+          "text": "protganonist"
+        },
+        {
+          "correct": true,
+          "text": "anatgonist"
+        }
+      ]
+    },
+    {
+      "question": "An outcome of event that rewards the virtues and punishes the vicious and ending in which each character gets exactly what he deserves.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "poetic justice"
+        },
+        {
+          "correct": false,
+          "text": "foreshadowing"
+        },
+        {
+          "correct": false,
+          "text": "protagonist"
+        },
+        {
+          "correct": false,
+          "text": "realism"
+        }
+      ]
+    },
+    {
+      "question": "A manner of writing in which people and events are presented as they are in real life, without romantic or realistic coloring.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "poetic justice"
+        },
+        {
+          "correct": false,
+          "text": "foreshadowing"
+        },
+        {
+          "correct": false,
+          "text": "moral"
+        },
+        {
+          "correct": true,
+          "text": "realism"
+        }
+      ]
+    },
+    {
+      "question": "The lesson or teaching that is brought out through the action or is explicitly stated or implied by one of the characters.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "poetic justice"
+        },
+        {
+          "correct": false,
+          "text": "flashback"
+        },
+        {
+          "correct": true,
+          "text": "moral"
+        },
+        {
+          "correct": false,
+          "text": "realism"
+        }
+      ]
+    },
+    {
+      "question": "Dramatic device by which the author interrupts the episode to present a situation or incident which occurred at an earlier time.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "resolution"
+        },
+        {
+          "correct": true,
+          "text": "flashback"
+        },
+        {
+          "correct": false,
+          "text": "moral"
+        },
+        {
+          "correct": false,
+          "text": "realism"
+        }
+      ]
+    },
+    {
+      "question": "The events following the climax, sometimes called falling action.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "resolution"
+        },
+        {
+          "correct": false,
+          "text": "flashback"
+        },
+        {
+          "correct": false,
+          "text": "moral"
+        },
+        {
+          "correct": false,
+          "text": "realism"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1403248221365
+}

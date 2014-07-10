@@ -1,0 +1,1628 @@
+{
+  "name": "GenEd - English Set 3",
+  "description": "...",
+  "duration": 30,
+  "instruction": "Choose the best answer.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "This is the branch of Linguistics that would deal with the relationship between culture and language.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Pragmatics"
+        },
+        {
+          "correct": true,
+          "text": "Ethnolinguistics"
+        },
+        {
+          "correct": false,
+          "text": "Sociolinguistics"
+        },
+        {
+          "correct": false,
+          "text": "Psycholinguistics"
+        }
+      ]
+    },
+    {
+      "question": "What is the morphological process involved in the production of the word <i>emote</i>&nbsp;from <i>emotion</i>?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Back-formation"
+        },
+        {
+          "correct": false,
+          "text": "Coversion"
+        },
+        {
+          "correct": false,
+          "text": "Acronym"
+        },
+        {
+          "correct": false,
+          "text": "Clipping"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following words have three morphemes?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Dilly-dallying"
+        },
+        {
+          "correct": false,
+          "text": "Boredom"
+        },
+        {
+          "correct": true,
+          "text": "Systematically"
+        },
+        {
+          "correct": false,
+          "text": "Misfortunes"
+        }
+      ]
+    },
+    {
+      "question": "Which of these words illustrate the sound represented by the IPA symbol /ð/?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Plea<u>s</u>ure"
+        },
+        {
+          "correct": false,
+          "text": "Me<u>th</u>od"
+        },
+        {
+          "correct": true,
+          "text": "Brea<u>th</u>e"
+        },
+        {
+          "correct": false,
+          "text": "<u>Ch</u>oice"
+        }
+      ]
+    },
+    {
+      "question": "Words such as <i>hissing</i>&nbsp;(of the snake) and <i>oozing</i>&nbsp;(of oil) are examples of:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Alliteration"
+        },
+        {
+          "correct": false,
+          "text": "Irony"
+        },
+        {
+          "correct": false,
+          "text": "Oxymoron"
+        },
+        {
+          "correct": true,
+          "text": "Onomatopoeia"
+        }
+      ]
+    },
+    {
+      "question": "Which word group shows allophonic variation of a phoneme?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "get, got, gotten"
+        },
+        {
+          "correct": true,
+          "text": "pin, wrapper, stop"
+        },
+        {
+          "correct": false,
+          "text": "bats, bags, bagged"
+        },
+        {
+          "correct": false,
+          "text": "bats, tags, roses"
+        }
+      ]
+    },
+    {
+      "question": "You put stress on the word \"cafeteria\" on the _____ syllable.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "first"
+        },
+        {
+          "correct": false,
+          "text": "second"
+        },
+        {
+          "correct": true,
+          "text": "third"
+        },
+        {
+          "correct": false,
+          "text": "fourth"
+        }
+      ]
+    },
+    {
+      "question": "Which language is not focused on VOCABULARY?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Syntactic"
+        },
+        {
+          "correct": false,
+          "text": "Pragmatic"
+        },
+        {
+          "correct": false,
+          "text": "Semantics"
+        },
+        {
+          "correct": true,
+          "text": "Phonology"
+        }
+      ]
+    },
+    {
+      "question": "The following are examples of multimedia instructional materials EXCEPT?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "compact discs"
+        },
+        {
+          "correct": false,
+          "text": "film clip"
+        },
+        {
+          "correct": true,
+          "text": "trade books"
+        },
+        {
+          "correct": false,
+          "text": "video tapes"
+        }
+      ]
+    },
+    {
+      "question": "The pair of words with the same vowel quality is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "said-plaid"
+        },
+        {
+          "correct": false,
+          "text": "had-head"
+        },
+        {
+          "correct": false,
+          "text": "fail-fell"
+        },
+        {
+          "correct": true,
+          "text": "law-caught"
+        }
+      ]
+    },
+    {
+      "question": "In teaching pronunciation, the difference between <i>ice cream</i>&nbsp;and <i>I scream</i>&nbsp;is a function of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "pitch"
+        },
+        {
+          "correct": false,
+          "text": "intonation"
+        },
+        {
+          "correct": true,
+          "text": "stress"
+        },
+        {
+          "correct": false,
+          "text": "juncture"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a glottal sound?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "/h/"
+        },
+        {
+          "correct": false,
+          "text": "/g/"
+        },
+        {
+          "correct": false,
+          "text": "/k/"
+        },
+        {
+          "correct": false,
+          "text": "/x/"
+        }
+      ]
+    },
+    {
+      "question": "The sound represented by the IPA symbol /æ/ is heard in the word:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cake"
+        },
+        {
+          "correct": false,
+          "text": "kite"
+        },
+        {
+          "correct": true,
+          "text": "can"
+        },
+        {
+          "correct": false,
+          "text": "car"
+        }
+      ]
+    },
+    {
+      "question": "Which word has the vowel sound represented by IPA symbol /ɛ/?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "bead"
+        },
+        {
+          "correct": false,
+          "text": "feast"
+        },
+        {
+          "correct": true,
+          "text": "bread"
+        },
+        {
+          "correct": false,
+          "text": "tear"
+        }
+      ]
+    },
+    {
+      "question": "How many morphemes does the word EXAMPLE have?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "one"
+        },
+        {
+          "correct": false,
+          "text": "three"
+        },
+        {
+          "correct": false,
+          "text": "two"
+        },
+        {
+          "correct": false,
+          "text": "none"
+        }
+      ]
+    },
+    {
+      "question": "Which of these words illustrate the sound represented by the IPA symbol /ð/?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "plea<u>s</u>ure"
+        },
+        {
+          "correct": false,
+          "text": "me<u>th</u>od"
+        },
+        {
+          "correct": true,
+          "text": "brea<u>th</u>e"
+        },
+        {
+          "correct": false,
+          "text": "<u>ch</u>oice"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "said"
+        },
+        {
+          "correct": false,
+          "text": "paid"
+        },
+        {
+          "correct": false,
+          "text": "raid"
+        },
+        {
+          "correct": false,
+          "text": "laid"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cough"
+        },
+        {
+          "correct": true,
+          "text": "bough"
+        },
+        {
+          "correct": false,
+          "text": "rough"
+        },
+        {
+          "correct": false,
+          "text": "tough"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "scene"
+        },
+        {
+          "correct": false,
+          "text": "machine"
+        },
+        {
+          "correct": false,
+          "text": "meat"
+        },
+        {
+          "correct": true,
+          "text": "realm"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "came"
+        },
+        {
+          "correct": false,
+          "text": "blame"
+        },
+        {
+          "correct": true,
+          "text": "tear"
+        },
+        {
+          "correct": false,
+          "text": "bear"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "buffet"
+        },
+        {
+          "correct": false,
+          "text": "bidet"
+        },
+        {
+          "correct": false,
+          "text": "bouquet"
+        },
+        {
+          "correct": true,
+          "text": "pallet"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "chin"
+        },
+        {
+          "correct": false,
+          "text": "chimpanzee"
+        },
+        {
+          "correct": true,
+          "text": "chandelier"
+        },
+        {
+          "correct": false,
+          "text": "chair"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "choir"
+        },
+        {
+          "correct": true,
+          "text": "chop"
+        },
+        {
+          "correct": false,
+          "text": "archipelago"
+        },
+        {
+          "correct": false,
+          "text": "like"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "lichen"
+        },
+        {
+          "correct": false,
+          "text": "patch"
+        },
+        {
+          "correct": false,
+          "text": "ranch"
+        },
+        {
+          "correct": false,
+          "text": "bench"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "breath"
+        },
+        {
+          "correct": false,
+          "text": "breathe"
+        },
+        {
+          "correct": false,
+          "text": "lithe"
+        },
+        {
+          "correct": false,
+          "text": "these"
+        }
+      ]
+    },
+    {
+      "question": "Which if the following does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "meadow"
+        },
+        {
+          "correct": false,
+          "text": "dearest"
+        },
+        {
+          "correct": false,
+          "text": "cheap"
+        },
+        {
+          "correct": false,
+          "text": "reap"
+        }
+      ]
+    },
+    {
+      "question": "_____ sounds are produced without any closure or narrowing in the speech tract which would prevent the escape of air.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "consonant"
+        },
+        {
+          "correct": true,
+          "text": "vowel"
+        },
+        {
+          "correct": false,
+          "text": "dipthongs"
+        },
+        {
+          "correct": false,
+          "text": "glides"
+        }
+      ]
+    },
+    {
+      "question": "_____ is the transmission of thoughts from one mind to the other through spoken words.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "speech"
+        },
+        {
+          "correct": true,
+          "text": "oral communication"
+        },
+        {
+          "correct": false,
+          "text": "phonology"
+        }
+      ]
+    },
+    {
+      "question": "_____ is the most effective medium of communication.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sounds"
+        },
+        {
+          "correct": true,
+          "text": "language"
+        },
+        {
+          "correct": false,
+          "text": "speech"
+        }
+      ]
+    },
+    {
+      "question": "_____ is the study of the meaningful sounds of the language.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "phonology"
+        },
+        {
+          "correct": false,
+          "text": "morphology"
+        },
+        {
+          "correct": false,
+          "text": "linguistics"
+        }
+      ]
+    },
+    {
+      "question": "_____ compose of vowel sounds, consonant sounds, consonant clusters and dipthongs.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "segmental"
+        },
+        {
+          "correct": false,
+          "text": "speeches"
+        },
+        {
+          "correct": false,
+          "text": "suprasegmentals"
+        }
+      ]
+    },
+    {
+      "question": "_____ includes speech, stress, intonation, pitch, juncture.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "segmental"
+        },
+        {
+          "correct": false,
+          "text": "speeches"
+        },
+        {
+          "correct": true,
+          "text": "suprasegmentals"
+        }
+      ]
+    },
+    {
+      "question": "_____ are vowel sounds with glides.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "vowels"
+        },
+        {
+          "correct": false,
+          "text": "consonants"
+        },
+        {
+          "correct": true,
+          "text": "dipthongs"
+        }
+      ]
+    },
+    {
+      "question": "_____ is the distance between the highest and the lowest pitches that an individual can produce.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "blending"
+        },
+        {
+          "correct": false,
+          "text": "stress"
+        },
+        {
+          "correct": false,
+          "text": "intonation"
+        },
+        {
+          "correct": true,
+          "text": "pitch range"
+        }
+      ]
+    },
+    {
+      "question": "_____ is also a combination of tunes on which we pronounce the syllables that make up our speech.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "blending"
+        },
+        {
+          "correct": false,
+          "text": "stress"
+        },
+        {
+          "correct": false,
+          "text": "intonation"
+        },
+        {
+          "correct": false,
+          "text": "pitch range"
+        }
+      ]
+    },
+    {
+      "question": "Reverence, sadness, sublimity, inhibition, peace and serenity, nostalgia, and physical weaknesses are communicated by steps of narrow pitch range called ______.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "repressed moods"
+        },
+        {
+          "correct": false,
+          "text": "normal moods"
+        },
+        {
+          "correct": false,
+          "text": "vigorous moods"
+        }
+      ]
+    },
+    {
+      "question": "Joy, surprise, anger, fear, and enthusiasm are communicated by steps of wide pitch range called _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "repressed moods"
+        },
+        {
+          "correct": false,
+          "text": "normal moods"
+        },
+        {
+          "correct": true,
+          "text": "vigorous moods"
+        }
+      ]
+    },
+    {
+      "question": "_____ can be communicated by changes in the pitch range. Pitch range means the difference between one tune and next tune.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "intonation"
+        },
+        {
+          "correct": true,
+          "text": "moods"
+        },
+        {
+          "correct": false,
+          "text": "stress"
+        },
+        {
+          "correct": false,
+          "text": "pitch"
+        }
+      ]
+    },
+    {
+      "question": "_____ refers to relative prominence brought about by intensity or force of utterance. It is usually associated with higher pitch, length, and volume or loudness.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "intonation"
+        },
+        {
+          "correct": false,
+          "text": "moods"
+        },
+        {
+          "correct": true,
+          "text": "stress"
+        },
+        {
+          "correct": false,
+          "text": "pitch"
+        }
+      ]
+    },
+    {
+      "question": "You put stress on the word \"radio\" on the _____ syllable.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "first"
+        },
+        {
+          "correct": false,
+          "text": "second"
+        },
+        {
+          "correct": false,
+          "text": "third"
+        },
+        {
+          "correct": false,
+          "text": "fourth"
+        }
+      ]
+    },
+    {
+      "question": "This refers to the loudness or softness of sounds.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "pitch"
+        },
+        {
+          "correct": false,
+          "text": "voice"
+        },
+        {
+          "correct": true,
+          "text": "volume"
+        },
+        {
+          "correct": false,
+          "text": "speech"
+        }
+      ]
+    },
+    {
+      "question": "The most effective speaking rate falls into the range of _____ words a minute.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "125-160"
+        },
+        {
+          "correct": false,
+          "text": "120-160"
+        },
+        {
+          "correct": false,
+          "text": "100-155"
+        },
+        {
+          "correct": false,
+          "text": "110-165"
+        }
+      ]
+    },
+    {
+      "question": "This process of <i>voice amplification and modification</i>&nbsp;is called _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "resonation"
+        },
+        {
+          "correct": false,
+          "text": "phonation"
+        },
+        {
+          "correct": false,
+          "text": "amplification"
+        },
+        {
+          "correct": false,
+          "text": "duration"
+        }
+      ]
+    },
+    {
+      "question": "This stage takes place when voice is produced in speaking as the expirator air stream from the lungs goes up through the trachea or windpipe to the larynx.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "resonation"
+        },
+        {
+          "correct": true,
+          "text": "phonation"
+        },
+        {
+          "correct": false,
+          "text": "amplification"
+        },
+        {
+          "correct": false,
+          "text": "duration"
+        }
+      ]
+    },
+    {
+      "question": "_____ consists of two phases: <u>inhalation</u>&nbsp;and <u>exhalation.</u>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "resonation"
+        },
+        {
+          "correct": false,
+          "text": "breathing"
+        },
+        {
+          "correct": false,
+          "text": "amplification"
+        },
+        {
+          "correct": true,
+          "text": "speaking"
+        }
+      ]
+    },
+    {
+      "question": "The hunter stalks the wild boar slowly, cautiously and IN A SILENT MANNER.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "and in silence"
+        },
+        {
+          "correct": false,
+          "text": "and also in silence"
+        },
+        {
+          "correct": true,
+          "text": "and silently"
+        },
+        {
+          "correct": false,
+          "text": "and by acting silently"
+        }
+      ]
+    },
+    {
+      "question": "About a thousand people GATHERED, THEY WERE THERE PROTESTING the construction of a nuclear plant.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "gathered, pretesting against"
+        },
+        {
+          "correct": true,
+          "text": "gathered to protest"
+        },
+        {
+          "correct": false,
+          "text": "gathered for the purpose of protesting"
+        },
+        {
+          "correct": false,
+          "text": "gathered - they were protesting"
+        }
+      ]
+    },
+    {
+      "question": "Angel is taller than ANY GIRL in her class.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Angel is taller than any other girl in her class"
+        },
+        {
+          "correct": false,
+          "text": "Angel is the taller than other girls in her class"
+        },
+        {
+          "correct": false,
+          "text": "Angel is taller than other girls in the class"
+        },
+        {
+          "correct": false,
+          "text": "Angel is the taller in the class"
+        }
+      ]
+    },
+    {
+      "question": "There was an ESOTERIC lecture on holography.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "something ancient"
+        },
+        {
+          "correct": false,
+          "text": "out of context"
+        },
+        {
+          "correct": true,
+          "text": "understandable only by a select group"
+        },
+        {
+          "correct": false,
+          "text": "irrefutable proof"
+        }
+      ]
+    },
+    {
+      "question": "The brain can store ADMONITORY information.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "valuable data"
+        },
+        {
+          "correct": false,
+          "text": "past experience"
+        },
+        {
+          "correct": false,
+          "text": "advanced knowledge"
+        },
+        {
+          "correct": true,
+          "text": "warning to avoid danger"
+        }
+      ]
+    },
+    {
+      "question": "TRANSCENDENTAL meditation is practiced in Yoga.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "supernatural"
+        },
+        {
+          "correct": false,
+          "text": "momentary"
+        },
+        {
+          "correct": false,
+          "text": "interpretive"
+        },
+        {
+          "correct": false,
+          "text": "normal"
+        }
+      ]
+    },
+    {
+      "question": "She had ELUSIVE dreams of instant wealth",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "beyond comprehension"
+        },
+        {
+          "correct": false,
+          "text": "moving swiftly"
+        },
+        {
+          "correct": false,
+          "text": "difficult to achieve"
+        },
+        {
+          "correct": false,
+          "text": "tending to slip away"
+        }
+      ]
+    },
+    {
+      "question": "The EQUINOX usually occur on or close to March 21 and September 23.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "time when heavy rains fall"
+        },
+        {
+          "correct": false,
+          "text": "time when days are longer than the nights"
+        },
+        {
+          "correct": false,
+          "text": "time when days are shorter than the nights"
+        },
+        {
+          "correct": true,
+          "text": "time when day and night are equal length all over the earth"
+        }
+      ]
+    },
+    {
+      "question": "What is meant by this statement? The hostages are free. They paid their way!",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The kidnap victim's family negotiated peacefully."
+        },
+        {
+          "correct": true,
+          "text": "The kidnap victims were freed after a ransom."
+        },
+        {
+          "correct": false,
+          "text": "No ransom was demanded from the victims."
+        },
+        {
+          "correct": false,
+          "text": "The kidnap victims were safe."
+        }
+      ]
+    },
+    {
+      "question": "The reporter was accused in court because of his news story. The story was:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "full of distorted facts"
+        },
+        {
+          "correct": false,
+          "text": "a narration of facts"
+        },
+        {
+          "correct": false,
+          "text": "tainted with malice"
+        },
+        {
+          "correct": false,
+          "text": "too personal to take"
+        }
+      ]
+    },
+    {
+      "question": "Text messages are used for fast communication. What does this message mean? \"UI have to meet his friends 5 A.M.\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "you should meet your friends at five in the morning"
+        },
+        {
+          "correct": false,
+          "text": "you have to be here at five in the afternoon"
+        },
+        {
+          "correct": false,
+          "text": "you have friends to meet at five A.M."
+        },
+        {
+          "correct": false,
+          "text": "be there at five in the morning"
+        }
+      ]
+    },
+    {
+      "question": "The crimes were considered serious because the penalty was",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "to die in jail"
+        },
+        {
+          "correct": false,
+          "text": "lethal injection"
+        },
+        {
+          "correct": true,
+          "text": "a life sentence"
+        },
+        {
+          "correct": false,
+          "text": "a total exile in a foreign land"
+        }
+      ]
+    },
+    {
+      "question": "The hostage victims were heard asking the rescuers to hold on to the fort. What was the message?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "surrender in arms"
+        },
+        {
+          "correct": false,
+          "text": "rescue them fast and early"
+        },
+        {
+          "correct": true,
+          "text": "keep on with the fight"
+        },
+        {
+          "correct": false,
+          "text": "disregard the peace negotiations"
+        }
+      ]
+    },
+    {
+      "question": "The impeachment led Filipinos to:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "listen to proceedings"
+        },
+        {
+          "correct": false,
+          "text": "hate the administration trials"
+        },
+        {
+          "correct": false,
+          "text": "understand the judge's comments"
+        },
+        {
+          "correct": true,
+          "text": "appreciate the democratic process of government"
+        }
+      ]
+    },
+    {
+      "question": "Food remnants, plants and other animals' wastes should be separated in waste disposal since:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "these hardly decay"
+        },
+        {
+          "correct": false,
+          "text": "these invite flies"
+        },
+        {
+          "correct": true,
+          "text": "these can be converted to organic fertilizer"
+        },
+        {
+          "correct": false,
+          "text": "these are easy prey to rodents"
+        }
+      ]
+    },
+    {
+      "question": "There was a tourism promo. All students bought tickets for the trip. The promotion was:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "done systematically"
+        },
+        {
+          "correct": false,
+          "text": "understood and accepted"
+        },
+        {
+          "correct": false,
+          "text": "motivated well and costly"
+        },
+        {
+          "correct": true,
+          "text": "educational and affordable"
+        }
+      ]
+    },
+    {
+      "question": "The committee discussed the issues and everyone at the end seemed _____ to the finsdings",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "reluctant to accept"
+        },
+        {
+          "correct": false,
+          "text": "ignorant and civil"
+        },
+        {
+          "correct": false,
+          "text": "amendable to consider"
+        },
+        {
+          "correct": false,
+          "text": "negative gets open"
+        }
+      ]
+    },
+    {
+      "question": "A child wanted to use her father's family name. Why did she insist on this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "every child should have a father"
+        },
+        {
+          "correct": false,
+          "text": "every individual has a right to be baptized"
+        },
+        {
+          "correct": true,
+          "text": "every individual has a right to proper identity"
+        },
+        {
+          "correct": false,
+          "text": "every child should be called by her paternal name"
+        }
+      ]
+    },
+    {
+      "question": "The first day of September is a Wednesday. What day will the last day of September be?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Wednesday"
+        },
+        {
+          "correct": false,
+          "text": "Monday"
+        },
+        {
+          "correct": true,
+          "text": "Thursday"
+        },
+        {
+          "correct": false,
+          "text": "Friday"
+        }
+      ]
+    },
+    {
+      "question": "Students and teachers stand during flag ceremonies. School principals assign guards on the street to stop vehicles during the ceremonies. How does the public take this practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "only school children should be controlled in this ceremony"
+        },
+        {
+          "correct": false,
+          "text": "only military or policeman should stop and salute the flag"
+        },
+        {
+          "correct": true,
+          "text": "the flag is for all citizens; it's symbol of the nation"
+        },
+        {
+          "correct": false,
+          "text": "stopping traffic is not the job of the school"
+        }
+      ]
+    },
+    {
+      "question": "What feeling is expressed in this line \"My heart leaps up when I behold a rainbow in the sky\"?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "surprise"
+        },
+        {
+          "correct": true,
+          "text": "happiness"
+        },
+        {
+          "correct": false,
+          "text": "fear"
+        },
+        {
+          "correct": false,
+          "text": "anger"
+        }
+      ]
+    },
+    {
+      "question": "In the Iliad, whose death brought Achilles much sorrow and grief?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Patroclus"
+        },
+        {
+          "correct": false,
+          "text": "Thesthor"
+        },
+        {
+          "correct": false,
+          "text": "Nestor"
+        },
+        {
+          "correct": false,
+          "text": "Menelaus"
+        }
+      ]
+    },
+    {
+      "question": "What narrative poem tells of the heroic exploits of great heroes?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ballad"
+        },
+        {
+          "correct": false,
+          "text": "Lyric"
+        },
+        {
+          "correct": true,
+          "text": "Epic"
+        },
+        {
+          "correct": false,
+          "text": "Romance"
+        }
+      ]
+    },
+    {
+      "question": "Which short narrative poem is intended to be sung?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Romance"
+        },
+        {
+          "correct": false,
+          "text": "Ballad"
+        },
+        {
+          "correct": true,
+          "text": "Lyric"
+        },
+        {
+          "correct": false,
+          "text": "Epic"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a statement that expresses an indirect request?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Put your bag here."
+        },
+        {
+          "correct": false,
+          "text": "Please wait for me."
+        },
+        {
+          "correct": false,
+          "text": "Kindly bring them back tomorrow."
+        },
+        {
+          "correct": true,
+          "text": "Don't you think it's rather cold in here?"
+        }
+      ]
+    },
+    {
+      "question": "The following are examples of graphic organizers EXCEPT _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Frayer model"
+        },
+        {
+          "correct": true,
+          "text": "Word games"
+        },
+        {
+          "correct": false,
+          "text": "Semantic mapping"
+        },
+        {
+          "correct": false,
+          "text": "Thinking tree"
+        }
+      ]
+    },
+    {
+      "question": "Which contains the course description, objectives, topics to be taught and the requirements?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Syllabus"
+        },
+        {
+          "correct": false,
+          "text": "Course outline"
+        },
+        {
+          "correct": false,
+          "text": "Curriculum"
+        },
+        {
+          "correct": false,
+          "text": "Learning competencies"
+        }
+      ]
+    },
+    {
+      "question": "Who is famous for her book Mythology?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Bulfinch"
+        },
+        {
+          "correct": false,
+          "text": "Emily Dickson"
+        },
+        {
+          "correct": true,
+          "text": "Edith Hamilton"
+        },
+        {
+          "correct": false,
+          "text": "Homer"
+        }
+      ]
+    },
+    {
+      "question": "Which Roman goddess is identified with the Greek Hestia?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Venus"
+        },
+        {
+          "correct": false,
+          "text": "Ceres"
+        },
+        {
+          "correct": true,
+          "text": "Vesta"
+        },
+        {
+          "correct": false,
+          "text": "Minerva"
+        }
+      ]
+    },
+    {
+      "question": "Which hero slew the gorgon Medusa and won the heart of Andromeda?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Perseus"
+        },
+        {
+          "correct": false,
+          "text": "Heracles"
+        },
+        {
+          "correct": false,
+          "text": "Theseus"
+        },
+        {
+          "correct": false,
+          "text": "Jason"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1403409631398
+}
