@@ -488,16 +488,20 @@ var QuizMaster = (function () {
 
 			if (data !== null) {
 				var percentage = data.score / data.items,
-					status_symbol;
+					status_symbol,
+					score_color;
 
 				if (percentage >= 1) {
 					status_symbol = 'perfect';
+					score_color = 'green';
 				}
 				else if (percentage < 1 && percentage >= 0.75) {
 					status_symbol = 'passed';
+					score_color = 'blue';
 				}
 				else if (percentage < 0.75) {
 					status_symbol = 'failed';
+					score_color = 'red';
 				}
 
 				qzs += '\
@@ -505,7 +509,7 @@ var QuizMaster = (function () {
 						<td class="ss-tr"><img src="images/' + status_symbol + '.png" /></td>\
 						<td>' + quizzes[i].name + '</td>\
 						<td class="tq-tr"><span class="default-btn" onclick="$(\'#quiz-area\').html(QuizMaster.prepareQuiz(' + i + '));">Take Quiz</span></td>\
-						<td>' + data.score + '/' + data.items + '</td>\
+						<td><span style="color: ' + score_color + '">' + data.score + '/' + data.items + '</span></td>\
 						<td>' + ml.formatDate(data.timestamp) + '</td>\
 						<td class="rq-tr"><span class="default-btn" onclick="QuizMaster.removeQuiz(' + i + '); QuizMaster.showQuizList();">x</span></td>\
 					</tr>';
