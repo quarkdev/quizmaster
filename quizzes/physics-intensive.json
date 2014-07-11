@@ -1,0 +1,2208 @@
+{
+  "name": "Physics - Intensive",
+  "description": "...",
+  "duration": 50,
+  "instruction": "Choose the best answer.",
+  "items": [
+    {
+      "question": "Three quantities A, B, and C have four, five, three significant figures in their corresponding measurement, respectively. Supposing that P is the product of A and B and M is the product of B and C, then the appropriate number of significant figures found in the quotient of P divided by M is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "four"
+        },
+        {
+          "correct": false,
+          "text": "five"
+        },
+        {
+          "correct": true,
+          "text": "three"
+        },
+        {
+          "correct": false,
+          "text": "cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following metric units are used to measure the fundamental quantities of length, mass, and time, respectively in the SI system?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "liter, gram, second"
+        },
+        {
+          "correct": false,
+          "text": "foot, pound, second"
+        },
+        {
+          "correct": true,
+          "text": "meter, kilogram, second"
+        },
+        {
+          "correct": false,
+          "text": "meter, ounce, second"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following prefixes does NOT repreent a fractional part of a whole unit?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "nano"
+        },
+        {
+          "correct": false,
+          "text": "micro"
+        },
+        {
+          "correct": true,
+          "text": "kilo"
+        },
+        {
+          "correct": false,
+          "text": "milli"
+        }
+      ]
+    },
+    {
+      "question": "A scalar quantity has",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "magnitude only"
+        },
+        {
+          "correct": false,
+          "text": "direction"
+        },
+        {
+          "correct": false,
+          "text": "either magnitude or direction"
+        },
+        {
+          "correct": false,
+          "text": "both magnitude and direction"
+        }
+      ]
+    },
+    {
+      "question": "Fredrik walks 50 m due east. Realizing that he forgets his book, he decided to go back to his house. He had traveled 35 m due west when he meets his brother carrying his book. Getting the book from his brother, he turns east and walks his way to school an additional distance of 50m. Find the displacement.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "135 m"
+        },
+        {
+          "correct": false,
+          "text": "65 m"
+        },
+        {
+          "correct": false,
+          "text": "135 m, east"
+        },
+        {
+          "correct": true,
+          "text": "65 m, east"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following units could be associated with a vector quantity?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "cm/s^2"
+        },
+        {
+          "correct": false,
+          "text": "kg/cm^3"
+        },
+        {
+          "correct": false,
+          "text": "kg m^2/s^2"
+        },
+        {
+          "correct": false,
+          "text": "m^3"
+        }
+      ]
+    },
+    {
+      "question": "In order to determine the speed of an object, what measurements must be made?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "distance and direction"
+        },
+        {
+          "correct": false,
+          "text": "time, distance, and volume"
+        },
+        {
+          "correct": false,
+          "text": "distance and mass"
+        },
+        {
+          "correct": true,
+          "text": "distance and time"
+        }
+      ]
+    },
+    {
+      "question": "If a car's speed were 120 kilometers per hour, how many meters would it travel in 50 minutes?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "50,000 m"
+        },
+        {
+          "correct": false,
+          "text": "1,000 m"
+        },
+        {
+          "correct": true,
+          "text": "100,000 m"
+        },
+        {
+          "correct": false,
+          "text": "240,000 m"
+        }
+      ]
+    },
+    {
+      "question": "At the end of a game, a basketball player of a winning team throws the basketball straight up as high as he can throw it. At the top of its path, the basketball's velocity is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "zero"
+        },
+        {
+          "correct": false,
+          "text": "10 m/s up"
+        },
+        {
+          "correct": false,
+          "text": "10 m/s down"
+        },
+        {
+          "correct": false,
+          "text": "cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "In which case is the car accelerating?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "A car changing lanes at constant speed."
+        },
+        {
+          "correct": false,
+          "text": "A car speeding in an effort to beat the red light."
+        },
+        {
+          "correct": false,
+          "text": "A car slowing down while making a left turn."
+        },
+        {
+          "correct": true,
+          "text": "All of these"
+        }
+      ]
+    },
+    {
+      "question": "A car undergoes a constant acceleration of 6.0 m/s^2 starting from rest. In the first second, it travels",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "3 m"
+        },
+        {
+          "correct": false,
+          "text": "6 m"
+        },
+        {
+          "correct": false,
+          "text": "18 m"
+        },
+        {
+          "correct": false,
+          "text": "36 m"
+        }
+      ]
+    },
+    {
+      "question": "A coconut falls freely with a constant acceleration of 9.8 m/s^2. What does this mean?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the coconut falls at 9.8 m during the first second only"
+        },
+        {
+          "correct": true,
+          "text": "the speed of the coconut decreases 9.8 m/s every second"
+        },
+        {
+          "correct": false,
+          "text": "the coconut falls 9.8 m for each second"
+        },
+        {
+          "correct": false,
+          "text": "the speed of the coconut increases 9.8 m/s every second"
+        }
+      ]
+    },
+    {
+      "question": "The acceleration of a stone thrown upward is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "greater than that of a stone thrown downward"
+        },
+        {
+          "correct": true,
+          "text": "the same as that of a stone thrown downward"
+        },
+        {
+          "correct": false,
+          "text": "smaller than that of a stone thrown downward"
+        },
+        {
+          "correct": false,
+          "text": "zero until it reaches the highest point in its motion"
+        }
+      ]
+    },
+    {
+      "question": "A wheel falls from the airplane flying horizontally at an altitude of 490 m. The wheel strikes the ground in",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "10 s"
+        },
+        {
+          "correct": false,
+          "text": "50 s"
+        },
+        {
+          "correct": false,
+          "text": "80 s"
+        },
+        {
+          "correct": false,
+          "text": "100 s"
+        }
+      ]
+    },
+    {
+      "question": "The motion of a body thrown horizontally or at an angle theta other than 90 degrees with the horizontal is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "vibrational motion"
+        },
+        {
+          "correct": true,
+          "text": "projectile motion"
+        },
+        {
+          "correct": false,
+          "text": "rectilinear motion"
+        },
+        {
+          "correct": false,
+          "text": "circular motion"
+        }
+      ]
+    },
+    {
+      "question": "An object is sent out to space. Which of the following statements is true of this body as it moves away from earth?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The body's mass and weight remain equal"
+        },
+        {
+          "correct": true,
+          "text": "The body's mass remains constant and its weight decreases"
+        },
+        {
+          "correct": false,
+          "text": "The body's mass decreases but its weight remains constant"
+        },
+        {
+          "correct": false,
+          "text": "The body's mass and weight decrease"
+        }
+      ]
+    },
+    {
+      "question": "A 1.0 kg object is brought to planet Mercury where the acceleration due to gravity is 0.38 times its value on Earth. What is the weight of the object on Mercury?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "9.8 N"
+        },
+        {
+          "correct": false,
+          "text": "98 N"
+        },
+        {
+          "correct": true,
+          "text": "3.7 N"
+        },
+        {
+          "correct": false,
+          "text": "26 N"
+        }
+      ]
+    },
+    {
+      "question": "An object weighs 30 N on earth. A second object weighs 30 N on the moon. Which has greater mass?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the one on earth"
+        },
+        {
+          "correct": true,
+          "text": "the one on moon"
+        },
+        {
+          "correct": false,
+          "text": "they have the same mass"
+        },
+        {
+          "correct": false,
+          "text": "cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "This force holds the atoms and molecules together.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "gravitational force"
+        },
+        {
+          "correct": true,
+          "text": "electromagnetic force"
+        },
+        {
+          "correct": false,
+          "text": "strong nuclear force"
+        },
+        {
+          "correct": false,
+          "text": "weak nuclear force"
+        }
+      ]
+    },
+    {
+      "question": "Which force keeps us from sliding when we walk?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "normal"
+        },
+        {
+          "correct": false,
+          "text": "weight"
+        },
+        {
+          "correct": true,
+          "text": "friction"
+        },
+        {
+          "correct": false,
+          "text": "tension"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements about friction is/are TRUE?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Static friction is greater than kinetic friction."
+        },
+        {
+          "correct": false,
+          "text": "Friction acts perpendicular to the surfaces in contact and in a direction so as to oppose to motion."
+        },
+        {
+          "correct": false,
+          "text": "Friction does not depend on the nature of surfaces in contact and condition of surface."
+        },
+        {
+          "correct": false,
+          "text": "none of these"
+        }
+      ]
+    },
+    {
+      "question": "The first law of motion applies to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "only objects that are moving"
+        },
+        {
+          "correct": false,
+          "text": "only objects that are not moving"
+        },
+        {
+          "correct": true,
+          "text": "all objects, whether moving or not"
+        },
+        {
+          "correct": false,
+          "text": "no object, whether moving or not"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following has the LEAST inertia?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "airplane"
+        },
+        {
+          "correct": false,
+          "text": "planet"
+        },
+        {
+          "correct": false,
+          "text": "train"
+        },
+        {
+          "correct": true,
+          "text": "needle"
+        }
+      ]
+    },
+    {
+      "question": "Which explains why one can pull a piece of paper without toppling a glass in a quick motion?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "law of acceleration"
+        },
+        {
+          "correct": false,
+          "text": "law of conservation of energy"
+        },
+        {
+          "correct": true,
+          "text": "law of inertia"
+        },
+        {
+          "correct": false,
+          "text": "law of universal gravitation"
+        }
+      ]
+    },
+    {
+      "question": "This diagram shows three horizontal forces acting on an object. Neglecting friction, what is the magnitude of force, F, if the object remains at rest?<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|ˉˉˉˉˉˉˉˉˉˉˉˉˉˉˉˉˉˉˉˉ| -----&gt; 8N<br>F &lt;------- | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|ˍˍˍˍˍˍˍˍˍˍˍˍˍˍˍˍˍˍˍˍ| ----------&gt; 14N<br><br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "6 N"
+        },
+        {
+          "correct": false,
+          "text": "8 N"
+        },
+        {
+          "correct": false,
+          "text": "14 N"
+        },
+        {
+          "correct": true,
+          "text": "22 N"
+        }
+      ]
+    },
+    {
+      "question": "In what direction would a box move if it is pushed in opposite directions by two boys exerting different forces?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "in the direction of the smaller force"
+        },
+        {
+          "correct": true,
+          "text": "in the direction of the larger force"
+        },
+        {
+          "correct": false,
+          "text": "the box will stay where it is"
+        },
+        {
+          "correct": false,
+          "text": "the box will hardly move"
+        }
+      ]
+    },
+    {
+      "question": "The husband and wife had a tug-of-war as to who would take custody of their baby &nbsp;after break-up of marriage. The baby will be pulled to the side of the father if",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "father's force on the baby is greater than mother's force on the baby"
+        },
+        {
+          "correct": false,
+          "text": "father's force on the baby is greater than the baby's force on him"
+        },
+        {
+          "correct": false,
+          "text": "mother's force on the baby is less than the baby's force on her"
+        },
+        {
+          "correct": false,
+          "text": "mother's force on the baby is greater than the baby's force on her"
+        }
+      ]
+    },
+    {
+      "question": "When force is applied to the body, several effects are possible. Which one of the following CANNOT occur?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the body rotates"
+        },
+        {
+          "correct": false,
+          "text": "the body changes direction"
+        },
+        {
+          "correct": false,
+          "text": "the body changes its shape"
+        },
+        {
+          "correct": true,
+          "text": "the body increases its mass<br>"
+        }
+      ]
+    },
+    {
+      "question": "An object's acceleration is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "inversely proportional to the net force"
+        },
+        {
+          "correct": false,
+          "text": "directly proportional to the object's mass"
+        },
+        {
+          "correct": false,
+          "text": "in the different direction as the net force"
+        },
+        {
+          "correct": true,
+          "text": "directly proportional to the net force"
+        }
+      ]
+    },
+    {
+      "question": "Andrey pulls a 50 kg sleigh with a constant acceleration of 2 m/s^2, how much force does Andrey exert?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "100 N"
+        },
+        {
+          "correct": false,
+          "text": "1,000 N"
+        },
+        {
+          "correct": false,
+          "text": "50 N"
+        },
+        {
+          "correct": false,
+          "text": "2 N"
+        }
+      ]
+    },
+    {
+      "question": "Suppose you are pushing a car with a certain net force. If you then pushed it with twice the net force, the car's acceleration would",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "becomes 4 times as much"
+        },
+        {
+          "correct": true,
+          "text": "become 2 times as much"
+        },
+        {
+          "correct": false,
+          "text": "stay the same"
+        },
+        {
+          "correct": false,
+          "text": "become half as much"
+        }
+      ]
+    },
+    {
+      "question": "An object of weight 30 N rests on a table. if the weight is the downward pull of the earth on the object, what is the reaction to this force?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "downward force of 30 N exerted by the object on the earth"
+        },
+        {
+          "correct": true,
+          "text": "upward force of 30 N exerted by the object on the earth"
+        },
+        {
+          "correct": false,
+          "text": "upward force of more than 30 N exerted by the object on the earth"
+        },
+        {
+          "correct": false,
+          "text": "upward force of less than&nbsp;<span style=\"background-color: rgb(254, 255, 226);\">30 N exerted by the object on the earth</span>"
+        }
+      ]
+    },
+    {
+      "question": "For a metal gate four meters wide, where does a person need to push the gate in order to exert minimum effort in opening it?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "1 meter from the hinge"
+        },
+        {
+          "correct": false,
+          "text": "2 meters from the hinge"
+        },
+        {
+          "correct": false,
+          "text": "3 meters from the hinge"
+        },
+        {
+          "correct": true,
+          "text": "4 meters from the hinge"
+        }
+      ]
+    },
+    {
+      "question": "During an energy change, energy is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "created"
+        },
+        {
+          "correct": false,
+          "text": "destroyed"
+        },
+        {
+          "correct": false,
+          "text": "increased"
+        },
+        {
+          "correct": true,
+          "text": "conserved"
+        }
+      ]
+    },
+    {
+      "question": "Flowing water can be tapped to generate electricity. The transformation of energy from mechanical energy to electrical energy can be done in",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "coal thermal plant"
+        },
+        {
+          "correct": false,
+          "text": "geothermal plant"
+        },
+        {
+          "correct": true,
+          "text": "hydroelectric plant"
+        },
+        {
+          "correct": false,
+          "text": "nuclear plant"
+        }
+      ]
+    },
+    {
+      "question": "Car A has a mass of 1, 000 kg and a speed of 20 m/s. Car B has a mass of 2, 000 kg and a speed of 10 m/s. Compare the kinetic energy of car A with that of car B.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "half as much"
+        },
+        {
+          "correct": false,
+          "text": "four times as much"
+        },
+        {
+          "correct": true,
+          "text": "twice as much"
+        },
+        {
+          "correct": false,
+          "text": "equal"
+        }
+      ]
+    },
+    {
+      "question": "If we double the velocity of a moving object, the kinetic energy would",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "decrease"
+        },
+        {
+          "correct": false,
+          "text": "also double"
+        },
+        {
+          "correct": true,
+          "text": "quadruple"
+        },
+        {
+          "correct": false,
+          "text": "remain the same"
+        }
+      ]
+    },
+    {
+      "question": "The potential energy of a body is directly proportional to its height above the ground. As a roller coaster hurtles down its track, what happens to its potential energy?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "decreases"
+        },
+        {
+          "correct": false,
+          "text": "constant"
+        },
+        {
+          "correct": false,
+          "text": "increases"
+        },
+        {
+          "correct": false,
+          "text": "becomes infinite"
+        }
+      ]
+    },
+    {
+      "question": "Denmark throws a ball vertically upward.At its maximum height,",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the kinetic energy is equal to the potential energy"
+        },
+        {
+          "correct": false,
+          "text": "the kinetic energy is maximum and the potential energy is zero"
+        },
+        {
+          "correct": false,
+          "text": "the potential energy is less than the kinetic energy"
+        },
+        {
+          "correct": true,
+          "text": "the potential energy is maximum and the kinetic energy is zero"
+        }
+      ]
+    },
+    {
+      "question": "Francois exerts a force of 500 N pushing a box 10 m across the floor in 4 s. How much work does Francois perform?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "50 J"
+        },
+        {
+          "correct": false,
+          "text": "1, 250 J"
+        },
+        {
+          "correct": false,
+          "text": "2, 000 J"
+        },
+        {
+          "correct": true,
+          "text": "5, 000 J"
+        }
+      ]
+    },
+    {
+      "question": "Calculate the power when work is done by a shopper in pushing her grocery cart by a force of 32 N through a distance of 5.0 m in 20 s?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "8 W"
+        },
+        {
+          "correct": false,
+          "text": "80 W"
+        },
+        {
+          "correct": false,
+          "text": "320 W"
+        },
+        {
+          "correct": false,
+          "text": "3, 200 W"
+        }
+      ]
+    },
+    {
+      "question": "Which is NOT a simple machine?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lever"
+        },
+        {
+          "correct": false,
+          "text": "pulley"
+        },
+        {
+          "correct": false,
+          "text": "inclined plane"
+        },
+        {
+          "correct": true,
+          "text": "fulcrum"
+        }
+      ]
+    },
+    {
+      "question": "What is the correct formula for finding the efficiency of a machine?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "efficiency = input force/ output force X 100%"
+        },
+        {
+          "correct": false,
+          "text": "<span style=\"background-color: rgb(254, 255, 226);\">efficiency = output force/ input force X 100%</span>"
+        },
+        {
+          "correct": true,
+          "text": "efficiency = output work/ input work X 100%"
+        },
+        {
+          "correct": false,
+          "text": "<span style=\"background-color: rgb(254, 255, 226);\">efficiency = input work/ output work X 100%</span>"
+        }
+      ]
+    },
+    {
+      "question": "Which has a greater momentum: a bowling ball having a mass of 5 kg moving at 0.4 m/s or a baseball having mass of 0.2 kg moving 10 m/s?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "bowling ball"
+        },
+        {
+          "correct": false,
+          "text": "baseball"
+        },
+        {
+          "correct": true,
+          "text": "they have the same momentum"
+        },
+        {
+          "correct": false,
+          "text": "cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "Kinetic energy is conserved if the collision is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "elastic"
+        },
+        {
+          "correct": false,
+          "text": "inelastic"
+        },
+        {
+          "correct": false,
+          "text": "perfectly elastic"
+        },
+        {
+          "correct": false,
+          "text": "all of these"
+        }
+      ]
+    },
+    {
+      "question": "The ratio of the squares of the periods (time to travel once around the sun) of any two planets revolving around the sun is equal to the ration of the cubes of their mean distances from the sun. This is according to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Law of Ellipses"
+        },
+        {
+          "correct": false,
+          "text": "Law of Inertia"
+        },
+        {
+          "correct": false,
+          "text": "Law of Equal Areas"
+        },
+        {
+          "correct": true,
+          "text": "Harmonic Law"
+        }
+      ]
+    },
+    {
+      "question": "The gravitational force between two masses depends",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "directly on the distance between them"
+        },
+        {
+          "correct": false,
+          "text": "directly on the square of the distance between them"
+        },
+        {
+          "correct": true,
+          "text": "inversely on the square of the distance between them"
+        },
+        {
+          "correct": false,
+          "text": "inversely on the square of their masses"
+        }
+      ]
+    },
+    {
+      "question": "Doubling the distance between the center of an orbiting satellite and the center of the earth will result in what change in the gravitational attraction of the earth for the satellite?&nbsp;",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "one-half as much"
+        },
+        {
+          "correct": true,
+          "text": "one-fourth as much"
+        },
+        {
+          "correct": false,
+          "text": "twice as much"
+        },
+        {
+          "correct": false,
+          "text": "four times as much"
+        }
+      ]
+    },
+    {
+      "question": "If the objects in each pair were the same distance apart, the gravitational force between the objects in which pair would be greatest?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "1 kg and 1 kg"
+        },
+        {
+          "correct": false,
+          "text": "1 kg and 2 kg"
+        },
+        {
+          "correct": false,
+          "text": "2 kg and 1 kg"
+        },
+        {
+          "correct": true,
+          "text": "2 kg and 2 kg"
+        }
+      ]
+    },
+    {
+      "question": "The density of fresh water is 1.00 g/cm^3 and that of seawater is 1.03 g/cm^3. A ship will float",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "lowering fresh water than in seawater"
+        },
+        {
+          "correct": false,
+          "text": "at the same level in fresh water and in seawater"
+        },
+        {
+          "correct": false,
+          "text": "higherin fresh water than in seawater&nbsp;"
+        },
+        {
+          "correct": false,
+          "text": "any of the above, depending on the shape of its hull"
+        }
+      ]
+    },
+    {
+      "question": "What would happen to the pressure if the force were doubled?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "double"
+        },
+        {
+          "correct": false,
+          "text": "decrease"
+        },
+        {
+          "correct": false,
+          "text": "quadruple"
+        },
+        {
+          "correct": false,
+          "text": "remain the same"
+        }
+      ]
+    },
+    {
+      "question": "What is the difference between the pressure inside and outside the tire called?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "absolute"
+        },
+        {
+          "correct": false,
+          "text": "atmospheric"
+        },
+        {
+          "correct": true,
+          "text": "gauge"
+        },
+        {
+          "correct": false,
+          "text": "actual"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following would exert the most pressure on the ground?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "a woman standing in running shoes"
+        },
+        {
+          "correct": true,
+          "text": "a woman standing in high heel shoes"
+        },
+        {
+          "correct": false,
+          "text": "a woman standing on skis"
+        },
+        {
+          "correct": false,
+          "text": "a woman standing in slippers"
+        }
+      ]
+    },
+    {
+      "question": "This principle states that pressure applied to a confined fluid at rest is transmitted without change to every part of the fluid and to walls of the container.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Pascal's"
+        },
+        {
+          "correct": false,
+          "text": "Archimedes"
+        },
+        {
+          "correct": false,
+          "text": "Bernoulli's"
+        },
+        {
+          "correct": false,
+          "text": "Young's"
+        }
+      ]
+    },
+    {
+      "question": "When you blow some air above a paper strip, the paper rises because",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the air above the paper moves faster and the pressure is higher"
+        },
+        {
+          "correct": true,
+          "text": "the air above the paper moves faster and the pressure is lower"
+        },
+        {
+          "correct": false,
+          "text": "the air above the paper moves slower and the pressure is higher"
+        },
+        {
+          "correct": false,
+          "text": "the air above the paper moves slower and the pressure is lower"
+        }
+      ]
+    },
+    {
+      "question": "Archimedes principle states that an object is buoyed up by a force that is equal to the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "weight of the fluid displaced"
+        },
+        {
+          "correct": false,
+          "text": "mass of the fluid displaced"
+        },
+        {
+          "correct": false,
+          "text": "volume of the fluid displaced"
+        },
+        {
+          "correct": false,
+          "text": "mass of the object"
+        }
+      ]
+    },
+    {
+      "question": "If the density of the object is equal to the density of the liquid, the object will",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "be partially submerged"
+        },
+        {
+          "correct": true,
+          "text": "float"
+        },
+        {
+          "correct": false,
+          "text": "sink"
+        },
+        {
+          "correct": false,
+          "text": "be totally submerged"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following can be used to determine if the 18k ring offered to you by a friend is a fancy or a true gold ring as claimed?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "touch it"
+        },
+        {
+          "correct": false,
+          "text": "rub it against a stone"
+        },
+        {
+          "correct": true,
+          "text": "determine its specific gravity"
+        },
+        {
+          "correct": false,
+          "text": "bite it"
+        }
+      ]
+    },
+    {
+      "question": "Buoyancy occurs because with increasing depth in a fluid",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "the pressure increases"
+        },
+        {
+          "correct": false,
+          "text": "the pressure decreases"
+        },
+        {
+          "correct": false,
+          "text": "the density increases"
+        },
+        {
+          "correct": false,
+          "text": "the density decreases"
+        }
+      ]
+    },
+    {
+      "question": "Temperature is proportional to the average kinetic energy of particles in an object. Thus an increase in temperature results in a(n)",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "increase in mass"
+        },
+        {
+          "correct": false,
+          "text": "decrease in mass"
+        },
+        {
+          "correct": false,
+          "text": "decreases in average kinetic energy"
+        },
+        {
+          "correct": true,
+          "text": "increase in average kinetic energy"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the BEST description for heat?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "It is the flow of energy &nbsp;due to a temperature difference."
+        },
+        {
+          "correct": false,
+          "text": "It is the sum of molecular motion inside the object."
+        },
+        {
+          "correct": false,
+          "text": "It is a measure of how hot an object is."
+        },
+        {
+          "correct": false,
+          "text": "It is the internal energy of an object."
+        }
+      ]
+    },
+    {
+      "question": "Two glass tumblers that are stuck one inside the other may be loosened by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "pouring hot water on the outside tumbler after filling the inside tumbler with cold water"
+        },
+        {
+          "correct": false,
+          "text": "pouring hot water on the outside tumbler after filling the inside tumbler with equally hot water"
+        },
+        {
+          "correct": false,
+          "text": "pouring cold water on the outside tumbler after filling the inside tumbler with hot water"
+        },
+        {
+          "correct": false,
+          "text": "pouring cold water on the outside tumbler after filling the inside tumbler with equally cold water"
+        }
+      ]
+    },
+    {
+      "question": "How does ice cool a warm drink?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cold flows from ice to drink"
+        },
+        {
+          "correct": false,
+          "text": "heat flows from ice to drink"
+        },
+        {
+          "correct": false,
+          "text": "cold flows from drink to ice"
+        },
+        {
+          "correct": true,
+          "text": "heat flows from drink to ice"
+        }
+      ]
+    },
+    {
+      "question": "When a vapor condenses into a liquid,",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it absorbs heat"
+        },
+        {
+          "correct": true,
+          "text": "it evolves heat"
+        },
+        {
+          "correct": false,
+          "text": "its temperature rises"
+        },
+        {
+          "correct": false,
+          "text": "its temperature drops"
+        }
+      ]
+    },
+    {
+      "question": "The heat of vaporization of a substance is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "less than its heat of fusion"
+        },
+        {
+          "correct": false,
+          "text": "equal to its heat of fusion"
+        },
+        {
+          "correct": true,
+          "text": "greater than its heat of fusion"
+        },
+        {
+          "correct": false,
+          "text": "any of the above, depending on the nature of the substance"
+        }
+      ]
+    },
+    {
+      "question": "Heat transfer by convection occurs",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "only in gases"
+        },
+        {
+          "correct": false,
+          "text": "only in liquids"
+        },
+        {
+          "correct": true,
+          "text": "only in gases and liquids"
+        },
+        {
+          "correct": false,
+          "text": "in gases, liquids, and solids"
+        }
+      ]
+    },
+    {
+      "question": "The natural direction of heat flow from a high-temperature reservoir to a low-temperature reservoir, regardless of their respective heat contents. This fact is incorporated in the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "zeroth law of thermodynamics"
+        },
+        {
+          "correct": false,
+          "text": "first law of thermodynamics"
+        },
+        {
+          "correct": true,
+          "text": "second law of thermodynamics"
+        },
+        {
+          "correct": false,
+          "text": "third law of thermodynamics"
+        }
+      ]
+    },
+    {
+      "question": "When you make ice cubes, the entropy of the water",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "decrease"
+        },
+        {
+          "correct": false,
+          "text": "increase"
+        },
+        {
+          "correct": false,
+          "text": "unchanged"
+        },
+        {
+          "correct": false,
+          "text": "cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "If two charges attract each other",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "both charges must be positive"
+        },
+        {
+          "correct": false,
+          "text": "both charges must be negative"
+        },
+        {
+          "correct": true,
+          "text": "the charges must be different"
+        },
+        {
+          "correct": false,
+          "text": "cannot be determined"
+        }
+      ]
+    },
+    {
+      "question": "According to Ohm's Law, the amount of current in a circuit is directly proportional to the voltage and",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "directly proportional to the resistance"
+        },
+        {
+          "correct": true,
+          "text": "inversely proportional to the resistance"
+        },
+        {
+          "correct": false,
+          "text": "inversely proportional to the square of the resistance"
+        },
+        {
+          "correct": false,
+          "text": "directly proportional to the square of the resistance"
+        }
+      ]
+    },
+    {
+      "question": "Henry connects three identical light bulbs in parallel to a dry cell. What happens when Henry removes one of the light bulbs from its socket?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "All the light bulbs go out."
+        },
+        {
+          "correct": true,
+          "text": "The other light bulbs will remain on and will be equally bright"
+        },
+        {
+          "correct": false,
+          "text": "The other light bulbs remain on, one less bright and the other the same brightness as before."
+        },
+        {
+          "correct": false,
+          "text": "The other light bulbs remain on, one brighter and the other less bright than before."
+        }
+      ]
+    },
+    {
+      "question": "In a transformer, the voltage of a current will be increased if the secondary circuit",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "has more turns than the primary circuit"
+        },
+        {
+          "correct": false,
+          "text": "has fewer turns than the primary circuit"
+        },
+        {
+          "correct": false,
+          "text": "has the same number of turns as the primary circuit"
+        },
+        {
+          "correct": false,
+          "text": "is parallel to the primary circuit"
+        }
+      ]
+    },
+    {
+      "question": "A 1200 W turbo boiler is operated for 45 minutes to cook a whole chicken. How many kilowatt-hours of electrical energy is utilized in the process?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "1.6 kwh"
+        },
+        {
+          "correct": true,
+          "text": "0.9 kwh"
+        },
+        {
+          "correct": false,
+          "text": "54 kwh"
+        },
+        {
+          "correct": false,
+          "text": "26.7 kwh"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a property of waves?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "waves transfer energy"
+        },
+        {
+          "correct": true,
+          "text": "waves transfer matter"
+        },
+        {
+          "correct": false,
+          "text": "waves transfer information"
+        },
+        {
+          "correct": false,
+          "text": "waves make communication"
+        }
+      ]
+    },
+    {
+      "question": "The point where the waves exhibits the maximum amount of positive or upward displacement is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "electromagnetic wave"
+        },
+        {
+          "correct": false,
+          "text": "transverse wave"
+        },
+        {
+          "correct": false,
+          "text": "longitudinal wave"
+        },
+        {
+          "correct": true,
+          "text": "water wave"
+        }
+      ]
+    },
+    {
+      "question": "A sound wave is an example of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "electromagnetic wave"
+        },
+        {
+          "correct": false,
+          "text": "transverse wave"
+        },
+        {
+          "correct": true,
+          "text": "longitudinal wave"
+        },
+        {
+          "correct": false,
+          "text": "water wave"
+        }
+      ]
+    },
+    {
+      "question": "During the passage of a longitudinal wave, a particle of the medium",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "remains in a fixed position"
+        },
+        {
+          "correct": false,
+          "text": "moves in a circle"
+        },
+        {
+          "correct": false,
+          "text": "moves at right angles to the direction of motion"
+        },
+        {
+          "correct": true,
+          "text": "moves forward and backward along the line of propagation"
+        }
+      ]
+    },
+    {
+      "question": "What is the speed of wave with a wavelength of 0.5 m and a frequency of 20 Hz?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "5 m/s"
+        },
+        {
+          "correct": true,
+          "text": "10 m/s"
+        },
+        {
+          "correct": false,
+          "text": "20 m/s"
+        },
+        {
+          "correct": false,
+          "text": "30 m/s"
+        }
+      ]
+    },
+    {
+      "question": "A travelling wave passes a point of observation. At this point, the time between successive crests is 2.0 s. Which of the following statements can be justified?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the wavelength is 5m."
+        },
+        {
+          "correct": true,
+          "text": "The frequency is 0.5 Hz."
+        },
+        {
+          "correct": false,
+          "text": "The velocity of propagation is 5 m/s."
+        },
+        {
+          "correct": false,
+          "text": "The wavelength is 0.2 m."
+        }
+      ]
+    },
+    {
+      "question": "In large auditorium, it is possible that the echo may return at such an interval as to overlap with the words of the speaker, causing confusion among the listeners. Because of this, materials that absorb sound, such as drapes, carpets, and stuffed furniture are use to reduce",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "refraction"
+        },
+        {
+          "correct": false,
+          "text": "diffraction"
+        },
+        {
+          "correct": false,
+          "text": "interference"
+        },
+        {
+          "correct": true,
+          "text": "reverberation"
+        }
+      ]
+    },
+    {
+      "question": "Shorter wave lengths means higher",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "speed"
+        },
+        {
+          "correct": false,
+          "text": "amplitude"
+        },
+        {
+          "correct": false,
+          "text": "wavelenght"
+        },
+        {
+          "correct": true,
+          "text": "frequency"
+        }
+      ]
+    },
+    {
+      "question": "A sound having a higher frequency has",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "higher pitch"
+        },
+        {
+          "correct": false,
+          "text": "lower pitch"
+        },
+        {
+          "correct": false,
+          "text": "longer wavelength"
+        },
+        {
+          "correct": false,
+          "text": "loud sound"
+        }
+      ]
+    },
+    {
+      "question": "The amplitude of a sound wave determine its",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "quality"
+        },
+        {
+          "correct": true,
+          "text": "loudness"
+        },
+        {
+          "correct": false,
+          "text": "pitch"
+        },
+        {
+          "correct": false,
+          "text": "timbre"
+        }
+      ]
+    },
+    {
+      "question": "Which allows you to tell your friend's voice from that if another?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "quality"
+        },
+        {
+          "correct": false,
+          "text": "loudness"
+        },
+        {
+          "correct": false,
+          "text": "intensity"
+        },
+        {
+          "correct": false,
+          "text": "resonance"
+        }
+      ]
+    },
+    {
+      "question": "Human beings have limited hearing capacity. Which range of frequency can man's eardrum vibrate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "20 Hz to 10000 Hz"
+        },
+        {
+          "correct": false,
+          "text": "10 Hz to 10000 Hz"
+        },
+        {
+          "correct": true,
+          "text": "20 Hz to 20000 Hz"
+        },
+        {
+          "correct": false,
+          "text": "10 Hz to 2000 Hz"
+        }
+      ]
+    },
+    {
+      "question": "The sound of the siren of the ambulance approaching you is increasing its pitch. This phenomenon is called",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Brownian motion"
+        },
+        {
+          "correct": false,
+          "text": "Tyndall effect"
+        },
+        {
+          "correct": true,
+          "text": "Doppler effect"
+        },
+        {
+          "correct": false,
+          "text": "shock wave"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements is WRONG?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Changes in air temperature have no effect on the speed of sound"
+        },
+        {
+          "correct": false,
+          "text": "Changes in air temperature have effect on the speed of sound"
+        },
+        {
+          "correct": false,
+          "text": "The speed of sound in water is lower than in air"
+        },
+        {
+          "correct": true,
+          "text": "both a and c"
+        }
+      ]
+    },
+    {
+      "question": "What ray is responsible for sunburn?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "gamma"
+        },
+        {
+          "correct": true,
+          "text": "ultraviolet"
+        },
+        {
+          "correct": false,
+          "text": "light"
+        },
+        {
+          "correct": false,
+          "text": "infrared"
+        }
+      ]
+    },
+    {
+      "question": "Why is lightning seen before thunder is heard?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Light travels slower than sound."
+        },
+        {
+          "correct": true,
+          "text": "Light travels faster than sound."
+        },
+        {
+          "correct": false,
+          "text": "Lightning has more energy than thunder."
+        },
+        {
+          "correct": false,
+          "text": "Lightning has less energy than thunder."
+        }
+      ]
+    },
+    {
+      "question": "According to the law of reflection, the angle of incidence&nbsp;<img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\" style=\"font-family: Calibri, sans-serif; font-size: 11pt; line-height: 115%;\">i&nbsp;and the angle of reflection&nbsp;<img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\" style=\"font-family: Calibri, sans-serif; font-size: 11pt; line-height: 115%;\">r, have the following relationship.<p class=\"MsoNormal\"><!--[endif]--><o:p></o:p></p><p class=\"MsoNormal\"><!--[endif]--><o:p></o:p></p><p class=\"MsoNormal\"><!--[endif]--><o:p></o:p></p><p class=\"MsoNormal\"><!--[endif]--><o:p></o:p></p>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "<p class=\"MsoNormal\"><!--[if gte msEquation 12]><m:oMathPara><m:oMath><i\n  style='mso-bidi-font-style:normal'><span style='font-family:\"Cambria Math\",\"serif\"'><m:r>θ</m:r></span></i></m:oMath></m:oMathPara><![endif]--><!--[if !msEquation]--><span style=\"font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;\nmso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\"><!--[if gte vml 1]><v:shapetype id=\"_x0000_t75\"\n coordsize=\"21600,21600\" o:spt=\"75\" o:preferrelative=\"t\" path=\"m@4@5l@4@11@9@11@9@5xe\"\n filled=\"f\" stroked=\"f\">\n <v:stroke joinstyle=\"miter\"></v:stroke>\n <v:formulas>\n  <v:f eqn=\"if lineDrawn pixelLineWidth 0\"></v:f>\n  <v:f eqn=\"sum @0 1 0\"></v:f>\n  <v:f eqn=\"sum 0 0 @1\"></v:f>\n  <v:f eqn=\"prod @2 1 2\"></v:f>\n  <v:f eqn=\"prod @3 21600 pixelWidth\"></v:f>\n  <v:f eqn=\"prod @3 21600 pixelHeight\"></v:f>\n  <v:f eqn=\"sum @0 0 1\"></v:f>\n  <v:f eqn=\"prod @6 1 2\"></v:f>\n  <v:f eqn=\"prod @7 21600 pixelWidth\"></v:f>\n  <v:f eqn=\"sum @8 21600 0\"></v:f>\n  <v:f eqn=\"prod @7 21600 pixelHeight\"></v:f>\n  <v:f eqn=\"sum @10 21600 0\"></v:f>\n </v:formulas>\n <v:path o:extrusionok=\"f\" gradientshapeok=\"t\" o:connecttype=\"rect\"></v:path>\n <o:lock v:ext=\"edit\" aspectratio=\"t\"></o:lock>\n</v:shapetype><v:shape id=\"_x0000_i1025\" type=\"#_x0000_t75\" style='width:6.75pt;\n height:15pt'>\n <v:imagedata src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image001.png\"\n  o:title=\"\" chromakey=\"white\"></v:imagedata>\n</v:shape><![endif]--><!--[if !vml]--><img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\">i&nbsp;=&nbsp;<!--[endif]--></span><!--[endif]--><o:p></o:p><img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\" style=\"font-family: Calibri, sans-serif; font-size: 11pt; line-height: 115%;\">r</p><p class=\"MsoNormal\"><!--[endif]--><o:p></o:p></p>"
+        },
+        {
+          "correct": false,
+          "text": "<p class=\"MsoNormal\"><!--[if gte msEquation 12]><m:oMathPara><m:oMath><i\n  style='mso-bidi-font-style:normal'><span style='font-family:\"Cambria Math\",\"serif\"'><m:r>θ</m:r></span></i></m:oMath></m:oMathPara><![endif]--><!--[if !msEquation]--><span style=\"font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;\nmso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\"><!--[if gte vml 1]><v:shapetype id=\"_x0000_t75\"\n coordsize=\"21600,21600\" o:spt=\"75\" o:preferrelative=\"t\" path=\"m@4@5l@4@11@9@11@9@5xe\"\n filled=\"f\" stroked=\"f\">\n <v:stroke joinstyle=\"miter\"></v:stroke>\n <v:formulas>\n  <v:f eqn=\"if lineDrawn pixelLineWidth 0\"></v:f>\n  <v:f eqn=\"sum @0 1 0\"></v:f>\n  <v:f eqn=\"sum 0 0 @1\"></v:f>\n  <v:f eqn=\"prod @2 1 2\"></v:f>\n  <v:f eqn=\"prod @3 21600 pixelWidth\"></v:f>\n  <v:f eqn=\"prod @3 21600 pixelHeight\"></v:f>\n  <v:f eqn=\"sum @0 0 1\"></v:f>\n  <v:f eqn=\"prod @6 1 2\"></v:f>\n  <v:f eqn=\"prod @7 21600 pixelWidth\"></v:f>\n  <v:f eqn=\"sum @8 21600 0\"></v:f>\n  <v:f eqn=\"prod @7 21600 pixelHeight\"></v:f>\n  <v:f eqn=\"sum @10 21600 0\"></v:f>\n </v:formulas>\n <v:path o:extrusionok=\"f\" gradientshapeok=\"t\" o:connecttype=\"rect\"></v:path>\n <o:lock v:ext=\"edit\" aspectratio=\"t\"></o:lock>\n</v:shapetype><v:shape id=\"_x0000_i1025\" type=\"#_x0000_t75\" style='width:6.75pt;\n height:15pt'>\n <v:imagedata src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image001.png\"\n  o:title=\"\" chromakey=\"white\"></v:imagedata>\n</v:shape><![endif]--><!--[if !vml]--><img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\">i &gt;&nbsp;<!--[endif]--></span><!--[endif]--><o:p></o:p><img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\" style=\"font-family: Calibri, sans-serif; font-size: 11pt; line-height: 115%;\">r</p><p class=\"MsoNormal\"><!--[endif]--><o:p></o:p></p>"
+        },
+        {
+          "correct": false,
+          "text": "<p class=\"MsoNormal\"><!--[if gte msEquation 12]><m:oMathPara><m:oMath><i\n  style='mso-bidi-font-style:normal'><span style='font-family:\"Cambria Math\",\"serif\"'><m:r>θ</m:r></span></i></m:oMath></m:oMathPara><![endif]--><!--[if !msEquation]--><span style=\"font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;\nmso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\"><!--[if gte vml 1]><v:shapetype id=\"_x0000_t75\"\n coordsize=\"21600,21600\" o:spt=\"75\" o:preferrelative=\"t\" path=\"m@4@5l@4@11@9@11@9@5xe\"\n filled=\"f\" stroked=\"f\">\n <v:stroke joinstyle=\"miter\"></v:stroke>\n <v:formulas>\n  <v:f eqn=\"if lineDrawn pixelLineWidth 0\"></v:f>\n  <v:f eqn=\"sum @0 1 0\"></v:f>\n  <v:f eqn=\"sum 0 0 @1\"></v:f>\n  <v:f eqn=\"prod @2 1 2\"></v:f>\n  <v:f eqn=\"prod @3 21600 pixelWidth\"></v:f>\n  <v:f eqn=\"prod @3 21600 pixelHeight\"></v:f>\n  <v:f eqn=\"sum @0 0 1\"></v:f>\n  <v:f eqn=\"prod @6 1 2\"></v:f>\n  <v:f eqn=\"prod @7 21600 pixelWidth\"></v:f>\n  <v:f eqn=\"sum @8 21600 0\"></v:f>\n  <v:f eqn=\"prod @7 21600 pixelHeight\"></v:f>\n  <v:f eqn=\"sum @10 21600 0\"></v:f>\n </v:formulas>\n <v:path o:extrusionok=\"f\" gradientshapeok=\"t\" o:connecttype=\"rect\"></v:path>\n <o:lock v:ext=\"edit\" aspectratio=\"t\"></o:lock>\n</v:shapetype><v:shape id=\"_x0000_i1025\" type=\"#_x0000_t75\" style='width:6.75pt;\n height:15pt'>\n <v:imagedata src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image001.png\"\n  o:title=\"\" chromakey=\"white\"></v:imagedata>\n</v:shape><![endif]--><!--[if !vml]--><img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\">i &lt;&nbsp;<!--[endif]--></span><!--[endif]--><o:p></o:p><img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\" style=\"font-family: Calibri, sans-serif; font-size: 11pt; line-height: 115%;\">r</p><p class=\"MsoNormal\"><!--[endif]--><o:p></o:p></p>"
+        },
+        {
+          "correct": false,
+          "text": "<p class=\"MsoNormal\"><!--[if gte msEquation 12]><m:oMathPara><m:oMath><i\n  style='mso-bidi-font-style:normal'><span style='font-family:\"Cambria Math\",\"serif\"'><m:r>θ</m:r></span></i></m:oMath></m:oMathPara><![endif]--><!--[if !msEquation]--><span style=\"font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;\nmso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\"><!--[if gte vml 1]><v:shapetype id=\"_x0000_t75\"\n coordsize=\"21600,21600\" o:spt=\"75\" o:preferrelative=\"t\" path=\"m@4@5l@4@11@9@11@9@5xe\"\n filled=\"f\" stroked=\"f\">\n <v:stroke joinstyle=\"miter\"></v:stroke>\n <v:formulas>\n  <v:f eqn=\"if lineDrawn pixelLineWidth 0\"></v:f>\n  <v:f eqn=\"sum @0 1 0\"></v:f>\n  <v:f eqn=\"sum 0 0 @1\"></v:f>\n  <v:f eqn=\"prod @2 1 2\"></v:f>\n  <v:f eqn=\"prod @3 21600 pixelWidth\"></v:f>\n  <v:f eqn=\"prod @3 21600 pixelHeight\"></v:f>\n  <v:f eqn=\"sum @0 0 1\"></v:f>\n  <v:f eqn=\"prod @6 1 2\"></v:f>\n  <v:f eqn=\"prod @7 21600 pixelWidth\"></v:f>\n  <v:f eqn=\"sum @8 21600 0\"></v:f>\n  <v:f eqn=\"prod @7 21600 pixelHeight\"></v:f>\n  <v:f eqn=\"sum @10 21600 0\"></v:f>\n </v:formulas>\n <v:path o:extrusionok=\"f\" gradientshapeok=\"t\" o:connecttype=\"rect\"></v:path>\n <o:lock v:ext=\"edit\" aspectratio=\"t\"></o:lock>\n</v:shapetype><v:shape id=\"_x0000_i1025\" type=\"#_x0000_t75\" style='width:6.75pt;\n height:15pt'>\n <v:imagedata src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image001.png\"\n  o:title=\"\" chromakey=\"white\"></v:imagedata>\n</v:shape><![endif]--><!--[if !vml]--><img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\">i </span>&lt;&lt;&nbsp;<img width=\"9\" height=\"20\" src=\"file:///C:\\Users\\Kaisle\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.png\" v:shapes=\"_x0000_i1025\" style=\"font-family: Calibri, sans-serif; font-size: 11pt; line-height: 115%;\">r</p><p class=\"MsoNormal\"><!--[endif]--><o:p></o:p></p>"
+        }
+      ]
+    },
+    {
+      "question": "Describe the image formed by a plane mirror.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "virtual, inverted, same size, and laterally reversed"
+        },
+        {
+          "correct": false,
+          "text": "real, upright, bigger than the object"
+        },
+        {
+          "correct": true,
+          "text": "virtual, upright, same size, and laterally reversed"
+        },
+        {
+          "correct": false,
+          "text": "real, upright, same size, and laterally reversed"
+        }
+      ]
+    },
+    {
+      "question": "People sometimes use this mirror very close to their faces when applying make up to dramatically enlarge detail of the face",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "plane"
+        },
+        {
+          "correct": false,
+          "text": "convex"
+        },
+        {
+          "correct": true,
+          "text": "concave"
+        },
+        {
+          "correct": false,
+          "text": "broken"
+        }
+      ]
+    },
+    {
+      "question": "A rainbow is a spectacular display of colors in the sky after the rain shower. This is explained by the phenomenon associated with light known as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "dispersion"
+        },
+        {
+          "correct": false,
+          "text": "reflection"
+        },
+        {
+          "correct": false,
+          "text": "interference"
+        },
+        {
+          "correct": false,
+          "text": "diffraction"
+        }
+      ]
+    },
+    {
+      "question": "Have you ever wondered why the sky is blue, the unset red-orange, and the clouds white? All these will be explained by a phenomenon associated with light known as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "scattering"
+        },
+        {
+          "correct": false,
+          "text": "refraction"
+        },
+        {
+          "correct": false,
+          "text": "dispersion"
+        },
+        {
+          "correct": false,
+          "text": "diffraction"
+        }
+      ]
+    },
+    {
+      "question": "Light is part of the electromagnetic spectrum visible to our unaided eye. What is the color of light that has the longest wavelength?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "violet"
+        },
+        {
+          "correct": false,
+          "text": "blue"
+        },
+        {
+          "correct": false,
+          "text": "orange"
+        },
+        {
+          "correct": true,
+          "text": "red"
+        }
+      ]
+    },
+    {
+      "question": "The method of detecting the presence, position,and direction of motion of distant objects by reflecting a beam of sound waves is known as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "LASER"
+        },
+        {
+          "correct": false,
+          "text": "RADAD"
+        },
+        {
+          "correct": true,
+          "text": "SONAR"
+        },
+        {
+          "correct": false,
+          "text": "echolocation"
+        }
+      ]
+    },
+    {
+      "question": "Astronauts cannot hear the explosion on surface of the moon because",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "<span style=\"background-color: rgb(254, 255, 226);\">frequency of explosion is out of audible range</span>"
+        },
+        {
+          "correct": false,
+          "text": "temperature at that point is very low"
+        },
+        {
+          "correct": true,
+          "text": "there is no medium on the moon"
+        },
+        {
+          "correct": false,
+          "text": "the mass of the moon is less than that of the earth"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following phenomenon CANNOT take place with sound wave?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "reflection"
+        },
+        {
+          "correct": false,
+          "text": "interference"
+        },
+        {
+          "correct": false,
+          "text": "diffraction"
+        },
+        {
+          "correct": false,
+          "text": "polarization"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following radioactive emissions are arranged in the order of increasing penetrating power?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "gamma, beta, alpha"
+        },
+        {
+          "correct": false,
+          "text": "beta, gamma, alpha"
+        },
+        {
+          "correct": true,
+          "text": "alpha, beta, gamma"
+        },
+        {
+          "correct": false,
+          "text": "beta, alpha, gamma"
+        }
+      ]
+    },
+    {
+      "question": "After three half-lives, ____ of a radioactive sample remains.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "all"
+        },
+        {
+          "correct": false,
+          "text": "one-half"
+        },
+        {
+          "correct": false,
+          "text": "one-third"
+        },
+        {
+          "correct": true,
+          "text": "one-eighth"
+        }
+      ]
+    }
+  ]
+}

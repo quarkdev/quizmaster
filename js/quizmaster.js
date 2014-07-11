@@ -152,6 +152,8 @@ var QuizMaster = (function () {
 	};
 
 	ml.loadStatsFromStorage = function () {
+		if (localStorage.getItem('_STATS_') === null) return;
+		
 		stats = JSON.parse(localStorage.getItem('_STATS_'));
 	};
 
