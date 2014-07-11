@@ -41,16 +41,10 @@
 		var files = document.getElementById('add-quiz').files;
 		if (files.length > 0) {
 			for (var i = 0; i < files.length; i++) {
-				QuizMaster.addQuiz(files[i], function () {
-					var qList = QuizMaster.getQuizList();
-					$('#quiz-list').html('');
-					for (var i = 0; i < qList.length; i++) {
-						$('#quiz-list').append('<option value="' + i + '">' + qList[i] + '</option>');
-					}
-
-					$('#quiz-list :nth-child(' + qList.length + ')').prop('selected', true);
-				});
+				QuizMaster.addQuiz(files[i]);
 			}
+			QuizMaster.postNotice('#hud-timer', 'Quiz File(s) Added!');
+			QuizMaster.showQuizList();
 		}
 	}
 

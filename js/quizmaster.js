@@ -315,6 +315,11 @@ var QuizMaster = (function () {
 
 		$('#end-quiz-btn').show();
 
+		// hide other buttons
+		$('#multi-upload-btn').hide();
+		$('#show-quizzes-btn').hide();
+		$('#goto-editor').hide();
+
 		return paper;
 	};
 
@@ -358,6 +363,9 @@ var QuizMaster = (function () {
 		}
 
 		$('#end-quiz-btn').hide();
+		$('#multi-upload-btn').show();
+		$('#show-quizzes-btn').show();
+		$('#goto-editor').show();
 		ml.checkPaper();
 	};
 

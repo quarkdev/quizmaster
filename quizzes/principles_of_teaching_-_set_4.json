@@ -1,0 +1,2276 @@
+{
+  "name": "Principles of Teaching - Set 4",
+  "description": "...",
+  "duration": 60,
+  "instruction": "Choose the best answer.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "Teacher Sophie wants to show to the class a magnified picture of Mayon Volcano mounted on a bondpaper. Which one will she use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "overhead projector"
+        },
+        {
+          "correct": true,
+          "text": "opaque projector"
+        },
+        {
+          "correct": false,
+          "text": "slide"
+        },
+        {
+          "correct": false,
+          "text": "filmstrip"
+        }
+      ]
+    },
+    {
+      "question": "\"What I hear, I forget. What I see, I remember. What I do, I understand.\" What does this mean? Pupils learn best when they _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "learn independently"
+        },
+        {
+          "correct": true,
+          "text": "take active part in the learning exercises"
+        },
+        {
+          "correct": false,
+          "text": "work in groups"
+        },
+        {
+          "correct": false,
+          "text": "pay full attention in class"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Sally has difficulty drawing response from her class no matter how much she motivates them to recite. The class was a witness to how she insulted a classmate who gave a wrong answer the other day. This phenomenon points to the reality of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Pygmalion Effect"
+        },
+        {
+          "correct": true,
+          "text": "Ripple Effect"
+        },
+        {
+          "correct": false,
+          "text": "Halo Effect"
+        },
+        {
+          "correct": false,
+          "text": "Hawthorne Effect"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Mila convinces her students not to study only for grades but for self-actualization which is the fulfillment of one's potential. On whose theory is this founded?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "A. Maslow"
+        },
+        {
+          "correct": false,
+          "text": "E. Thomdike"
+        },
+        {
+          "correct": false,
+          "text": "S. Freud"
+        },
+        {
+          "correct": false,
+          "text": "B.F. Skinner"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Beth wants to develop constructivist teaching. Which one will he do less?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "telling"
+        },
+        {
+          "correct": false,
+          "text": "probing"
+        },
+        {
+          "correct": false,
+          "text": "asking open-ended questions"
+        },
+        {
+          "correct": false,
+          "text": "asking process questions"
+        }
+      ]
+    },
+    {
+      "question": "A grade II teacher wanted to show the parts of a seed by using a large, wooden seed visual aid with detachable cotyledons and tiny seed. Under what classification does this wooden structure fall?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "replica"
+        },
+        {
+          "correct": false,
+          "text": "model"
+        },
+        {
+          "correct": true,
+          "text": "mock up"
+        },
+        {
+          "correct": false,
+          "text": "realia"
+        }
+      ]
+    },
+    {
+      "question": "The main topic water pollution in the center of the chalkboard and encircles it. Then she asks the pupils to provide information that can be clustered around the main topic. Which technique did the teacher employ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "deductive teaching"
+        },
+        {
+          "correct": false,
+          "text": "demonstration"
+        },
+        {
+          "correct": true,
+          "text": "semantic mapping"
+        },
+        {
+          "correct": false,
+          "text": "vocabulary building"
+        }
+      ]
+    },
+    {
+      "question": "In her desire to help the children build their vocabulary, she maintains a small board at the corner of the classroom for the Word of the day to teach the children one new word each day. Which method of vocabulary building does she employ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "incidental attention to building meaning"
+        },
+        {
+          "correct": false,
+          "text": "direct vocabulary instruction"
+        },
+        {
+          "correct": false,
+          "text": "all of these"
+        },
+        {
+          "correct": false,
+          "text": "wide reading"
+        }
+      ]
+    },
+    {
+      "question": "Deductive and inductive reasoning will be most fit for which group of students?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Spatial"
+        },
+        {
+          "correct": false,
+          "text": "Naturalist"
+        },
+        {
+          "correct": false,
+          "text": "Linguistic"
+        },
+        {
+          "correct": true,
+          "text": "Logical-Mathematical"
+        }
+      ]
+    },
+    {
+      "question": "Which is the correct statement about teaching method?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "There is one best method for teaching."
+        },
+        {
+          "correct": false,
+          "text": "Indirect instructional method is teacher-centered."
+        },
+        {
+          "correct": false,
+          "text": "There is best method of teaching."
+        },
+        {
+          "correct": true,
+          "text": "No one teaching method can accomplish every goal."
+        }
+      ]
+    },
+    {
+      "question": "Which learning activity is most appropriate If teacher's focus is attitudinal change?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "exhibit"
+        },
+        {
+          "correct": false,
+          "text": "field trip"
+        },
+        {
+          "correct": false,
+          "text": "game"
+        },
+        {
+          "correct": true,
+          "text": "role playing"
+        }
+      ]
+    },
+    {
+      "question": "The Venn Diagram is most fit for lessons on",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "comparison"
+        },
+        {
+          "correct": false,
+          "text": "contrast"
+        },
+        {
+          "correct": false,
+          "text": "categorization"
+        },
+        {
+          "correct": false,
+          "text": "analogy"
+        }
+      ]
+    },
+    {
+      "question": "In the K-W-L techniques K stands for what the pupil already knows, W for what he wants to know and L for what he _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "failed to learn"
+        },
+        {
+          "correct": false,
+          "text": "he likes to learn"
+        },
+        {
+          "correct": false,
+          "text": "needs to learn"
+        },
+        {
+          "correct": true,
+          "text": "learned"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Zeny shows a histogram on Filipino population growth from 1990 to 2001. Seeing the pattern of growth, a pupil is asked to tell what will happen in the next two years. What skill is the pupil asked to display?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "inderring"
+        },
+        {
+          "correct": true,
+          "text": "predicting"
+        },
+        {
+          "correct": false,
+          "text": "intrapolating"
+        },
+        {
+          "correct": false,
+          "text": "drawing conclusion"
+        }
+      ]
+    },
+    {
+      "question": "Teacher J discovered that her pupils are weak in comprehension. To further determine in which particular skills her pupils are weak, which test should Teacher J give?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "standardized test"
+        },
+        {
+          "correct": false,
+          "text": "placement test"
+        },
+        {
+          "correct": true,
+          "text": "diagnostic test"
+        },
+        {
+          "correct": false,
+          "text": "aptitude test"
+        }
+      ]
+    },
+    {
+      "question": "Ms. Cho gives a quiz to her class after teaching a lesson. What does she give?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "diagnostic test"
+        },
+        {
+          "correct": false,
+          "text": "summative test"
+        },
+        {
+          "correct": false,
+          "text": "performance test"
+        },
+        {
+          "correct": true,
+          "text": "formative test"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Blanca wants to diagnose in which vowel sound(s) her students have difficulty. Which tool is most appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "portfolio assessment"
+        },
+        {
+          "correct": false,
+          "text": "journal entry"
+        },
+        {
+          "correct": true,
+          "text": "performance test"
+        },
+        {
+          "correct": false,
+          "text": "paper-and-pencil test"
+        }
+      ]
+    },
+    {
+      "question": "I want to use the direct instruction strategy. Which sequence of steps will I follow?<br><span style=\"font-weight: normal;\">I. Reviewing the precious day's work<br>II. Guided student practice<br>III. Independent practice<br>IV. Presenting and structuring<br>V. Feedback</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I-IV-III-II-V"
+        },
+        {
+          "correct": true,
+          "text": "I-IV-II-III-V"
+        },
+        {
+          "correct": false,
+          "text": "IV-I-III-II-V"
+        },
+        {
+          "correct": false,
+          "text": "IV-I-II-III-V"
+        }
+      ]
+    },
+    {
+      "question": "To make our children \"little scientists\", which methods(s) should we employ more often?<br><span style=\"font-weight: normal;\">I. Inquiry<br>II. Problem-solving<br>III. laboratory<br></span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "II and III"
+        },
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "I and III"
+        },
+        {
+          "correct": true,
+          "text": "I, II, and III"
+        }
+      ]
+    },
+    {
+      "question": "In which of the following would programmed learning to be most likely to be found?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "In a class divided into small groups"
+        },
+        {
+          "correct": false,
+          "text": "Independent study"
+        },
+        {
+          "correct": false,
+          "text": "In a dyadic group"
+        },
+        {
+          "correct": true,
+          "text": "In a class where teacher tries to individualize instruction"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Raquel helped his students recall that stalagmites grow in the ground while stalactites grow on the \"ceiling\" of a cave by associating \"G\" in stalagmites with ground and \"C\" with ceiling. What did teacher R made use of?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "visual aid"
+        },
+        {
+          "correct": false,
+          "text": "audio-visual aid"
+        },
+        {
+          "correct": false,
+          "text": "meaning-maker device"
+        },
+        {
+          "correct": true,
+          "text": "mnemonic device"
+        }
+      ]
+    },
+    {
+      "question": "If you make use of the indirect instruction method, you begin your lesson with _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "guided practice"
+        },
+        {
+          "correct": false,
+          "text": "a review of previous day's work"
+        },
+        {
+          "correct": true,
+          "text": "advance organizers that provide an overall picture of the lesson"
+        },
+        {
+          "correct": false,
+          "text": "independent practice"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Helen strives to draw participation of every student in her classroom discussion. Which student's need is she trying to address? The need _____ ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "to show their oral abilities to the rest of the class"
+        },
+        {
+          "correct": false,
+          "text": "to be creative"
+        },
+        {
+          "correct": true,
+          "text": "to feel significant and be part of a group"
+        },
+        {
+          "correct": false,
+          "text": "to get everything out in the open"
+        }
+      ]
+    },
+    {
+      "question": "Dr. Silor, a reading teacher stays 30 minutes daily after class and teaches the slow readers how to read. What is this called?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "make-up class"
+        },
+        {
+          "correct": false,
+          "text": "enrichment activity"
+        },
+        {
+          "correct": true,
+          "text": "remedial instruction"
+        },
+        {
+          "correct": false,
+          "text": "developmental reading"
+        }
+      ]
+    },
+    {
+      "question": "Mrs. Ramos provided reading materials for varying levels of difficulty to the three groups of learners. Which principle is implemented by her action?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Focus on individual's need to achieve"
+        },
+        {
+          "correct": false,
+          "text": "Help each student attention"
+        },
+        {
+          "correct": false,
+          "text": "Focus on student attention"
+        },
+        {
+          "correct": false,
+          "text": "Provide informative feedback"
+        }
+      ]
+    },
+    {
+      "question": "Miss Santos aims to maximize individual learning of her third year students in Science. If she intends to permit students to proceed at their own rate, which of the following will she apply?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cooperative learning"
+        },
+        {
+          "correct": true,
+          "text": "modular instruction"
+        },
+        {
+          "correct": false,
+          "text": "hands-on learning"
+        },
+        {
+          "correct": false,
+          "text": "supervised study"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Willie wants to review and check on the lesson of the previous day? Which one will be most reliable?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "having students identify homework problems"
+        },
+        {
+          "correct": false,
+          "text": "having students correct each other's work"
+        },
+        {
+          "correct": false,
+          "text": "sampling the understanding of a few students"
+        },
+        {
+          "correct": true,
+          "text": "explicitly reviewing the task-relevant information necessary for the day's lesson."
+        }
+      ]
+    },
+    {
+      "question": "Teacher May's pupils are quite weak academically and her lesson is already far behind time table. How should teacher M proceed with her lesson?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "experientially"
+        },
+        {
+          "correct": false,
+          "text": "inductively"
+        },
+        {
+          "correct": false,
+          "text": "logically"
+        },
+        {
+          "correct": true,
+          "text": "deductively"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Badette is a teacher of English as a Second Language; he uses vocabulary cards, fill-in the blank sentences, and dictation and writing exercises in teaching a lesson about grocery shopping. Based on this information, which of the following is a valid conclusion?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The teacher is reinforcing by giving the same information in a variety of methods."
+        },
+        {
+          "correct": false,
+          "text": "The teacher is applying Bloom's hierarchy of cognitive learning."
+        },
+        {
+          "correct": false,
+          "text": "The teacher wants to do less talk."
+        },
+        {
+          "correct": false,
+          "text": "The teacher is emphasizing listening and speaking skills."
+        }
+      ]
+    },
+    {
+      "question": "Teacher Minda instructs her class to refer to the dictionary in correcting their spelled words. Which practice is exemplified?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "curriculum indigenization"
+        },
+        {
+          "correct": false,
+          "text": "computer-assisted instruction"
+        },
+        {
+          "correct": false,
+          "text": "multi-level isntruction"
+        },
+        {
+          "correct": true,
+          "text": "self-evaluation"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Agnes begins her lesson with concrete life experiences then leads the students to abstractions. Which method did she employ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "transducive"
+        },
+        {
+          "correct": true,
+          "text": "inductive"
+        },
+        {
+          "correct": false,
+          "text": "deductive"
+        },
+        {
+          "correct": false,
+          "text": "interactive"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Betty subscribes to the mental discipline approach. Which is convinced of?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The easier the subject, the greater the value of the subject."
+        },
+        {
+          "correct": false,
+          "text": "The less the student engages himself in metal exercise, the better for the student."
+        },
+        {
+          "correct": true,
+          "text": "The more difficult the subject, the more the student has to exercise the mind, the greater the value of the subject."
+        },
+        {
+          "correct": false,
+          "text": "The more bodily exercises, the better for the student."
+        }
+      ]
+    },
+    {
+      "question": "Richard excels in classifying different types of leaves and rocks. He loves to collect specimen and catalogs them. His strength is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "naturalistic intelligence"
+        },
+        {
+          "correct": false,
+          "text": "intrapersonal intelligence"
+        },
+        {
+          "correct": false,
+          "text": "spatial intelligence"
+        },
+        {
+          "correct": false,
+          "text": "existential intelligence"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Zayda assesses her pupil's needs then declared that everyone should have something to share and learn from one another. What is the teacher preparing the class for?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "buzz session"
+        },
+        {
+          "correct": false,
+          "text": "remedial isntruction"
+        },
+        {
+          "correct": true,
+          "text": "peer tutoring"
+        },
+        {
+          "correct": false,
+          "text": "ability grouping"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Monera introduces a topic on earthquakes. Then she helps her students determine what they need to know about earthquakes and the activities and resources which help them learn. WHich technique does the teacher employ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "individualized instruction"
+        },
+        {
+          "correct": false,
+          "text": "computer-assisted instruction"
+        },
+        {
+          "correct": true,
+          "text": "self-directed learning"
+        },
+        {
+          "correct": false,
+          "text": "collaborative learning"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Rita, a science teacher, makes sure all eyes are on her as she demonstrates the proper behavior for lighting a Bunsen Burner. Whose theory supports Teacher R's practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Piaget's"
+        },
+        {
+          "correct": false,
+          "text": "Vygotsky"
+        },
+        {
+          "correct": false,
+          "text": "Glasser's"
+        },
+        {
+          "correct": true,
+          "text": "Bandura's"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Becky teaches the rest of the class while one group works in a study area on a special task. Students share materials to help one another, and assess each ideas and assignment. What approach does the teacher use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "integrative learning"
+        },
+        {
+          "correct": false,
+          "text": "adaptive instruction"
+        },
+        {
+          "correct": false,
+          "text": "independent study"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Lou demonstrated to the class how to focus the microscope, after which the students were asked to practice. Which teacher prompting is least intrusive?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Hold the hand of the student and adjust the mirror."
+        },
+        {
+          "correct": false,
+          "text": "Point the mirror and gesture how to adjust."
+        },
+        {
+          "correct": true,
+          "text": "Remind the class to first adjust the mirror."
+        },
+        {
+          "correct": false,
+          "text": "Adjust the mirror herself."
+        }
+      ]
+    },
+    {
+      "question": "Mrs. Velez wants to generate as many ideas as she can, as the class si about to embark community outreach program. Which of the following will she employ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "role playing"
+        },
+        {
+          "correct": true,
+          "text": "brainstorming"
+        },
+        {
+          "correct": false,
+          "text": "brainwashing"
+        },
+        {
+          "correct": false,
+          "text": "stimulation"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Becky wants her pupils to master the skill in adding unlike fractions. Which method should she use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lecture method"
+        },
+        {
+          "correct": true,
+          "text": "drill method"
+        },
+        {
+          "correct": false,
+          "text": "laboratory method"
+        },
+        {
+          "correct": false,
+          "text": "discovery method"
+        }
+      ]
+    },
+    {
+      "question": "Nicole enjoys games like scrabble, anagrams, and password. Which type of intelligence is strong in Nicole?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "interpersonal intelligence"
+        },
+        {
+          "correct": true,
+          "text": "linguistic intelligence"
+        },
+        {
+          "correct": false,
+          "text": "spatial intelligence"
+        },
+        {
+          "correct": false,
+          "text": "logical-mathematical intelligence"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Emma wants to encourage collaborative learning in her class. Which one should she do to heighten positive interdependencies?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Emphasize the idea that the successes of the group depends on the diligent student."
+        },
+        {
+          "correct": true,
+          "text": "Works for homogeneous grouping."
+        },
+        {
+          "correct": false,
+          "text": "Provide each student with one set of resources."
+        },
+        {
+          "correct": false,
+          "text": "Provide only one answer sheet."
+        }
+      ]
+    },
+    {
+      "question": "The last year of pre-service education is student teaching. Student teaching is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "simulation"
+        },
+        {
+          "correct": false,
+          "text": "hands-on"
+        },
+        {
+          "correct": false,
+          "text": "demonstration"
+        },
+        {
+          "correct": false,
+          "text": "role-playing"
+        }
+      ]
+    },
+    {
+      "question": "Which one will likely contribute to the effectiveness of small discussion?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Repeating directions over and over."
+        },
+        {
+          "correct": true,
+          "text": "Developing a plan for getting non-volunteers to respond."
+        },
+        {
+          "correct": false,
+          "text": "Threatening atmosphere."
+        },
+        {
+          "correct": false,
+          "text": "Volunteers is the rule for contributing to the discussion."
+        }
+      ]
+    },
+    {
+      "question": "Case #1<span style=\"font-weight: normal;\"> - Mrs Sabado developed a lesson on the concept fraction this way, first she presented one whole pizze, then asked a pupil to cut it into two. She called on part of the pizza 1/2 and the two parts 2/2 then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then she wrote 1/4, 2/4 and 3/4. Then she used the model of fractions (wooden circles divided into 2, 3, and 4 show 1/2, 1/4, 1/3, 2/4). Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.<br></span><br>Did Mrs. Sabado follow Bruner's three-stage development of knowledge?<br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "No"
+        },
+        {
+          "correct": false,
+          "text": "Only in the first stage"
+        },
+        {
+          "correct": false,
+          "text": "Cannot be determined because the lesson was not developed fully"
+        },
+        {
+          "correct": true,
+          "text": "Yes"
+        }
+      ]
+    },
+    {
+      "question": "Case #1<span style=\"font-weight: normal;\"> - Mrs Sabado developed a lesson on the concept fraction this way, first she presented one whole pizze, then asked a pupil to cut it into two. She called on part of the pizza 1/2 and the two parts 2/2 then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then she wrote 1/4, 2/4 and 3/4. Then she used the model of fractions (wooden circles divided into 2, 3, and 4 show 1/2, 1/4, 1/3, 2/4). Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.</span><br><br>Which part of the lesson is the symbolic stage?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Dividing the pizza further into four"
+        },
+        {
+          "correct": false,
+          "text": "Dividing the pizza into two"
+        },
+        {
+          "correct": true,
+          "text": "Writing the fractions 1/2, 1/4, 1/3, 2/4 on the board"
+        },
+        {
+          "correct": false,
+          "text": "Using the model of fractions"
+        }
+      ]
+    },
+    {
+      "question": "Case #1<span style=\"font-weight: normal;\"> - Mrs Sabado developed a lesson on the concept fraction this way, first she presented one whole pizze, then asked a pupil to cut it into two. She called on part of the pizza 1/2 and the two parts 2/2 then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then she wrote 1/4, 2/4 and 3/4. Then she used the model of fractions (wooden circles divided into 2, 3, and 4 show 1/2, 1/4, 1/3, 2/4). Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.</span><br><br>Does the development of the lesson on fraction conform to the bottom-up arrangement of the learning experiences in Edgar Dale's Cone of Experience?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cannot be determined"
+        },
+        {
+          "correct": true,
+          "text": "Yes"
+        },
+        {
+          "correct": false,
+          "text": "Up to the second phase of the lesson"
+        },
+        {
+          "correct": false,
+          "text": "Yes"
+        }
+      ]
+    },
+    {
+      "question": "Case #1<span style=\"font-weight: normal;\"> - Mrs Sabado developed a lesson on the concept fraction this way, first she presented one whole pizze, then asked a pupil to cut it into two. She called on part of the pizza 1/2 and the two parts 2/2 then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then she wrote 1/4, 2/4 and 3/4. Then she used the model of fractions (wooden circles divided into 2, 3, and 4 show 1/2, 1/4, 1/3, 2/4). Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.</span><br><br>In the context of Bruner's principle on knowledge representation, which is the enactive phase of the lesson on fractions?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Using the model of fractions"
+        },
+        {
+          "correct": false,
+          "text": "Writing the fractions 1/2, 1/4, 1/3 on the board"
+        },
+        {
+          "correct": true,
+          "text": "Presenting the pizza and cutting it into two and four"
+        },
+        {
+          "correct": false,
+          "text": "Asking the meaning of 1/2, 1/4, 1/3"
+        }
+      ]
+    },
+    {
+      "question": "Case #1<span style=\"font-weight: normal;\"> - Mrs Sabado developed a lesson on the concept fraction this way, first she presented one whole pizze, then asked a pupil to cut it into two. She called on part of the pizza 1/2 and the two parts 2/2 then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, then she wrote 1/4, 2/4 and 3/4. Then she used the model of fractions (wooden circles divided into 2, 3, and 4 show 1/2, 1/4, 1/3, 2/4). Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.</span><br><br>Would it be easier to understand and retain the concept of fractions if Mrs. Sabado began the lesson on fractions with the meaning of 1/2, 1/4, 1/3 etc?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "No, for better learning we proceed from the concrete to the abstract."
+        },
+        {
+          "correct": false,
+          "text": "Yes, provided we proceed to the concrete."
+        },
+        {
+          "correct": false,
+          "text": "It depends on the teaching skills of the teacher."
+        },
+        {
+          "correct": false,
+          "text": "Yes, provided we include a concrete application of the abstract."
+        }
+      ]
+    },
+    {
+      "question": "Case #2<span style=\"font-weight: normal;\">&nbsp;- In a faculty recollection, the teachers were asked to share their thoughts of the learner, their primary customer. What follow are the gists of what were shared:</span><br><br>Teacher A<span style=\"font-weight: normal;\"> - \"The learner is a product of his environment. Sometimes he has no choice. He is determined by his environment\"</span><br>Teacher B<span style=\"font-weight: normal;\">&nbsp;- \"The learner can choose what he can become despite his environment\"</span><br>Teacher C<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a social being who learns well through an active interplay with others\"</span><br>Teacher D<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a rational being. Schools should develop his rational and moral powers.\"</span><br><br>Whose philosophical concepts is that of Teacher A?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Rationalist's"
+        },
+        {
+          "correct": true,
+          "text": "Behaviorist's"
+        },
+        {
+          "correct": false,
+          "text": "Existensialist's"
+        },
+        {
+          "correct": false,
+          "text": "Progressivist's"
+        }
+      ]
+    },
+    {
+      "question": "Case #2<span style=\"font-weight: normal;\">&nbsp;- In a faculty recollection, the teachers were asked to share their thoughts of the learner, their primary customer. What follow are the gists of what were shared:</span><br><br>Teacher A<span style=\"font-weight: normal;\">&nbsp;-&nbsp;\"The learner is a product of his environment. Sometimes he has no choice. He is determined by his environment\"</span><br>Teacher B<span style=\"font-weight: normal;\">&nbsp;- \"The learner can choose what he can become despite his environment\"</span><br>Teacher C<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a social being who learns well through an active interplay with others\"</span><br>Teacher D<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a rational being. Schools should develop his rational and moral powers.\"<br></span><br>Teacher B's response comes from the mouth of a/an _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Behaviorist"
+        },
+        {
+          "correct": true,
+          "text": "Existentialist"
+        },
+        {
+          "correct": false,
+          "text": "Essentialist"
+        },
+        {
+          "correct": false,
+          "text": "Perennialist"
+        }
+      ]
+    },
+    {
+      "question": "Case #2<span style=\"font-weight: normal;\">&nbsp;- In a faculty recollection, the teachers were asked to share their thoughts of the learner, their primary customer. What follow are the gists of what were shared:</span><br><br>Teacher A<span style=\"font-weight: normal;\">&nbsp;-&nbsp;\"The learner is a product of his environment. Sometimes he has no choice. He is determined by his environment\"</span><br>Teacher B<span style=\"font-weight: normal;\">&nbsp;- \"The learner can choose what he can become despite his environment\"</span><br>Teacher C<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a social being who learns well through an active interplay with others\"</span><br>Teacher D<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a rational being. Schools should develop his rational and moral powers.\"<br></span><br>If you agree with Teacher C, you are more of a/an _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Perennialist"
+        },
+        {
+          "correct": false,
+          "text": "Rationalist"
+        },
+        {
+          "correct": false,
+          "text": "Existentialist"
+        },
+        {
+          "correct": true,
+          "text": "Progressivist"
+        }
+      ]
+    },
+    {
+      "question": "Case #2<span style=\"font-weight: normal;\">&nbsp;- In a faculty recollection, the teachers were asked to share their thoughts of the learner, their primary customer. What follow are the gists of what were shared:</span><br><br>Teacher A<span style=\"font-weight: normal;\">&nbsp;-&nbsp;\"The learner is a product of his environment. Sometimes he has no choice. He is determined by his environment\"</span><br>Teacher B<span style=\"font-weight: normal;\">&nbsp;- \"The learner can choose what he can become despite his environment\"</span><br>Teacher C<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a social being who learns well through an active interplay with others\"</span><br>Teacher D<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a rational being. Schools should develop his rational and moral powers.\"<br></span><br>If you identify yourself with Teacher D, you adhere to the _____ philosophy.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Progressivist"
+        },
+        {
+          "correct": false,
+          "text": "Behaviorist"
+        },
+        {
+          "correct": false,
+          "text": "Existentialist"
+        },
+        {
+          "correct": true,
+          "text": "Perennialist"
+        }
+      ]
+    },
+    {
+      "question": "Case #2<span style=\"font-weight: normal;\">&nbsp;- In a faculty recollection, the teachers were asked to share their thoughts of the learner, their primary customer. What follow are the gists of what were shared:</span><br><br>Teacher A<span style=\"font-weight: normal;\">&nbsp;-&nbsp;\"The learner is a product of his environment. Sometimes he has no choice. He is determined by his environment\"</span><br>Teacher B<span style=\"font-weight: normal;\">&nbsp;- \"The learner can choose what he can become despite his environment\"</span><br>Teacher C<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a social being who learns well through an active interplay with others\"</span><br>Teacher D<span style=\"font-weight: normal;\">&nbsp;- \"The learner is a rational being. Schools should develop his rational and moral powers.\"<br></span><br>Whose response denies man's free will?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Teacher A's"
+        },
+        {
+          "correct": false,
+          "text": "Teacher C's"
+        },
+        {
+          "correct": false,
+          "text": "Teacher D's"
+        },
+        {
+          "correct": false,
+          "text": "Teacher B's"
+        }
+      ]
+    },
+    {
+      "question": "Case #3 - <span style=\"font-weight: normal;\">School Head A wants her teachers to be constructivist in their teaching orientation.</span><br><br>What does School Head A want her teacher to do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Make their students derive meaning from what is presented"
+        },
+        {
+          "correct": false,
+          "text": "Let their students construct meaningful sentences based on the lesson"
+        },
+        {
+          "correct": false,
+          "text": "Require their students to come up with a construct of the lesson"
+        },
+        {
+          "correct": false,
+          "text": "Give meaning of what they present in class"
+        }
+      ]
+    },
+    {
+      "question": "Case #3 -&nbsp;<span style=\"font-weight: normal;\">School Head A wants her teachers to be constructivist in their teaching orientation.</span><br><br>Which one should her teachers then avoid? Student's _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "self-directed learning"
+        },
+        {
+          "correct": true,
+          "text": "memorization of facts for testing"
+        },
+        {
+          "correct": false,
+          "text": "inquiry"
+        },
+        {
+          "correct": false,
+          "text": "reflection"
+        }
+      ]
+    },
+    {
+      "question": "Case #3 -&nbsp;<span style=\"font-weight: normal;\">School Head A wants her teachers to be constructivist in their teaching orientation.</span><br><br>Which materials will her teachers most likely use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "facts"
+        },
+        {
+          "correct": false,
+          "text": "hypothesis"
+        },
+        {
+          "correct": false,
+          "text": "time-tested principle"
+        },
+        {
+          "correct": false,
+          "text": "laws"
+        }
+      ]
+    },
+    {
+      "question": "Case #3 -&nbsp;<span style=\"font-weight: normal;\">School Head A wants her teachers to be constructivist in their teaching orientation.</span><br><br>Which materials will her teachers most likely AVOID?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "open-ended topics"
+        },
+        {
+          "correct": false,
+          "text": "problems or cases"
+        },
+        {
+          "correct": false,
+          "text": "controversial issues"
+        },
+        {
+          "correct": true,
+          "text": "unquestionable laws"
+        }
+      ]
+    },
+    {
+      "question": "Case #3 -&nbsp;<span style=\"font-weight: normal;\">School Head A wants her teachers to be constructivist in their teaching orientation.</span><br><br>On which assumption/s is the principal's action anchored?<br><span style=\"font-weight: normal;\">I. Students learn by personally constructing meaning of what is taught.<br>II. Students construct or reconstruct meanings based on experience.<br>III. Students derive meaning from the meaning that their teacher gives.</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I only"
+        },
+        {
+          "correct": false,
+          "text": "I and III"
+        },
+        {
+          "correct": true,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "II only"
+        }
+      ]
+    },
+    {
+      "question": "Peter is able to gain a lot of friends. He is well-liked and popular among other students. He has a natural flare for making people laugh and is almost always ready to help them. He has a natural flare for making people laugh and is almost always ready to help them. He possesses what is called _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "naturalistic intelligence"
+        },
+        {
+          "correct": false,
+          "text": "spatial intelligence"
+        },
+        {
+          "correct": false,
+          "text": "intrapersonal intelligence"
+        },
+        {
+          "correct": true,
+          "text": "interpersonal intelligence"
+        }
+      ]
+    },
+    {
+      "question": "Ferdie has a high level of self-awareness. He always spends time reflecting about his strengths, and weaknesses and is able to use strategies to further improve himself. His strength lies in his",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "emotional intelligence"
+        },
+        {
+          "correct": true,
+          "text": "intrapersonal intelligence"
+        },
+        {
+          "correct": false,
+          "text": "existential intelligence"
+        },
+        {
+          "correct": false,
+          "text": "interpersonal intelligence"
+        }
+      ]
+    },
+    {
+      "question": "In the class of Mrs. Eduave, she asked the question \"How can you distinguish facts and opinions in the study presented?\" How is this question classified?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Analysis"
+        },
+        {
+          "correct": false,
+          "text": "Evaluation"
+        },
+        {
+          "correct": false,
+          "text": "Application"
+        },
+        {
+          "correct": false,
+          "text": "Comprehension"
+        }
+      ]
+    },
+    {
+      "question": "Instead of describing the steps in opening a document on file in the computer, I ask my students to do it graphically. What should be used?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Continuous scale"
+        },
+        {
+          "correct": false,
+          "text": "Fishbone diagram"
+        },
+        {
+          "correct": false,
+          "text": "Concept pattern ogranizer"
+        },
+        {
+          "correct": true,
+          "text": "Flowchart"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Alvin wants to teach the class the rules in playing basketball. Which method is most appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Discovery"
+        },
+        {
+          "correct": false,
+          "text": "Inductive reasoning"
+        },
+        {
+          "correct": false,
+          "text": "Problem solving"
+        },
+        {
+          "correct": true,
+          "text": "Direct instruction"
+        }
+      ]
+    },
+    {
+      "question": "Case #4<span style=\"font-weight: normal;\">&nbsp;- Here is an excerpt of a teacher's lesson plan for Grade V.</span><br><br><span style=\"font-weight: normal;\">Objective: To Identify the parts of a flower and their respective functions.</span><br><br><span style=\"font-weight: normal;\">Procedure:</span><br><span style=\"font-weight: normal;\">1. Motivation - Ask the pupils to show their favorite flower and explain why it is their favorite. (The pupils were assigned to bring their favorite flower in class the day before.)</span><br><span style=\"font-weight: normal;\">2. Lesson Development</span><br><span style=\"font-weight: normal;\">- Present a drawing of a gumamela flower with parts labeled then give a lecture on the parts of a flower by using the labeled drawing</span><br><span style=\"font-weight: normal;\">- Ask the pupils to look for these parts in the flower they brought</span><br><span style=\"font-weight: normal;\">- Summarize the lesson by asking them if they like their flowers and why</span><br><span style=\"font-weight: normal;\">3. Evaluation - Give a short quiz on the function of each part of the flower. Make the students identify the parts of a flower and their respective functions.</span><br><br>Is the lesson development complete to cover the lesson objective?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "No, it lacks discussion on the functions of the parts f a flower."
+        },
+        {
+          "correct": false,
+          "text": "Yes, a discussion of the parts of a flower is also a discussion of their respective functions."
+        },
+        {
+          "correct": false,
+          "text": "No, it can be completed with the use of a odel showing the parts of a flower."
+        },
+        {
+          "correct": false,
+          "text": "Yes, it is the evaluation item that is out of place."
+        }
+      ]
+    },
+    {
+      "question": "Case #4<span style=\"font-weight: normal;\">&nbsp;- Here is an excerpt of a teacher's lesson plan for Grade V.</span><br><br><span style=\"font-weight: normal;\">Objective: To Identify the parts of a flower and their respective functions.</span><br><br><span style=\"font-weight: normal;\">Procedure:</span><br><span style=\"font-weight: normal;\">1. Motivation - Ask the pupils to show their favorite flower and explain why it is their favorite. (The pupils were assigned to bring their favorite flower in class the day before.)</span><br><span style=\"font-weight: normal;\">2. Lesson Development</span><br><span style=\"font-weight: normal;\">- Present a drawing of a gumamela flower with parts labeled then give a lecture on the parts of a flower by using the labeled drawing</span><br><span style=\"font-weight: normal;\">- Ask the pupils to look for these parts in the flower they brought</span><br><span style=\"font-weight: normal;\">- Summarize the lesson by asking them if they like their flowers and why</span><br><span style=\"font-weight: normal;\">3. Evaluation - Give a short quiz on the function of each part of the flower. Make the students identify the parts of a flower and their respective functions.</span><br><br>Did the lesson development reach the level of integration of facts for conceptual understanding?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Yes"
+        },
+        {
+          "correct": false,
+          "text": "Somewhat, when the pupils were asked to explain why they like their flowers."
+        },
+        {
+          "correct": false,
+          "text": "Very much, identifying the parts of a flower with the help of a labelled drawing is in the level of integration."
+        },
+        {
+          "correct": true,
+          "text": "No"
+        }
+      ]
+    },
+    {
+      "question": "Case #4<span style=\"font-weight: normal;\">&nbsp;- Here is an excerpt of a teacher's lesson plan for Grade V.</span><br><br><span style=\"font-weight: normal;\">Objective: To Identify the parts of a flower and their respective functions.</span><br><br><span style=\"font-weight: normal;\">Procedure:</span><br><span style=\"font-weight: normal;\">1. Motivation - Ask the pupils to show their favorite flower and explain why it is their favorite. (The pupils were assigned to bring their favorite flower in class the day before.)</span><br><span style=\"font-weight: normal;\">2. Lesson Development</span><br><span style=\"font-weight: normal;\">- Present a drawing of a gumamela flower with parts labeled then give a lecture on the parts of a flower by using the labeled drawing</span><br><span style=\"font-weight: normal;\">- Ask the pupils to look for these parts in the flower they brought</span><br><span style=\"font-weight: normal;\">- Summarize the lesson by asking them if they like their flowers and why</span><br><span style=\"font-weight: normal;\">3. Evaluation - Give a short quiz on the function of each part of the flower. Make the students identify the parts of a flower and their respective functions.</span><br><br>Was the evaluation item valid?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Yes, the parts of a flower include their respective functions."
+        },
+        {
+          "correct": true,
+          "text": "Yes, it matches with the lesson objective."
+        },
+        {
+          "correct": false,
+          "text": "No, teacher should ask the students to draw the gumamela flower and label the parts."
+        },
+        {
+          "correct": false,
+          "text": "No, the functions of the parts of a flower were not covered in the lesson."
+        }
+      ]
+    },
+    {
+      "question": "Case #4<span style=\"font-weight: normal;\">&nbsp;- Here is an excerpt of a teacher's lesson plan for Grade V.</span><br><br><span style=\"font-weight: normal;\">Objective: To Identify the parts of a flower and their respective functions.</span><br><br><span style=\"font-weight: normal;\">Procedure:</span><br><span style=\"font-weight: normal;\">1. Motivation - Ask the pupils to show their favorite flower and explain why it is their favorite. (The pupils were assigned to bring their favorite flower in class the day before.)</span><br><span style=\"font-weight: normal;\">2. Lesson Development</span><br><span style=\"font-weight: normal;\">- Present a drawing of a gumamela flower with parts labeled then give a lecture on the parts of a flower by using the labeled drawing</span><br><span style=\"font-weight: normal;\">- Ask the pupils to look for these parts in the flower they brought</span><br><span style=\"font-weight: normal;\">- Summarize the lesson by asking them if they like their flowers and why</span><br><span style=\"font-weight: normal;\">3. Evaluation - Give a short quiz on the function of each part of the flower. Make the students identify the parts of a flower and their respective functions.</span><br><br>Was the summary appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "No, it should have been based on the lesson objective."
+        },
+        {
+          "correct": false,
+          "text": "No, it should have been better if the students were asked to draw their flowers."
+        },
+        {
+          "correct": false,
+          "text": "Yes, it give the lesson an affective dimension."
+        },
+        {
+          "correct": false,
+          "text": "Yes, it was a why question and led the pupils to reflect."
+        }
+      ]
+    },
+    {
+      "question": "Case #4<span style=\"font-weight: normal;\">&nbsp;- Here is an excerpt of a teacher's lesson plan for Grade V.</span><br><br><span style=\"font-weight: normal;\">Objective: To Identify the parts of a flower and their respective functions.</span><br><br><span style=\"font-weight: normal;\">Procedure:</span><br><span style=\"font-weight: normal;\">1. Motivation - Ask the pupils to show their favorite flower and explain why it is their favorite. (The pupils were assigned to bring their favorite flower in class the day before.)</span><br><span style=\"font-weight: normal;\">2. Lesson Development</span><br><span style=\"font-weight: normal;\">- Present a drawing of a gumamela flower with parts labeled then give a lecture on the parts of a flower by using the labeled drawing</span><br><span style=\"font-weight: normal;\">- Ask the pupils to look for these parts in the flower they brought</span><br><span style=\"font-weight: normal;\">- Summarize the lesson by asking them if they like their flowers and why</span><br><span style=\"font-weight: normal;\">3. Evaluation - Give a short quiz on the function of each part of the flower. Make the students identify the parts of a flower and their respective functions.</span><br><br>Based on principles of instructional planning particularly on content organization, how can the lesson be improved?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Present more flowers in class."
+        },
+        {
+          "correct": true,
+          "text": "Include a discussion on the functions of each part of the flower."
+        },
+        {
+          "correct": false,
+          "text": "Ask the pupils to draw generalization of flower parts based on what they heard and saw in class."
+        },
+        {
+          "correct": false,
+          "text": "Assign the class to make a garden of flowers in school."
+        }
+      ]
+    },
+    {
+      "question": "Case #5<span style=\"font-weight: normal;\">&nbsp;- Teacher F has a hard time getting the attention of her class. When she checks for understanding of the lesson after a usual forty-five minute lecture, she finds out that only one or two can answer her questions. This has become a pattern so one time, when the class could not answer, she gave a test.</span><br><br>With the principles of learning in mind, which one can help Teacher F solve her student disciplinary problem?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Do interactive teaching"
+        },
+        {
+          "correct": false,
+          "text": "Call on their first name"
+        },
+        {
+          "correct": false,
+          "text": "Change seat plan of the class"
+        },
+        {
+          "correct": false,
+          "text": "Assign monitors in class"
+        }
+      ]
+    },
+    {
+      "question": "Case #5<span style=\"font-weight: normal;\">&nbsp;- Teacher F has a hard time getting the attention of her class. When she checks for understanding of the lesson after a usual forty-five minute lecture, she finds out that only one or two can answer her questions. This has become a pattern so one time, when the class could not answer, she gave a test.</span><br><br>Which act of Teacher F is contrary to the principles of teaching?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "giving a lecture"
+        },
+        {
+          "correct": false,
+          "text": "checking for understanding of the lesson in the process of teaching"
+        },
+        {
+          "correct": true,
+          "text": "giving a test to discipline the class"
+        },
+        {
+          "correct": false,
+          "text": "asking questions to check for understanding"
+        }
+      ]
+    },
+    {
+      "question": "Case #5<span style=\"font-weight: normal;\">&nbsp;- Teacher F has a hard time getting the attention of her class. When she checks for understanding of the lesson after a usual forty-five minute lecture, she finds out that only one or two can answer her questions. This has become a pattern so one time, when the class could not answer, she gave a test.</span><br><br>Can the inattentiveness of Teacher F's class be attributed to his use of the lecture method?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Yes, if Teacher F is an inexperienced teacher."
+        },
+        {
+          "correct": false,
+          "text": "No, if the students are intelligent."
+        },
+        {
+          "correct": false,
+          "text": "Cannot be determined."
+        },
+        {
+          "correct": true,
+          "text": "Yes, if the lecture was not interactive."
+        }
+      ]
+    },
+    {
+      "question": "Case #5<span style=\"font-weight: normal;\">&nbsp;- Teacher F has a hard time getting the attention of her class. When she checks for understanding of the lesson after a usual forty-five minute lecture, she finds out that only one or two can answer her questions. This has become a pattern so one time, when the class could not answer, she gave a test.</span><br><br>What does the inattentiveness of most of Teacher F's pupil confirm?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The lack of academic preparation of some teachers."
+        },
+        {
+          "correct": false,
+          "text": "The strange behavior of today's students."
+        },
+        {
+          "correct": false,
+          "text": "The stubbornness of student group."
+        },
+        {
+          "correct": false,
+          "text": "The \"ripple effect\" of behavior."
+        }
+      ]
+    },
+    {
+      "question": "Case #6<span style=\"font-weight: normal;\">&nbsp;- On the first day of school, Teacher X oriented his class on procedures to be observed in passing papers, getting textbooks from and returning the same on the bookshelf, leaving the room for necessity, and conducting group work. He arranged the chairs in such a way that students can interact and move around without unnecessarily distracting those seated. He involved the class in the formulation of rules to ensure punctuality, order and cleanliness in the classroom.</span><br><br>Which adjective appropriately describes Teacher X as a classroom manager?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Modern"
+        },
+        {
+          "correct": true,
+          "text": "Proactive"
+        },
+        {
+          "correct": false,
+          "text": "Reactive"
+        },
+        {
+          "correct": false,
+          "text": "Traditional"
+        }
+      ]
+    },
+    {
+      "question": "Case #6<span style=\"font-weight: normal;\">&nbsp;- On the first day of school, Teacher X oriented his class on procedures to be observed in passing papers, getting textbooks from and returning the same on the bookshelf, leaving the room for necessity, and conducting group work. He arranged the chairs in such a way that students can interact and move around without unnecessarily distracting those seated. He involved the class in the formulation of rules to ensure punctuality, order and cleanliness in the classroom.</span><br><br>Was it sound classroom management practice for Teacher X to have involved the students in the formulation of the class rules?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Yes, it makes students feel a sense of ownership of the rules"
+        },
+        {
+          "correct": false,
+          "text": "No, it weakens the teacher's authority over his students"
+        },
+        {
+          "correct": false,
+          "text": "Yes, it lessens a teacher's work"
+        },
+        {
+          "correct": false,
+          "text": "No, it is a student's act of usurpation of teacher's power"
+        }
+      ]
+    },
+    {
+      "question": "Case #6<span style=\"font-weight: normal;\">&nbsp;- On the first day of school, Teacher X oriented his class on procedures to be observed in passing papers, getting textbooks from and returning the same on the bookshelf, leaving the room for necessity, and conducting group work. He arranged the chairs in such a way that students can interact and move around without unnecessarily distracting those seated. He involved the class in the formulation of rules to ensure punctuality, order and cleanliness in the classroom.</span><br><br>Which assumption underlies Teacher X's classroom management practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Classroom routines leave more time for class instruction"
+        },
+        {
+          "correct": false,
+          "text": "Classroom routines are boring and will work when imposed"
+        },
+        {
+          "correct": false,
+          "text": "Students need to be treated like adults to learn responsibility"
+        },
+        {
+          "correct": false,
+          "text": "Teacher's personality is a critical factor in classroom discipline"
+        }
+      ]
+    },
+    {
+      "question": "Case #6<span style=\"font-weight: normal;\">&nbsp;- On the first day of school, Teacher X oriented his class on procedures to be observed in passing papers, getting textbooks from and returning the same on the bookshelf, leaving the room for necessity, and conducting group work. He arranged the chairs in such a way that students can interact and move around without unnecessarily distracting those seated. He involved the class in the formulation of rules to ensure punctuality, order and cleanliness in the classroom.</span><br><br>On what belief is Teacher X's management practice &nbsp;anchored?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Classroom rules need to be imposed for order's sake"
+        },
+        {
+          "correct": false,
+          "text": "A teacher must lord his power over his students to be an effective classroom manager"
+        },
+        {
+          "correct": false,
+          "text": "A reactive classroom management style is effective"
+        },
+        {
+          "correct": true,
+          "text": "The classroom environment affects learning"
+        }
+      ]
+    },
+    {
+      "question": "Case #6<span style=\"font-weight: normal;\">&nbsp;- On the first day of school, Teacher X oriented his class on procedures to be observed in passing papers, getting textbooks from and returning the same on the bookshelf, leaving the room for necessity, and conducting group work. He arranged the chairs in such a way that students can interact and move around without unnecessarily distracting those seated. He involved the class in the formulation of rules to ensure punctuality, order and cleanliness in the classroom.</span><br><br>Teacher X involved his students in the formulation of class rules. Which describes his classroom management style?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Benevolent"
+        },
+        {
+          "correct": false,
+          "text": "Authoritarian"
+        },
+        {
+          "correct": true,
+          "text": "Democratic"
+        },
+        {
+          "correct": false,
+          "text": "Laisses faire"
+        }
+      ]
+    },
+    {
+      "question": "Case #7<span style=\"font-weight: normal;\">&nbsp;- With the topic on the human digestive system, Teacher J formulated the following lesson objectives:</span><br><span style=\"font-weight: normal;\">1. Given a model of the rules human circulation system, the student must be able to understand the route of blood circulation.</span><br><span style=\"font-weight: normal;\">2. After discussing the process of blood circulation, the teacher must be able to lead the pupils in enumerating circulatory system-related diseases and in citing the causes and prevention of such diseases.</span><br><br>Is objective #1 in keeping with the principles of lesson objective formulation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "No, the word \"understand\" is not behavior"
+        },
+        {
+          "correct": false,
+          "text": "Yes, \"Understand\" is an action word"
+        },
+        {
+          "correct": false,
+          "text": "Yes, it is very specific"
+        },
+        {
+          "correct": false,
+          "text": "No, it is not attainable"
+        }
+      ]
+    },
+    {
+      "question": "Case #7<span style=\"font-weight: normal;\">&nbsp;- With the topic on the human digestive system, Teacher J formulated the following lesson objectives:</span><br><span style=\"font-weight: normal;\">1. Given a model of the rules human circulation system, the student must be able to understand the route of blood circulation.</span><br><span style=\"font-weight: normal;\">2. After discussing the process of blood circulation, the teacher must be able to lead the pupils in enumerating circulatory system-related diseases and in citing the causes and prevention of such diseases.</span><br><br>Is objective #2 in accordance with principles of lesson objective formulation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "No, it does not describe pupils' learning behavior"
+        },
+        {
+          "correct": false,
+          "text": "Yes, it is formulated from the point of view of the teacher"
+        },
+        {
+          "correct": false,
+          "text": "No, it is very broad"
+        },
+        {
+          "correct": false,
+          "text": "Yes, it describe teacher's teaching activity"
+        }
+      ]
+    },
+    {
+      "question": "Case #7<span style=\"font-weight: normal;\">&nbsp;- With the topic on the human digestive system, Teacher J formulated the following lesson objectives:</span><br><span style=\"font-weight: normal;\">1. Given a model of the rules human circulation system, the student must be able to understand the route of blood circulation.</span><br><span style=\"font-weight: normal;\">2. After discussing the process of blood circulation, the teacher must be able to lead the pupils in enumerating circulatory system-related diseases and in citing the causes and prevention of such diseases.</span><br><br>Which one is the measurable learning behavior in objective #1?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "None"
+        },
+        {
+          "correct": false,
+          "text": "To understand"
+        },
+        {
+          "correct": false,
+          "text": "Route of blood circulation"
+        },
+        {
+          "correct": false,
+          "text": "able to understand"
+        }
+      ]
+    },
+    {
+      "question": "Case #7<span style=\"font-weight: normal;\">&nbsp;- With the topic on the human digestive system, Teacher J formulated the following lesson objectives:</span><br><span style=\"font-weight: normal;\">1. Given a model of the rules human circulation system, the student must be able to understand the route of blood circulation.</span><br><span style=\"font-weight: normal;\">2. After discussing the process of blood circulation, the teacher must be able to lead the pupils in enumerating circulatory system-related diseases and in citing the causes and prevention of such diseases.</span><br><br>How can you improve on objective #2?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Formulate it from the learner's point of view"
+        },
+        {
+          "correct": false,
+          "text": "Remove the phrase \"After discussing the process of blood circulation\""
+        },
+        {
+          "correct": false,
+          "text": "Cut it short"
+        },
+        {
+          "correct": false,
+          "text": "No need to improve on it"
+        }
+      ]
+    },
+    {
+      "question": "Case #7<span style=\"font-weight: normal;\">&nbsp;- With the topic on the human digestive system, Teacher J formulated the following lesson objectives:</span><br><span style=\"font-weight: normal;\">1. Given a model of the rules human circulation system, the student must be able to understand the route of blood circulation.</span><br><span style=\"font-weight: normal;\">2. After discussing the process of blood circulation, the teacher must be able to lead the pupils in enumerating circulatory system-related diseases and in citing the causes and prevention of such diseases.</span><br><br>Do both objectives include a criterion of success an element of a lesson objective cited by Rober Mager?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "No, they don't"
+        },
+        {
+          "correct": false,
+          "text": "Only objective #1 has"
+        },
+        {
+          "correct": false,
+          "text": "Yes, they do"
+        },
+        {
+          "correct": false,
+          "text": "Only objective #2 has"
+        }
+      ]
+    },
+    {
+      "question": "Case #9<span style=\"font-weight: normal;\">&nbsp;- Mr. Carpio's lesson was on water conservation. He presented a graph that compared water consumption of small and big families. Before he asked any of the questions, he asked someone to stand up to give an answer, he called only on those who raised their hands. The questions he asked were:</span><br><br><span style=\"font-weight: normal;\">1. What do you see in the graph?</span><br><span style=\"font-weight: normal;\">2. How do you compare the water consumption of small and big families?</span><br><span style=\"font-weight: normal;\">3. Why do most of the big families consume more water than the smaller families?</span><br><span style=\"font-weight: normal;\">4. Do all the small families consume less water than the big families? Explain your answer.</span><br><span style=\"font-weight: normal;\">5. In your opinion, why does one small family consume more water than one big family?</span><br><span style=\"font-weight: normal;\">6. In what ways is water wasted?</span><br><span style=\"font-weight: normal;\">7. What are ways of conserving water?</span><br><span style=\"font-weight: normal;\">8. Are the families presented good at water conservation? Why or why not?</span><br><span style=\"font-weight: normal;\">9. What generalization can you draw about water consumption and size of families?</span><br><br>Is there any convergent question from #1 to #8?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Yes, question #7"
+        },
+        {
+          "correct": false,
+          "text": "Yes, question #4"
+        },
+        {
+          "correct": false,
+          "text": "Yes, question #8"
+        },
+        {
+          "correct": true,
+          "text": "None"
+        }
+      ]
+    },
+    {
+      "question": "Case #9<span style=\"font-weight: normal;\">&nbsp;- Mr. Carpio's lesson was on water conservation. He presented a graph that compared water consumption of small and big families. Before he asked any of the questions, he asked someone to stand up to give an answer, he called only on those who raised their hands. The questions he asked were:</span><br><br><span style=\"font-weight: normal;\">1. What do you see in the graph?</span><br><span style=\"font-weight: normal;\">2. How do you compare the water consumption of small and big families?</span><br><span style=\"font-weight: normal;\">3. Why do most of the big families consume more water than the smaller families?</span><br><span style=\"font-weight: normal;\">4. Do all the small families consume less water than the big families? Explain your answer.</span><br><span style=\"font-weight: normal;\">5. In your opinion, why does one small family consume more water than one big family?</span><br><span style=\"font-weight: normal;\">6. In what ways is water wasted?</span><br><span style=\"font-weight: normal;\">7. What are ways of conserving water?</span><br><span style=\"font-weight: normal;\">8. Are the families presented good at water conservation? Why or why not?</span><br><span style=\"font-weight: normal;\">9. What generalization can you draw about water consumption and size of families?</span><br><br>Which question technique/s of Mr. Carpio do(es) not enhance interaction?<br><span style=\"font-weight: normal;\">I. Asking high-level questions<br>II. Calling only on those who raised their hands<br>III. Calling on someone before asking the question</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "II and III"
+        },
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "III"
+        },
+        {
+          "correct": false,
+          "text": "I and III"
+        }
+      ]
+    },
+    {
+      "question": "Case #9<span style=\"font-weight: normal;\">&nbsp;- Mr. Carpio's lesson was on water conservation. He presented a graph that compared water consumption of small and big families. Before he asked any of the questions, he asked someone to stand up to give an answer, he called only on those who raised their hands. The questions he asked were:</span><br><br><span style=\"font-weight: normal;\">1. What do you see in the graph?</span><br><span style=\"font-weight: normal;\">2. How do you compare the water consumption of small and big families?</span><br><span style=\"font-weight: normal;\">3. Why do most of the big families consume more water than the smaller families?</span><br><span style=\"font-weight: normal;\">4. Do all the small families consume less water than the big families? Explain your answer.</span><br><span style=\"font-weight: normal;\">5. In your opinion, why does one small family consume more water than one big family?</span><br><span style=\"font-weight: normal;\">6. In what ways is water wasted?</span><br><span style=\"font-weight: normal;\">7. What are ways of conserving water?</span><br><span style=\"font-weight: normal;\">8. Are the families presented good at water conservation? Why or why not?</span><br><span style=\"font-weight: normal;\">9. What generalization can you draw about water consumption and size of families?</span><br><br>Were all the questions of Mr. Carpio divergent?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Yes"
+        },
+        {
+          "correct": false,
+          "text": "No, except #4"
+        },
+        {
+          "correct": false,
+          "text": "No"
+        },
+        {
+          "correct": true,
+          "text": "Yes, except #1"
+        }
+      ]
+    },
+    {
+      "question": "Case #9<span style=\"font-weight: normal;\">&nbsp;- Mr. Carpio's lesson was on water conservation. He presented a graph that compared water consumption of small and big families. Before he asked any of the questions, he asked someone to stand up to give an answer, he called only on those who raised their hands. The questions he asked were:</span><br><br><span style=\"font-weight: normal;\">1. What do you see in the graph?</span><br><span style=\"font-weight: normal;\">2. How do you compare the water consumption of small and big families?</span><br><span style=\"font-weight: normal;\">3. Why do most of the big families consume more water than the smaller families?</span><br><span style=\"font-weight: normal;\">4. Do all the small families consume less water than the big families? Explain your answer.</span><br><span style=\"font-weight: normal;\">5. In your opinion, why does one small family consume more water than one big family?</span><br><span style=\"font-weight: normal;\">6. In what ways is water wasted?</span><br><span style=\"font-weight: normal;\">7. What are ways of conserving water?</span><br><span style=\"font-weight: normal;\">8. Are the families presented good at water conservation? Why or why not?</span><br><span style=\"font-weight: normal;\">9. What generalization can you draw about water consumption and size of families?</span><br><br>To connect the lesson on water conservation to the life of the students, which question is MOST appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "What maybe the reason why even if Family B is not as big as Family C, it consumes much more water than Family C?"
+        },
+        {
+          "correct": true,
+          "text": "How can you help conserve water?"
+        },
+        {
+          "correct": false,
+          "text": "Among the families, who contributes most to water conservation?"
+        },
+        {
+          "correct": false,
+          "text": "Based on your observations, in what ways do people contribute to water wastage?"
+        }
+      ]
+    },
+    {
+      "question": "Which statement on \"wait time\" is CORRECT?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "wait time turns off slow thinking students"
+        },
+        {
+          "correct": true,
+          "text": "The higher the level of the question, the longer the wait time"
+        },
+        {
+          "correct": false,
+          "text": "For quality response, \"what\" and \"why\" questions require equal wait time"
+        },
+        {
+          "correct": false,
+          "text": "Wwait time discourages the brighter group of students"
+        }
+      ]
+    },
+    {
+      "question": "Situation 1<span style=\"font-weight: normal;\">&nbsp;- After reading and paraphrasing Robert Frost's \"Stopping by the Woods on a Snowy Evening\", Mr. Sales asked the class to share any insight derived from the poem.</span><br><br>The class was asked to share their insights about the poem. The ability to come up with an insight stems from the ability to _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "analyze parts of a whole"
+        },
+        {
+          "correct": true,
+          "text": "evaluate the worthiness of a thing"
+        },
+        {
+          "correct": false,
+          "text": "relate and organize things and ideas"
+        },
+        {
+          "correct": false,
+          "text": "comprehend the subject that is being studied"
+        }
+      ]
+    },
+    {
+      "question": "Situation 1<span style=\"font-weight: normal;\">&nbsp;- After reading and paraphrasing Robert Frost's \"Stopping by the Woods on a Snowy Evening\", Mr. Sales asked the class to share any insight derived from the poem.</span><br><br>To ask the class any insight derived from the poem is based on the theory of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "realism"
+        },
+        {
+          "correct": false,
+          "text": "behaviorism"
+        },
+        {
+          "correct": false,
+          "text": "conditioning"
+        },
+        {
+          "correct": true,
+          "text": "constructivism"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Betty asked this question: \"What conclusion can you draw based on your observation?\" Nobody raised a hand so she asked another question: \"Based on what you observe, what can you now say about the reaction of plants to light?\" Whch did Teacher B do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "redirecting"
+        },
+        {
+          "correct": false,
+          "text": "probing"
+        },
+        {
+          "correct": false,
+          "text": "repeating"
+        },
+        {
+          "correct": true,
+          "text": "rephrasing"
+        }
+      ]
+    },
+    {
+      "question": "The following are characteristics of interdisciplinary teaching EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "allows learners to see connectedness between things"
+        },
+        {
+          "correct": false,
+          "text": "provides learning opportunities in a real-world context"
+        },
+        {
+          "correct": false,
+          "text": "eliminates boundaries between content area"
+        },
+        {
+          "correct": true,
+          "text": "discussion from a single perspective"
+        }
+      ]
+    },
+    {
+      "question": "On which assumption about the learner is Mr. Marquez's act of asking the class to share their insight based?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learners are like empty receptacles waiting to be filled up."
+        },
+        {
+          "correct": false,
+          "text": "learners are meant to interact with one another."
+        },
+        {
+          "correct": false,
+          "text": "Learners have multiple intelligences and varied learning styles."
+        },
+        {
+          "correct": true,
+          "text": "Learners are producers of knowledge not only passive recipients of information."
+        }
+      ]
+    },
+    {
+      "question": "The direct instructional model is appropriate when the teacher needs to develop",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cooperative learning"
+        },
+        {
+          "correct": true,
+          "text": "mastery learning"
+        },
+        {
+          "correct": false,
+          "text": "reciprocal teaching"
+        },
+        {
+          "correct": false,
+          "text": "peer tutoring"
+        }
+      ]
+    },
+    {
+      "question": "Mrs. Flores, a Social Studies teacher plans to present a political situation that is very close to reality, particularly the role of a mayor, a councilor or a barangay captain. What strategy is the most appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lecture"
+        },
+        {
+          "correct": false,
+          "text": "discussion"
+        },
+        {
+          "correct": false,
+          "text": "roleplay"
+        },
+        {
+          "correct": true,
+          "text": "simulation"
+        }
+      ]
+    },
+    {
+      "question": "If a student is encouraged to develop himself to the fullest and must satisfy his hierarchy of needs, the highest need is _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "belongingness"
+        },
+        {
+          "correct": true,
+          "text": "self-actualization"
+        },
+        {
+          "correct": false,
+          "text": "psychological need"
+        },
+        {
+          "correct": false,
+          "text": "safety needs"
+        }
+      ]
+    },
+    {
+      "question": "Which order should be followed in viewing videotaped lessons?<br><span style=\"font-weight: normal;\">I. Reflection-discussion<br>II. Viewing<br>III. Previewing<br>IV. Follow-up activities</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "II-III-I-IV"
+        },
+        {
+          "correct": false,
+          "text": "II-III-IV-I"
+        },
+        {
+          "correct": true,
+          "text": "III-II-I-IV"
+        },
+        {
+          "correct": false,
+          "text": "III-I-II-IV"
+        }
+      ]
+    },
+    {
+      "question": "After giving an input n a good paragraph, Teacher Lea asks her students to rate a given paragraph along the elements of a good paragraph. In which level is the student's task?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "application"
+        },
+        {
+          "correct": true,
+          "text": "evaluation"
+        },
+        {
+          "correct": false,
+          "text": "analysis"
+        },
+        {
+          "correct": false,
+          "text": "synthesis"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Mila convinces her students not to study only for grades but for self-actualization which is the fulfillment of one's potential. On whose theory is this founded?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "A. Maslow"
+        },
+        {
+          "correct": false,
+          "text": "S. Freud"
+        },
+        {
+          "correct": false,
+          "text": "E. Thorndike"
+        },
+        {
+          "correct": false,
+          "text": "B.F. Skinner"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Beth wants to develop constructivist teaching. Which one will he do less?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "telling"
+        },
+        {
+          "correct": false,
+          "text": "probing"
+        },
+        {
+          "correct": false,
+          "text": "lecturing"
+        },
+        {
+          "correct": false,
+          "text": "talking"
+        }
+      ]
+    },
+    {
+      "question": "I make my students teach each other in a \"Pair, Think, Share\" manner. Which technique do I employ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "mnemonic deivce"
+        },
+        {
+          "correct": true,
+          "text": "peer teaching"
+        },
+        {
+          "correct": false,
+          "text": "active review"
+        },
+        {
+          "correct": false,
+          "text": "hands-on activities"
+        }
+      ]
+    },
+    {
+      "question": "To encourage introspection, which teaching method is most appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Process"
+        },
+        {
+          "correct": false,
+          "text": "Cognitive"
+        },
+        {
+          "correct": true,
+          "text": "Reflective"
+        },
+        {
+          "correct": false,
+          "text": "Cooperative learning"
+        }
+      ]
+    },
+    {
+      "question": "To teach your students how to cook effectively, which method should you use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "questioning"
+        },
+        {
+          "correct": false,
+          "text": "discovery"
+        },
+        {
+          "correct": false,
+          "text": "unit"
+        },
+        {
+          "correct": true,
+          "text": "demonstration"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1405100827695
+}

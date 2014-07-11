@@ -1,0 +1,2210 @@
+{
+  "name": "Principles of Teaching - Set 3",
+  "description": "...",
+  "duration": 60,
+  "instruction": "Choose the best answer.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "Which of the following has as its strength immediate feedback?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Process approach<br>"
+        },
+        {
+          "correct": false,
+          "text": "Laboratory Method"
+        },
+        {
+          "correct": false,
+          "text": "Group Dynamics"
+        },
+        {
+          "correct": true,
+          "text": "Computer-assisted instruction<br>"
+        }
+      ]
+    },
+    {
+      "question": "Which method or strategy is closest to direct experience?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Film showing"
+        },
+        {
+          "correct": true,
+          "text": "Simulation"
+        },
+        {
+          "correct": false,
+          "text": "Field trip"
+        },
+        {
+          "correct": false,
+          "text": "Dramatization"
+        }
+      ]
+    },
+    {
+      "question": "Which is another name for collaborative learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Interactive learning"
+        },
+        {
+          "correct": false,
+          "text": "Team building"
+        },
+        {
+          "correct": true,
+          "text": "Cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "Integrative learning"
+        }
+      ]
+    },
+    {
+      "question": "Which is the popular teaching approach found in the Philippines schools",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Situation approach"
+        },
+        {
+          "correct": true,
+          "text": "Traditional approach"
+        },
+        {
+          "correct": false,
+          "text": "Montessori approach"
+        },
+        {
+          "correct": false,
+          "text": "Eclectic approach"
+        }
+      ]
+    },
+    {
+      "question": "Which instructional materials/is/are MOST fit in contextualized learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Pictures"
+        },
+        {
+          "correct": true,
+          "text": "TV"
+        },
+        {
+          "correct": false,
+          "text": "Slides"
+        },
+        {
+          "correct": false,
+          "text": "Field trip"
+        }
+      ]
+    },
+    {
+      "question": "Individuals differ from each other in their interest, abilities, needs and their learning learning style at any given point in time. Which type of instructional program may best enhance the academic achievement of students?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "remedial instruction"
+        },
+        {
+          "correct": true,
+          "text": "adaptive instruction"
+        },
+        {
+          "correct": false,
+          "text": "traditional instruction"
+        },
+        {
+          "correct": false,
+          "text": "computer-assisted instruction"
+        }
+      ]
+    },
+    {
+      "question": "Direct instruction includes a focus on",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "student-selected activities"
+        },
+        {
+          "correct": false,
+          "text": "academics"
+        },
+        {
+          "correct": true,
+          "text": "controlled-classroom practice"
+        },
+        {
+          "correct": false,
+          "text": "large group over small groups"
+        }
+      ]
+    },
+    {
+      "question": "\"The greatest happiness lies in the contemplative use of the mind\", said Plato. Therefore, let us give opportunities for our students to do ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Social interaction"
+        },
+        {
+          "correct": false,
+          "text": "Role Playing"
+        },
+        {
+          "correct": false,
+          "text": "Cooperative learning"
+        },
+        {
+          "correct": true,
+          "text": "Introspection"
+        }
+      ]
+    },
+    {
+      "question": "Which graphic organizer is used to show how the series &nbsp;of events interact to produce a set of result again and again?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Series of event charts"
+        },
+        {
+          "correct": false,
+          "text": "Web"
+        },
+        {
+          "correct": true,
+          "text": "Cycle"
+        },
+        {
+          "correct": false,
+          "text": "Time Line"
+        }
+      ]
+    },
+    {
+      "question": "Which theory supports cooperative learning strategies?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Group games count a lot in assessing learning"
+        },
+        {
+          "correct": true,
+          "text": "Learning is best when more interaction happens in a social setting"
+        },
+        {
+          "correct": false,
+          "text": "There is no learning that happens in a vacuum"
+        },
+        {
+          "correct": false,
+          "text": "Teachers must be a part of the group to facilitate learning"
+        }
+      ]
+    },
+    {
+      "question": "I want my students to identify the strengths ans weaknesses of an event. Which one will i direct them to use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cycle"
+        },
+        {
+          "correct": true,
+          "text": "Compare/Contrast matrix"
+        },
+        {
+          "correct": false,
+          "text": "Plus/delta evaluation"
+        },
+        {
+          "correct": false,
+          "text": "Affinity diagrams"
+        }
+      ]
+    },
+    {
+      "question": "Which activity is most fit if a teacher wants his students to appreciate the value of teamwork?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Brainstorming"
+        },
+        {
+          "correct": false,
+          "text": "Field trip"
+        },
+        {
+          "correct": true,
+          "text": "Group game"
+        },
+        {
+          "correct": false,
+          "text": "Buzz session"
+        }
+      ]
+    },
+    {
+      "question": "The following are some drill techniques, except",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Challenging students to be above the level of the class"
+        },
+        {
+          "correct": false,
+          "text": "Asking pupils to repeat answers"
+        },
+        {
+          "correct": false,
+          "text": "Giving short quiz and having students grade papers"
+        },
+        {
+          "correct": false,
+          "text": "Assigning exercises from a workbook"
+        }
+      ]
+    },
+    {
+      "question": "With individualized learning strategies as point of reference, which does NOT belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Journal writing"
+        },
+        {
+          "correct": false,
+          "text": "Independent instruction"
+        },
+        {
+          "correct": false,
+          "text": "Computer-assisted instruction"
+        },
+        {
+          "correct": true,
+          "text": "Cooperative learning"
+        }
+      ]
+    },
+    {
+      "question": "I want to teach concepts, patterns, and abstractions Which method will be MOST appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Discovery"
+        },
+        {
+          "correct": true,
+          "text": "Indirect instruction"
+        },
+        {
+          "correct": false,
+          "text": "Direct instruction"
+        },
+        {
+          "correct": false,
+          "text": "Problem solving"
+        }
+      ]
+    },
+    {
+      "question": "To teach the democratic process to the pupils, BER Elementary School decided that the election of class officers shall be patterned after local elections. There are qualification set for candidates, limited period for campaign and rules posting campaign materials, etc. Which of the following did the school use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Symposium"
+        },
+        {
+          "correct": true,
+          "text": "Simulation"
+        },
+        {
+          "correct": false,
+          "text": "Role playing"
+        },
+        {
+          "correct": false,
+          "text": "Philips 66"
+        }
+      ]
+    },
+    {
+      "question": "Miss Santos aims to maximize individaul learning to her third year students in Science. if she intends to permit students to proceed at their own rate, which of the following will she apply?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cooperative learning"
+        },
+        {
+          "correct": true,
+          "text": "Individualized learning"
+        },
+        {
+          "correct": false,
+          "text": "Project-based"
+        },
+        {
+          "correct": false,
+          "text": "Inquiry approach"
+        }
+      ]
+    },
+    {
+      "question": "Which is a characteristic of the teaching machines of B.F. Skinner?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It is meant for collaborative work"
+        },
+        {
+          "correct": true,
+          "text": "Teacher's assistance was necessary"
+        },
+        {
+          "correct": false,
+          "text": "Allowed students to proceed through lesson at his own pace"
+        },
+        {
+          "correct": false,
+          "text": "No feedback mechanism is needed"
+        }
+      ]
+    },
+    {
+      "question": "When you use the overhead projector for topic presentation, point the ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "OHP screen"
+        },
+        {
+          "correct": true,
+          "text": "OHP slide"
+        },
+        {
+          "correct": false,
+          "text": "OHP light"
+        },
+        {
+          "correct": false,
+          "text": "Projection wall"
+        }
+      ]
+    },
+    {
+      "question": "Which teaching method is intended primarily for skill and concept mastery by way of practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Review"
+        },
+        {
+          "correct": true,
+          "text": "Drill"
+        },
+        {
+          "correct": false,
+          "text": "project"
+        },
+        {
+          "correct": false,
+          "text": "Supervised study"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following group activities provides an open environment in which group members can discuss their opinions without being judged as wrong?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Buzz session"
+        },
+        {
+          "correct": false,
+          "text": "Forum"
+        },
+        {
+          "correct": false,
+          "text": "Philips 66"
+        },
+        {
+          "correct": false,
+          "text": "Panel"
+        }
+      ]
+    },
+    {
+      "question": "Which objectives is the highest level in Bloom's Taxonomy of objectives?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "To rate a presentation in terms of relevance, originality, and creativity"
+        },
+        {
+          "correct": false,
+          "text": "To state the definition of a paragraph"
+        },
+        {
+          "correct": false,
+          "text": "To make a generalization from a set of data"
+        },
+        {
+          "correct": false,
+          "text": "To write a paragraph observing unity, coherence, and variety"
+        }
+      ]
+    },
+    {
+      "question": "On which assumption is the use of the Socratic method anchored?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "There are latent ideas in the child's mind."
+        },
+        {
+          "correct": false,
+          "text": "The child's mind is \"tabula rasa\"."
+        },
+        {
+          "correct": false,
+          "text": "The child's mind is an empty vessel."
+        },
+        {
+          "correct": false,
+          "text": "The child needs to be motivated to learn."
+        }
+      ]
+    },
+    {
+      "question": "Which does not belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "Thematic approach"
+        },
+        {
+          "correct": false,
+          "text": "Content-based instruction"
+        },
+        {
+          "correct": false,
+          "text": "Multi-disciplinary approach"
+        }
+      ]
+    },
+    {
+      "question": "Which concept backs up the integrated teaching approach?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The need to destroy communication barriers"
+        },
+        {
+          "correct": false,
+          "text": "The necessity of the scientific method"
+        },
+        {
+          "correct": false,
+          "text": "The desire to become experts at least in one field"
+        },
+        {
+          "correct": true,
+          "text": "The inter-relatedness of concepts"
+        }
+      ]
+    },
+    {
+      "question": "With the directness of instruction as criterion, which is the LEAST direct?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Lecture"
+        },
+        {
+          "correct": true,
+          "text": "Cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "Deductive method"
+        },
+        {
+          "correct": false,
+          "text": "Demonstration"
+        }
+      ]
+    },
+    {
+      "question": "If a \"picture paints a thousand words\", which instructional material is preferable?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Puzzles"
+        },
+        {
+          "correct": false,
+          "text": "Games"
+        },
+        {
+          "correct": true,
+          "text": "Graphic organizer"
+        },
+        {
+          "correct": false,
+          "text": "Anecdote"
+        }
+      ]
+    },
+    {
+      "question": "If I want to hone my students meta-cognitive ability, which is MOST fit?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Drill"
+        },
+        {
+          "correct": false,
+          "text": "Debate"
+        },
+        {
+          "correct": false,
+          "text": "Brainstorming"
+        },
+        {
+          "correct": true,
+          "text": "Journaling"
+        }
+      ]
+    },
+    {
+      "question": "I presented two potted Ivy plants in class, one very robust, the other stunted. I asked my class to share me their thoughts on why one looks healthy and the other is not. In what type of activity are my students engaged?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Comparison"
+        },
+        {
+          "correct": false,
+          "text": "Experimentation"
+        },
+        {
+          "correct": true,
+          "text": "Drawing Conclusions"
+        },
+        {
+          "correct": false,
+          "text": "Hypothesis formulation"
+        }
+      ]
+    },
+    {
+      "question": "If you want your students to master the multiplication table, which activity is MOST fit?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "group discussion"
+        },
+        {
+          "correct": false,
+          "text": "game"
+        },
+        {
+          "correct": false,
+          "text": "simulation"
+        },
+        {
+          "correct": true,
+          "text": "drill"
+        }
+      ]
+    },
+    {
+      "question": "Which teaching activity is founded on Bandura's social learning theory?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lecturing"
+        },
+        {
+          "correct": true,
+          "text": "modeling"
+        },
+        {
+          "correct": false,
+          "text": "questioning"
+        },
+        {
+          "correct": false,
+          "text": "inductive reasoning"
+        }
+      ]
+    },
+    {
+      "question": "With forms of prompting in mind, which group is arranged from least to most intrusive prompting?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "verbal, physical, gestural"
+        },
+        {
+          "correct": false,
+          "text": "physical, gestural, verbal"
+        },
+        {
+          "correct": false,
+          "text": "gestural, physical, verbal"
+        },
+        {
+          "correct": true,
+          "text": "verbal, gestural, physical"
+        }
+      ]
+    },
+    {
+      "question": "Which activity is meant for the kinesthetically intelligent students?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "dance"
+        },
+        {
+          "correct": false,
+          "text": "independent study"
+        },
+        {
+          "correct": false,
+          "text": "individualized instruction"
+        },
+        {
+          "correct": false,
+          "text": "cooperative learning"
+        }
+      ]
+    },
+    {
+      "question": "A student has just learned a particular formula to take math problem to solve. She tries it with another problem and succeeds at it. This student is even more encouraged to discover easier ways to sole math problems. Which is Thorndike's laws is depicted in this situation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "readiness"
+        },
+        {
+          "correct": true,
+          "text": "effect"
+        },
+        {
+          "correct": false,
+          "text": "repetition"
+        },
+        {
+          "correct": false,
+          "text": "practice"
+        }
+      ]
+    },
+    {
+      "question": "I started my lesson with a graphic presentation of data then asked my students to analyze and interpret them and draw implications from them. How did my lesson development proceed?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "deductively"
+        },
+        {
+          "correct": false,
+          "text": "transductively"
+        },
+        {
+          "correct": true,
+          "text": "inductively"
+        },
+        {
+          "correct": false,
+          "text": "inductively and deductively"
+        }
+      ]
+    },
+    {
+      "question": "Ms. Dizon likes every student to participate in her discussion. What need of her student is she trying to address?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "To show their abilities"
+        },
+        {
+          "correct": false,
+          "text": "to feel fulfilled"
+        },
+        {
+          "correct": true,
+          "text": "to feel part of the group"
+        },
+        {
+          "correct": false,
+          "text": "to be creative"
+        }
+      ]
+    },
+    {
+      "question": "I like to develop the synthesizing skills of my students. Which one should I do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Ask my students to formulate a generalization from the data shown in the graphs"
+        },
+        {
+          "correct": false,
+          "text": "Direct my students to point out which part of the graph is right and which part is wrong."
+        },
+        {
+          "correct": false,
+          "text": "Ask my students to answer the questions beginning with \"What if...\""
+        },
+        {
+          "correct": false,
+          "text": "Tell my students to state data presented in the graph"
+        }
+      ]
+    },
+    {
+      "question": "Which of these techniques is being featured? Teacher A encourages her students to participate actively in the class discussion by making them answer question, allows students to call on one another to recite, and wait for their turn to ask or answer.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Socialized recitation"
+        },
+        {
+          "correct": false,
+          "text": "Graded recitation"
+        },
+        {
+          "correct": false,
+          "text": "Open forum"
+        },
+        {
+          "correct": false,
+          "text": "Panel discussion"
+        }
+      ]
+    },
+    {
+      "question": "\"Using the principles as a guide, describe how you would solve the following problem situation\" is a sample-thought question on ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "summarizing"
+        },
+        {
+          "correct": false,
+          "text": "synthesizing"
+        },
+        {
+          "correct": true,
+          "text": "applying"
+        },
+        {
+          "correct": false,
+          "text": "analyzing"
+        }
+      ]
+    },
+    {
+      "question": "Which should I use more if I want to counteract the spirit of destructive competition among my students?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Listening activities"
+        },
+        {
+          "correct": false,
+          "text": "Concept miming"
+        },
+        {
+          "correct": true,
+          "text": "Self-evaluation"
+        },
+        {
+          "correct": false,
+          "text": "Peer-evaluation"
+        }
+      ]
+    },
+    {
+      "question": "Which describes learning that students get when they go into community immersion?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "symbolic"
+        },
+        {
+          "correct": false,
+          "text": "simulated"
+        },
+        {
+          "correct": true,
+          "text": "experiential"
+        },
+        {
+          "correct": false,
+          "text": "theoretical"
+        }
+      ]
+    },
+    {
+      "question": "Which individualized teaching method makes use of workbooks, teaching machines or computers?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Inquiry"
+        },
+        {
+          "correct": false,
+          "text": "Project method"
+        },
+        {
+          "correct": true,
+          "text": "Programmed instruction"
+        },
+        {
+          "correct": false,
+          "text": "Discovery method"
+        }
+      ]
+    },
+    {
+      "question": "What makes the experimental method better than the the lecture method?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Pupils memorize whatever principle they learn and retain it longer."
+        },
+        {
+          "correct": true,
+          "text": "Materials used in the experiment assure retention of learning."
+        },
+        {
+          "correct": false,
+          "text": "Learner discovers the principle by themselves and thereby understand it better."
+        },
+        {
+          "correct": false,
+          "text": "Experiment is a form of play activity which children enjoy"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Lina wants to develop constructivist thinking. Which one will she do less?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Telling&nbsp;"
+        },
+        {
+          "correct": false,
+          "text": "Probing"
+        },
+        {
+          "correct": false,
+          "text": "Asking open minded questions"
+        },
+        {
+          "correct": false,
+          "text": "Asking process questions"
+        }
+      ]
+    },
+    {
+      "question": "My lesson is on abortion. I want to get maximum students' participation. First, I presented and discussed the reasons in favor and against abortion. Then I took a stand in favor of abortion and came up with all my justifications for abortion. Before the class ended, however, I clarified that I am truly against abortion. Which technique did I use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Contrived incident"
+        },
+        {
+          "correct": false,
+          "text": "Simulation"
+        },
+        {
+          "correct": true,
+          "text": "Devil's advocate"
+        },
+        {
+          "correct": false,
+          "text": "Value clarifying discussion"
+        }
+      ]
+    },
+    {
+      "question": "I drew learners into several content areas and encourage them to solve a complex question for interdisciplinary teaching. Which strategy did I use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Problem-centered learning"
+        },
+        {
+          "correct": false,
+          "text": "Unit method"
+        },
+        {
+          "correct": false,
+          "text": "Lecture-discussion"
+        },
+        {
+          "correct": false,
+          "text": "Thematic instruction"
+        }
+      ]
+    },
+    {
+      "question": "With indirect instruction in mind,which does NOT belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "problem-solving"
+        },
+        {
+          "correct": false,
+          "text": "project-based learning"
+        },
+        {
+          "correct": true,
+          "text": "lecture"
+        },
+        {
+          "correct": false,
+          "text": "discovery"
+        }
+      ]
+    },
+    {
+      "question": "I combined several subject areas in order to focus on a single concept for interdisciplinary teaching. Which strategy/method did I use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "problem-centered learning"
+        },
+        {
+          "correct": true,
+          "text": "thematic instruction"
+        },
+        {
+          "correct": false,
+          "text": "unit method"
+        },
+        {
+          "correct": false,
+          "text": "project-based learning"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Alice teaches English. She uses vocabulary cards, fill-in-blanks sentences, and dictation and writing exercises in teaching a lesson about grocery shopping. Based on this information, which of the following is a valid conclusion? The teacher ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Is applying Bloom's hierarchy of cognitive learning"
+        },
+        {
+          "correct": true,
+          "text": "Is teaching in a variety of ways because not all students learn in the same manner"
+        },
+        {
+          "correct": false,
+          "text": "Wants to make her teaching easier by having less talk"
+        },
+        {
+          "correct": false,
+          "text": "Is emphasizing reading and writing skills"
+        }
+      ]
+    },
+    {
+      "question": "Why should a teacher NOT use direct instruction all the time?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It requires much time."
+        },
+        {
+          "correct": false,
+          "text": "It requires use of many supplementary materials."
+        },
+        {
+          "correct": false,
+          "text": "It is effective only in the teaching of concepts and abstractions."
+        },
+        {
+          "correct": true,
+          "text": "It reduces students' engagement in learning"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Mayette always checks on entry knowledge and skill before she proceeds to her new lesson. on which principle is Teacher Mayette's practice grounded?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Effective teaching proceeds from the concrete to the abstract."
+        },
+        {
+          "correct": false,
+          "text": "Learning increases when the lesson is relevant."
+        },
+        {
+          "correct": false,
+          "text": "Attention is essential for learning."
+        },
+        {
+          "correct": true,
+          "text": "New learning builds on previous learning."
+        }
+      ]
+    },
+    {
+      "question": "Teacher Emma wants to encourage collaborative learning in her class. Which one should she do to heighten positive interdependence?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Emphasize the idea that the success of the group depends in the diligent student."
+        },
+        {
+          "correct": true,
+          "text": "Works for homogeneous grouping"
+        },
+        {
+          "correct": false,
+          "text": "Provide each student with one set of resources."
+        },
+        {
+          "correct": false,
+          "text": "provide only one answer sheet."
+        }
+      ]
+    },
+    {
+      "question": "The teacher conducts the same lesson taken up the previous day but she uses different teaching materials. What type of lesson is illustrated?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "evaluation"
+        },
+        {
+          "correct": false,
+          "text": "application"
+        },
+        {
+          "correct": false,
+          "text": "development"
+        },
+        {
+          "correct": true,
+          "text": "review"
+        }
+      ]
+    },
+    {
+      "question": "For which lesson may you use the indirect instruction method?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Using a microscope properly"
+        },
+        {
+          "correct": true,
+          "text": "Distinguishing war from aggression"
+        },
+        {
+          "correct": false,
+          "text": "Solving an equation with two unknowns"
+        },
+        {
+          "correct": false,
+          "text": "Cooking pinakbet"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Mila instructs her class to refer to the dictionary in correcting their spelled words. Which practice is exemplified?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "curriculum indigenization"
+        },
+        {
+          "correct": false,
+          "text": "computer-assisted instruction"
+        },
+        {
+          "correct": false,
+          "text": "multi-level instruction"
+        },
+        {
+          "correct": true,
+          "text": "self-evaluation"
+        }
+      ]
+    },
+    {
+      "question": "How student learn maybe more important than what they learn. From this principle, which of the following is particularly important?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Knowing how to solve the problem"
+        },
+        {
+          "correct": false,
+          "text": "Getting the right answer to a word problem"
+        },
+        {
+          "correct": false,
+          "text": "Determining the given"
+        },
+        {
+          "correct": false,
+          "text": "Solving the problem within &nbsp;time limit"
+        }
+      ]
+    },
+    {
+      "question": "According to Jerome Bruner who is a cognitivist, for the learner to use information effectively, it must be TRANSLATED into his TERMS. What is the implication of this to the teacher?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Let the student define terms clearly"
+        },
+        {
+          "correct": true,
+          "text": "Use terms within the level of the students' understanding"
+        },
+        {
+          "correct": false,
+          "text": "Employ cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "Teach the information in the contsructivist way"
+        }
+      ]
+    },
+    {
+      "question": "Which does NOT go with an integrated teaching strategy?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Isolated bits of information"
+        },
+        {
+          "correct": false,
+          "text": "Multidisciplinary"
+        },
+        {
+          "correct": false,
+          "text": "Interconnected"
+        },
+        {
+          "correct": false,
+          "text": "Interdisciplinary"
+        }
+      ]
+    },
+    {
+      "question": "Which refers to the time when students learn at a maximum level?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Wait time"
+        },
+        {
+          "correct": true,
+          "text": "Engaged time"
+        },
+        {
+          "correct": false,
+          "text": "Allocated time"
+        },
+        {
+          "correct": false,
+          "text": "Academic learning time"
+        }
+      ]
+    },
+    {
+      "question": "The \"mastery learner\" learns best from ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Dramas"
+        },
+        {
+          "correct": true,
+          "text": "Drill"
+        },
+        {
+          "correct": false,
+          "text": "Discussion"
+        },
+        {
+          "correct": false,
+          "text": "Experiential learning"
+        }
+      ]
+    },
+    {
+      "question": "Which is NOT an element of cooperative learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Positive interdependence"
+        },
+        {
+          "correct": false,
+          "text": "Group accountability for learning"
+        },
+        {
+          "correct": true,
+          "text": "Individual's accountability for learning"
+        },
+        {
+          "correct": false,
+          "text": "Face-to-face interaction"
+        }
+      ]
+    },
+    {
+      "question": "The Reading teacher stays 30 minutes daily after class and teachers the slow readers how to read. What is it called?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Make-up class"
+        },
+        {
+          "correct": false,
+          "text": "Enrichment activity"
+        },
+        {
+          "correct": true,
+          "text": "Remedial instruction"
+        },
+        {
+          "correct": false,
+          "text": "Developmental reading"
+        }
+      ]
+    },
+    {
+      "question": "Mrs. Ramos provided reading materials for varying levels of difficulty to the three group of learners. Which principle is implemented by her action?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Focus on individual's need to achieve"
+        },
+        {
+          "correct": false,
+          "text": "Help each student attain goals"
+        },
+        {
+          "correct": false,
+          "text": "Focus on student attention"
+        },
+        {
+          "correct": false,
+          "text": "Provide information feedback"
+        }
+      ]
+    },
+    {
+      "question": "If you want your pupils to master the multiplication table, which activity is MOST fit?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Reflection"
+        },
+        {
+          "correct": false,
+          "text": "Game"
+        },
+        {
+          "correct": false,
+          "text": "Simulation"
+        },
+        {
+          "correct": true,
+          "text": "Drill"
+        }
+      ]
+    },
+    {
+      "question": "Which should I use when the lesson involves tasks that are too large or difficult for a single student to accomplish independently?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Computer-based instruction"
+        },
+        {
+          "correct": false,
+          "text": "Direct instruction"
+        },
+        {
+          "correct": true,
+          "text": "Cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "Expository instruction"
+        }
+      ]
+    },
+    {
+      "question": "The project method is considered valuable for the following reasons except",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Pupils develop alertness, open-mindedness, and tolerance"
+        },
+        {
+          "correct": false,
+          "text": "Pupils are trained to be responsible"
+        },
+        {
+          "correct": false,
+          "text": "Motive for learning is developed"
+        },
+        {
+          "correct": true,
+          "text": "Movement among pupils is not free and discussion is almost nil"
+        }
+      ]
+    },
+    {
+      "question": "I want my better students to over learn what they have learned at he same time help other to master the lesson. Which activity is BEST?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "practice"
+        },
+        {
+          "correct": true,
+          "text": "peer tutoring"
+        },
+        {
+          "correct": false,
+          "text": "simulation"
+        },
+        {
+          "correct": false,
+          "text": "game"
+        }
+      ]
+    },
+    {
+      "question": "Miss Santos aims to maximize individual learning of her third year students in Science. If she intends to permit students to proceed at their own rate, which of the following will she apply?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Cooperative learning"
+        },
+        {
+          "correct": true,
+          "text": "Modular innstruction"
+        },
+        {
+          "correct": false,
+          "text": "hands-on learning"
+        },
+        {
+          "correct": false,
+          "text": "Supervised study"
+        }
+      ]
+    },
+    {
+      "question": "In a self-directed learning, to what extent should a teacher's \"scaffolding\" be?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "To a degree the students needs it"
+        },
+        {
+          "correct": false,
+          "text": "None, to force the student to learn by himself"
+        },
+        {
+          "correct": true,
+          "text": "To the minimum, to speed up development of student's sense of interdependence"
+        },
+        {
+          "correct": false,
+          "text": "To the maximum, in order to extend to the student all the help he needs"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Raquel helped her students recall stalagmites grow on the \"ground\" while stalactites grow on the \"ceiling\" of a cave by associating \"G\" in stalagmites with ground and \"C\" with ceiling. What did Teacher R make use of?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Visual aid"
+        },
+        {
+          "correct": false,
+          "text": "Audio-visual aid"
+        },
+        {
+          "correct": false,
+          "text": "Meaning-maker device"
+        },
+        {
+          "correct": true,
+          "text": "Mnemonic device"
+        }
+      ]
+    },
+    {
+      "question": "To develop reasoning and speaking ability which should I use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Experiment"
+        },
+        {
+          "correct": false,
+          "text": "Storytelling"
+        },
+        {
+          "correct": true,
+          "text": "Debate"
+        },
+        {
+          "correct": false,
+          "text": "Role Playing"
+        }
+      ]
+    },
+    {
+      "question": "Teacher W wants to review and check on the lesson of the previous day. Which one will be most reliable?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Having students identify difficult homework problems."
+        },
+        {
+          "correct": false,
+          "text": "Having students correct each other's work."
+        },
+        {
+          "correct": false,
+          "text": "Sampling the understanding of a few students."
+        },
+        {
+          "correct": true,
+          "text": "Explicitly reviewing the task-relevant information necessary for the day's lesson."
+        }
+      ]
+    },
+    {
+      "question": "Teacher M's pupils are quite weak academically and his lesson is already far behind time table. How should Teacher M proceed with his lesson?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Experientially"
+        },
+        {
+          "correct": false,
+          "text": "Inductively"
+        },
+        {
+          "correct": false,
+          "text": "Logically"
+        },
+        {
+          "correct": true,
+          "text": "Deductively"
+        }
+      ]
+    },
+    {
+      "question": "Which activity should a teacher have more for his students if he wants them to develop logical-mathematical thinking?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Problem-solving"
+        },
+        {
+          "correct": false,
+          "text": "Choral reading"
+        },
+        {
+          "correct": false,
+          "text": "Drama"
+        },
+        {
+          "correct": false,
+          "text": "Storytelling"
+        }
+      ]
+    },
+    {
+      "question": "Which guideline must be observed in the use of prompting to shape the correct performance of your students?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Use the least intrusive prompt first"
+        },
+        {
+          "correct": false,
+          "text": "Use the most intrusive prompt first"
+        },
+        {
+          "correct": false,
+          "text": "Use all prompts available"
+        },
+        {
+          "correct": false,
+          "text": "Refrain from using prompts"
+        }
+      ]
+    },
+    {
+      "question": "Which learning principle marks the highlight of multiple intelligence?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learning is static and permanent"
+        },
+        {
+          "correct": true,
+          "text": "Intelligence is not measured in one form"
+        },
+        {
+          "correct": false,
+          "text": "Cognitive theory is stressed in learning"
+        },
+        {
+          "correct": false,
+          "text": "People have different IQ level"
+        }
+      ]
+    },
+    {
+      "question": "A catalyst teacher is good at the following skills, EXCEPT:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "making effective use of cooperative learning techniques"
+        },
+        {
+          "correct": false,
+          "text": "asking thought-provoking questions"
+        },
+        {
+          "correct": true,
+          "text": "requiring uniform reports"
+        },
+        {
+          "correct": false,
+          "text": "doing inquiry teaching"
+        }
+      ]
+    },
+    {
+      "question": "Jerome Bruner's idea that interest in the material being learned was the best stimulus for learning supports efforts to develop _____ motivation of students.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Superficial"
+        },
+        {
+          "correct": true,
+          "text": "Intrinsic"
+        },
+        {
+          "correct": false,
+          "text": "Extrinsic"
+        },
+        {
+          "correct": false,
+          "text": "Endless"
+        }
+      ]
+    },
+    {
+      "question": "Which is more of a spatial task?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Read a book then write a response."
+        },
+        {
+          "correct": false,
+          "text": "Examine a statistical chart then write a response."
+        },
+        {
+          "correct": false,
+          "text": "Watch a movie then write a response."
+        },
+        {
+          "correct": true,
+          "text": "Go on a field trip then write a response."
+        }
+      ]
+    },
+    {
+      "question": "The teacher provides various learning activities and methods in her teaching so that drives needs and interests of learners are met. Which principle did she consider?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learning by doing"
+        },
+        {
+          "correct": false,
+          "text": "Cognitive development stages"
+        },
+        {
+          "correct": true,
+          "text": "Multiple intelligence"
+        },
+        {
+          "correct": false,
+          "text": "Cooperative learning"
+        }
+      ]
+    },
+    {
+      "question": "By what name is indirect instruction so Socratic Method also known?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Mastery learning"
+        },
+        {
+          "correct": false,
+          "text": "Indirect Method"
+        },
+        {
+          "correct": false,
+          "text": "Morrison Method"
+        },
+        {
+          "correct": true,
+          "text": "Questioning"
+        }
+      ]
+    },
+    {
+      "question": "The use of drills in the classroom is rooted on Thorndike's law of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "belongingness"
+        },
+        {
+          "correct": false,
+          "text": "readiness"
+        },
+        {
+          "correct": true,
+          "text": "exercise"
+        },
+        {
+          "correct": false,
+          "text": "effect"
+        }
+      ]
+    },
+    {
+      "question": "Which is a form of direct instruction?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Discovery process"
+        },
+        {
+          "correct": false,
+          "text": "Problem-solving"
+        },
+        {
+          "correct": false,
+          "text": "Programmed instruction"
+        },
+        {
+          "correct": true,
+          "text": "Inductive reasoning"
+        }
+      ]
+    },
+    {
+      "question": "In large classes where little of the work can be individualized, the most effective and practical way to individualize instruction is to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "give the pupils freedom to launch individual projects"
+        },
+        {
+          "correct": true,
+          "text": "devise group activities which afford every pupil an opportunity to work at his own level"
+        },
+        {
+          "correct": false,
+          "text": "assign homework and check it regularly"
+        },
+        {
+          "correct": false,
+          "text": "assign programmed material for out-of-class hours"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Agnes begins her lesson with concrete life experiences then leads the students to abstractions. Which method did she employ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Transductive"
+        },
+        {
+          "correct": true,
+          "text": "Inductive"
+        },
+        {
+          "correct": false,
+          "text": "Deductive"
+        },
+        {
+          "correct": false,
+          "text": "Interactive"
+        }
+      ]
+    },
+    {
+      "question": "The more indirect the classroom instruction is, the more _____ it is.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Subject-centered"
+        },
+        {
+          "correct": true,
+          "text": "Student-centered"
+        },
+        {
+          "correct": false,
+          "text": "Teacher-centered"
+        },
+        {
+          "correct": false,
+          "text": "Individualized"
+        }
+      ]
+    },
+    {
+      "question": "If a teacher plans a constructivist lesson, what will he most likely do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "do evaluate his students' work"
+        },
+        {
+          "correct": false,
+          "text": "do reciprocal teaching"
+        },
+        {
+          "correct": false,
+          "text": "lecture to his students"
+        },
+        {
+          "correct": true,
+          "text": "engage his students in reflective thinking"
+        }
+      ]
+    },
+    {
+      "question": "With indirect instruction in mind, which does NOT belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "problem-solving"
+        },
+        {
+          "correct": false,
+          "text": "conductive reasoning"
+        },
+        {
+          "correct": true,
+          "text": "lecture-recitation"
+        },
+        {
+          "correct": false,
+          "text": "discovery"
+        }
+      ]
+    },
+    {
+      "question": "When a school decides to work on a thematic curriculum which should be out of the picture?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "integration"
+        },
+        {
+          "correct": false,
+          "text": "peer collaboration"
+        },
+        {
+          "correct": true,
+          "text": "competition"
+        },
+        {
+          "correct": false,
+          "text": "team teaching"
+        }
+      ]
+    },
+    {
+      "question": "Which is a good practice that a teacher uses in correcting student's errors?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Encourage the students to read books and magazines to improve their spelling."
+        },
+        {
+          "correct": true,
+          "text": "Readily correcting the error upon utterance."
+        },
+        {
+          "correct": false,
+          "text": "Nothing. Deal with them after the class activities."
+        },
+        {
+          "correct": false,
+          "text": "Ignore the mistake, anyway she will commit the same error in the future."
+        }
+      ]
+    },
+    {
+      "question": "The concluding part of the three-level approach is the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "concepts level"
+        },
+        {
+          "correct": true,
+          "text": "value level"
+        },
+        {
+          "correct": false,
+          "text": "experiential level"
+        },
+        {
+          "correct": false,
+          "text": "facts level"
+        }
+      ]
+    },
+    {
+      "question": "I want my students to show historical ages graphically. Which will be most appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Fishbone Diagram"
+        },
+        {
+          "correct": true,
+          "text": "Series of Events Chain"
+        },
+        {
+          "correct": false,
+          "text": "Continuous Scale"
+        },
+        {
+          "correct": false,
+          "text": "Flow CHart"
+        }
+      ]
+    },
+    {
+      "question": "The Social Studies teacher plans to present a political situation which is very close to reality, particularly the role of mayor, counselor, or a barangay captain. What strategy is the most appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "lecture"
+        },
+        {
+          "correct": false,
+          "text": "discussion"
+        },
+        {
+          "correct": false,
+          "text": "reporting"
+        },
+        {
+          "correct": true,
+          "text": "simulation"
+        }
+      ]
+    },
+    {
+      "question": "Which skills should be taught if a teacher wants to equip his students with the skill to organize information gathered?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Note taking, outlining, using the library"
+        },
+        {
+          "correct": false,
+          "text": "Summarizing, note taking, using the library"
+        },
+        {
+          "correct": true,
+          "text": "Note taking, outlining, summarizing"
+        },
+        {
+          "correct": false,
+          "text": "Outlining, summarizing, using the card catalogue"
+        }
+      ]
+    },
+    {
+      "question": "Individualized instruction, which may have been pioneered by the Hebrews, is characterized by the students'",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "being taught one on one"
+        },
+        {
+          "correct": true,
+          "text": "learning at their own pace"
+        },
+        {
+          "correct": false,
+          "text": "giving tutorials to slow learners"
+        },
+        {
+          "correct": false,
+          "text": "think about their thinking"
+        }
+      ]
+    },
+    {
+      "question": "The more the learner feels what he is learning the better the learning. Therefore, teachers should take up lessons that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "are easy to comprehend"
+        },
+        {
+          "correct": false,
+          "text": "appeal to the learner's imagination"
+        },
+        {
+          "correct": false,
+          "text": "portray complex ideas"
+        },
+        {
+          "correct": true,
+          "text": "have significance for the learner"
+        }
+      ]
+    },
+    {
+      "question": "If teacher wants to teach his pupils the skill to organize and integrate concepts the most appropriate technique is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "brainstorming"
+        },
+        {
+          "correct": false,
+          "text": "role playing"
+        },
+        {
+          "correct": true,
+          "text": "semantic webbing"
+        },
+        {
+          "correct": false,
+          "text": "games"
+        }
+      ]
+    },
+    {
+      "question": "If i want to hone my students meta-cognitive ability, which is MOST fit?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "drill"
+        },
+        {
+          "correct": false,
+          "text": "debate"
+        },
+        {
+          "correct": false,
+          "text": "brainstorming"
+        },
+        {
+          "correct": true,
+          "text": "journaling"
+        }
+      ]
+    },
+    {
+      "question": "Matthew Arnold's ideal person was \"the person whose powers were all in balance\". The following enumerate which have to be developed for a person to become Arnold's ideal person EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "head, heart, hands, health"
+        },
+        {
+          "correct": false,
+          "text": "knowledge, skills, attitudes"
+        },
+        {
+          "correct": true,
+          "text": "brain, mind, reason"
+        },
+        {
+          "correct": false,
+          "text": "cognitive, psychomotor, and affective powers"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Monera introduces a topic on earthquakes. Then she helps her students determine what they need to know about earthquakes and the activities and resources which help them learn. Which technique does the teacher employ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "individualized instruction"
+        },
+        {
+          "correct": true,
+          "text": "self-directed learning"
+        },
+        {
+          "correct": false,
+          "text": "computer-assisted instruction"
+        },
+        {
+          "correct": false,
+          "text": "collaborative learning"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1405100843792
+}
