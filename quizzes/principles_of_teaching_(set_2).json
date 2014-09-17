@@ -1,0 +1,2210 @@
+{
+  "name": "Principles of Teaching (Set 2)",
+  "description": "...",
+  "duration": 50,
+  "instruction": "Choose the best answer.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "Which questioning practice promotes more class interaction?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Asking the question before calling on a student."
+        },
+        {
+          "correct": false,
+          "text": "Focusing on divergent questions."
+        },
+        {
+          "correct": false,
+          "text": "Focusing on convergent questions."
+        },
+        {
+          "correct": false,
+          "text": "Asking rhetorical questions."
+        }
+      ]
+    },
+    {
+      "question": "Which technique should a teacher use to encourage response if students do not respond to his question?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ask another student to answer the question."
+        },
+        {
+          "correct": true,
+          "text": "Ask another question, an easier one."
+        },
+        {
+          "correct": false,
+          "text": "Wait for a response."
+        },
+        {
+          "correct": false,
+          "text": "Tell the class there will be a test."
+        }
+      ]
+    },
+    {
+      "question": "Which type of questions are generally considered low-level?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Convergent"
+        },
+        {
+          "correct": false,
+          "text": "Evaluative"
+        },
+        {
+          "correct": false,
+          "text": "Divergent"
+        },
+        {
+          "correct": false,
+          "text": "Open-ended"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is a \"fact\" question?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "What are some of the ways in which you have used the word ancient?"
+        },
+        {
+          "correct": false,
+          "text": "What are the effects of the invention of electricity on the life of people?"
+        },
+        {
+          "correct": true,
+          "text": "What is the function of the CPU in a microcomputer?"
+        },
+        {
+          "correct": false,
+          "text": "What would be one of the first things we have to do to clean the air we breathe?"
+        }
+      ]
+    },
+    {
+      "question": "In the class of Mrs. Eduave, she asked the question, \"How can you distinguish facts and opinions in the study presented?\" How is this question classified?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Analysis"
+        },
+        {
+          "correct": false,
+          "text": "Evaluation"
+        },
+        {
+          "correct": false,
+          "text": "Application"
+        },
+        {
+          "correct": false,
+          "text": "Comprehension"
+        }
+      ]
+    },
+    {
+      "question": "Inquiry lessons require the use of questions in instructing the learner to analyze, interpret, and draw conclusions from the data gathered. Which type of questions asks for additional data?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "leading"
+        },
+        {
+          "correct": true,
+          "text": "probing"
+        },
+        {
+          "correct": false,
+          "text": "tugging"
+        },
+        {
+          "correct": false,
+          "text": "factual"
+        }
+      ]
+    },
+    {
+      "question": "A sufficient wait time can achieve the following EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Decreases the amount of guessing or wrong inferences"
+        },
+        {
+          "correct": true,
+          "text": "Discourages slow and fast thinking students to respond"
+        },
+        {
+          "correct": false,
+          "text": "Increase the number of correct responses"
+        },
+        {
+          "correct": false,
+          "text": "Provides time for teachers to evaluate the answers given"
+        }
+      ]
+    },
+    {
+      "question": "Teacher B asked this question, \"What conclusion can you draw based on your observation?\" Nobody raised a hand so she asked another question, \"Based on what you observed, what can you now say about the reaction of plants to light?\" Which did Teacher B do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "redirecting"
+        },
+        {
+          "correct": false,
+          "text": "probing"
+        },
+        {
+          "correct": false,
+          "text": "repeating"
+        },
+        {
+          "correct": true,
+          "text": "rephrasing"
+        }
+      ]
+    },
+    {
+      "question": "Which practice contributes to an interactive lesson?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Asking more rhetorical type of questions."
+        },
+        {
+          "correct": true,
+          "text": "Asking more divergent type of questions."
+        },
+        {
+          "correct": false,
+          "text": "Calling on a student to answer before asking a question."
+        },
+        {
+          "correct": false,
+          "text": "Asking more convergent type of questions."
+        }
+      ]
+    },
+    {
+      "question": "Which statement holds TRUE to probing?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It is done before a student gives a response."
+        },
+        {
+          "correct": false,
+          "text": "It is meant to clarify further the question."
+        },
+        {
+          "correct": true,
+          "text": "It restructures the student's response in a more productive direction."
+        },
+        {
+          "correct": false,
+          "text": "It cuts short student response."
+        }
+      ]
+    },
+    {
+      "question": "Which questioning practice will promote more class interaction?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Rejecting the wrong answer"
+        },
+        {
+          "correct": true,
+          "text": "Asking the questions before calling on a student answer"
+        },
+        {
+          "correct": false,
+          "text": "Asking theoretical questions"
+        },
+        {
+          "correct": false,
+          "text": "Focusing on convergent questions"
+        }
+      ]
+    },
+    {
+      "question": "To nurture students' creativity, which activity should a teacher AVOID?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ask \"what if...\" questions"
+        },
+        {
+          "correct": false,
+          "text": "Ask divergent thinking questions"
+        },
+        {
+          "correct": true,
+          "text": "Emphasize the need to give the right answer"
+        },
+        {
+          "correct": false,
+          "text": "Be open to \"out of this world\" ideas"
+        }
+      ]
+    },
+    {
+      "question": "The commonly-used question-and-answer method includes debate and discussion consonance with the method of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Confucius"
+        },
+        {
+          "correct": false,
+          "text": "Plato"
+        },
+        {
+          "correct": false,
+          "text": "Aristotle"
+        },
+        {
+          "correct": true,
+          "text": "Socrates"
+        }
+      ]
+    },
+    {
+      "question": "If a teacher asks more higher-order questions, he has to ask more _____ questions.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "fact"
+        },
+        {
+          "correct": false,
+          "text": "close"
+        },
+        {
+          "correct": false,
+          "text": "convergent"
+        },
+        {
+          "correct": true,
+          "text": "divergent"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following should be avoided by the teacher in asking questions?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Repeat questions if pupils cannot answer"
+        },
+        {
+          "correct": false,
+          "text": "Encourage lengthy response and sustained answer"
+        },
+        {
+          "correct": false,
+          "text": "Ask the question first before calling a student to answer"
+        },
+        {
+          "correct": false,
+          "text": "Ask a sufficient number of questions to stimulate thinking"
+        }
+      ]
+    },
+    {
+      "question": "I want to elicit more student responses. Which one should I AVOID?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Using convert response"
+        },
+        {
+          "correct": true,
+          "text": "Creating an evaluative atmosphere"
+        },
+        {
+          "correct": false,
+          "text": "Prompting to convert wrong answers to correct ones"
+        },
+        {
+          "correct": false,
+          "text": "Giving non-threatening comments"
+        }
+      ]
+    },
+    {
+      "question": "Which one can help students develop the habit of critical thinking?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Asking low level questions"
+        },
+        {
+          "correct": false,
+          "text": "Asking convergent questions"
+        },
+        {
+          "correct": true,
+          "text": "Asking divergent questions"
+        },
+        {
+          "correct": false,
+          "text": "Asking tugging questions"
+        }
+      ]
+    },
+    {
+      "question": "Which questioning technique would be appropriate for inductive lessons?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Use questions requiring memory responses."
+        },
+        {
+          "correct": false,
+          "text": "Expect participation only among the more motivated students."
+        },
+        {
+          "correct": false,
+          "text": "Involve students actively in the questioning process."
+        },
+        {
+          "correct": false,
+          "text": "As a teacher, you ask no questions."
+        }
+      ]
+    },
+    {
+      "question": "Instead of a teacher giving this comment to a student response: \"You're on the wrong track!\" What should a teacher do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Change the question to an easier one"
+        },
+        {
+          "correct": false,
+          "text": "Redirect the question by calling another student to recite"
+        },
+        {
+          "correct": true,
+          "text": "Probe to redirect the response into a more productive area"
+        },
+        {
+          "correct": false,
+          "text": "Pause-ask the question, lecture, then ask the question again"
+        }
+      ]
+    },
+    {
+      "question": "To encourage class participation, which should a teacher NEVER do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ask non-directed qeustions"
+        },
+        {
+          "correct": false,
+          "text": "Call on non-volunteers"
+        },
+        {
+          "correct": false,
+          "text": "Pose high level questions"
+        },
+        {
+          "correct": true,
+          "text": "Reject a student's response at once"
+        }
+      ]
+    },
+    {
+      "question": "The following are sound specific purposes of questions EXCEPT _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "to call the attention of an inactive student"
+        },
+        {
+          "correct": false,
+          "text": "to teach via student answer"
+        },
+        {
+          "correct": false,
+          "text": "to stimulate learners to ask questions"
+        },
+        {
+          "correct": false,
+          "text": "to arouse interest and curiosity"
+        }
+      ]
+    },
+    {
+      "question": "Which question is in the highest level of Bloom's taxonomy of objectives in the cognitive domain?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "What two groups are present in an experimental design?"
+        },
+        {
+          "correct": false,
+          "text": "What could have happened if there was no control group?"
+        },
+        {
+          "correct": false,
+          "text": "Distinguish between control and experimental group."
+        },
+        {
+          "correct": true,
+          "text": "Judge the validity of the experimental design."
+        }
+      ]
+    },
+    {
+      "question": "When a teacher elicits clarification on a student response or solicits additional information, what is he engaged in?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "directing"
+        },
+        {
+          "correct": false,
+          "text": "cross examining"
+        },
+        {
+          "correct": true,
+          "text": "probing"
+        },
+        {
+          "correct": false,
+          "text": "structuring"
+        }
+      ]
+    },
+    {
+      "question": "When a teacher elicits clarification on a student response or solicits additional information, what is he engaged in?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "directing"
+        },
+        {
+          "correct": false,
+          "text": "cross examining"
+        },
+        {
+          "correct": true,
+          "text": "<span style=\"background-color: rgb(254, 255, 226);\">probing</span>"
+        },
+        {
+          "correct": false,
+          "text": "structuring"
+        }
+      ]
+    },
+    {
+      "question": "Which is NOT a sound purpose for asking questions?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "to probe deeper after an answer is given"
+        },
+        {
+          "correct": true,
+          "text": "to discipline a bully in class"
+        },
+        {
+          "correct": false,
+          "text": "to remind students of a procedure"
+        },
+        {
+          "correct": false,
+          "text": "to encourage self-reflection"
+        }
+      ]
+    },
+    {
+      "question": "Which objective in the affective domain is in the lowest level?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "to accumulate examples of authenticity"
+        },
+        {
+          "correct": false,
+          "text": "to support viewpoints against abortion"
+        },
+        {
+          "correct": false,
+          "text": "to respond positively to a comment"
+        },
+        {
+          "correct": false,
+          "text": "to formulate criteria for honesty"
+        }
+      ]
+    },
+    {
+      "question": "The practice of motivating students before we can proceed to our lesson proper is in accordance with the law of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "exercise"
+        },
+        {
+          "correct": false,
+          "text": "effect"
+        },
+        {
+          "correct": true,
+          "text": "readiness"
+        },
+        {
+          "correct": false,
+          "text": "belongingness"
+        }
+      ]
+    },
+    {
+      "question": "For greater accountability of learning, our lesson objecives must be SMART. T stands for _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "time bound"
+        },
+        {
+          "correct": false,
+          "text": "terminal"
+        },
+        {
+          "correct": true,
+          "text": "time bound and terminal"
+        },
+        {
+          "correct": false,
+          "text": "taxonomic"
+        }
+      ]
+    },
+    {
+      "question": "If there is truth to the statement, \"A picture is worth a thousand words\" then for effective teaching, what should teachers do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "make use of visual aids as often as they can"
+        },
+        {
+          "correct": false,
+          "text": "talk less and listen more"
+        },
+        {
+          "correct": false,
+          "text": "remain abstract in their teaching method"
+        },
+        {
+          "correct": false,
+          "text": "hand many pictures of heroes on the wall"
+        }
+      ]
+    },
+    {
+      "question": "The teaching machines of Skinner provided _____ instruction.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "evaluative"
+        },
+        {
+          "correct": false,
+          "text": "collaborative"
+        },
+        {
+          "correct": true,
+          "text": "programmed"
+        },
+        {
+          "correct": false,
+          "text": "recorded"
+        }
+      ]
+    },
+    {
+      "question": "Basic needs must be met so that learning will effectively take place. This expresses the theory of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Rogers"
+        },
+        {
+          "correct": false,
+          "text": "Murray"
+        },
+        {
+          "correct": false,
+          "text": "Horney"
+        },
+        {
+          "correct": true,
+          "text": "Maslow"
+        }
+      ]
+    },
+    {
+      "question": "To develop higher-level thinking skill among students, which type of questions should be discouraged?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "sequential"
+        },
+        {
+          "correct": true,
+          "text": "convergent"
+        },
+        {
+          "correct": false,
+          "text": "stimulating"
+        },
+        {
+          "correct": false,
+          "text": "clear"
+        }
+      ]
+    },
+    {
+      "question": "Teacher V asked this question: \"We all know what the three branches of governments are, but where did they come from, how were they devised and in what manner do they relate?\" What is defective with the question?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It is focused"
+        },
+        {
+          "correct": false,
+          "text": "It is difficult"
+        },
+        {
+          "correct": true,
+          "text": "It is ambiguous"
+        },
+        {
+          "correct": false,
+          "text": "It is simplistic"
+        }
+      ]
+    },
+    {
+      "question": "A student memorized the pairs of nucleic acids in the DNA by using initials of his loved ones, which device did he use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "acrostic"
+        },
+        {
+          "correct": false,
+          "text": "jingle"
+        },
+        {
+          "correct": false,
+          "text": "recall"
+        },
+        {
+          "correct": true,
+          "text": "mnemonic"
+        }
+      ]
+    },
+    {
+      "question": "Which activity is most appropriate if I want my students to get a graphic overview of the whole lesson on figures of speech before I discuss them one by one?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "topic outline"
+        },
+        {
+          "correct": false,
+          "text": "Venn diagram"
+        },
+        {
+          "correct": false,
+          "text": "sentence outline"
+        },
+        {
+          "correct": true,
+          "text": "advance organizer"
+        }
+      ]
+    },
+    {
+      "question": "The lesson is on the PROS and CONS of the government's all out war against the MILF. Mr. Pabillaran wants to do high level thinking and to develop a view of the all out war from different perspectives. Which technique will be most appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "stimulation"
+        },
+        {
+          "correct": false,
+          "text": "lecture"
+        },
+        {
+          "correct": true,
+          "text": "panel discussion"
+        },
+        {
+          "correct": false,
+          "text": "role playing"
+        }
+      ]
+    },
+    {
+      "question": "For integrative purposes, which method/approach should be used?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "metacognitive approach"
+        },
+        {
+          "correct": false,
+          "text": "cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "thematic approach"
+        },
+        {
+          "correct": true,
+          "text": "constructive approach"
+        }
+      ]
+    },
+    {
+      "question": "For integrative purposes, which method/approach should be used?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "metacognitive approach"
+        },
+        {
+          "correct": false,
+          "text": "cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "thematic approach"
+        },
+        {
+          "correct": true,
+          "text": "constructive approach"
+        }
+      ]
+    },
+    {
+      "question": "Which graphic organizer is MOST fit for sequencing steps of a process?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "hierarchy diagram"
+        },
+        {
+          "correct": true,
+          "text": "flow chart"
+        },
+        {
+          "correct": false,
+          "text": "Venn diagram"
+        },
+        {
+          "correct": false,
+          "text": "double cell diagram"
+        }
+      ]
+    },
+    {
+      "question": "Which one can help students develop the habit of critical thinking?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "asking low level questions"
+        },
+        {
+          "correct": true,
+          "text": "asking divergent questions"
+        },
+        {
+          "correct": false,
+          "text": "asking convergent questions"
+        },
+        {
+          "correct": false,
+          "text": "asking tugging questions"
+        }
+      ]
+    },
+    {
+      "question": "What group activity is illustrated when the teacher allows evaluation of work by the group and encourage the giving of constructive comments and suggestions about ways to improve the work?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "consensus decision"
+        },
+        {
+          "correct": false,
+          "text": "round table"
+        },
+        {
+          "correct": true,
+          "text": "critiquing session"
+        },
+        {
+          "correct": false,
+          "text": "jury trial"
+        }
+      ]
+    },
+    {
+      "question": "Read this question: \"How will you present the layers of the earth to your class?\"",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "directs"
+        },
+        {
+          "correct": false,
+          "text": "leads the student to evaluate"
+        },
+        {
+          "correct": false,
+          "text": "assesses cognition"
+        },
+        {
+          "correct": true,
+          "text": "probes creative thinking"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following refers to the orderly procedures and steps used by the teacher to make the learning process more meaningful and interesting?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learning Continuum"
+        },
+        {
+          "correct": false,
+          "text": "Device"
+        },
+        {
+          "correct": false,
+          "text": "Technique"
+        },
+        {
+          "correct": true,
+          "text": "Method"
+        }
+      ]
+    },
+    {
+      "question": "Which is a characteristic of the constructivist teaching apporach?<br><span style=\"font-weight: normal;\">I. Metacognitive<br>II. Reflective<br>III. Integrative</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": true,
+          "text": "I, II, and III"
+        },
+        {
+          "correct": false,
+          "text": "I only"
+        },
+        {
+          "correct": false,
+          "text": "II only"
+        }
+      ]
+    },
+    {
+      "question": "For maximum interaction, a teacher ought to avoid _____ questions.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "open-ended"
+        },
+        {
+          "correct": true,
+          "text": "rhetorical"
+        },
+        {
+          "correct": false,
+          "text": "probing"
+        },
+        {
+          "correct": false,
+          "text": "divergent"
+        }
+      ]
+    },
+    {
+      "question": "Research tells that teachers ask mostly content questions. Which of the following terms does NOT refer to content question?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "closed"
+        },
+        {
+          "correct": true,
+          "text": "direct"
+        },
+        {
+          "correct": false,
+          "text": "concept"
+        },
+        {
+          "correct": false,
+          "text": "convergent"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the essential feature of the eclectic emthod?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "it is the most used method"
+        },
+        {
+          "correct": false,
+          "text": "it is applicable to all types of learner"
+        },
+        {
+          "correct": true,
+          "text": "it combines all the best features of all other methods"
+        },
+        {
+          "correct": false,
+          "text": "it is recommended by curriculum experts"
+        }
+      ]
+    },
+    {
+      "question": "In large classes where little of the work can be individualized, the most effective and practical way to individualize instruction is to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "give the students freedom to launch individual projects"
+        },
+        {
+          "correct": false,
+          "text": "devise group acitivities which afford every student an opportunity to work at this own level"
+        },
+        {
+          "correct": true,
+          "text": "assign homework and check it regularly"
+        },
+        {
+          "correct": false,
+          "text": "assign programmed material for out-of-class hours"
+        }
+      ]
+    },
+    {
+      "question": "When should a teacher decide to use direct instruction as a method?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "when the subject is easy"
+        },
+        {
+          "correct": true,
+          "text": "when the subject is difficult"
+        },
+        {
+          "correct": false,
+          "text": "when the students will be able to contribute substantially to the lesson"
+        },
+        {
+          "correct": false,
+          "text": "when the teacher is an expert in direct isntruction"
+        }
+      ]
+    },
+    {
+      "question": "Which describe(s) inappropriate practice in the education of young children?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "individual differences are expected and accepted"
+        },
+        {
+          "correct": false,
+          "text": "integrated teaching-learning"
+        },
+        {
+          "correct": true,
+          "text": "isolated skill development"
+        },
+        {
+          "correct": false,
+          "text": "positive guidance techniques"
+        }
+      ]
+    },
+    {
+      "question": "Which practice does NOT fit in a classroom that recognizes individual differences?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "various modes of assessing learning"
+        },
+        {
+          "correct": false,
+          "text": "accommodating student's lifestyle"
+        },
+        {
+          "correct": false,
+          "text": "sharing from multiple perspectives"
+        },
+        {
+          "correct": true,
+          "text": "uniform requirments"
+        }
+      ]
+    },
+    {
+      "question": "Which is &nbsp;a classroom application of this principle, \"Students learn more effectively when they elaborate on new information.\" Ask your students to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "write the principle five times"
+        },
+        {
+          "correct": false,
+          "text": "commit the principle to memory"
+        },
+        {
+          "correct": false,
+          "text": "print the principle in bigger letters then put in a place where they can read it time and again"
+        },
+        {
+          "correct": true,
+          "text": "identify an application of the principle"
+        }
+      ]
+    },
+    {
+      "question": "Which learning principles is the essence of Gardner's theory of multiple intelligences?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Almost all learners are linguistically intelligent"
+        },
+        {
+          "correct": true,
+          "text": "Intelligence is not measured in one form"
+        },
+        {
+          "correct": false,
+          "text": "Learners have different IQ level"
+        },
+        {
+          "correct": false,
+          "text": "Learners have static IQ"
+        }
+      ]
+    },
+    {
+      "question": "You have presented a lesson on animal protective coloration. At the end, you ask if there are any questions. There are none. You can take this to mean that _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the students are not interested in the lesson"
+        },
+        {
+          "correct": false,
+          "text": "the students did not understand what you were talking about"
+        },
+        {
+          "correct": false,
+          "text": "the students understood everything you presented"
+        },
+        {
+          "correct": true,
+          "text": "you need to ask specific questions to elicit responses"
+        }
+      ]
+    },
+    {
+      "question": "You want your students to answer questions at the end of a reading lesson. \"What did I learn today?\", \"What still puzzles me?\", \"What did I enjoy, hate, accomplish in class today?\", \"How did I learn from the lesson?\" Which of the following are you asking them to do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "work on an assignment"
+        },
+        {
+          "correct": true,
+          "text": "make a journal entry"
+        },
+        {
+          "correct": false,
+          "text": "work on a drill"
+        },
+        {
+          "correct": false,
+          "text": "apply what they learned"
+        }
+      ]
+    },
+    {
+      "question": "With individualized teaching strategies as point of reference, which does NOT belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "journal writing"
+        },
+        {
+          "correct": false,
+          "text": "independent study"
+        },
+        {
+          "correct": false,
+          "text": "computer assisted instruction"
+        },
+        {
+          "correct": true,
+          "text": "demonstration method"
+        }
+      ]
+    },
+    {
+      "question": "Which teaching method is intended primarily for skill and concept mastery by way of practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "review"
+        },
+        {
+          "correct": true,
+          "text": "drill"
+        },
+        {
+          "correct": false,
+          "text": "project"
+        },
+        {
+          "correct": false,
+          "text": "supervised study"
+        }
+      ]
+    },
+    {
+      "question": "Teacher wants to teach his students the skill to organize and integrate concepts. The most appropriate technique is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "brainstorming"
+        },
+        {
+          "correct": false,
+          "text": "role playing"
+        },
+        {
+          "correct": true,
+          "text": "semantic webbing"
+        },
+        {
+          "correct": false,
+          "text": "games"
+        }
+      ]
+    },
+    {
+      "question": "The lesson is about the brain. Teacher D likes to share some facts about the brain by the use of a graphic organizer. Which graphic organizer is most fit?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "generalization pattern"
+        },
+        {
+          "correct": false,
+          "text": "episode pattern"
+        },
+        {
+          "correct": true,
+          "text": "descriptive pattern"
+        },
+        {
+          "correct": false,
+          "text": "time sequence pattern"
+        }
+      ]
+    },
+    {
+      "question": "I want to teach a plant's response to light inductively, How will I proceed?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "draw plant's response to light then explain"
+        },
+        {
+          "correct": true,
+          "text": "show pictures of plants growing towards the light, then ask students to&nbsp;draw their conclusions on plant's response to light"
+        },
+        {
+          "correct": false,
+          "text": "state plant's response to light then prove by showing examples"
+        },
+        {
+          "correct": false,
+          "text": "make my students share their research on phototropism and ask one another questions"
+        }
+      ]
+    },
+    {
+      "question": "Which statement on motivation is backed up by research?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "recall past lesson"
+        },
+        {
+          "correct": false,
+          "text": "visualize"
+        },
+        {
+          "correct": false,
+          "text": "formulate hypothesis"
+        },
+        {
+          "correct": false,
+          "text": "think about their thinking"
+        }
+      ]
+    },
+    {
+      "question": "By what name is Questioning method also known?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Socratic Method"
+        },
+        {
+          "correct": false,
+          "text": "cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "mastery learning"
+        },
+        {
+          "correct": false,
+          "text": "indirect instruction"
+        }
+      ]
+    },
+    {
+      "question": "Which question demands the highest level of thinking?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "How should you present a report in class?"
+        },
+        {
+          "correct": false,
+          "text": "What condition must be met for reporting method to be effective?"
+        },
+        {
+          "correct": false,
+          "text": "What steps are followed in class reporting?"
+        },
+        {
+          "correct": true,
+          "text": "Was the student reporting well done? Support your answer."
+        }
+      ]
+    },
+    {
+      "question": "Meaningfulness is the key to all cognitive processes. Meaningfulness depends on _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Provides for meeting pupil different interests"
+        },
+        {
+          "correct": false,
+          "text": "Strengthens learning skills"
+        },
+        {
+          "correct": false,
+          "text": "Contributes to pupils understanding"
+        },
+        {
+          "correct": false,
+          "text": "Reinforces learning experiences"
+        }
+      ]
+    },
+    {
+      "question": "Knowledge is innate in the soul. Provoke people into thinking for themselves rather than teach them they did not already know, said one Greek philosopher. What is the application of this in the classroom today? Use of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "role playing"
+        },
+        {
+          "correct": true,
+          "text": "questioning method"
+        },
+        {
+          "correct": false,
+          "text": "concept mapping"
+        }
+      ]
+    },
+    {
+      "question": "Which does NOT hold true to collaborative learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Each student is held accountable for what is to be learned?"
+        },
+        {
+          "correct": false,
+          "text": "The members of the group have face-to-face interaction."
+        },
+        {
+          "correct": false,
+          "text": "Student's social skills are necessary."
+        },
+        {
+          "correct": true,
+          "text": "Success of the group depends on one diligent student."
+        }
+      ]
+    },
+    {
+      "question": "Which is the most effective way(s) of retaining learner material?<br><span style=\"font-weight: normal;\">I. hearing<br>II. seeing it<br>III. notes compementation</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": false,
+          "text": "II only"
+        },
+        {
+          "correct": false,
+          "text": "II and III"
+        },
+        {
+          "correct": true,
+          "text": "All of these"
+        }
+      ]
+    },
+    {
+      "question": "After reading \"A New Home for Ruben\", teacher asked the students this question: \"Who was Ruben?\" Under what level of comprehension does this question fall?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "application"
+        },
+        {
+          "correct": true,
+          "text": "literal comprehension"
+        },
+        {
+          "correct": false,
+          "text": "interpretation"
+        },
+        {
+          "correct": false,
+          "text": "critical evaluation"
+        }
+      ]
+    },
+    {
+      "question": "Which can improve recall?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "abstract concepts"
+        },
+        {
+          "correct": true,
+          "text": "interactive visual imagery"
+        },
+        {
+          "correct": false,
+          "text": "randomized long list of terms"
+        },
+        {
+          "correct": false,
+          "text": "logic and hard facts"
+        }
+      ]
+    },
+    {
+      "question": "The teacher's role in the classroom according to cognitive psychologists is to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "fill the minds of the learner with information"
+        },
+        {
+          "correct": false,
+          "text": "make the learning task easy for the learner"
+        },
+        {
+          "correct": false,
+          "text": "dictate what to learn upon the learner"
+        },
+        {
+          "correct": true,
+          "text": "help the learner connect what she/he knows new information from the teacher"
+        }
+      ]
+    },
+    {
+      "question": "Which of these methods aptly applies to lessons needing experiments?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "laboratory"
+        },
+        {
+          "correct": false,
+          "text": "process approach"
+        },
+        {
+          "correct": false,
+          "text": "demonstration"
+        },
+        {
+          "correct": false,
+          "text": "problem-solving"
+        }
+      ]
+    },
+    {
+      "question": "The \"mastery learner\" learns best from _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "drama"
+        },
+        {
+          "correct": true,
+          "text": "drill"
+        },
+        {
+          "correct": false,
+          "text": "discussion"
+        },
+        {
+          "correct": false,
+          "text": "experiential learning"
+        }
+      ]
+    },
+    {
+      "question": "Which is a convergent question?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Did the La Solidaridad accomplish its purpose? Why or why not?"
+        },
+        {
+          "correct": true,
+          "text": "Who was the first editor of the La Solidaridad?"
+        },
+        {
+          "correct": false,
+          "text": "Why did the La Solidaridad come about?"
+        },
+        {
+          "correct": false,
+          "text": "If you were the editor of the La Solidaridad, what would you do?"
+        }
+      ]
+    },
+    {
+      "question": "Which type of questions are generally considered low level?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "convergent"
+        },
+        {
+          "correct": false,
+          "text": "evaluative"
+        },
+        {
+          "correct": false,
+          "text": "divergent"
+        },
+        {
+          "correct": false,
+          "text": "open-ended"
+        }
+      ]
+    },
+    {
+      "question": "Here is a question on the knowledge elvel, \"What is the definition of Capitalism?\" Which one is a corresponding question in the application level?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "In your own words, explain the concept of capitalism."
+        },
+        {
+          "correct": false,
+          "text": "What should an economic system like that combines the main features of capitalism and socialism?"
+        },
+        {
+          "correct": true,
+          "text": "What countries from among those listed do have a capitalist economic system?"
+        },
+        {
+          "correct": false,
+          "text": "What factors distinguish capitalism from socialism?"
+        }
+      ]
+    },
+    {
+      "question": "With the linguistically intelligent group in mind, which activity is least effective?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "concept maps"
+        },
+        {
+          "correct": false,
+          "text": "debates"
+        },
+        {
+          "correct": true,
+          "text": "manipulatives"
+        },
+        {
+          "correct": false,
+          "text": "deductive reasoning"
+        }
+      ]
+    },
+    {
+      "question": "Deductive and Inductive reasoning will be most fit for which group of students?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "spatial"
+        },
+        {
+          "correct": false,
+          "text": "naturalist"
+        },
+        {
+          "correct": false,
+          "text": "linguistic"
+        },
+        {
+          "correct": true,
+          "text": "logical-mathematical"
+        }
+      ]
+    },
+    {
+      "question": "The practice of review before the start of a lesson is in accordance with the law of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "exercise"
+        },
+        {
+          "correct": false,
+          "text": "effect"
+        },
+        {
+          "correct": true,
+          "text": "readiness"
+        },
+        {
+          "correct": false,
+          "text": "belonging"
+        }
+      ]
+    },
+    {
+      "question": "Group the following items according to phylum is a thought test item on",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "inferring"
+        },
+        {
+          "correct": true,
+          "text": "classifying"
+        },
+        {
+          "correct": false,
+          "text": "generalizing"
+        },
+        {
+          "correct": false,
+          "text": "comparing"
+        }
+      ]
+    },
+    {
+      "question": "After showing the chart on families of different sizes and their corresponding water consumption, Teacher Lydia asked pupils this question, \"What can you say about the size of families and their average water consumption?\" To answer the question which specific skill is demanded of the pupils?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "drawing inferences"
+        },
+        {
+          "correct": false,
+          "text": "recall"
+        },
+        {
+          "correct": false,
+          "text": "evaluation"
+        },
+        {
+          "correct": true,
+          "text": "stating generalization"
+        }
+      ]
+    },
+    {
+      "question": "Which is (are) supportive of the development of creative thinking?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Judgement atmosphere"
+        },
+        {
+          "correct": false,
+          "text": "Convergent questions"
+        },
+        {
+          "correct": false,
+          "text": "Authoritarian teacher"
+        },
+        {
+          "correct": true,
+          "text": "Brainstorming technique"
+        }
+      ]
+    },
+    {
+      "question": "A pupil who has developed a love for reading keeps on reading for her enjoyment. His motivation for reading is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "both intrinsic and extrinsic"
+        },
+        {
+          "correct": false,
+          "text": "extrinsic"
+        },
+        {
+          "correct": true,
+          "text": "intrinsic"
+        },
+        {
+          "correct": false,
+          "text": "insufficient"
+        }
+      ]
+    },
+    {
+      "question": "Nicolle enjoys games like scrabble, anagrams, and password. Which type of intelligence is strong in Nicolle?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "interpersonal intelligence"
+        },
+        {
+          "correct": true,
+          "text": "linguistic intelligence"
+        },
+        {
+          "correct": false,
+          "text": "spatial intelligence"
+        },
+        {
+          "correct": false,
+          "text": "logical &amp; mathematical intelligence"
+        }
+      ]
+    },
+    {
+      "question": "After a lesson AIDS, the teacher asked the students questions beginning with WHO?, DOES WHAT?, TO WHAT OR WHOM? WHEN? WHERE? This assessment technique technique evaluates students' ability to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "evaluate"
+        },
+        {
+          "correct": false,
+          "text": "analyze"
+        },
+        {
+          "correct": false,
+          "text": "synthesize"
+        },
+        {
+          "correct": true,
+          "text": "recall"
+        }
+      ]
+    },
+    {
+      "question": "A person is held responsible for his actions because",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "he is mature"
+        },
+        {
+          "correct": true,
+          "text": "he has a choice"
+        },
+        {
+          "correct": false,
+          "text": "he has instincts"
+        },
+        {
+          "correct": false,
+          "text": "he has reason"
+        }
+      ]
+    },
+    {
+      "question": "To develop scientific thinking and problem-solving skills, which activity will be most appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "brainstorming"
+        },
+        {
+          "correct": false,
+          "text": "buzz groups"
+        },
+        {
+          "correct": false,
+          "text": "role playing"
+        },
+        {
+          "correct": true,
+          "text": "inquiry group discussion"
+        }
+      ]
+    },
+    {
+      "question": "Which statement on motivation is backed up by research?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "incentives for learning are more important for high-achieving students"
+        },
+        {
+          "correct": false,
+          "text": "incentives are important only for average students when content is abstract"
+        },
+        {
+          "correct": true,
+          "text": "activities that enhance success and reduce failure &nbsp;increase motivation"
+        },
+        {
+          "correct": false,
+          "text": "more motivational devices are needed for intrinsically"
+        }
+      ]
+    },
+    {
+      "question": "In a problem solving model, questions concerning events or data are",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "limited to two questions per student"
+        },
+        {
+          "correct": false,
+          "text": "answered by the leader in detail"
+        },
+        {
+          "correct": false,
+          "text": "asked by the leader and answered by the student"
+        },
+        {
+          "correct": true,
+          "text": "raised by the students"
+        }
+      ]
+    },
+    {
+      "question": "Leticia strives hard to excel in oratory. Which would explain best her effort?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "desire to satisfy aesthetic needs"
+        },
+        {
+          "correct": true,
+          "text": "desire for self-actualization"
+        },
+        {
+          "correct": false,
+          "text": "desire for security"
+        },
+        {
+          "correct": false,
+          "text": "desire to know and understand"
+        }
+      ]
+    },
+    {
+      "question": "Which approach makes you think of your thinking?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "constructivist"
+        },
+        {
+          "correct": false,
+          "text": "integrative"
+        },
+        {
+          "correct": false,
+          "text": "cognitive"
+        },
+        {
+          "correct": true,
+          "text": "metacognitive"
+        }
+      ]
+    },
+    {
+      "question": "Teacher D used the direct instruction strategy. Which did she do last?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Guided student practice"
+        },
+        {
+          "correct": true,
+          "text": "Feedback"
+        },
+        {
+          "correct": false,
+          "text": "Reviewing the previous day's work"
+        },
+        {
+          "correct": false,
+          "text": "Independent practice"
+        }
+      ]
+    },
+    {
+      "question": "To give opportunity for bonding and sharing which can be of help? The use of _____ approach.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "constructivist"
+        },
+        {
+          "correct": false,
+          "text": "discovery"
+        },
+        {
+          "correct": true,
+          "text": "cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "exploratory"
+        }
+      ]
+    },
+    {
+      "question": "When we brainstorm in class, we are expected to _____.<br><span style=\"font-weight: normal;\">I. involve everyone<br>II. build understanding and ownership<br>III. expand the range of options<br>IV. increase creativity</span>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I and II"
+        },
+        {
+          "correct": true,
+          "text": "I, II, II and IV"
+        },
+        {
+          "correct": false,
+          "text": "I only"
+        },
+        {
+          "correct": false,
+          "text": "I, II and IV"
+        }
+      ]
+    },
+    {
+      "question": "The direct instructional model is appropriate when a teacher needs to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "teach creative making"
+        },
+        {
+          "correct": true,
+          "text": "disseminate information that is not readily available from texts or workbooks"
+        },
+        {
+          "correct": false,
+          "text": "develop students' critical thinking"
+        },
+        {
+          "correct": false,
+          "text": "develop the students critical and creative thinking skills"
+        }
+      ]
+    },
+    {
+      "question": "To teach your students how to cook a recipe effectively, which method should you use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "questioning"
+        },
+        {
+          "correct": false,
+          "text": "unit"
+        },
+        {
+          "correct": false,
+          "text": "discovery"
+        },
+        {
+          "correct": true,
+          "text": "demonstration"
+        }
+      ]
+    },
+    {
+      "question": "I use a technique to assess my class's knowledge on the lesson before I proceed. Which is this technique? The use of _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "brainstorming"
+        },
+        {
+          "correct": false,
+          "text": "a story board"
+        },
+        {
+          "correct": true,
+          "text": "a review"
+        },
+        {
+          "correct": false,
+          "text": "an anticipate/reaction guide"
+        }
+      ]
+    },
+    {
+      "question": "I want to engage my students in small group discussions. Which topic lends itself to a lively discussion?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the meaning of the law of supply and demand"
+        },
+        {
+          "correct": false,
+          "text": "rules on subject-verb agreement"
+        },
+        {
+          "correct": false,
+          "text": "the law of inertia"
+        },
+        {
+          "correct": true,
+          "text": "the exclusion of Pluto as a planet"
+        }
+      ]
+    },
+    {
+      "question": "The following are characteristics of interdisciplinary teaching EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "allows learners to see connectedness between things"
+        },
+        {
+          "correct": false,
+          "text": "provides learning opportunities in a real-world context"
+        },
+        {
+          "correct": false,
+          "text": "eliminates&nbsp;boundaries between content areas"
+        },
+        {
+          "correct": true,
+          "text": "discussion from a single perspective"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Lina wants to develop constructivist thinking. Which one will he do less?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "telling"
+        },
+        {
+          "correct": false,
+          "text": "probing"
+        },
+        {
+          "correct": false,
+          "text": "asking open-ended questions"
+        },
+        {
+          "correct": false,
+          "text": "asking process questions"
+        }
+      ]
+    },
+    {
+      "question": "\"What do you think of the behavior of Sabel? Is it typical of children in the rural areas? Explain.\" These questions are asked by the teacher after reading, \"A New Home for Ruben\". Under what level of comprehension are the questions categorized?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "application"
+        },
+        {
+          "correct": false,
+          "text": "interpretation"
+        },
+        {
+          "correct": true,
+          "text": "critical evaluation"
+        },
+        {
+          "correct": false,
+          "text": "literal comperehension"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1407434428094
+}

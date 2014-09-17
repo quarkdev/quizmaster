@@ -1,0 +1,2210 @@
+{
+  "name": "Curriculum Development Set 2",
+  "description": "...",
+  "duration": 50,
+  "instruction": "Choose the best answer.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "John Dewey, Rousseau, Pestallozi and Froebel have greatly influenced the development of:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Child-friendly design curriculum<br>"
+        },
+        {
+          "correct": false,
+          "text": "Problem-centered design"
+        },
+        {
+          "correct": false,
+          "text": "Humanistic design curriculum"
+        },
+        {
+          "correct": false,
+          "text": "Subject centered design curriculum"
+        }
+      ]
+    },
+    {
+      "question": "Which is NOT a component of the curriculum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "learning experiences"
+        },
+        {
+          "correct": false,
+          "text": "content"
+        },
+        {
+          "correct": false,
+          "text": "evaluation approaches"
+        },
+        {
+          "correct": true,
+          "text": "physical environment"
+        }
+      ]
+    },
+    {
+      "question": "The actual development of objectives of the lesson plan is made possible through the series of:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Motivation phase"
+        },
+        {
+          "correct": true,
+          "text": "Instructional processes"
+        },
+        {
+          "correct": false,
+          "text": "Initiatory phase"
+        },
+        {
+          "correct": false,
+          "text": "Introductory processes"
+        }
+      ]
+    },
+    {
+      "question": "The following are the criteria in the selection of subject matter except one. What is the exception?<br>",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "validity"
+        },
+        {
+          "correct": false,
+          "text": "learnability"
+        },
+        {
+          "correct": false,
+          "text": "feasibility"
+        },
+        {
+          "correct": true,
+          "text": "general"
+        }
+      ]
+    },
+    {
+      "question": "The methods convert the written curriculum to instruction. Which of the following is a helpful guide in its selection?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Teaching methods are means to achieve the end."
+        },
+        {
+          "correct": false,
+          "text": "There is no single best teaching method."
+        },
+        {
+          "correct": false,
+          "text": "Flexibility is not a consideration in the use of the teaching method."
+        },
+        {
+          "correct": false,
+          "text": "Learning styles must be considered in the choice of a teaching method."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following approaches considered the learner as an active agent who builds personal understanding of their experiences?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Meta cognitive approach"
+        },
+        {
+          "correct": false,
+          "text": "Cooperative approach"
+        },
+        {
+          "correct": true,
+          "text": "Constructive approach"
+        },
+        {
+          "correct": false,
+          "text": "Reflective approach"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of a good curriculum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The curriculum is not evolving."
+        },
+        {
+          "correct": false,
+          "text": "The curriculum is a complex of details."
+        },
+        {
+          "correct": false,
+          "text": "The curriculum is democratically conceived."
+        },
+        {
+          "correct": false,
+          "text": "The curriculum has administrative flexibility."
+        }
+      ]
+    },
+    {
+      "question": "One of the statements below is true. Which is true?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The teaching and learning that takes is not influenced by the location of the community."
+        },
+        {
+          "correct": false,
+          "text": "The location of the community does not affect teaching and learning"
+        },
+        {
+          "correct": true,
+          "text": "The teaching and learning that takes place in the school is affected by the community where it is situated"
+        },
+        {
+          "correct": false,
+          "text": "School performance cannot be linked with the community"
+        }
+      ]
+    },
+    {
+      "question": "In curriculum development, if you intend to put more importance in developing the learner's mind and spirit, what philosophical belief will you consider?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "idealism"
+        },
+        {
+          "correct": false,
+          "text": "axiology"
+        },
+        {
+          "correct": false,
+          "text": "reconstruction"
+        },
+        {
+          "correct": false,
+          "text": "pragmatism"
+        }
+      ]
+    },
+    {
+      "question": "Curriculum dimension that is unplanned and implicit but its instructional effects are evident in the students' behavior, values and disposition.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "institutional curriculum"
+        },
+        {
+          "correct": false,
+          "text": "instructional curriculum"
+        },
+        {
+          "correct": true,
+          "text": "hidden curriculum"
+        },
+        {
+          "correct": false,
+          "text": "societal curriculum"
+        }
+      ]
+    },
+    {
+      "question": "The concept that includes planning, organization, implementation and evaluation.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "curriculum assessment"
+        },
+        {
+          "correct": false,
+          "text": "curriculum management"
+        },
+        {
+          "correct": false,
+          "text": "curriculum and instruction"
+        },
+        {
+          "correct": true,
+          "text": "curriculum development"
+        }
+      ]
+    },
+    {
+      "question": "The HOW in teaching refers to instruction, what does WHAT refer to?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "curriculum"
+        },
+        {
+          "correct": false,
+          "text": "learning"
+        },
+        {
+          "correct": false,
+          "text": "approaches"
+        },
+        {
+          "correct": false,
+          "text": "strategies"
+        }
+      ]
+    },
+    {
+      "question": "The public elementary schools are using the curriculum that involves integration of social studies, music arts and PE on longer time blocks, what is the design problem?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "correlated"
+        },
+        {
+          "correct": false,
+          "text": "core"
+        },
+        {
+          "correct": false,
+          "text": "mastery learning"
+        },
+        {
+          "correct": true,
+          "text": "broad fields"
+        }
+      ]
+    },
+    {
+      "question": "In this period of Philippine history, the curriculum used to have terminated English as the medium of instruction.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Spanish period"
+        },
+        {
+          "correct": false,
+          "text": "<span style=\"background-color: rgb(254, 255, 226);\">Commonwealth period</span>"
+        },
+        {
+          "correct": false,
+          "text": "American period"
+        },
+        {
+          "correct": true,
+          "text": "Japanese period"
+        }
+      ]
+    },
+    {
+      "question": "A concept in curriculum which aims to provide learners with the needed skills in this ever-changing world.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "technology"
+        },
+        {
+          "correct": false,
+          "text": "self-actualization"
+        },
+        {
+          "correct": true,
+          "text": "social relevance"
+        },
+        {
+          "correct": false,
+          "text": "cumulative tradition of organized knowledge"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statement is NOT true about the subject-centered curriculum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The main task is mastery of learning"
+        },
+        {
+          "correct": false,
+          "text": "The teacher has the full control of the classroom activities"
+        },
+        {
+          "correct": false,
+          "text": "It covers more content in a short period of time"
+        },
+        {
+          "correct": true,
+          "text": "There is a high level of cooperative interaction"
+        }
+      ]
+    },
+    {
+      "question": "The following statements are criteria for offering curriculum that is experienced-centered, except:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "It should emphasize teaching facts and knowledge"
+        },
+        {
+          "correct": false,
+          "text": "It should be used with high level of cooperative interactions"
+        },
+        {
+          "correct": false,
+          "text": "It is primarily based on learners's needs, ability and interest"
+        },
+        {
+          "correct": false,
+          "text": "It should promote the use of active and dynamic process to improve learning"
+        }
+      ]
+    },
+    {
+      "question": "Mr. Cruz idea of curriculum leans heavily on being a cognitive process. Which of the following statements holds true to this conception of curriculum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Aims to make learning efficient and systematic"
+        },
+        {
+          "correct": true,
+          "text": "Develops skills in analysis, deduction and speculation"
+        },
+        {
+          "correct": false,
+          "text": "Considers largely the full development of lerners"
+        },
+        {
+          "correct": false,
+          "text": "Its content is sourced from the different academic and discipline sources"
+        }
+      ]
+    },
+    {
+      "question": "One of the factors in curriculum planning which concerns in identifying the required resources and the estimation of expenditure and revenue is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "budget determination"
+        },
+        {
+          "correct": false,
+          "text": "goal setting"
+        },
+        {
+          "correct": false,
+          "text": "situational analysis"
+        },
+        {
+          "correct": false,
+          "text": "implementation and evaluation decision making"
+        }
+      ]
+    },
+    {
+      "question": "The following are the characteristics of the experience centered curriculum except:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Education is a means to develop individual socially creative"
+        },
+        {
+          "correct": true,
+          "text": "The emphasis is on facts and knowledge for future application"
+        },
+        {
+          "correct": false,
+          "text": "Emphasizes the total growth and development of the learners"
+        },
+        {
+          "correct": false,
+          "text": "Cooperative control by learners, parents, and teachers"
+        }
+      ]
+    },
+    {
+      "question": "What pattern of organizing content/subject matter will be used if science subject is enriching by identifying related concepts in mathematics?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "broad fields"
+        },
+        {
+          "correct": false,
+          "text": "correlated"
+        },
+        {
+          "correct": false,
+          "text": "mastery learning"
+        },
+        {
+          "correct": false,
+          "text": "core"
+        }
+      ]
+    },
+    {
+      "question": "It is the dimension of curriculum design when you connect the lesson learned in one subject area to a related content in another subject area.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "integration"
+        },
+        {
+          "correct": false,
+          "text": "continuity"
+        },
+        {
+          "correct": false,
+          "text": "sequence"
+        },
+        {
+          "correct": false,
+          "text": "articulation"
+        }
+      ]
+    },
+    {
+      "question": "One type of curriculum design under the subject-centered design models in &nbsp;which the subject's geography, economics, political science, anthropology and history are focused into one subject called social studies.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "fused"
+        },
+        {
+          "correct": false,
+          "text": "core"
+        },
+        {
+          "correct": false,
+          "text": "broad field"
+        },
+        {
+          "correct": true,
+          "text": "correlated"
+        }
+      ]
+    },
+    {
+      "question": "It is the process which curricula are used in the school and cosidered as the instructional phase of curriculum development process.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "planning"
+        },
+        {
+          "correct": false,
+          "text": "organization and design"
+        },
+        {
+          "correct": false,
+          "text": "evaluation"
+        },
+        {
+          "correct": true,
+          "text": "implementation"
+        }
+      ]
+    },
+    {
+      "question": "Level of curriculum in which the curriculum is perceived and experienced by each student and may vary among learners because of individual differences",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "societal level"
+        },
+        {
+          "correct": false,
+          "text": "instructional level"
+        },
+        {
+          "correct": false,
+          "text": "institutional level"
+        },
+        {
+          "correct": true,
+          "text": "experiential level"
+        }
+      ]
+    },
+    {
+      "question": "How is Values Education offered in the National Secondary Education Curriculum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Emphasized in Science and Technology"
+        },
+        {
+          "correct": true,
+          "text": "As a separate subject"
+        },
+        {
+          "correct": false,
+          "text": "Integrated in all subjects"
+        },
+        {
+          "correct": false,
+          "text": "Integrated with Technology and Home Economics"
+        }
+      ]
+    },
+    {
+      "question": "The NSEC orients secondary education to:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "teaching of the national symbols"
+        },
+        {
+          "correct": false,
+          "text": "development of correspondence"
+        },
+        {
+          "correct": false,
+          "text": "health values development"
+        },
+        {
+          "correct": true,
+          "text": "national development requirements"
+        }
+      ]
+    },
+    {
+      "question": "If curriculum is defined following the traditional approach, which feature(s) apply(ies)?<br>&nbsp; &nbsp; I. The aims of the curriculum are set by professional and experts.<br>&nbsp; &nbsp;II. Interested groups (teachers, students, communities) are assumed to agree with the aims of the curriculum.<br>&nbsp; &nbsp;III. Consensus building is not necessary",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "II only"
+        },
+        {
+          "correct": true,
+          "text": "I, II, III"
+        },
+        {
+          "correct": false,
+          "text": "I, II"
+        },
+        {
+          "correct": false,
+          "text": "I, III"
+        }
+      ]
+    },
+    {
+      "question": "Basic Education includes Secondary Education. Which of the following led to the establishment of the secondary school?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "realism"
+        },
+        {
+          "correct": false,
+          "text": "reformation"
+        },
+        {
+          "correct": false,
+          "text": "idealism"
+        },
+        {
+          "correct": true,
+          "text": "humanism"
+        }
+      ]
+    },
+    {
+      "question": "It is generally believed that the best way of meeting the needs of mentally superior learners is through",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "enriching the curriculum"
+        },
+        {
+          "correct": false,
+          "text": "accelerating them"
+        },
+        {
+          "correct": false,
+          "text": "providing opportunities for them to help the slow learners"
+        },
+        {
+          "correct": false,
+          "text": "providing opportunities for them to help the slow learners"
+        }
+      ]
+    },
+    {
+      "question": "Operation \"Return to Basics\" was launched by the Dept. of Education Culture ans Sports NOT only to upgrade pupil achievement but also to:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Develop thinking skills"
+        },
+        {
+          "correct": false,
+          "text": "Encourage pupils to study"
+        },
+        {
+          "correct": true,
+          "text": "Emphasize the importance of 3R's"
+        },
+        {
+          "correct": false,
+          "text": "Serve as basis for learning continuum"
+        }
+      ]
+    },
+    {
+      "question": "The main contribution of Arroyo administration in education is Republic Act No. 9155. This provision:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Renamed the DECS to DepEd"
+        },
+        {
+          "correct": false,
+          "text": "Started the NAtional Scholarship Program"
+        },
+        {
+          "correct": false,
+          "text": "Established the study now pay later plan"
+        },
+        {
+          "correct": false,
+          "text": "Conceptualized the K-12 Education Program"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following are the basic components of the curriculum design?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Content, structure, and deliver"
+        },
+        {
+          "correct": false,
+          "text": "Assessment, teaching strategies, and textbooks"
+        },
+        {
+          "correct": false,
+          "text": "Philosophy, goals, and objectives"
+        },
+        {
+          "correct": true,
+          "text": "Standards, learning competencies, and evaluation"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the most important component of educational reform?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Implementing a better curriculum for students"
+        },
+        {
+          "correct": false,
+          "text": "Allowing the students to participate more in extracurricular activities"
+        },
+        {
+          "correct": false,
+          "text": "Hiring only excellent teachers"
+        },
+        {
+          "correct": true,
+          "text": "Involving parents in the education for their children"
+        }
+      ]
+    },
+    {
+      "question": "All subjects in the Philippine Elementary and Secondary School are expected to be taught using the integrated approach. This came about as a result of the implementation of:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Program for Decentralized Education"
+        },
+        {
+          "correct": false,
+          "text": "School-Based Management"
+        },
+        {
+          "correct": true,
+          "text": "Basic Education Curriculum"
+        },
+        {
+          "correct": false,
+          "text": "School's First Initiative"
+        }
+      ]
+    },
+    {
+      "question": "Which is a characteristic of the country's educational system during the American regime?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Centralized"
+        },
+        {
+          "correct": false,
+          "text": "Decentralized"
+        },
+        {
+          "correct": false,
+          "text": "Filipinistic"
+        },
+        {
+          "correct": false,
+          "text": "Religious"
+        }
+      ]
+    },
+    {
+      "question": "\"Man may understand all bout rotation of the earth but may still miss the radiance of the sunset\", said Martin Luther King Jr.. which is an educational implication of this statement? Stress on ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "science education"
+        },
+        {
+          "correct": false,
+          "text": "skill education"
+        },
+        {
+          "correct": true,
+          "text": "liberal education"
+        },
+        {
+          "correct": false,
+          "text": "technical education"
+        }
+      ]
+    },
+    {
+      "question": "He used religion to make education universal. One of his ideas was to make elementary education compulsory.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "St. Augustine"
+        },
+        {
+          "correct": true,
+          "text": "Martin Luther"
+        },
+        {
+          "correct": false,
+          "text": "Thomas Aquinas"
+        },
+        {
+          "correct": false,
+          "text": "Jesus Christ"
+        }
+      ]
+    },
+    {
+      "question": "Bilingual Education is best defined as:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Using two languages in teaching the same subject"
+        },
+        {
+          "correct": false,
+          "text": "Using English and translating it into Filipino"
+        },
+        {
+          "correct": false,
+          "text": "Using the two languages separately in identified subject"
+        },
+        {
+          "correct": false,
+          "text": "Using Filipino or the local dialect instead of English"
+        }
+      ]
+    },
+    {
+      "question": "A free public school system was established in the Philip[pines by Act No 74. Which body passed this law?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "First Philippine Commission"
+        },
+        {
+          "correct": false,
+          "text": "Second Philippine Commission"
+        },
+        {
+          "correct": false,
+          "text": "Philippine Legislature"
+        },
+        {
+          "correct": false,
+          "text": "Senate"
+        }
+      ]
+    },
+    {
+      "question": "The Basic Education Curriculum is being implemented pursuant to this law?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "RA # 9163"
+        },
+        {
+          "correct": false,
+          "text": "RA # 9153"
+        },
+        {
+          "correct": false,
+          "text": "RA # 9135"
+        },
+        {
+          "correct": true,
+          "text": "RA # 9155"
+        }
+      ]
+    },
+    {
+      "question": "The National Service Training Program (NSTP) was first implemented in by virtue of RA 9163.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "SY 1999-2000"
+        },
+        {
+          "correct": false,
+          "text": "SY 2000-2001"
+        },
+        {
+          "correct": true,
+          "text": "SY 2001-2002"
+        },
+        {
+          "correct": false,
+          "text": "SY 2001-2003"
+        }
+      ]
+    },
+    {
+      "question": "Under whose administration was RA # 6655 or the \"Free Public Secondary Education Act of 1988\" implemented?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Pres. MArcos"
+        },
+        {
+          "correct": true,
+          "text": "Pres. Aquino"
+        },
+        {
+          "correct": false,
+          "text": "Pres. Ramos"
+        },
+        {
+          "correct": false,
+          "text": "Pres. Estrada"
+        }
+      ]
+    },
+    {
+      "question": "Which law made English the medium of instruction in the Philippines?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Act # 74"
+        },
+        {
+          "correct": false,
+          "text": "Commonwealth Act #1"
+        },
+        {
+          "correct": false,
+          "text": "Executive Order #27"
+        },
+        {
+          "correct": false,
+          "text": "Philippine Constitution of 1935"
+        }
+      ]
+    },
+    {
+      "question": "Who were Thomasites?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The soldiers who doubled the success of the public educational system in the Philippines"
+        },
+        {
+          "correct": true,
+          "text": "The first American teacher recruits who helped establish the public educational system in the Philippines"
+        },
+        {
+          "correct": false,
+          "text": "The first religious group who came to Philippines on board the US transport Thomas"
+        },
+        {
+          "correct": false,
+          "text": "The devotees of St. Thomas Aquinas who came to evangelize"
+        }
+      ]
+    },
+    {
+      "question": "On which constitutional provision is the partial integration of capable deaf and blind students in the classroom based? The provision on:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Creating scholarship for poor and deserving students"
+        },
+        {
+          "correct": false,
+          "text": "Academic freedom"
+        },
+        {
+          "correct": false,
+          "text": "Providing citizen and vocational training to adult citizens and out of school youth"
+        },
+        {
+          "correct": true,
+          "text": "Protecting and promoting the right of all citizens to quality education"
+        }
+      ]
+    },
+    {
+      "question": "What is otherwise known as the Free Secondary Education Act?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "RA 7722"
+        },
+        {
+          "correct": false,
+          "text": "RA 7836"
+        },
+        {
+          "correct": false,
+          "text": "RA 6014"
+        },
+        {
+          "correct": true,
+          "text": "RA 6655"
+        }
+      ]
+    },
+    {
+      "question": "The curriculum is defined as the total learning experiences of the children in school. Which of the curriculum will assure these experiences?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "curriculum plan"
+        },
+        {
+          "correct": false,
+          "text": "Curriculum implementation"
+        },
+        {
+          "correct": false,
+          "text": "Curriculum evaluation"
+        },
+        {
+          "correct": true,
+          "text": "Curriculum assessment"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT the aim of Elementary Education under the Education Act of 1982?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Provide knowledge and develop skills, attitudes, values essential to personal development and necessary for living in and contributing to a developing and changing world."
+        },
+        {
+          "correct": false,
+          "text": "Provide learning experiences which increase the child's awareness of and responsiveness to the changes in the society"
+        },
+        {
+          "correct": false,
+          "text": "Promote and intensify knowledge, identification with and love for the nation and the people to which the develop orientation to the world of work and prepare the learner to engage in honest and gainful work."
+        },
+        {
+          "correct": true,
+          "text": "Discover and enhance the different aptitudes and interest of students to equip them with skills for productive endeavor and or to prepare them for tertiary level"
+        }
+      ]
+    },
+    {
+      "question": "In the Basic Education Curriculum in 2002, MAKABAYAN was envisioned to be?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The laboratory of life"
+        },
+        {
+          "correct": false,
+          "text": "The history of life"
+        },
+        {
+          "correct": false,
+          "text": "The combined subjects"
+        },
+        {
+          "correct": false,
+          "text": "The tool for the 21st century"
+        }
+      ]
+    },
+    {
+      "question": "which of the following choices is considered as social force that affects the school and the curriculum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learner's styles"
+        },
+        {
+          "correct": true,
+          "text": "Changes in gender roles"
+        },
+        {
+          "correct": false,
+          "text": "Nature of knowledge"
+        },
+        {
+          "correct": false,
+          "text": "Learner's characteristics"
+        }
+      ]
+    },
+    {
+      "question": "Every curriculum has this dimension. This is both unplanned and implicit but its instructional effects are often evident in the students' behavior, values, and disposition. This dimension is referred to as ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Societal curriculum"
+        },
+        {
+          "correct": false,
+          "text": "Instructional curriculum"
+        },
+        {
+          "correct": false,
+          "text": "institutional curriculum"
+        },
+        {
+          "correct": true,
+          "text": "hidden curriculum"
+        }
+      ]
+    },
+    {
+      "question": "Dr. Sison, the provincial hospital director, plans to attend a school board meeting where a new high school science curriculum will be discussed. Which level of curriculum is shown in this situation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "institutional"
+        },
+        {
+          "correct": false,
+          "text": "experiential"
+        },
+        {
+          "correct": false,
+          "text": "society"
+        },
+        {
+          "correct": false,
+          "text": "instructional"
+        }
+      ]
+    },
+    {
+      "question": "On weekends, Mrs. Jungco asks her two children on differebt grade levels what they learned in school on that week. Which level of curriculum does Mrs. Jungco's practice",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "institutional"
+        },
+        {
+          "correct": true,
+          "text": "experiential"
+        },
+        {
+          "correct": false,
+          "text": "society"
+        },
+        {
+          "correct": false,
+          "text": "instructional"
+        }
+      ]
+    },
+    {
+      "question": "The rationale of the K+12 program of the DepEd are the following except:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The quality of education is reflected in the inadequate preparation of thigh school graduates for the world of work or entrepreneurship or higher education"
+        },
+        {
+          "correct": true,
+          "text": "The poor quality of basic education is reflected in the low achievement scores of Filipino students including international test results"
+        },
+        {
+          "correct": false,
+          "text": "To be the same as other countries in terms of number of years in the Basic Education"
+        },
+        {
+          "correct": false,
+          "text": "The congested curriculum partly explains the present state of education"
+        }
+      ]
+    },
+    {
+      "question": "When instruction on the curriculum focuses on the mastery of the content and the evaluation that follows measures only knowledge learned, such curriculum design is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Learner centered design"
+        },
+        {
+          "correct": true,
+          "text": "Subject centered design"
+        },
+        {
+          "correct": false,
+          "text": "Problem centered design"
+        },
+        {
+          "correct": false,
+          "text": "Teacher centered design"
+        }
+      ]
+    },
+    {
+      "question": "The understanding by design curricular approach, the first consideration is about",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "learning experiences"
+        },
+        {
+          "correct": false,
+          "text": "testing of knowledge"
+        },
+        {
+          "correct": true,
+          "text": "desired results"
+        },
+        {
+          "correct": false,
+          "text": "teaching strategies"
+        }
+      ]
+    },
+    {
+      "question": "Which educational philosophy focuses on the role of curriculum as a means in remarking society and rebuilding culture?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "perennialism"
+        },
+        {
+          "correct": false,
+          "text": "progressivism"
+        },
+        {
+          "correct": false,
+          "text": "existentialism"
+        },
+        {
+          "correct": true,
+          "text": "reconstructionism"
+        }
+      ]
+    },
+    {
+      "question": "Ms. Jean is a member of the curriculum committee on a private school in Bulacan. What educational philosophy does she consider if her major concern is to give the child's freedom to choose what to learn and believe, as she allows them to set their own identities and standards. What philosophy will you consider?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "existentialism"
+        },
+        {
+          "correct": false,
+          "text": "realsm"
+        },
+        {
+          "correct": false,
+          "text": "idealism"
+        },
+        {
+          "correct": false,
+          "text": "pragmatism"
+        }
+      ]
+    },
+    {
+      "question": "When certain topics are presented in the elementary in manner appropriate for grade scholars, and the same topic is tackled in the high school, but on a much deeper level, this is referred to as a",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Discovery learning"
+        },
+        {
+          "correct": false,
+          "text": "Classified curriculum"
+        },
+        {
+          "correct": true,
+          "text": "Spiral curriculum"
+        },
+        {
+          "correct": false,
+          "text": "Symbolic learning"
+        }
+      ]
+    },
+    {
+      "question": "Which important elements must the phases f Curriculum development considers according to Ralph Tyler?<br>&nbsp; &nbsp;I. Learners<br>&nbsp; &nbsp;II. Society<br>&nbsp; &nbsp;III. Environment<br>&nbsp; &nbsp;IV. Subject Matter",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "I, II, and IV"
+        },
+        {
+          "correct": true,
+          "text": "I, III, IV"
+        },
+        {
+          "correct": false,
+          "text": "II, III, IV"
+        },
+        {
+          "correct": false,
+          "text": "I, II, and III"
+        }
+      ]
+    },
+    {
+      "question": "Who are considered community-based stakeholders in curriculum development?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Government officials"
+        },
+        {
+          "correct": false,
+          "text": "Civic groups"
+        },
+        {
+          "correct": false,
+          "text": "School boards"
+        },
+        {
+          "correct": false,
+          "text": "Industry groups"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following embodies the operation: Return to the Basics?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "National Secondary Achievement Test"
+        },
+        {
+          "correct": true,
+          "text": "New Elementary Education Curriculum"
+        },
+        {
+          "correct": false,
+          "text": "New Secondary Education Curriculum"
+        },
+        {
+          "correct": false,
+          "text": "National Elementary Achievement Test"
+        }
+      ]
+    },
+    {
+      "question": "What contemporary aid to teaching utilities carefully-planned materials where each step of learning repetition and practice until such step is thoroughly learned?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Programmed instruction"
+        },
+        {
+          "correct": false,
+          "text": "Keypunching"
+        },
+        {
+          "correct": false,
+          "text": "Educational television"
+        },
+        {
+          "correct": false,
+          "text": "Educational Hardware"
+        }
+      ]
+    },
+    {
+      "question": "Parents negatively react on play in children;s curriculum. A teacher who knows the importance of play would tell the parents that?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Playing is important in the child's cognitive development"
+        },
+        {
+          "correct": false,
+          "text": "Playing is good form of exercise"
+        },
+        {
+          "correct": false,
+          "text": "Playing makes learning a pleasurable experiencne"
+        },
+        {
+          "correct": false,
+          "text": "Playing is a stage of child's development"
+        }
+      ]
+    },
+    {
+      "question": "Secondary school competencies in programming and fostering the learning process are classified as program, generic, and specific. Program competencies refer to the over-all competencies which should be the trusts of lessons/ programs for first to fourth year, the general competencies refers to the knowledge and information, skills, values and attitudes which need immediate and observable learning behavioral outcomes, hence, must be well defined, achieved, and realized based on the needs of the learners resources of the school and the nature of the society. How can the teacher succeed in achieving the goals of each curriculum which she/he handles in the secondary level?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "He/she must be able to pass the LET"
+        },
+        {
+          "correct": false,
+          "text": "He/she must be a degree holder"
+        },
+        {
+          "correct": false,
+          "text": "He/she must be familiar with types of competencies in the curriculum level he/she handles"
+        },
+        {
+          "correct": true,
+          "text": "Not only has he/she known all the types of competencies developed for secondary level but also to distunguish which competencies should be realized"
+        }
+      ]
+    },
+    {
+      "question": "What is the main concern of the spiraling of a curriculum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Curriculum renewal and revision"
+        },
+        {
+          "correct": true,
+          "text": "Horizontal articlation among the subjects in a grade level"
+        },
+        {
+          "correct": false,
+          "text": "Vertical articulation of a given subject across grade level"
+        },
+        {
+          "correct": false,
+          "text": "incorporating governmental thrust and societal concerns"
+        }
+      ]
+    },
+    {
+      "question": "The construction of the curriculum in a modern school should be",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Planned by the principal, supervisors, and superintendents and teachers"
+        },
+        {
+          "correct": false,
+          "text": "Decide by the DepEd and followed by all schools in the country"
+        },
+        {
+          "correct": true,
+          "text": "Planned cooperatively by experienced persons and students"
+        },
+        {
+          "correct": false,
+          "text": "Built based on books available in schools"
+        }
+      ]
+    },
+    {
+      "question": "If we aim to produce globally competitive graduates, the Philippines education should give minor emphasis on ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "English, Science, and Mathematics"
+        },
+        {
+          "correct": false,
+          "text": "Technology, and Citizen Education"
+        },
+        {
+          "correct": false,
+          "text": "Humanities and work Education"
+        },
+        {
+          "correct": false,
+          "text": "Bilingual Education and Values Education"
+        }
+      ]
+    },
+    {
+      "question": "The environment is greatly abused which is why schools are teaching sustainable development. Which is the best practice among the following?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Focuses the curriculum on environment"
+        },
+        {
+          "correct": true,
+          "text": "Integrate sustainable development on the curriculum"
+        },
+        {
+          "correct": false,
+          "text": "Sustainable development is not within the grasp of the students"
+        },
+        {
+          "correct": false,
+          "text": "Promote environmental drive in the school"
+        }
+      ]
+    },
+    {
+      "question": "among the following, which best describe the implication of EFA for schools?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Making educational reform in exclusive schools"
+        },
+        {
+          "correct": false,
+          "text": "Offering of informal education"
+        },
+        {
+          "correct": true,
+          "text": "Practice of inclusive education"
+        },
+        {
+          "correct": false,
+          "text": "Emphasizing formal education system"
+        }
+      ]
+    },
+    {
+      "question": "DepEd suggested that to manage effectively the schools stand-along schools in same remote areas should be placed under one lead school. The strongest factor in consideration regarding this proposal is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Historicap"
+        },
+        {
+          "correct": false,
+          "text": "Psychological"
+        },
+        {
+          "correct": true,
+          "text": "Geographical"
+        },
+        {
+          "correct": false,
+          "text": "Social"
+        }
+      ]
+    },
+    {
+      "question": "The use of the integrated approach in both secondary and primary levels subjects is a result of the implementation of the _____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Program for decentralized education"
+        },
+        {
+          "correct": false,
+          "text": "School-based management"
+        },
+        {
+          "correct": true,
+          "text": "Basic Education Curriculum"
+        },
+        {
+          "correct": false,
+          "text": "Schools first initiative"
+        }
+      ]
+    },
+    {
+      "question": "What government program allows students who are not accommodated in community public schools to enroll in private school at the government expense?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Government Assistance Program"
+        },
+        {
+          "correct": false,
+          "text": "Study now pay later"
+        },
+        {
+          "correct": false,
+          "text": "Educational service contract system"
+        },
+        {
+          "correct": false,
+          "text": "National Scholarship Program"
+        }
+      ]
+    },
+    {
+      "question": "____ supports equitable access but on the other hand, quality might be compromised.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Open admission"
+        },
+        {
+          "correct": false,
+          "text": "School accreditation"
+        },
+        {
+          "correct": false,
+          "text": "Deregulated tuition fee hike"
+        },
+        {
+          "correct": false,
+          "text": "Selective retention"
+        }
+      ]
+    },
+    {
+      "question": "Educational institutions efforts of developing work skills inside the schools are aimed at ___",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Developing moral character"
+        },
+        {
+          "correct": false,
+          "text": "Teaching the duties of citizenship"
+        },
+        {
+          "correct": false,
+          "text": "Inculcating love of country"
+        },
+        {
+          "correct": true,
+          "text": "Developing vocational efficiency"
+        }
+      ]
+    },
+    {
+      "question": "Which statement about the subject-centered curriculum is NOT true?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "There is high level cooperative interaction"
+        },
+        {
+          "correct": false,
+          "text": "It covers much content in a short period of time"
+        },
+        {
+          "correct": false,
+          "text": "The teacher has full control of the classroom activities"
+        },
+        {
+          "correct": false,
+          "text": "Th main task is mastery of learning"
+        }
+      ]
+    },
+    {
+      "question": "The Kalayaan Elementary School uses a curriculum design that organizes the ability level of its pupils. Thus, the contents of the subject areas taught across grade levels are so organized that the simplest concepts are taken up in the early deepening sequence of similar concepts taught through the elementary levels. Which curriculum design is this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Correlated"
+        },
+        {
+          "correct": false,
+          "text": "Broad Fields"
+        },
+        {
+          "correct": true,
+          "text": "Spiral"
+        },
+        {
+          "correct": false,
+          "text": "Core"
+        }
+      ]
+    },
+    {
+      "question": "Which statement is true in using the non-technical approach to curriculum development?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The teachers function both as a curriculum developer and implementer."
+        },
+        {
+          "correct": false,
+          "text": "The process used in curriculum development are rational and systematic."
+        },
+        {
+          "correct": false,
+          "text": "The teachers rarely participate in the development of curricula."
+        },
+        {
+          "correct": false,
+          "text": "Curriculum functions are separate but related to instructional function."
+        }
+      ]
+    },
+    {
+      "question": "The curriculum is a total learning experiences for an individual. This point of view is considered to be of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Traditionalist"
+        },
+        {
+          "correct": true,
+          "text": "Progressivist"
+        },
+        {
+          "correct": false,
+          "text": "materialist"
+        },
+        {
+          "correct": false,
+          "text": "Cognitivist"
+        }
+      ]
+    },
+    {
+      "question": "The grassroots approach insists that teachers who teach or implement the curriculum should participate in developing it. This is based on the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ralph Tyler Model"
+        },
+        {
+          "correct": false,
+          "text": "Sigmund Freud Model"
+        },
+        {
+          "correct": true,
+          "text": "Hilda Taba Model"
+        },
+        {
+          "correct": false,
+          "text": "Allan Glatthron Model"
+        }
+      ]
+    },
+    {
+      "question": "When the curriculum includes material resources that would help in the implementation of the written curriculum such as textbooks, computers, audio-visual materials, laboratory equipment, playgrounds, zoos, and other facilities, this curriculum could be categorized as",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Taught curriculum"
+        },
+        {
+          "correct": false,
+          "text": "Assessed curriculum"
+        },
+        {
+          "correct": false,
+          "text": "Learned curriculum"
+        },
+        {
+          "correct": true,
+          "text": "Supported curriculum"
+        }
+      ]
+    },
+    {
+      "question": "Which psychological foundation explains that the curriculum should be organized so students experience success in master the subject matter?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Behaviorism"
+        },
+        {
+          "correct": false,
+          "text": "Psychoanalysis"
+        },
+        {
+          "correct": false,
+          "text": "Humanism"
+        },
+        {
+          "correct": false,
+          "text": "Gestalt"
+        }
+      ]
+    },
+    {
+      "question": "Learners at the center of the curriculum implies the following except",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The learner is placed at the center."
+        },
+        {
+          "correct": false,
+          "text": "The learners are the very reason a curriculum is developed."
+        },
+        {
+          "correct": false,
+          "text": "They are the ones who are directly influenced by learning."
+        },
+        {
+          "correct": true,
+          "text": "Learners in all levels make or unmake the curriculum by their passive and indirect movement."
+        }
+      ]
+    },
+    {
+      "question": "Which among the following is NOT a component of the curriculum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Curriculum Aims, Goals, and Objectives"
+        },
+        {
+          "correct": false,
+          "text": "Curriculum Content or Subject Matter"
+        },
+        {
+          "correct": true,
+          "text": "Curriculum Existence"
+        },
+        {
+          "correct": false,
+          "text": "Curriculum Evaluation"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following when partnered with the different instructional strategies and methods would compromise the core of the curriculum?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Curriculum aims and goals"
+        },
+        {
+          "correct": true,
+          "text": "Curriculum experience"
+        },
+        {
+          "correct": false,
+          "text": "Curriculum evaluation"
+        },
+        {
+          "correct": false,
+          "text": "Curriculum design"
+        }
+      ]
+    },
+    {
+      "question": "The objective to continue to promote the objectives of elementary education and to discover and enhance the different aptitudes and interests of the students so as to equip him the skills for productive endeavor and/or prepare him for tertiary schooling can be found in which article and section under the Educational System",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Article III section 21"
+        },
+        {
+          "correct": true,
+          "text": "Article III section 22"
+        },
+        {
+          "correct": false,
+          "text": "Article III section 23"
+        },
+        {
+          "correct": false,
+          "text": "Article III section 24"
+        }
+      ]
+    },
+    {
+      "question": "The program for Decentralized Education Development (PRODED) is supposed to be content based curriculum. Therefore, it",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "does not focus on the learner and the learning process"
+        },
+        {
+          "correct": false,
+          "text": "focused on the learner and learning process"
+        },
+        {
+          "correct": false,
+          "text": "focuses on the learner only"
+        },
+        {
+          "correct": false,
+          "text": "focuses on the learning process"
+        }
+      ]
+    },
+    {
+      "question": "Which period you could have probably lived if the curriculum you follow includes the code of Kalantiao and Maragtas?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Pre-Spanish"
+        },
+        {
+          "correct": false,
+          "text": "Spanish"
+        },
+        {
+          "correct": false,
+          "text": "American"
+        },
+        {
+          "correct": false,
+          "text": "Japanese"
+        }
+      ]
+    },
+    {
+      "question": "Which curricular approach gave emphasis on \"backward design\"?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "NESC"
+        },
+        {
+          "correct": false,
+          "text": "NSEC"
+        },
+        {
+          "correct": false,
+          "text": "RBE"
+        },
+        {
+          "correct": true,
+          "text": "UBD"
+        }
+      ]
+    },
+    {
+      "question": "The program that gives access to every Filipino the access to early childhood education is",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Universal Kindergarten"
+        },
+        {
+          "correct": false,
+          "text": "Bantay Bata"
+        },
+        {
+          "correct": false,
+          "text": "Generic Elementary Education"
+        },
+        {
+          "correct": false,
+          "text": "Vocational School Program"
+        }
+      ]
+    },
+    {
+      "question": "Which program addresses the learner and learning process?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Program for Decentralized Educational Development (PRODED)"
+        },
+        {
+          "correct": false,
+          "text": "The Basic Education Curriculum (BEC)"
+        },
+        {
+          "correct": false,
+          "text": "Secondary Education Development (SEDP)"
+        },
+        {
+          "correct": true,
+          "text": "Both b and c"
+        }
+      ]
+    },
+    {
+      "question": "Building proficiency through language in the K to 12 program expects a Grade 1 pupil to ____",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Gain knowledge in areas such as Biology, Geometry, Earth Science, Chemistry, and Algebra"
+        },
+        {
+          "correct": true,
+          "text": "Can read in his or her Mother Tongue"
+        },
+        {
+          "correct": false,
+          "text": "Choose a specialization based on aptitude, interests, and school capacity"
+        },
+        {
+          "correct": false,
+          "text": "Acquire in-depth knowledge, skills, values, and attitudes through continuity and consistency across all levels and subjects."
+        }
+      ]
+    },
+    {
+      "question": "Whose role is to be the curriculum leader and at the same time instructional leader and is supposed to be the general manager?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "The Principal"
+        },
+        {
+          "correct": false,
+          "text": "The Area Chairman"
+        },
+        {
+          "correct": false,
+          "text": "The Subject Teacher"
+        },
+        {
+          "correct": false,
+          "text": "The school guidance counselor"
+        }
+      ]
+    },
+    {
+      "question": "A \"curriculum\" is defined as a delivery system that provides children with",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Guidance and feedback"
+        },
+        {
+          "correct": false,
+          "text": "Fitness and motor skills"
+        },
+        {
+          "correct": true,
+          "text": "Enjoyment and knowledge"
+        },
+        {
+          "correct": false,
+          "text": "Sequence and direction"
+        }
+      ]
+    },
+    {
+      "question": "Which three learning domains are involved in teaching physical education?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "cognitive, affective, psychomotor"
+        },
+        {
+          "correct": false,
+          "text": "aerobic, strength, flexibility"
+        },
+        {
+          "correct": false,
+          "text": "motor skills, manipulative skills, physical fitness"
+        },
+        {
+          "correct": false,
+          "text": "behavioral, cognitive, psychomotor"
+        }
+      ]
+    },
+    {
+      "question": "The initial level in curriculum design is to:",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Define objective"
+        },
+        {
+          "correct": false,
+          "text": "Define a philosophy of the subject"
+        },
+        {
+          "correct": false,
+          "text": "Organize a curriculum committee"
+        },
+        {
+          "correct": false,
+          "text": "Define goals"
+        }
+      ]
+    },
+    {
+      "question": "The following are Subject-Centered Curriculum, which should NOT be included?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Correlation design"
+        },
+        {
+          "correct": false,
+          "text": "Discipline design"
+        },
+        {
+          "correct": false,
+          "text": "Subject design"
+        },
+        {
+          "correct": true,
+          "text": "Life-situation design"
+        }
+      ]
+    },
+    {
+      "question": "The principal shares the thought with his teachers that the subject matter should help students understand and appreciate themselves as unique individuals who accept complete responsibility of their thoughts, feelings, and actions. from which point of view is this thought based?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "essentialism"
+        },
+        {
+          "correct": false,
+          "text": "rationalism"
+        },
+        {
+          "correct": false,
+          "text": "progressivism"
+        },
+        {
+          "correct": true,
+          "text": "existentialism"
+        }
+      ]
+    },
+    {
+      "question": "Hilda Taba's Grassroots approach believes",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "That the teacher who teaches or implements the curriculum should participate in developing it"
+        },
+        {
+          "correct": false,
+          "text": "That the school should operate with a specific curriculum"
+        },
+        {
+          "correct": false,
+          "text": "That the administrators are educational qualified in order to facilitate n appropriate curriculum"
+        },
+        {
+          "correct": false,
+          "text": "That schools principals should implement rules among teachers when teaching"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1407427114604
+}

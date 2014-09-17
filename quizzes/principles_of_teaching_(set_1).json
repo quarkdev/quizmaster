@@ -1,0 +1,2210 @@
+{
+  "name": "Principles of Teaching (Set 1)",
+  "description": "...",
+  "duration": 50,
+  "instruction": "Choose the best answer.",
+  "shuffle": true,
+  "items": [
+    {
+      "question": "Teachers who use flexible lesson plans are not using the system of presentation devised by",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Dewey"
+        },
+        {
+          "correct": false,
+          "text": "Bruner"
+        },
+        {
+          "correct": false,
+          "text": "Herbart"
+        },
+        {
+          "correct": true,
+          "text": "Skinner"
+        }
+      ]
+    },
+    {
+      "question": "In formulating the goals of education, what consideration is the greatest importance to the planners?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "studies and recommendations of educational psychologists"
+        },
+        {
+          "correct": false,
+          "text": "educational materials available in the school"
+        },
+        {
+          "correct": true,
+          "text": "outstanding values held by society"
+        },
+        {
+          "correct": false,
+          "text": "children's immediate needs"
+        }
+      ]
+    },
+    {
+      "question": "Here is a lesson objective: Given a microscope and a slide, the students must be able to focus prepared slide. Applying Robert Mager's principle, what does this lesson objective lack?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Criterion Measure"
+        },
+        {
+          "correct": false,
+          "text": "Condition"
+        },
+        {
+          "correct": false,
+          "text": "Performance"
+        },
+        {
+          "correct": false,
+          "text": "Time Element"
+        }
+      ]
+    },
+    {
+      "question": "It is necessary that the parts of a lesson plan from the first to the last have",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "completeness"
+        },
+        {
+          "correct": false,
+          "text": "conciseness"
+        },
+        {
+          "correct": false,
+          "text": "symmetry"
+        },
+        {
+          "correct": true,
+          "text": "coherence"
+        }
+      ]
+    },
+    {
+      "question": "In writing performance objectives, which word is NOT acceptable?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Delineate"
+        },
+        {
+          "correct": false,
+          "text": "Manipulate"
+        },
+        {
+          "correct": false,
+          "text": "Integrate"
+        },
+        {
+          "correct": true,
+          "text": "Comprehend"
+        }
+      ]
+    },
+    {
+      "question": "Which of the given objectives satisfies the criteria for constructing worthwhile instructional objectives?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The student will name the parts of a letter."
+        },
+        {
+          "correct": true,
+          "text": "The student will answer a minimum of 75 items out of 100 on a grammar test in 40 minutes."
+        },
+        {
+          "correct": false,
+          "text": "The student will fully appreciate the beautiful descriptions in passage read in 15 minutes."
+        },
+        {
+          "correct": false,
+          "text": "The student will answer a maximum of 75 items out of 100 on a grammar test in 40 minutes."
+        }
+      ]
+    },
+    {
+      "question": "In formulating the objectives, what consideration is the greatest importance to the teacher?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "studies and recommendations of educational psychologists"
+        },
+        {
+          "correct": false,
+          "text": "educational material available in the school"
+        },
+        {
+          "correct": false,
+          "text": "outstanding values held by society"
+        },
+        {
+          "correct": true,
+          "text": "children's immediate needs"
+        }
+      ]
+    },
+    {
+      "question": "In teaching, the teacher reaches a step where data are critically evaluated and a conclusion is generally arrived at. How is this step called?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Application"
+        },
+        {
+          "correct": true,
+          "text": "Generalization"
+        },
+        {
+          "correct": false,
+          "text": "Presentation"
+        },
+        {
+          "correct": false,
+          "text": "Preparation"
+        }
+      ]
+    },
+    {
+      "question": "One criterion in the selection of content in the development of lesson plan is balance. When does lesson content possess balance?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Content should have practical application for the learners."
+        },
+        {
+          "correct": false,
+          "text": "The content is not cluttered by masses of more trivial content."
+        },
+        {
+          "correct": true,
+          "text": "The content should enable learners to experience the broad sweep of content and give them the opportunity to go deeper."
+        },
+        {
+          "correct": false,
+          "text": "The content should help students learn how to learn."
+        }
+      ]
+    },
+    {
+      "question": "A teacher should not be a slave to his lesson plan. This means that _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the teacher must be ready to depart from her lesson plan if she remembers something more interesting than what she planned"
+        },
+        {
+          "correct": false,
+          "text": "a lesson plan must be followed by a teacher no matter what"
+        },
+        {
+          "correct": false,
+          "text": "the teacher is the best lesson plan designer"
+        },
+        {
+          "correct": true,
+          "text": "the teacher must be willing to depart from her lesson plan if students are more interested in something other than in what she planned"
+        }
+      ]
+    },
+    {
+      "question": "Here is a performance objective: \"With the aid of a periodic chart, the student will list the atomic weights of the first ten elements.\" The words in bold letters are referred to as the _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "minimum acceptable performance"
+        },
+        {
+          "correct": false,
+          "text": "behavior"
+        },
+        {
+          "correct": true,
+          "text": "condition"
+        },
+        {
+          "correct": false,
+          "text": "performance"
+        }
+      ]
+    },
+    {
+      "question": "In the writing of performance objectives for mastery learning, what is an acceptable standard of performance called?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Behavior"
+        },
+        {
+          "correct": false,
+          "text": "Condition"
+        },
+        {
+          "correct": false,
+          "text": "SMART"
+        },
+        {
+          "correct": true,
+          "text": "Criterion Measure"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Helen strives to draw participation of every student into her classroom discussion. Which of these student needs is she trying to address? The need to _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "show one's oral abilities to the rest of the class"
+        },
+        {
+          "correct": true,
+          "text": "feel significant and be part of a group"
+        },
+        {
+          "correct": false,
+          "text": "get everything and be part of a group"
+        },
+        {
+          "correct": false,
+          "text": "be creative"
+        }
+      ]
+    },
+    {
+      "question": "Task, analysis involves the breaking down of a learning task into sub-tasks or sub skills. Given a task to retell a story, which of the following skills is NOT needed?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "to outline a selection"
+        },
+        {
+          "correct": true,
+          "text": "to disseminate information"
+        },
+        {
+          "correct": false,
+          "text": "to identify topic sentence"
+        },
+        {
+          "correct": false,
+          "text": "to arranged events in sequence"
+        }
+      ]
+    },
+    {
+      "question": "A unit plan formulated using the taxonomic approach contains",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "major topics"
+        },
+        {
+          "correct": true,
+          "text": "objectives in the cognitive, psychomotor, and affective domains"
+        },
+        {
+          "correct": false,
+          "text": "updated resources"
+        },
+        {
+          "correct": false,
+          "text": "special activities"
+        }
+      ]
+    },
+    {
+      "question": "What is the lowest level of objective in the affective domain?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Organization"
+        },
+        {
+          "correct": true,
+          "text": "Receiving"
+        },
+        {
+          "correct": false,
+          "text": "Responding"
+        },
+        {
+          "correct": false,
+          "text": "Valuing"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Ann an experienced teacher does daily review of past lessons in order to _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "introduce a new lesson"
+        },
+        {
+          "correct": false,
+          "text": "reflect on how he presented the previous lesson"
+        },
+        {
+          "correct": true,
+          "text": "provide her pupils with a sense of continuity"
+        },
+        {
+          "correct": false,
+          "text": "determine who among his pupils are studying"
+        }
+      ]
+    },
+    {
+      "question": "Having prepared a syllabus, the teacher's job of preparing to teach is not yet through. He has to learn a lot more about teaching. SOme of these are the following EXCEPT one",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "classroom management"
+        },
+        {
+          "correct": false,
+          "text": "the art of questioning"
+        },
+        {
+          "correct": false,
+          "text": "giving assignments"
+        },
+        {
+          "correct": true,
+          "text": "punishment"
+        }
+      ]
+    },
+    {
+      "question": "Which behavioral term describes a lesson outcome in the highest level of Bloom's cognitive domain?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "analyze"
+        },
+        {
+          "correct": false,
+          "text": "create"
+        },
+        {
+          "correct": false,
+          "text": "inter"
+        },
+        {
+          "correct": true,
+          "text": "evaluate"
+        }
+      ]
+    },
+    {
+      "question": "Which quotation goes with a proactive approach to discipline?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "An ounce of prevention is better than a pound of cure."
+        },
+        {
+          "correct": false,
+          "text": "Do not make a mountain out of a mole."
+        },
+        {
+          "correct": false,
+          "text": "Walk your talk."
+        },
+        {
+          "correct": false,
+          "text": "Do not smile until Christmas."
+        }
+      ]
+    },
+    {
+      "question": "Which is TRUE end of teacher's authority in the classroom?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "To coerce the child to do what is good"
+        },
+        {
+          "correct": true,
+          "text": "To motivate the child to internalize self-discipline"
+        },
+        {
+          "correct": false,
+          "text": "To sow fear in every child for orders sake"
+        },
+        {
+          "correct": false,
+          "text": "To make the child obey orders"
+        }
+      ]
+    },
+    {
+      "question": "Why should learning activities be carefully planned?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The ability of the teacher to plan is tested."
+        },
+        {
+          "correct": false,
+          "text": "This is expected by pupils."
+        },
+        {
+          "correct": true,
+          "text": "The accomplishment of objectives is dependent on the plan."
+        },
+        {
+          "correct": false,
+          "text": "This is required of a teacher."
+        }
+      ]
+    },
+    {
+      "question": "Based on Mager's approach in writing lesson objectives, which lesson objective is written correctly?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "At the end of the period, 80 of the class is able to compose seven-to-ten sentence paragraph that observes unity and clarity."
+        },
+        {
+          "correct": false,
+          "text": "At the end of the period, 80 of the class is able to solve 5 word problems correctly."
+        },
+        {
+          "correct": false,
+          "text": "At the end of the period, the student is able to compose seven-to-ten sentence paragraph that observes unity and clarity."
+        },
+        {
+          "correct": true,
+          "text": "At the end of the period, 80 of the class is able to solve 5 word problems with 90 accuracy."
+        }
+      ]
+    },
+    {
+      "question": "If teacher is concerned with the development of student's higher-order thinking skills, then his lesson objectives must go beyond _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "analysis"
+        },
+        {
+          "correct": true,
+          "text": "application"
+        },
+        {
+          "correct": false,
+          "text": "recall"
+        },
+        {
+          "correct": false,
+          "text": "comprehension"
+        }
+      ]
+    },
+    {
+      "question": "Which activity is best suited to summarize a lesson at the end?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ask students to interpret a cartoon related to the lesson"
+        },
+        {
+          "correct": false,
+          "text": "Present a medial summary"
+        },
+        {
+          "correct": true,
+          "text": "Administer a short quiz"
+        },
+        {
+          "correct": false,
+          "text": "Give homework"
+        }
+      ]
+    },
+    {
+      "question": "Every time a new unit is taken up, the teacher presents students with an advance organizer. Which principle does the teacher apply?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Arrange for appropriate practice"
+        },
+        {
+          "correct": false,
+          "text": "Provide for correct responding on the first trial"
+        },
+        {
+          "correct": true,
+          "text": "Organize material into appropriate learning units"
+        },
+        {
+          "correct": false,
+          "text": "Assist students to learn communication skills"
+        }
+      ]
+    },
+    {
+      "question": "What is the best way to handle a situation when a teacher realizes that her planned lessons were inadequate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Send the students in the library to read related topics"
+        },
+        {
+          "correct": false,
+          "text": "Tell the students to prepare for the next subject"
+        },
+        {
+          "correct": false,
+          "text": "Give the students an essay for the remaining period"
+        },
+        {
+          "correct": true,
+          "text": "Provide more exercise on the major points of the lesson"
+        }
+      ]
+    },
+    {
+      "question": "An athlete student is bored and restless. Teacher Justin incorporates athletics into the discussion to get his attention. Which disciplinary technique does Teacher Justin use?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Signal interference"
+        },
+        {
+          "correct": false,
+          "text": "Direct appeal"
+        },
+        {
+          "correct": true,
+          "text": "Interest boosting"
+        },
+        {
+          "correct": false,
+          "text": "Hurdle lessons"
+        }
+      ]
+    },
+    {
+      "question": "To encourage class participation, which should a teacher NEVER do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ask non-directed questions"
+        },
+        {
+          "correct": false,
+          "text": "Call on non-volunteers"
+        },
+        {
+          "correct": false,
+          "text": "Pose high level questions"
+        },
+        {
+          "correct": true,
+          "text": "Reject a student's response at once"
+        }
+      ]
+    },
+    {
+      "question": "In which of these activities will the success of the teacher in the classroom depend?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "He can steer and guide pupils properly."
+        },
+        {
+          "correct": false,
+          "text": "He employs various techniques he learns from books."
+        },
+        {
+          "correct": false,
+          "text": "He implements suggestions on how to manage a class."
+        },
+        {
+          "correct": false,
+          "text": "He makes decisions."
+        }
+      ]
+    },
+    {
+      "question": "When should reward be given for purposes of maximum reinforcement?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "immediately after the response"
+        },
+        {
+          "correct": false,
+          "text": "simultaneously with the reponse"
+        },
+        {
+          "correct": false,
+          "text": "immediately before the reponse"
+        },
+        {
+          "correct": false,
+          "text": "sometimes after a substantial delay"
+        }
+      ]
+    },
+    {
+      "question": "The ultimate aim of good classroom management is to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "establish conditions that make possible effortless teaching and learning"
+        },
+        {
+          "correct": true,
+          "text": "set-up conditions that bring about effective teaching and learning"
+        },
+        {
+          "correct": false,
+          "text": "assure conformity to rules with ease"
+        },
+        {
+          "correct": false,
+          "text": "remove the physical conditions in the room that distract children's attention"
+        }
+      ]
+    },
+    {
+      "question": "The primary objective of my lesson is: \"To add similar fractions correctly.\" Before I can do this I must first aim at this specific objective: \"To distinguish a numerator from a denominator.\" What kind of objective is the latter?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Major"
+        },
+        {
+          "correct": false,
+          "text": "Terminal"
+        },
+        {
+          "correct": true,
+          "text": "Enabling"
+        },
+        {
+          "correct": false,
+          "text": "Primary"
+        }
+      ]
+    },
+    {
+      "question": "Which is a sound classroom management practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Apply rules and policies on a case to case basis."
+        },
+        {
+          "correct": false,
+          "text": "Apply reactive approach to discipline."
+        },
+        {
+          "correct": false,
+          "text": "Avoid establishing routines; routines make your students robots."
+        },
+        {
+          "correct": true,
+          "text": "Establish routines for all daily needs and tasks."
+        }
+      ]
+    },
+    {
+      "question": "Which is a proactive management practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Tell students you enforce the rules on everyone with no exception."
+        },
+        {
+          "correct": true,
+          "text": "Set and clarify rules and expectations on the first meeting."
+        },
+        {
+          "correct": false,
+          "text": "Punish misbehaving pupils in the presence of the whole class."
+        },
+        {
+          "correct": false,
+          "text": "Stress penalty on every violation."
+        }
+      ]
+    },
+    {
+      "question": "Which one should a teacher AVOID to produce an environment conducive to learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "tests"
+        },
+        {
+          "correct": false,
+          "text": "seat plan"
+        },
+        {
+          "correct": true,
+          "text": "individual competition"
+        },
+        {
+          "correct": false,
+          "text": "games"
+        }
+      ]
+    },
+    {
+      "question": "Which is a characteristic of an effective classroom management?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "coercive"
+        },
+        {
+          "correct": false,
+          "text": "reactive"
+        },
+        {
+          "correct": false,
+          "text": "imposed"
+        },
+        {
+          "correct": true,
+          "text": "preventive"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is the best time for a teacher to set up routine activities what will contribute to effective classroom management?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "during each homeroom day"
+        },
+        {
+          "correct": true,
+          "text": "on the very first day of school"
+        },
+        {
+          "correct": false,
+          "text": "daily at the tart of the session"
+        },
+        {
+          "correct": false,
+          "text": "as soon as the students have established and adjusted their schedules"
+        }
+      ]
+    },
+    {
+      "question": "Which of these is the MOST important principle that teacher should follow in initiating a program of positive reinforcement?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Punish negative behavior and reward positive behavior."
+        },
+        {
+          "correct": false,
+          "text": "Provide regular opportunity for socially acceptable behavior."
+        },
+        {
+          "correct": true,
+          "text": "Make sure the reward comes immediately after the appropriate behavior."
+        },
+        {
+          "correct": false,
+          "text": "Consider peer approval and recognition."
+        }
+      ]
+    },
+    {
+      "question": "Punishment should not be often used as reinforcement because",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "research findings on the relative effects of reward and punishment are not yet conclusive"
+        },
+        {
+          "correct": false,
+          "text": "it is deterrent for effective pupil growth"
+        },
+        {
+          "correct": false,
+          "text": "it motivates the child to conform"
+        },
+        {
+          "correct": true,
+          "text": "it undermines the child's feelings of self-confidence"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following should class management and discipline problems take into consideration?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Changing rules show weakness on the part of the teacher"
+        },
+        {
+          "correct": true,
+          "text": "The proper functioning of the classroom and the individual interest of the learners should be interrelated."
+        },
+        {
+          "correct": false,
+          "text": "Class management is based on a teacher's ability to subordinate the interest of individual students."
+        },
+        {
+          "correct": false,
+          "text": "The interests of the individual child are more important that the classroom as a whole."
+        }
+      ]
+    },
+    {
+      "question": "Mrs. Sanchez is encountering problems on classroom discipline. Which of these activities should she employ?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Enforce a system of rewards and punishments."
+        },
+        {
+          "correct": true,
+          "text": "Plan constructive and purposeful activities."
+        },
+        {
+          "correct": false,
+          "text": "Punish erring students in front of the class."
+        },
+        {
+          "correct": false,
+          "text": "Tell the class that she is the person in authority."
+        }
+      ]
+    },
+    {
+      "question": "The new teacher entered a noisy classroom. She shouted immediately at the students desperately trying to get order and discipline. Since then the teacher has not controlled the class. Which is the most probably cause of the teacher's failure?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "The new teacher wants to show the class who is the authority."
+        },
+        {
+          "correct": true,
+          "text": "Rules are not defined and procedures to sustain order are not put into place."
+        },
+        {
+          "correct": false,
+          "text": "The class wants to test the ability and patience of the teacher."
+        },
+        {
+          "correct": false,
+          "text": "The student's reactions to the teacher are the consequences of her behavior."
+        }
+      ]
+    },
+    {
+      "question": "As manager of the learning situation, the teacher is responsible for the setting up of a physical environment that is most conducive to learning. She should see to it that",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the efficiency with which time and energy are spent on the part of the students is considered"
+        },
+        {
+          "correct": false,
+          "text": "the type of class reactions to the learning situation is well directed by the teacher"
+        },
+        {
+          "correct": true,
+          "text": "the lighting and ventilation of the room and flexible arrangement of equipment are relevant to the type of activity being pursued"
+        },
+        {
+          "correct": false,
+          "text": "the effectiveness of class routine in the daily class activities is carried"
+        }
+      ]
+    },
+    {
+      "question": "Ms. Garcia's lesson objective has something has something to do with the skill of synthesizing? Which behavioral term is most appropriate?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "test"
+        },
+        {
+          "correct": false,
+          "text": "assess"
+        },
+        {
+          "correct": false,
+          "text": "responding"
+        },
+        {
+          "correct": true,
+          "text": "theorize"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Dianne banged the door when she entered the classroom while the pupils waited nervously to greet her. She was tense and so were the pupils. Later, she tries to encourage them to participate but the children remained quiet in their seats. Which can best explain the situation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "the teacher's verbal and non-verbal messages are contradictory"
+        },
+        {
+          "correct": false,
+          "text": "the impact of the non-verbal and verbal messages of the behavior did not change"
+        },
+        {
+          "correct": false,
+          "text": "the pupil's perceptions of the teacher's non-verbal behavior did not change"
+        },
+        {
+          "correct": false,
+          "text": "the teacher's verbal communication has not been interpreted correctly by the pupils"
+        }
+      ]
+    },
+    {
+      "question": "With-it-ness according to Kounin is one of the characteristics of an effective classroom manager. Which phrase goes with it?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "have hands that write fast"
+        },
+        {
+          "correct": true,
+          "text": "have eyes at the back of your head"
+        },
+        {
+          "correct": false,
+          "text": "have a mouth ready to speak"
+        },
+        {
+          "correct": false,
+          "text": "have minds packed with knowledge"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Betty clears his throat to communicate disapproval of a student's behavior. Which specific discipline technique is he using?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Proximity Control"
+        },
+        {
+          "correct": false,
+          "text": "Interest Boasting"
+        },
+        {
+          "correct": true,
+          "text": "Signal Interference"
+        },
+        {
+          "correct": false,
+          "text": "Direct Appeal"
+        }
+      ]
+    },
+    {
+      "question": "The use of drills in the classroom is rooted on Thorndike's law of",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Belongingness"
+        },
+        {
+          "correct": false,
+          "text": "Readiness"
+        },
+        {
+          "correct": true,
+          "text": "Exercise"
+        },
+        {
+          "correct": false,
+          "text": "Effect"
+        }
+      ]
+    },
+    {
+      "question": "Bullying among kids in school is rampant. What needs to be taught to eradicate it?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Full development of talents"
+        },
+        {
+          "correct": false,
+          "text": "Athletic skills"
+        },
+        {
+          "correct": true,
+          "text": "Respect for the dignity of persons"
+        },
+        {
+          "correct": false,
+          "text": "Full development of physical powers"
+        }
+      ]
+    },
+    {
+      "question": "If student's inappropriate behavior is low level or mild and that it appears that the misbehavior will not spread to others, it is sometimes best for the teacher not to take notice of it. Which influence technique is this?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Antiseptic bouncing"
+        },
+        {
+          "correct": true,
+          "text": "Planned ignoring"
+        },
+        {
+          "correct": false,
+          "text": "Proximity control"
+        },
+        {
+          "correct": false,
+          "text": "Signal interference"
+        }
+      ]
+    },
+    {
+      "question": "Which seat arrangement has been proven to be effective for learning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Any seat arrangement to suit varies learning styles"
+        },
+        {
+          "correct": false,
+          "text": "A combination of fixed and flexible arrangement"
+        },
+        {
+          "correct": true,
+          "text": "Flexible to suit varies activities"
+        },
+        {
+          "correct": false,
+          "text": "Fixed arrangement to maximize instructional time"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Aida says \"Very Good!\" to every student after an answer. Is this a sound classroom management practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Yes. Every student effort must be praised profusely."
+        },
+        {
+          "correct": false,
+          "text": "No. Teachers must be stingy with their praise."
+        },
+        {
+          "correct": true,
+          "text": "No. A teacher must be generous in giving praise but praise must be genuinely deserved."
+        },
+        {
+          "correct": false,
+          "text": "Yes. Praise makes every student feel good and so must be given every time."
+        }
+      ]
+    },
+    {
+      "question": "To be an effective classroom manager, a teacher must be friendly but must at the same time be _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "confident"
+        },
+        {
+          "correct": false,
+          "text": "analytical"
+        },
+        {
+          "correct": true,
+          "text": "businesslike"
+        },
+        {
+          "correct": false,
+          "text": "buddy-buddy"
+        }
+      ]
+    },
+    {
+      "question": "The following are synonymous to performance objective EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "learner's objectives"
+        },
+        {
+          "correct": false,
+          "text": "instructional objectives"
+        },
+        {
+          "correct": true,
+          "text": "teacher's objective"
+        },
+        {
+          "correct": false,
+          "text": "behavioral objective"
+        }
+      ]
+    },
+    {
+      "question": "On the first day of class after initial introductions, the teacher administered a Misconception/Preconception Check. She explained that she wanted to know. What that class as a whole already know about the Philippines before the Spaniards came. On what assumption is this practice based?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Teachers teach a number of erroneous information in history."
+        },
+        {
+          "correct": false,
+          "text": "A Misconception/Preconception Check determines students readiness for instruction."
+        },
+        {
+          "correct": true,
+          "text": "The greatest obstacle to new learning often is not that students lack of prior knowledge but, rather, the existence of prior knowledge."
+        },
+        {
+          "correct": false,
+          "text": "History books are replete with factual errors."
+        }
+      ]
+    },
+    {
+      "question": "Which illustrates a proactive approach to discipline?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Teacher starts giving rule only after a violation of a rule."
+        },
+        {
+          "correct": true,
+          "text": "Teacher arranges the chairs to allow for a smooth traffic flow."
+        },
+        {
+          "correct": false,
+          "text": "Teacher brings to the principal two boys engaged in a fight."
+        },
+        {
+          "correct": false,
+          "text": "Teacher reprimands a misbehaving student."
+        }
+      ]
+    },
+    {
+      "question": "Which process does NOT form part of creative thinking?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Curiosity"
+        },
+        {
+          "correct": false,
+          "text": "Imagination"
+        },
+        {
+          "correct": false,
+          "text": "Originality"
+        },
+        {
+          "correct": true,
+          "text": "\"Inside the box\" thinking"
+        }
+      ]
+    },
+    {
+      "question": "Planning for instruction should be based on certain developmental principles because the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Lesson objectives will determine the student's activities in class"
+        },
+        {
+          "correct": false,
+          "text": "Students need to learn the lessons using appropriate materials"
+        },
+        {
+          "correct": false,
+          "text": "Teaching job must be procedural/systematic in order to be effective"
+        },
+        {
+          "correct": true,
+          "text": "Class activities must be appropriate to the students' capabilities"
+        }
+      ]
+    },
+    {
+      "question": "Why is it sound to encourage students to define terms in their own words? Because _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Students remember information better when they mentally process it in some way"
+        },
+        {
+          "correct": false,
+          "text": "They ought to connect the terms that they learn with other terms"
+        },
+        {
+          "correct": false,
+          "text": "This is one opportunity to brush up with their English"
+        },
+        {
+          "correct": false,
+          "text": "Defining the terms in their own words helps them memorize the definition faster"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Zeny always checks on entry knowledge and skills before she proceeds to her new lesson. On which principle is Teacher Zeny's practice grounded?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Effective teaching proceeds from the concrete to the abstract."
+        },
+        {
+          "correct": false,
+          "text": "Learning increases when the lesson is relevant."
+        },
+        {
+          "correct": false,
+          "text": "Attention is essential for learning."
+        },
+        {
+          "correct": true,
+          "text": "New learning builds on previous learning."
+        }
+      ]
+    },
+    {
+      "question": "According to the cognitivist, Jerome Bruner, for the learner to use information effectively, it must be TRANSLATED into his TERMS, &nbsp;what is an implication of this to the teacher?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "To make him define the terms clearly"
+        },
+        {
+          "correct": true,
+          "text": "To use terms within the level of the pupil's understanding"
+        },
+        {
+          "correct": false,
+          "text": "To employ cooperative learning"
+        },
+        {
+          "correct": false,
+          "text": "To teach the information in the constructivist way"
+        }
+      ]
+    },
+    {
+      "question": "Here is a lesson objective in literature: \"Using the six descriptions of the elements of a good short story, identify in writing the six elements in the short story by O. Henry with complete accuracy.\" Applying Robert Mager's principle on writing performance objectives, which is the criterion measure?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "\"the six elements in the short story by O. Henry with complete accuracy\""
+        },
+        {
+          "correct": false,
+          "text": "\"identify in writing\""
+        },
+        {
+          "correct": true,
+          "text": "\"with complete accuracy\""
+        },
+        {
+          "correct": false,
+          "text": "\"using the six description of elements for short story\""
+        }
+      ]
+    },
+    {
+      "question": "Which statement on review is CORRECT?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "It is a remedial measure for the slow learners in class."
+        },
+        {
+          "correct": true,
+          "text": "One of its purposes is to link the past with the new lesson."
+        },
+        {
+          "correct": false,
+          "text": "It is repeating the lesson on the previous day to find out if students learned the lesson."
+        },
+        {
+          "correct": false,
+          "text": "Every lesson begins with a review."
+        }
+      ]
+    },
+    {
+      "question": "To improve on student's attentive behavior, which should you be vigilant about?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Raising a hand to volunteer a response."
+        },
+        {
+          "correct": false,
+          "text": "Turning around to listen to a student who is speaking."
+        },
+        {
+          "correct": true,
+          "text": "Maintaining eye contact with the student."
+        },
+        {
+          "correct": false,
+          "text": "Doodling with a pencil."
+        }
+      ]
+    },
+    {
+      "question": "As a teacher, what do you do when you engage yourself in major task analysis?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Test if learning reached higher level thinking skills."
+        },
+        {
+          "correct": true,
+          "text": "Breakdown a complex task into sub-skills."
+        },
+        {
+          "correct": false,
+          "text": "Determine the level of thinking involved."
+        },
+        {
+          "correct": false,
+          "text": "Revise the lesson objectives."
+        }
+      ]
+    },
+    {
+      "question": "Which assumption underlines the teacher's use of performance objectives?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Not every form of learning is observable."
+        },
+        {
+          "correct": false,
+          "text": "Performance objectives assure the learner of learning."
+        },
+        {
+          "correct": true,
+          "text": "Learning is defined as a change in the learner's observable performance."
+        },
+        {
+          "correct": false,
+          "text": "The success of a learner is based on teacher performance."
+        }
+      ]
+    },
+    {
+      "question": "What does the adage, \"A stitch on time saves nine\" imply to classroom management? Teacher _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "must be reactive in her classroom management approach"
+        },
+        {
+          "correct": false,
+          "text": "may not bother with minor disruptions because they are worth ignoring"
+        },
+        {
+          "correct": true,
+          "text": "has to resolve minor disruptions before they are out of control"
+        },
+        {
+          "correct": false,
+          "text": "is effective in her classroom management if at least nine students out of fifty are well behaved"
+        }
+      ]
+    },
+    {
+      "question": "After giving an input on a good paragraph, Teacher Lina asks her students to rate a given paragraph along the elements of a good paragraph. In which level is the student's task?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Application"
+        },
+        {
+          "correct": true,
+          "text": "Evaluation"
+        },
+        {
+          "correct": false,
+          "text": "Analysis"
+        },
+        {
+          "correct": false,
+          "text": "Synthesis"
+        }
+      ]
+    },
+    {
+      "question": "Which is the most direct way of checking on the previous lesson?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Sampling the understanding of a few students"
+        },
+        {
+          "correct": false,
+          "text": "Having student identify difficult homework problems"
+        },
+        {
+          "correct": false,
+          "text": "Having students correct each other's work"
+        },
+        {
+          "correct": true,
+          "text": "Explicitly reviewing task-relevant information necessary for the day's lesson"
+        }
+      ]
+    },
+    {
+      "question": "In instructional planning, which among these three: unit plan, course plan, lesson plan is (are) most specific? _____ plans",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Course"
+        },
+        {
+          "correct": false,
+          "text": "Unit"
+        },
+        {
+          "correct": false,
+          "text": "Resources"
+        },
+        {
+          "correct": true,
+          "text": "Lesson"
+        }
+      ]
+    },
+    {
+      "question": "Sometimes, the non-verbal aspect of communication can carry more weight than the verbal. Non-verbal messages can be sent by the following EXCEPT",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Teacher's comment, \"The answer is not written on the floor\""
+        },
+        {
+          "correct": false,
+          "text": "Tone of voice"
+        },
+        {
+          "correct": false,
+          "text": "Facial expression"
+        },
+        {
+          "correct": false,
+          "text": "Body language"
+        }
+      ]
+    },
+    {
+      "question": "With the preventive discipline in mind, which does NOT belong to the group?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Reactive"
+        },
+        {
+          "correct": false,
+          "text": "Anticipatory"
+        },
+        {
+          "correct": false,
+          "text": "Inventive"
+        },
+        {
+          "correct": false,
+          "text": "Proactive"
+        }
+      ]
+    },
+    {
+      "question": "To nurture students' creativity, which activity should a teacher AVOID?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ask \"what if...\" questions"
+        },
+        {
+          "correct": false,
+          "text": "Ask divergent thinking questions"
+        },
+        {
+          "correct": true,
+          "text": "Emphasize the need to give the right answer"
+        },
+        {
+          "correct": false,
+          "text": "Be open to \"out of this world\" ideas"
+        }
+      ]
+    },
+    {
+      "question": "Edgar Dale found-out that people generally remember 10% of what they read but generally remember 90% of what they do. What does this imply to teacher's instructional planning?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Plan a detailed lecture and provide the students with your lecture outline."
+        },
+        {
+          "correct": false,
+          "text": "Give many reading materials to the students."
+        },
+        {
+          "correct": true,
+          "text": "Plan for an activity where students do the real thing."
+        },
+        {
+          "correct": false,
+          "text": "Outline the lesson on the board."
+        }
+      ]
+    },
+    {
+      "question": "With Bloom's cognitive taxonomy in mind, which objective is in the highest level?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "To rate a project along relevance, originality and craftmanship."
+        },
+        {
+          "correct": false,
+          "text": "To state the assumption that underlies the given statements."
+        },
+        {
+          "correct": false,
+          "text": "To state a generalization from the data given"
+        },
+        {
+          "correct": false,
+          "text": "To write a paragraph that observes unity, coherence and variety"
+        }
+      ]
+    },
+    {
+      "question": "Study the lesson objective then answer the question: \"After a discussion on how to make a good rubric and given the criteria of a good rubric, the student is able to evaluate a rubric that he made.\" What is/are lacking in the objective based on Mager's elements of a good objective?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Condition"
+        },
+        {
+          "correct": false,
+          "text": "Condition and criterion of success"
+        },
+        {
+          "correct": false,
+          "text": "Performance Behavior"
+        },
+        {
+          "correct": true,
+          "text": "Criterion of success"
+        }
+      ]
+    },
+    {
+      "question": "Although learning can take place anywhere and anytime, the more systematic the teacher, the greater is the probability for success. This points out the need for teachers to _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "set their teaching priorities"
+        },
+        {
+          "correct": false,
+          "text": "specify their objectives"
+        },
+        {
+          "correct": false,
+          "text": "select their instructional materials"
+        },
+        {
+          "correct": true,
+          "text": "plan their lesson"
+        }
+      ]
+    },
+    {
+      "question": "You have pupils in your class whose achievement is below the grade level they are in. What should you do?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Give them the same work as other pupils so that they won't feel embarrassed."
+        },
+        {
+          "correct": true,
+          "text": "Give them materials on their level and let them work at a pace that is reasonable for them."
+        },
+        {
+          "correct": false,
+          "text": "Give them work that is a little above their achievement level to challenge them."
+        },
+        {
+          "correct": false,
+          "text": "Give them the same work as the other pupils, anyway they will learn as much as they are capable of learning."
+        }
+      ]
+    },
+    {
+      "question": "Teacher Sophie uses the low-profile classroom control technique most of the time. What does this imply?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "She is reactive in her disciplinary orientation"
+        },
+        {
+          "correct": false,
+          "text": "She manages pupils' personalities"
+        },
+        {
+          "correct": false,
+          "text": "She reacts severely to a misbehaving student"
+        },
+        {
+          "correct": true,
+          "text": "She stops misbehavior without disrupting lesson flow"
+        }
+      ]
+    },
+    {
+      "question": "What just a teacher do to ensure orderly transitions between activities?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Allow time for the students to socialize in between activities"
+        },
+        {
+          "correct": true,
+          "text": "Have the materials ready at the start of the acitivity"
+        },
+        {
+          "correct": false,
+          "text": "Assign fewer exercises to fill the allotted time"
+        },
+        {
+          "correct": false,
+          "text": "Wait for the students who lag behind"
+        }
+      ]
+    },
+    {
+      "question": "Which is an INAPPROPRIATE way to manage off-task behavior?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Redirect a child's attention to task and check his progress to make sure he is continuing to work"
+        },
+        {
+          "correct": false,
+          "text": "Make eye contact to communicate what you wish to communicate"
+        },
+        {
+          "correct": false,
+          "text": "Move closer to the child to make him feel your presence"
+        },
+        {
+          "correct": true,
+          "text": "Stop your class activity to correct a child who is no longer on task"
+        }
+      ]
+    },
+    {
+      "question": "Which is the best reason why Mr. Cruz begins a lesson in Mathematics by checking and receiving the previous day's assignment and provides practice and drills?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Make sure that students understand the prerequisite skills for the lesson"
+        },
+        {
+          "correct": false,
+          "text": "Make learning interesting and enjoyable for students"
+        },
+        {
+          "correct": false,
+          "text": "Prepare the students for the mastery test"
+        },
+        {
+          "correct": false,
+          "text": "Give students the opportunity to answer workbook exercises"
+        }
+      ]
+    },
+    {
+      "question": "Misdemeanor has a \"ripple-effect\". This implies that as a classroom manager, a teacher _____.",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "reinforces positive behavior"
+        },
+        {
+          "correct": true,
+          "text": "responds to misbehavior promptly"
+        },
+        {
+          "correct": false,
+          "text": "is consistent in her classroom management practice"
+        },
+        {
+          "correct": false,
+          "text": "counts 1 to 10 before she deals with a misbehaving student"
+        }
+      ]
+    },
+    {
+      "question": "Which of the educative process the three most important factors are the",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "child, teacher and parents"
+        },
+        {
+          "correct": false,
+          "text": "child, teacher and method of teaching"
+        },
+        {
+          "correct": false,
+          "text": "child, teacher and subject matter"
+        },
+        {
+          "correct": true,
+          "text": "child, teacher and learning environment"
+        }
+      ]
+    },
+    {
+      "question": "Which is one characteristic of an effective classroom management?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "it quickly and unobtrusively redirects misbehavior once it occurs"
+        },
+        {
+          "correct": false,
+          "text": "it teaches dependence on others for self-control"
+        },
+        {
+          "correct": false,
+          "text": "it respects cultural norms of limited group students"
+        },
+        {
+          "correct": false,
+          "text": "strategies are simple enough to be used consistently"
+        }
+      ]
+    },
+    {
+      "question": "Misdemeanor has a \"ripple-effect\". Which practice is not in keeping with this principle?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "reinforces positive behavior"
+        },
+        {
+          "correct": false,
+          "text": "responds to misbehavior promptly"
+        },
+        {
+          "correct": false,
+          "text": "is consistent in her classroom management practice"
+        },
+        {
+          "correct": true,
+          "text": "counts 1 to 10 before she deals with a misbehaving student"
+        }
+      ]
+    },
+    {
+      "question": "A reading teacher sees positive effects in the use of various sections of a newspaper. In what way does the use of the newspaper affect the students?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Provides for meeting pupils' different interests"
+        },
+        {
+          "correct": false,
+          "text": "Strengthens learning skills"
+        },
+        {
+          "correct": false,
+          "text": "Contributes to pupils' understanding"
+        },
+        {
+          "correct": false,
+          "text": "Reinforces learning experiences"
+        }
+      ]
+    },
+    {
+      "question": "The steps of the goal-oriented instructional model arranged in order include",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "pre-assessment, specification of objectives, instruction, evaluation"
+        },
+        {
+          "correct": false,
+          "text": "specification of objectives, instruction, pre-assessment, eavluation"
+        },
+        {
+          "correct": false,
+          "text": "pre-assessment, specification of objectives, motivation, instruction"
+        },
+        {
+          "correct": false,
+          "text": "specification of objectives, pre-assessment, instruction, evaluation"
+        }
+      ]
+    },
+    {
+      "question": "Teacher Grace raises her eyebrows and titls her head to warn John who talks while she lectures. Which classroom control technique is she using?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Proximity Control"
+        },
+        {
+          "correct": false,
+          "text": "Planned Ignoring"
+        },
+        {
+          "correct": false,
+          "text": "Direct Appeal"
+        },
+        {
+          "correct": true,
+          "text": "Signal Interference"
+        }
+      ]
+    },
+    {
+      "question": "An effective classroom manager uses low-profile classroom-control. Which is a low-profile classroom technique?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Note to parents"
+        },
+        {
+          "correct": false,
+          "text": "After-school detention"
+        },
+        {
+          "correct": false,
+          "text": "Withdrawal of priviledge"
+        },
+        {
+          "correct": true,
+          "text": "Raising the pitch of voice"
+        }
+      ]
+    },
+    {
+      "question": "Instructional objectives should tell one who is to perform the desired behavior, the actual desired behavior, the result, the relevant conditions under which the behavior is performed and",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "the test items to be used in evaluating the objectives"
+        },
+        {
+          "correct": false,
+          "text": "the materials and references to be used"
+        },
+        {
+          "correct": false,
+          "text": "the criteria to be followed in carrying out the lesson"
+        },
+        {
+          "correct": true,
+          "text": "the criteria to be used in evaluating the success of the performance"
+        }
+      ]
+    },
+    {
+      "question": "The effective teacher manages routine and transition with a minimum of disturbance primarily to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "spare more time for instructional planning"
+        },
+        {
+          "correct": false,
+          "text": "abide by the Faculty Handbook"
+        },
+        {
+          "correct": false,
+          "text": "correct misbehaving pupils"
+        },
+        {
+          "correct": true,
+          "text": "increase academic learning time"
+        }
+      ]
+    },
+    {
+      "question": "Which is a proactive management practice?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Tell them that you enforce the rules on everyone, no exception."
+        },
+        {
+          "correct": true,
+          "text": "Set and clarify your rules and expectations on Day 1."
+        },
+        {
+          "correct": false,
+          "text": "Punish the misbehaving students in the presence of their classmates."
+        },
+        {
+          "correct": false,
+          "text": "Stress on penalty for every violation."
+        }
+      ]
+    },
+    {
+      "question": "Teacher Chona established opening routines in her class. She does not waste time in engaging her students to work immediately. Her students are engaged throughout the period. What is exemplified in this situation?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "Well-planned program of activities"
+        },
+        {
+          "correct": false,
+          "text": "Constant seat work"
+        },
+        {
+          "correct": false,
+          "text": "Sufficient seat work"
+        },
+        {
+          "correct": false,
+          "text": "Uniform discipline"
+        }
+      ]
+    },
+    {
+      "question": "Researches conducted show that teacher's expectations of students often become self-fulfilling prophecies. What is this phenomenon called?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ripple effect"
+        },
+        {
+          "correct": false,
+          "text": "Hawthorne effect"
+        },
+        {
+          "correct": true,
+          "text": "Pygmalion effect"
+        },
+        {
+          "correct": false,
+          "text": "Halo effect"
+        }
+      ]
+    },
+    {
+      "question": "An industrial arts teacher is very strict in the classroom, yet he smokes inside the room whenever he wants to. His students even see him with his \"barkada\" drinking liquor in public places. If you were the principal, how would you deal with him?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Explain to the students that smoking is bad for young people but not to adults."
+        },
+        {
+          "correct": false,
+          "text": "Be tolerant about his behavior for it is only a manifestation of \"pakikisama\""
+        },
+        {
+          "correct": false,
+          "text": "Express disapproval in writing the unbecoming behavior of the teacher."
+        },
+        {
+          "correct": true,
+          "text": "Talk with him about the importance of being consistent on actions and in the rules of discipline enforced in the classroom."
+        }
+      ]
+    },
+    {
+      "question": "As a classroom manager, how can you exhibit expert power on the first day of school?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "By citing to my students the importance of good grades."
+        },
+        {
+          "correct": false,
+          "text": "By making my students feel my authority over them."
+        },
+        {
+          "correct": false,
+          "text": "By making them feel a sense of belongingness and acceptance."
+        },
+        {
+          "correct": true,
+          "text": "By making my students feel I know what I am talking about."
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements best manifests the teacher-student relationship regarding corporal punishment?",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": true,
+          "text": "A teacher should not inflict corporal punishment on offending students for acts that are clearly not manifestations of poor achievement."
+        },
+        {
+          "correct": false,
+          "text": "It is alright to inflict corporal punishment on offending students whose parents may agree to make up in any form of misdemeanor done by their children."
+        },
+        {
+          "correct": false,
+          "text": "A teacher may not inflict corporal punishment on offending students&nbsp;whose parents may agree to make up in any form of misdemeanor done by their children."
+        },
+        {
+          "correct": false,
+          "text": "A teacher may inflict corporal punishment on offending students whose parents have an agreement with the teacher."
+        }
+      ]
+    },
+    {
+      "question": "A new boy in your class has been a headache of many teachers in your school. His aggression is shown through fighting, quarreling, arguing, teasing or bullying. The best things for you to do first is to",
+      "answers": 1,
+      "choices": [
+        {
+          "correct": false,
+          "text": "Call his parents for a conference and solicit their cooperation in changing his behavior."
+        },
+        {
+          "correct": true,
+          "text": "Assess his needs and determine possible causes of his behavior."
+        },
+        {
+          "correct": false,
+          "text": "Ask the cooperation of his classmate by telling them to not fight back."
+        },
+        {
+          "correct": false,
+          "text": "Punish him immediately after his misbehavior."
+        }
+      ]
+    }
+  ],
+  "timestamp": 1407426920878
+}
