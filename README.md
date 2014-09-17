@@ -8,3 +8,13 @@ A simple self-review quiz maker. Works in a local machine without a stack.
   * It is by design. Keep in mind that this is made for the sole purpose of self-review, it is up to the quiz taker if he/she decides to cheat.
 2. __Where's the documentation?__
   * Sorry about that. I haven't been able to find time to write docs, I'll update this as soon as possible.
+  
+### Editor Keybindings
+
+Some keybindings for the quiz editor.
+
+|Key|Command|
+|---|-------|
+|<kbd>shift</kbd> + <kbd>&darr;</kbd>|add item below|
+|<kbd>shift</kbd> + <kbd>&uarr;</kbd>|add item above|
+|<kbd>shift</kbd> + <kbd>&rarr;</kbd>|add choice|
